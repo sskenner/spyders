@@ -12,4 +12,8 @@ class JobsSpider(scrapy.Spider):
     	jobs = response.xpath('//p[@class="result-info"]')
     	for job in jobs:
     		title = job.xpath('a/text()').extract_first()
-    		yield{'Title':title}
+    		address = job.xpath('span[@class="result-meta"]/span[@class="result-hood"]/text()').extract_first("")[2:-1]
+    		relative_url = job.xpath('a/@href').extract_first()
+    		absolute_url = response.urljoin(relative_url)
+
+    		yield{'URL':absolute_url, 'Title':title, 'Address':address}
