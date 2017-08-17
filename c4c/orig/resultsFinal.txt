@@ -1,0 +1,1105 @@
+[
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add ...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+,
+    {
+        "cacheId": "xwvcZPHOGWkJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../506b79db-9cde-4561-8465-d9d3d938d03e",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../506b79db-9cde-4561-8465-d9d3d938d03e",
+        "htmlSnippet": "As a <b>Junior</b> Brand Designer, you aspire to embody the design team&#39;s mission, ... <br>\ndynamic work environment and are comfortable being productive in a <b>remote</b> or&nbsp;...",
+        "htmlTitle": "Creative Market - <b>Junior</b> Brand Designer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/creativemarket/506b79db-9cde-4561-8465-d9d3d938d03e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/8aa36117-4e98-402f-840a-de3de20f2942-1495061536581.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "116",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXPwUOeyzXjbDS69phkiz_gbOZ5WjEEgG86yngNrWnie3fk1RK11tA4Q",
+                    "width": "300"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Overview Creative Market is the platform where independent creators around the world buy and sell digital design assets. Our mission is to help creators around the world turn passion into opportunity. As a Brand Designer, you will help make this mission a reality by creating strategic visual work that embodies Creative Market’s brand system, sets our shop owners up for success, and inspires our community. You will collaborate with marketers, designers, community and support managers, and researchers on the entire project lifecycle. You will produce both small tests and larger projects aimed at increasing our MoM growth rate and increasing user acquisition, activation, and retention. Design Team Member As a Junior Brand Designer, you aspire to embody the design team’s mission, vision, and principles. These should be reflected in all aspects of your work. You live & breathe great brand design thinking and visual execution and are passionate about improving our visual design system. You",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/8aa36117-4e98-402f-840a-de3de20f2942-1495061536581.png",
+                    "og:image:height": "200",
+                    "og:title": "Creative Market - Junior Brand Designer",
+                    "og:url": "https://jobs.lever.co/creativemarket/506b79db-9cde-4561-8465-d9d3d938d03e",
+                    "twitter:description": "Overview Creative Market is the platform where independent creators around the world buy and sell digital design assets. Our mission is to help creators around the world turn passion into opportunity. As a Brand Designer, you will help make this mission a reality by creating strategic visual work that embodies Creative Market’s brand system, sets our shop owners up for success, and inspires our community. You will collaborate with marketers, designers, community and support managers, and researchers on the entire project lifecycle. You will produce both small tests and larger projects aimed at increasing our MoM growth rate and increasing user acquisition, activation, and retention. Design Team Member As a Junior Brand Designer, you aspire to embody the design team’s mission, vision, and principles. These should be reflected in all aspects of your work. You live & breathe great brand design thinking and visual execution and are passionate about improving our visual design system. You",
+                    "twitter:title": "Creative Market - Junior Brand Designer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "As a Junior Brand Designer, you aspire to embody the design team's mission, ... \ndynamic work environment and are comfortable being productive in a remote or ...",
+        "title": "Creative Market - Junior Brand Designer"
+    }
+,
+    {
+        "cacheId": "0nBXzOxK8wIJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../78958490-2227-44f8-8f07-6f0bb6fd560c",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../78958490-2227-44f8-8f07-6f0bb6fd560c",
+        "htmlSnippet": "<b>Remote</b> (Up to 30% Travel) ... The WFC Group&#39;s <b>Junior</b> WFM Implementation <br>\nConsultants will work closely with our clients both domestically and <br>\ninternationally&nbsp;...",
+        "htmlTitle": "The WFC Group - <b>Junior</b> Implementation Consultant (No Experience ...",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/thewfcgroup/78958490-2227-44f8-8f07-6f0bb6fd560c",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/a5e141d6-6ffa-4afe-b046-c4aabcdc6a2f-1498052149041.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "84",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOMQUf6BA3U_zZFqhdztzurK4UZdXhwB7bk0GSI0Gj6-Xg6zsvz4Qash4",
+                    "width": "600"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "After extensive orientation, training and job shadowing, The WFC Group’s Junior WFM Implementation Consultants will work closely with our clients both domestically and internationally to implement customized workforce management solutions and provide high level functional and technical support both remotely and in person. This position operates mainly in the Kronos Workforce Central or Workforce Ready environments and is responsible for the successful design, configuration, modification, development, and delivery of the application.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/a5e141d6-6ffa-4afe-b046-c4aabcdc6a2f-1498052149041.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "The WFC Group - Junior Implementation Consultant (No Experience Necessary)",
+                    "og:url": "https://jobs.lever.co/thewfcgroup/78958490-2227-44f8-8f07-6f0bb6fd560c",
+                    "twitter:description": "After extensive orientation, training and job shadowing, The WFC Group’s Junior WFM Implementation Consultants will work closely with our clients both domestically and internationally to implement customized workforce management solutions and provide high level functional and technical support both remotely and in person. This position operates mainly in the Kronos Workforce Central or Workforce Ready environments and is responsible for the successful design, configuration, modification, development, and delivery of the application.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/a5e141d6-6ffa-4afe-b046-c4aabcdc6a2f-1498052249504.png",
+                    "twitter:title": "The WFC Group - Junior Implementation Consultant (No Experience Necessary)",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Remote (Up to 30% Travel) ... The WFC Group's Junior WFM Implementation \nConsultants will work closely with our clients both domestically and \ninternationally ...",
+        "title": "The WFC Group - Junior Implementation Consultant (No Experience ..."
+    }
+,
+    {
+        "cacheId": "A6R4qkOedMwJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../c54f473a-17ec-4b73-9fb7-d1785fe6de7a",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../c54f473a-17ec-4b73-9fb7-d1785fe6de7a",
+        "htmlSnippet": "This position is specifically a <b>remote</b> role. ... Be a technical expert that coaches <br>\nand trains <b>junior</b> members of the engineering team; Keep your team unblocked <br>\nby&nbsp;...",
+        "htmlTitle": "Bitnami - Senior Kubernetes Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/bitnami/c54f473a-17ec-4b73-9fb7-d1785fe6de7a",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/eb9682c0-542c-4863-95d3-68b516a08768-1470168978851.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "237",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSWjJgG121Tz3HaiTdXJUuS2QW6KTul83DhqENU2dSXfP81-xDshhTd07K",
+                    "width": "212"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "This position is specifically a remote role. Want more insight on what it's like to be a part of a distributed team at Bitnami? Take a look at this article, written by our Director of Engineering, Victor Tuson Palau. Bitnami is on a mission to bring awesome applications on every platform to everyone. We’re looking for an experienced Senior Engineer to lead development of some of the most exciting open source Kubernetes-related tools being developed today. You will be working alongside developers who, prior to Bitnami, had been building critical infrastructure software at Google, AWS and Canonical, among other companies. You will work on a variety of Kubernetes projects, using Golang and as part of a high-performance distributed team. This includes projects such as: - kubeless - Bitnami’s Kubernetes-native serverless solution (https://github.com/kubeless) - monocular - The application launcher for Helm (https://github.com/helm/monocular/) - ksonnet - The new configuration and de",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/eb9682c0-542c-4863-95d3-68b516a08768-1470168978851.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Bitnami - Senior Kubernetes Engineer",
+                    "og:url": "https://jobs.lever.co/bitnami/c54f473a-17ec-4b73-9fb7-d1785fe6de7a",
+                    "twitter:description": "This position is specifically a remote role. Want more insight on what it's like to be a part of a distributed team at Bitnami? Take a look at this article, written by our Director of Engineering, Victor Tuson Palau. Bitnami is on a mission to bring awesome applications on every platform to everyone. We’re looking for an experienced Senior Engineer to lead development of some of the most exciting open source Kubernetes-related tools being developed today. You will be working alongside developers who, prior to Bitnami, had been building critical infrastructure software at Google, AWS and Canonical, among other companies. You will work on a variety of Kubernetes projects, using Golang and as part of a high-performance distributed team. This includes projects such as: - kubeless - Bitnami’s Kubernetes-native serverless solution (https://github.com/kubeless) - monocular - The application launcher for Helm (https://github.com/helm/monocular/) - ksonnet - The new configuration and de",
+                    "twitter:title": "Bitnami - Senior Kubernetes Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "This position is specifically a remote role. ... Be a technical expert that coaches \nand trains junior members of the engineering team; Keep your team unblocked \nby ...",
+        "title": "Bitnami - Senior Kubernetes Engineer"
+    }
+,
+    {
+        "cacheId": "IT1rnCcwg1MJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../3d4fa9be-d27a-4345-83c0-0c103d64c515",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../3d4fa9be-d27a-4345-83c0-0c103d64c515",
+        "htmlSnippet": "Whilst this is a <b>junior</b> role working <b>remotely</b>, the successful candidate will be <br>\nworking closely with global staff where you&#39;ll have exposure to the challenges&nbsp;...",
+        "htmlTitle": "Megaport - Network Services Specialist",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/megaport/3d4fa9be-d27a-4345-83c0-0c103d64c515",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1446134489701.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "110",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA6_jsD4FDn_gtfwP76njVthKOlpJEULSNSCdZub6qPv8a2B3NS0pKh1A",
+                    "width": "458"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "About Megaport Headquartered in Brisbane, Megaport pioneered the world’s first SDN-based neutral fabric in order to change the way enterprises connect to services. Our vision is to enable services and users to connect over an elastic, SDN based, ubiquitous Ethernet fabric allowing our customers wider coverage, speed to market while reducing costs and enabling real-time provisioning across one platform. The high demand from interconnects and the need for a change in bandwidth acquisition, has pushed Megaport’s global rollout into 25 new markets. The Team We’re looking for talented people to help drive our global expansion to achieve greater reach, across global markets. We’re pioneering exciting areas of networking, including next generation services, elastic bandwidth solutions, cloud services integration, full service delivery automation, total network automation, and Software Defined Network development. Our globally placed team continually strive for innovation, diversity anda cu",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1446134489701.png",
+                    "og:image:height": "200",
+                    "og:title": "Megaport - Network Services Specialist",
+                    "og:url": "https://jobs.lever.co/megaport/3d4fa9be-d27a-4345-83c0-0c103d64c515",
+                    "twitter:description": "About Megaport Headquartered in Brisbane, Megaport pioneered the world’s first SDN-based neutral fabric in order to change the way enterprises connect to services. Our vision is to enable services and users to connect over an elastic, SDN based, ubiquitous Ethernet fabric allowing our customers wider coverage, speed to market while reducing costs and enabling real-time provisioning across one platform. The high demand from interconnects and the need for a change in bandwidth acquisition, has pushed Megaport’s global rollout into 25 new markets. The Team We’re looking for talented people to help drive our global expansion to achieve greater reach, across global markets. We’re pioneering exciting areas of networking, including next generation services, elastic bandwidth solutions, cloud services integration, full service delivery automation, total network automation, and Software Defined Network development. Our globally placed team continually strive for innovation, diversity anda cu",
+                    "twitter:title": "Megaport - Network Services Specialist",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Whilst this is a junior role working remotely, the successful candidate will be \nworking closely with global staff where you'll have exposure to the challenges ...",
+        "title": "Megaport - Network Services Specialist"
+    }
+,
+    {
+        "cacheId": "Bw95M7DECHIJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../99ba5486-307f-4e4d-8ed6-8f403ef41b65",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../99ba5486-307f-4e4d-8ed6-8f403ef41b65",
+        "htmlSnippet": "Although we offer and even encourage <b>remote</b> work, proximity to Springfield, <br>\nMissouri is an important factor to us with this position. Priority will be given to <br>\nthose&nbsp;...",
+        "htmlTitle": "BriteCore - Software Architect",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/britecore.com/99ba5486-307f-4e4d-8ed6-8f403ef41b65",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455044619331.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "107",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl1NZtx9JYHHYEHkLfct69q31c4yzFM0nPrLd9ktn8MGTLpPA6s3S7VlI",
+                    "width": "472"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Do people often come to you for advice when solving challenging programming or infrastructure problems? Do you love designing simple yet robust solutions for complex problems? If so, we may have the perfect opportunity for you here at BriteCore. We're currently looking for a Software Architect to join our team. In this position, you will be working across globally distributed teams and companies to help define, design, and guide the development of solutions for complex problems. You'll also help develop overarching architectural paradigms for use across teams and projects. Additionally, you'll serve as the glue between technical and non-technical team members and clients to help ensure well designed solutions are produced every time. The ideal candidate has an extremely analytical mind, great programming skills, a broad knowledge of available technologies, excellent people and writing skills, and several years prior experience in designing, developing, and maintaining complex web app",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455044619331.png",
+                    "og:image:height": "200",
+                    "og:title": "BriteCore - Software Architect",
+                    "og:url": "https://jobs.lever.co/britecore.com/99ba5486-307f-4e4d-8ed6-8f403ef41b65",
+                    "twitter:description": "Do people often come to you for advice when solving challenging programming or infrastructure problems? Do you love designing simple yet robust solutions for complex problems? If so, we may have the perfect opportunity for you here at BriteCore. We're currently looking for a Software Architect to join our team. In this position, you will be working across globally distributed teams and companies to help define, design, and guide the development of solutions for complex problems. You'll also help develop overarching architectural paradigms for use across teams and projects. Additionally, you'll serve as the glue between technical and non-technical team members and clients to help ensure well designed solutions are produced every time. The ideal candidate has an extremely analytical mind, great programming skills, a broad knowledge of available technologies, excellent people and writing skills, and several years prior experience in designing, developing, and maintaining complex web app",
+                    "twitter:title": "BriteCore - Software Architect",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Although we offer and even encourage remote work, proximity to Springfield, \nMissouri is an important factor to us with this position. Priority will be given to \nthose ...",
+        "title": "BriteCore - Software Architect"
+    }
+,
+    {
+        "cacheId": "Kk01TWHhyOQJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../85a37045-239f-4100-b4ca-54fa3ce79a28",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../85a37045-239f-4100-b4ca-54fa3ce79a28",
+        "htmlSnippet": "Our downtown office is equipped with secure, street-level bike storage. We are a <br>\nsupportive environment with flexible hours and options for <b>remote</b> working.",
+        "htmlTitle": "Semaphore - <b>Junior</b> Software Developer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/semaphoresolutions/85a37045-239f-4100-b4ca-54fa3ce79a28",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/b0677256-76d9-4ff1-a407-ab7b583b77a7-1500059007859.png"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Semaphore values mentorship. We provide the autonomy and support you need to achieve your professional goals. In return, we expect that you will ask for help when needed, and contribute your own unique perspective to all our discussions. We’re looking for someone who enjoys contributing to a team, mastering their craft, and embracing their inner nerd.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/b0677256-76d9-4ff1-a407-ab7b583b77a7-1500059007859.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Semaphore - Junior Software Developer",
+                    "og:url": "https://jobs.lever.co/semaphoresolutions/85a37045-239f-4100-b4ca-54fa3ce79a28",
+                    "twitter:description": "Semaphore values mentorship. We provide the autonomy and support you need to achieve your professional goals. In return, we expect that you will ask for help when needed, and contribute your own unique perspective to all our discussions. We’re looking for someone who enjoys contributing to a team, mastering their craft, and embracing their inner nerd.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/b0677256-76d9-4ff1-a407-ab7b583b77a7-1500059048472.png",
+                    "twitter:title": "Semaphore - Junior Software Developer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Our downtown office is equipped with secure, street-level bike storage. We are a \nsupportive environment with flexible hours and options for remote working.",
+        "title": "Semaphore - Junior Software Developer"
+    }
+,
+    {
+        "cacheId": "2zorKnKE6cUJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../223f9d69-1f79-4626-818d-964146172378",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../223f9d69-1f79-4626-818d-964146172378",
+        "htmlSnippet": "NET Framework, HTML/JavaScript, SQL; Job Location: Farmington Hills, MI USA; <br>\nMust be onside for first 6-12 months; <b>remote</b> options can be explored thereafter&nbsp;...",
+        "htmlTitle": "X by 2 - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/xby2/223f9d69-1f79-4626-818d-964146172378",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f394b460-4511-40ad-956d-ee5434f298cf-1495717758156.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "131",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYG6dpga94TWp--X2T3ZCZSwyaK2WPnV8BIXDatCTpX3tYPzW2WmSRyOz2",
+                    "width": "386"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "X by 2 is a team of software architecture specialists, bilingual in business and technology, who set the standard for architecture excellence in the insurance and healthcare industries. Careers with X by 2 offer rapid growth, constant learning, and the immediate chance to make an impact. From day one at X by 2, you'll be working side-by-side with our senior architects, contributing to high-impact projects and meeting with our clients face-to-face. It’s a true meritocracy – fueled by a diversity of backgrounds, cultures, and experiences.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f394b460-4511-40ad-956d-ee5434f298cf-1495717758156.png",
+                    "og:image:height": "200",
+                    "og:title": "X by 2 - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/xby2/223f9d69-1f79-4626-818d-964146172378",
+                    "twitter:description": "X by 2 is a team of software architecture specialists, bilingual in business and technology, who set the standard for architecture excellence in the insurance and healthcare industries. Careers with X by 2 offer rapid growth, constant learning, and the immediate chance to make an impact. From day one at X by 2, you'll be working side-by-side with our senior architects, contributing to high-impact projects and meeting with our clients face-to-face. It’s a true meritocracy – fueled by a diversity of backgrounds, cultures, and experiences.",
+                    "twitter:title": "X by 2 - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "NET Framework, HTML/JavaScript, SQL; Job Location: Farmington Hills, MI USA; \nMust be onside for first 6-12 months; remote options can be explored thereafter ...",
+        "title": "X by 2 - Junior Software Engineer"
+    }
+,
+    {
+        "cacheId": "iIGtLlGVLt8J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/thewfcgroup",
+        "htmlFormattedUrl": "https://jobs.lever.co/thewfcgroup",
+        "htmlSnippet": "<b>Remote</b> (Up to 30% Travel)Consulting Services TeamFull Time (W2) or 1099 <br>\nContract &middot; Apply ... <b>Junior</b> Implementation Consultant (No Experience Necessary).",
+        "htmlTitle": "The WFC Group",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/thewfcgroup",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/a5e141d6-6ffa-4afe-b046-c4aabcdc6a2f-1498052149041.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "84",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOMQUf6BA3U_zZFqhdztzurK4UZdXhwB7bk0GSI0Gj6-Xg6zsvz4Qash4",
+                    "width": "600"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Job openings at The WFC Group",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/a5e141d6-6ffa-4afe-b046-c4aabcdc6a2f-1498052149041.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "The WFC Group jobs",
+                    "og:url": "https://jobs.lever.co/thewfcgroup",
+                    "twitter:description": "Job openings at The WFC Group",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/a5e141d6-6ffa-4afe-b046-c4aabcdc6a2f-1498052249504.png",
+                    "twitter:title": "The WFC Group",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Remote (Up to 30% Travel)Consulting Services TeamFull Time (W2) or 1099 \nContract · Apply ... Junior Implementation Consultant (No Experience Necessary).",
+        "title": "The WFC Group"
+    }
+,
+    {
+        "cacheId": "T-aJvC6_oJAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../7c081e18-d33b-46ae-b122-03dd5a590ea6",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../7c081e18-d33b-46ae-b122-03dd5a590ea6",
+        "htmlSnippet": "Take genuine interest in the development of <b>junior</b> marketing staff and ... The <br>\nLinux Foundation is a largely all-<b>remote</b> workforce that hires top-notch talent.",
+        "htmlTitle": "The Linux Foundation - Director of Marketing",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/linuxfoundation.org/7c081e18-d33b-46ae-b122-03dd5a590ea6",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/8de8cce1-db5c-47ac-b756-7878afc1e85d-1476926396403.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "124",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkvuEJVtQazUvTXYXkdiHJ-KQwDVKQxGTdsBQx4Y2BD1UkoQPB57q_g",
+                    "width": "408"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Linux Foundation Overview The Linux Foundation is creating the greatest shared technology investment in history by enabling open source collaboration across companies, developers and users. We are the organization of choice to build ecosystems that accelerate open technology development and commercial adoption. Cloud Native Computing Foundation Overview Cloud Native Computing Foundation is creating and driving the adoption of a new computing paradigm that is optimized for modern distributed systems environments capable of scaling to tens of thousands of healing multi-tenant nodes. Cloud native systems will be containerized, dynamically orchestrated and microservices-oriented. CNCF currently hosts Kubernetes, Prometheus, OpenTracing, fluentd, linkerd, gRPC, CoreDNS, containerd, rkt and CNI. For more information: https://www.cncf.io/. Position Overview The Linux Foundation is looking for a Director of Marketing to develop and execute on strategic marketing initiatives to support CNCF",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/8de8cce1-db5c-47ac-b756-7878afc1e85d-1476926396403.png",
+                    "og:image:height": "200",
+                    "og:title": "The Linux Foundation - Director of Marketing",
+                    "og:url": "https://jobs.lever.co/linuxfoundation.org/7c081e18-d33b-46ae-b122-03dd5a590ea6",
+                    "twitter:description": "Linux Foundation Overview The Linux Foundation is creating the greatest shared technology investment in history by enabling open source collaboration across companies, developers and users. We are the organization of choice to build ecosystems that accelerate open technology development and commercial adoption. Cloud Native Computing Foundation Overview Cloud Native Computing Foundation is creating and driving the adoption of a new computing paradigm that is optimized for modern distributed systems environments capable of scaling to tens of thousands of healing multi-tenant nodes. Cloud native systems will be containerized, dynamically orchestrated and microservices-oriented. CNCF currently hosts Kubernetes, Prometheus, OpenTracing, fluentd, linkerd, gRPC, CoreDNS, containerd, rkt and CNI. For more information: https://www.cncf.io/. Position Overview The Linux Foundation is looking for a Director of Marketing to develop and execute on strategic marketing initiatives to support CNCF",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/8de8cce1-db5c-47ac-b756-7878afc1e85d-1477001072730.png",
+                    "twitter:title": "The Linux Foundation - Director of Marketing",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Take genuine interest in the development of junior marketing staff and ... The \nLinux Foundation is a largely all-remote workforce that hires top-notch talent.",
+        "title": "The Linux Foundation - Director of Marketing"
+    }
+,
+    {
+        "cacheId": "vCc0u-V5J4AJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/sevone/c5ec2000-fa3c-4edf-9c24-4a3803e953b9",
+        "htmlFormattedUrl": "https://jobs.lever.co/sevone/c5ec2000-fa3c-4edf-9c24-4a3803e953b9",
+        "htmlSnippet": "United States - <b>Remote</b> ... Is comfortable working for a small company in a <b>remote</b><br>\n/work at home office ... Ability to mentor and guide more <b>junior</b> team members.",
+        "htmlTitle": "SevOne - Solution Architect, Professional Services",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/sevone/c5ec2000-fa3c-4edf-9c24-4a3803e953b9",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455300669917.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "123",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtN7e5hjad1dRHcmZIvSSaPsKdyFRTy_UxuHKg5Bu1FM3kwcOFhCZsA",
+                    "width": "410"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "The SevOne Solution Architect is a seasoned professional who has extensive business and technical experience in the delivery of high-value, IP-based, network management solutions within telecommunications service providers and large enterprise customers. This position requires someone who displays strong knowledge in a number of technologies, can operate under minimal supervision, is a self-motivated, fast learner, and is highly competent in leading the design and deployment of software solutions in complex customer environments. The role is territory based and may involve travel as much as 50%. Where required the candidate may need to assist with opportunities outside their assigned territory. Territory will be US wide; location within US is flexible.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455300669917.png",
+                    "og:image:height": "200",
+                    "og:title": "SevOne - Solution Architect, Professional Services",
+                    "og:url": "https://jobs.lever.co/sevone/c5ec2000-fa3c-4edf-9c24-4a3803e953b9",
+                    "twitter:description": "The SevOne Solution Architect is a seasoned professional who has extensive business and technical experience in the delivery of high-value, IP-based, network management solutions within telecommunications service providers and large enterprise customers. This position requires someone who displays strong knowledge in a number of technologies, can operate under minimal supervision, is a self-motivated, fast learner, and is highly competent in leading the design and deployment of software solutions in complex customer environments. The role is territory based and may involve travel as much as 50%. Where required the candidate may need to assist with opportunities outside their assigned territory. Territory will be US wide; location within US is flexible.",
+                    "twitter:title": "SevOne - Solution Architect, Professional Services",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "United States - Remote ... Is comfortable working for a small company in a remote\n/work at home office ... Ability to mentor and guide more junior team members.",
+        "title": "SevOne - Solution Architect, Professional Services"
+    }
+,
+    {
+        "cacheId": "y1mBZxo5XwYJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/symphonycommerce",
+        "htmlFormattedUrl": "https://jobs.lever.co/symphonycommerce",
+        "htmlSnippet": "Senior Director of Sales. <b>Remote</b>Business Development/SalesFull-time &middot; Apply &middot; <br>\nSenior Director of Sales (Central Region). Central, <b>Remote</b>Business&nbsp;...",
+        "htmlTitle": "Symphony Commerce",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/symphonycommerce",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/17bab5ef-4525-475f-a91d-c25aa72fadbf-1486159186384.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "194",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2FdqpI8aeBK-m9ekzAmyCnm8RzgVMOrAxKfOLHTmptl9FU7J917XSiNRl",
+                    "width": "259"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Job openings at Symphony Commerce",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/17bab5ef-4525-475f-a91d-c25aa72fadbf-1486159186384.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Symphony Commerce jobs",
+                    "og:url": "https://jobs.lever.co/symphonycommerce",
+                    "twitter:description": "Job openings at Symphony Commerce",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/17bab5ef-4525-475f-a91d-c25aa72fadbf-1486159201272.png",
+                    "twitter:title": "Symphony Commerce",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Senior Director of Sales. RemoteBusiness Development/SalesFull-time · Apply · \nSenior Director of Sales (Central Region). Central, RemoteBusiness ...",
+        "title": "Symphony Commerce"
+    }
+,
+    {
+        "cacheId": "4GuLqohXYcUJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../0b009ddb-9e7e-4b93-939f-2713f173e725",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../0b009ddb-9e7e-4b93-939f-2713f173e725",
+        "htmlSnippet": "Just like any <b>junior</b> associate in private practice, you will work long hours, <br>\nincluding ... This position requires you to work from a home office as it is fully-<br>\n<b>remote</b>.",
+        "htmlTitle": "Superior Executive Legal Recruiting - Associate Attorney",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/superiorexecutiveandlegalrecruiting/0b009ddb-9e7e-4b93-939f-2713f173e725",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:description": "New and innovative plaintiff-side litigation law firm practicing throughout New York, and potentially the tristate area, seeks an Associate Attorney who is a member of the bar. New and Innovative plaintiff-side law firm practicing throughout New York, and potentially tristate area, seeks an Associate Attorney. The firm is strongly focused on protecting workers’ rights related to all labor and employment claims. The firm represents workers whose former employers violated their state or federal rights, including unpaid wages, discrimination and wrongful termination. The firm will be strongly focused on protecting workers’ rights related to wage and hour claims and labor code violations. Experience in employment law is preferred, but not required. This is the perfect opportunity for someone who is early in their career or newly licensed and looking to learn a viable practice area that has career longevity. Please apply if you are a qualified member of the New York Bar. The firm will",
+                    "og:image:height": "200",
+                    "og:title": "Superior Executive Legal Recruiting - Associate Attorney",
+                    "og:url": "https://jobs.lever.co/superiorexecutiveandlegalrecruiting/0b009ddb-9e7e-4b93-939f-2713f173e725",
+                    "twitter:description": "New and innovative plaintiff-side litigation law firm practicing throughout New York, and potentially the tristate area, seeks an Associate Attorney who is a member of the bar. New and Innovative plaintiff-side law firm practicing throughout New York, and potentially tristate area, seeks an Associate Attorney. The firm is strongly focused on protecting workers’ rights related to all labor and employment claims. The firm represents workers whose former employers violated their state or federal rights, including unpaid wages, discrimination and wrongful termination. The firm will be strongly focused on protecting workers’ rights related to wage and hour claims and labor code violations. Experience in employment law is preferred, but not required. This is the perfect opportunity for someone who is early in their career or newly licensed and looking to learn a viable practice area that has career longevity. Please apply if you are a qualified member of the New York Bar. The firm will",
+                    "twitter:title": "Superior Executive Legal Recruiting - Associate Attorney",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Just like any junior associate in private practice, you will work long hours, \nincluding ... This position requires you to work from a home office as it is fully-\nremote.",
+        "title": "Superior Executive Legal Recruiting - Associate Attorney"
+    }
+,
+    {
+        "cacheId": "DAToDv6WVkwJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/reputation",
+        "htmlFormattedUrl": "https://jobs.lever.co/reputation",
+        "htmlSnippet": "<b>Junior</b> Staff Accountant. Redwood City, CAFinanceFull-time &middot; Apply &middot; <b>Junior</b> Staff <br>\nAccountant. Tempe, AZFinanceFull-time &middot; Apply&nbsp;...",
+        "htmlTitle": "Reputation.com",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/reputation",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1444242589080.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "89",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm7Z8467usnmVqLJKskOOfxSKSociyFgRnimAeL9ivACt1jHO7JC5_fg",
+                    "width": "565"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Job openings at Reputation.com",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1444242589080.png",
+                    "og:image:height": "200",
+                    "og:title": "Reputation.com jobs",
+                    "og:url": "https://jobs.lever.co/reputation",
+                    "twitter:description": "Job openings at Reputation.com",
+                    "twitter:title": "Reputation.com",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Staff Accountant. Redwood City, CAFinanceFull-time · Apply · Junior Staff \nAccountant. Tempe, AZFinanceFull-time · Apply ...",
+        "title": "Reputation.com"
+    }
+,
+    {
+        "cacheId": "90tOvi2bk50J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../51a1ec55-ce71-4711-9ed4-54dd61ef1ec0",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../51a1ec55-ce71-4711-9ed4-54dd61ef1ec0",
+        "htmlSnippet": "This position is specifically a <b>remote</b> role. ... Uphold role as a technical expert that <br>\ncoaches and trains <b>junior</b> members of the engineering team; Keep your team&nbsp;...",
+        "htmlTitle": "Bitnami - Senior Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/bitnami/51a1ec55-ce71-4711-9ed4-54dd61ef1ec0",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/eb9682c0-542c-4863-95d3-68b516a08768-1470168978851.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "237",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSWjJgG121Tz3HaiTdXJUuS2QW6KTul83DhqENU2dSXfP81-xDshhTd07K",
+                    "width": "212"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "This position is specifically a remote role. Want more insight on what it's like to be a part of a distributed team at Bitnami? Take a look at this article, written by our own Director of Engineering, Victor Tuson Palau. Bitnami’s mission is to bring awesome software to everyone. Every month, 1MM+ developers come to our site to download and launch their favorite language runtimes and applications across all major public clouds and container platforms, including AWS, Google, Azure, VMware and Docker. We’re looking for an experienced Software Engineer to join a team focused on offering base technologies to developers. Our offerings range from turnkey solutions for components (such as multi-node deployment templates for databases, caching or message brokers) to trusted containers to base their applications from Node.JS , PHP or Python. The perfect person for this role has a developer and microservices background with extensive experience in database deployment configurations.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/eb9682c0-542c-4863-95d3-68b516a08768-1470168978851.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Bitnami - Senior Engineer",
+                    "og:url": "https://jobs.lever.co/bitnami/51a1ec55-ce71-4711-9ed4-54dd61ef1ec0",
+                    "twitter:description": "This position is specifically a remote role. Want more insight on what it's like to be a part of a distributed team at Bitnami? Take a look at this article, written by our own Director of Engineering, Victor Tuson Palau. Bitnami’s mission is to bring awesome software to everyone. Every month, 1MM+ developers come to our site to download and launch their favorite language runtimes and applications across all major public clouds and container platforms, including AWS, Google, Azure, VMware and Docker. We’re looking for an experienced Software Engineer to join a team focused on offering base technologies to developers. Our offerings range from turnkey solutions for components (such as multi-node deployment templates for databases, caching or message brokers) to trusted containers to base their applications from Node.JS , PHP or Python. The perfect person for this role has a developer and microservices background with extensive experience in database deployment configurations.",
+                    "twitter:title": "Bitnami - Senior Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "This position is specifically a remote role. ... Uphold role as a technical expert that \ncoaches and trains junior members of the engineering team; Keep your team ...",
+        "title": "Bitnami - Senior Engineer"
+    }
+,
+    {
+        "cacheId": "CtOu5mcRe9sJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../c5ec2000-fa3c-4edf-9c24-4a3803e953b9?...",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../c5ec2000-fa3c-4edf-9c24-4a3803e953b9?...",
+        "htmlSnippet": "United States - <b>Remote</b> ... Is comfortable working for a small company in a <b>remote</b><br>\n/work at home office ... Ability to mentor and guide more <b>junior</b> team members.",
+        "htmlTitle": "SevOne - Solution Architect, Professional Services",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/sevone/c5ec2000-fa3c-4edf-9c24-4a3803e953b9?lever-source=VentureFizz",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455300669917.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "123",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtN7e5hjad1dRHcmZIvSSaPsKdyFRTy_UxuHKg5Bu1FM3kwcOFhCZsA",
+                    "width": "410"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "The SevOne Solution Architect is a seasoned professional who has extensive business and technical experience in the delivery of high-value, IP-based, network management solutions within telecommunications service providers and large enterprise customers. This position requires someone who displays strong knowledge in a number of technologies, can operate under minimal supervision, is a self-motivated, fast learner, and is highly competent in leading the design and deployment of software solutions in complex customer environments. The role is territory based and may involve travel as much as 50%. Where required the candidate may need to assist with opportunities outside their assigned territory. Territory will be US wide; location within US is flexible.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455300669917.png",
+                    "og:image:height": "200",
+                    "og:title": "SevOne - Solution Architect, Professional Services",
+                    "og:url": "https://jobs.lever.co/sevone/c5ec2000-fa3c-4edf-9c24-4a3803e953b9",
+                    "twitter:description": "The SevOne Solution Architect is a seasoned professional who has extensive business and technical experience in the delivery of high-value, IP-based, network management solutions within telecommunications service providers and large enterprise customers. This position requires someone who displays strong knowledge in a number of technologies, can operate under minimal supervision, is a self-motivated, fast learner, and is highly competent in leading the design and deployment of software solutions in complex customer environments. The role is territory based and may involve travel as much as 50%. Where required the candidate may need to assist with opportunities outside their assigned territory. Territory will be US wide; location within US is flexible.",
+                    "twitter:title": "SevOne - Solution Architect, Professional Services",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "United States - Remote ... Is comfortable working for a small company in a remote\n/work at home office ... Ability to mentor and guide more junior team members.",
+        "title": "SevOne - Solution Architect, Professional Services"
+    }
+,
+    {
+        "cacheId": "RA6cvKb1USIJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../a3d25dc6-674e-477a-8bbb-e5cedf1e5a3d",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../a3d25dc6-674e-477a-8bbb-e5cedf1e5a3d",
+        "htmlSnippet": "... a way that <b>junior</b> engineers would understand and senior developers would <br>\nstill ... The job will be a part-time <b>remote</b> job, and you can write as much or as little<br>\n&nbsp;...",
+        "htmlTitle": "ReadMe.io - Developer Blogger",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/readme/a3d25dc6-674e-477a-8bbb-e5cedf1e5a3d",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/readme.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "117",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdA5b0m5HOGhABfvnDK3z6PL_R-pIxCcLsKmOVBFxoN7gnXQMhzQya8Q",
+                    "width": "431"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "We’re looking for a developer who loves to write! We’re searching for someone who is good at explaining complex topics in a way that junior engineers would understand and senior developers would still find engaging. If you can impart wisdom, clarify something complex and crack a joke in the same sentence… you’re what we’re looking for. The job will be a part-time remote job, and you can write as much or as little as you’d like. At first the medium will be blog posts, but we’d love to expand into content marketing sites, open source projects, and whatever else makes sense to help get the word out! (Please not that we're only looking for actual developers who like to write... we already have non-technical blog writers!)",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/readme.png",
+                    "og:image:height": "200",
+                    "og:title": "ReadMe.io - Developer Blogger",
+                    "og:url": "https://jobs.lever.co/readme/a3d25dc6-674e-477a-8bbb-e5cedf1e5a3d",
+                    "twitter:description": "We’re looking for a developer who loves to write! We’re searching for someone who is good at explaining complex topics in a way that junior engineers would understand and senior developers would still find engaging. If you can impart wisdom, clarify something complex and crack a joke in the same sentence… you’re what we’re looking for. The job will be a part-time remote job, and you can write as much or as little as you’d like. At first the medium will be blog posts, but we’d love to expand into content marketing sites, open source projects, and whatever else makes sense to help get the word out! (Please not that we're only looking for actual developers who like to write... we already have non-technical blog writers!)",
+                    "twitter:title": "ReadMe.io - Developer Blogger",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "... a way that junior engineers would understand and senior developers would \nstill ... The job will be a part-time remote job, and you can write as much or as little\n ...",
+        "title": "ReadMe.io - Developer Blogger"
+    }
+,
+    {
+        "cacheId": "7ZADAJus7y4J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/britecore.com/99ba5486-307f-4e4d.../apply",
+        "htmlFormattedUrl": "https://jobs.lever.co/britecore.com/99ba5486-307f-4e4d.../apply",
+        "htmlSnippet": "Software Architect. <b>Remote</b>. Software Architecture. Full-time. Submit your <br>\napplication. Resume/CV ✱. ATTACH RESUME/CV. Couldn&#39;t auto-read resume.",
+        "htmlTitle": "BriteCore - Software Architect",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/britecore.com/99ba5486-307f-4e4d-8ed6-8f403ef41b65/apply",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455044619331.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "107",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl1NZtx9JYHHYEHkLfct69q31c4yzFM0nPrLd9ktn8MGTLpPA6s3S7VlI",
+                    "width": "472"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Do people often come to you for advice when solving challenging programming or infrastructure problems? Do you love designing simple yet robust solutions for complex problems? If so, we may have the perfect opportunity for you here at BriteCore. We're currently looking for a Software Architect to join our team. In this position, you will be working across globally distributed teams and companies to help define, design, and guide the development of solutions for complex problems. You'll also help develop overarching architectural paradigms for use across teams and projects. Additionally, you'll serve as the glue between technical and non-technical team members and clients to help ensure well designed solutions are produced every time. The ideal candidate has an extremely analytical mind, great programming skills, a broad knowledge of available technologies, excellent people and writing skills, and several years prior experience in designing, developing, and maintaining complex web app",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1455044619331.png",
+                    "og:image:height": "200",
+                    "og:title": "BriteCore - Software Architect",
+                    "og:url": "https://jobs.lever.co/britecore.com/99ba5486-307f-4e4d-8ed6-8f403ef41b65/apply",
+                    "twitter:description": "Do people often come to you for advice when solving challenging programming or infrastructure problems? Do you love designing simple yet robust solutions for complex problems? If so, we may have the perfect opportunity for you here at BriteCore. We're currently looking for a Software Architect to join our team. In this position, you will be working across globally distributed teams and companies to help define, design, and guide the development of solutions for complex problems. You'll also help develop overarching architectural paradigms for use across teams and projects. Additionally, you'll serve as the glue between technical and non-technical team members and clients to help ensure well designed solutions are produced every time. The ideal candidate has an extremely analytical mind, great programming skills, a broad knowledge of available technologies, excellent people and writing skills, and several years prior experience in designing, developing, and maintaining complex web app",
+                    "twitter:title": "BriteCore - Software Architect",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Software Architect. Remote. Software Architecture. Full-time. Submit your \napplication. Resume/CV ✱. ATTACH RESUME/CV. Couldn't auto-read resume.",
+        "title": "BriteCore - Software Architect"
+    }
+,
+    {
+        "cacheId": "d4q_-abCnT8J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../3446c521-02eb-477f-8502-4ee00c5512e9",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../3446c521-02eb-477f-8502-4ee00c5512e9",
+        "htmlSnippet": "London, UK / <b>Remote</b> ... designing and architecting our current and next-<br>\ngeneration products, writing code, and mentoring more <b>junior</b> members of the <br>\nteam.",
+        "htmlTitle": "Big Health - Senior Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/bighealth/3446c521-02eb-477f-8502-4ee00c5512e9",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/19dbe14e-7fe5-4310-852b-4b26a8847fe4-1490142958533.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "142",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGaMgENUVQvMQfAtZO-MEYKifEsvuoRkBRnUn2r7Us45l-tSouwUwZQg-Q",
+                    "width": "355"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "At Big Health we’re creating the first generation of “digital medicine” - automated behavioral therapies that are as scalable and consistent as drugs. Our purpose is to help millions back to good mental health - without pills or potions. We're looking to add senior engineers who are excited about building products on the cutting edge of mental health therapy. Our primary software stack involves Python (Flask), JavaScript (React), Objective-C, and MySQL. We also use a bit of PHP, PostgreSQL, Swift, and Node.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/19dbe14e-7fe5-4310-852b-4b26a8847fe4-1490142958533.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Big Health - Senior Engineer",
+                    "og:url": "https://jobs.lever.co/bighealth/3446c521-02eb-477f-8502-4ee00c5512e9",
+                    "twitter:description": "At Big Health we’re creating the first generation of “digital medicine” - automated behavioral therapies that are as scalable and consistent as drugs. Our purpose is to help millions back to good mental health - without pills or potions. We're looking to add senior engineers who are excited about building products on the cutting edge of mental health therapy. Our primary software stack involves Python (Flask), JavaScript (React), Objective-C, and MySQL. We also use a bit of PHP, PostgreSQL, Swift, and Node.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/19dbe14e-7fe5-4310-852b-4b26a8847fe4-1472531691373.png",
+                    "twitter:title": "Big Health - Senior Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "London, UK / Remote ... designing and architecting our current and next-\ngeneration products, writing code, and mentoring more junior members of the \nteam.",
+        "title": "Big Health - Senior Engineer"
+    }
+,
+    {
+        "cacheId": "mikHz5lBgGMJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/close.../cc5af4f9-6fc9-47fb-a75c-74065e1a2ce6",
+        "htmlFormattedUrl": "https://jobs.lever.co/close.../cc5af4f9-6fc9-47fb-a75c-74065e1a2ce6",
+        "htmlSnippet": "Working knowledge of Python or <b>Junior</b>-level experience as a software ... Work <br>\n<b>remotely</b> from anywhere on the west coast or our HQ in San Francisco, CA; 3-4&nbsp;...",
+        "htmlTitle": "Close.io - Customer Support Executive",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/close.io/cc5af4f9-6fc9-47fb-a75c-74065e1a2ce6",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/Close.io.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "128",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQcidLcpznSau4hKSPlGy_ZZ7FpcAqqhz5ip8E3xYls3ThLdtUIFYUNfyF",
+                    "width": "393"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "About Us At Close.io we’re building the sales communication platform of the future. We’ve built a next-generation CRM that eliminates manual data entry and helps sales teams close more deals. We aim to unify the world's sales calls and emails into one beautiful workflow.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/Close.io.png",
+                    "og:image:height": "200",
+                    "og:title": "Close.io - Customer Support Executive",
+                    "og:url": "https://jobs.lever.co/close.io/cc5af4f9-6fc9-47fb-a75c-74065e1a2ce6",
+                    "twitter:description": "About Us At Close.io we’re building the sales communication platform of the future. We’ve built a next-generation CRM that eliminates manual data entry and helps sales teams close more deals. We aim to unify the world's sales calls and emails into one beautiful workflow.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/7cee7f57-cca0-4e06-9fa2-82d0871a65f3-1480629543022.png",
+                    "twitter:title": "Close.io - Customer Support Executive",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Working knowledge of Python or Junior-level experience as a software ... Work \nremotely from anywhere on the west coast or our HQ in San Francisco, CA; 3-4 ...",
+        "title": "Close.io - Customer Support Executive"
+    }
+,
+    {
+        "cacheId": "DbLBDAujRKEJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/mustwin?by=commitment",
+        "htmlFormattedUrl": "https://jobs.lever.co/mustwin?by=commitment",
+        "htmlSnippet": "<b>Remote</b>Contractor &middot; Apply &middot; Sr. Golang Engineer. <b>Remote</b>golangContractor. Full-<br>\ntime. Apply &middot; Lead Developer. Full-time. Uncategorized. Apply &middot; <b>Junior</b> Engineer.",
+        "htmlTitle": "Must Win",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/mustwin?by=commitment",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/5389efa8-19c3-401e-89cd-6a94e2d1a7fb-1467396017209.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "115",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2VMS42PyPJnM84aAg3Z-Lxf75qmb640Kp0o3c7B7Lw2nJHsgFo-iVA",
+                    "width": "115"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Job openings at Must Win",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/5389efa8-19c3-401e-89cd-6a94e2d1a7fb-1467396017209.png",
+                    "og:image:height": "200",
+                    "og:title": "Must Win jobs",
+                    "og:url": "https://jobs.lever.co/mustwin",
+                    "twitter:description": "Job openings at Must Win",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/5389efa8-19c3-401e-89cd-6a94e2d1a7fb-1467396036128.png",
+                    "twitter:title": "Must Win",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "RemoteContractor · Apply · Sr. Golang Engineer. RemotegolangContractor. Full-\ntime. Apply · Lead Developer. Full-time. Uncategorized. Apply · Junior Engineer.",
+        "title": "Must Win"
+    }
+,
+    {
+        "cacheId": "W54tPRy97b4J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../873f9640-b082-4fb6-8970-a488beeaf6a9",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../873f9640-b082-4fb6-8970-a488beeaf6a9",
+        "htmlSnippet": "Just like any <b>junior</b> associate in private practice, you will work long hours, <br>\nincluding ... This position requires you to work from a home office as it is fully <br>\n<b>remote</b>.",
+        "htmlTitle": "Superior Executive Legal Recruiting - Spanish Speaking Associate ...",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/superiorexecutiveandlegalrecruiting/873f9640-b082-4fb6-8970-a488beeaf6a9",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:description": "A successful and growing law firm specializing in plaintiff-side employment law throughout California is looking for Spanish speaking associate attorneys to join the ranks. The law firm that has retained us to recruit for this position represents workers whose former employers violated their state or federal rights, including unpaid wages, discrimination and wrongful termination. If hired, after a period of training, you would represent a docket of 80- 100 pre-litigation clients under an experienced attorney’s supervision. Just like any junior associate in private practice, you will work long hours, including some nights and weekends, to meet your clients’ needs. This position requires you to work from a home office as it is fully remote. Your compensation will be $4,583.33 per month as a base salary and in accordance with the firm’s bonus plan you will receive a guaranteed minimum bonus in the amount of $15,000.00 within your first year less applicable withholdings and in accordance",
+                    "og:image:height": "200",
+                    "og:title": "Superior Executive Legal Recruiting - Spanish Speaking Associate Attorney",
+                    "og:url": "https://jobs.lever.co/superiorexecutiveandlegalrecruiting/873f9640-b082-4fb6-8970-a488beeaf6a9",
+                    "twitter:description": "A successful and growing law firm specializing in plaintiff-side employment law throughout California is looking for Spanish speaking associate attorneys to join the ranks. The law firm that has retained us to recruit for this position represents workers whose former employers violated their state or federal rights, including unpaid wages, discrimination and wrongful termination. If hired, after a period of training, you would represent a docket of 80- 100 pre-litigation clients under an experienced attorney’s supervision. Just like any junior associate in private practice, you will work long hours, including some nights and weekends, to meet your clients’ needs. This position requires you to work from a home office as it is fully remote. Your compensation will be $4,583.33 per month as a base salary and in accordance with the firm’s bonus plan you will receive a guaranteed minimum bonus in the amount of $15,000.00 within your first year less applicable withholdings and in accordance",
+                    "twitter:title": "Superior Executive Legal Recruiting - Spanish Speaking Associate Attorney",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Just like any junior associate in private practice, you will work long hours, \nincluding ... This position requires you to work from a home office as it is fully \nremote.",
+        "title": "Superior Executive Legal Recruiting - Spanish Speaking Associate ..."
+    }
+,
+    {
+        "cacheId": "DbLBDAujRKEJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/mustwin?by=commitment",
+        "htmlFormattedUrl": "https://jobs.lever.co/mustwin?by=commitment",
+        "htmlSnippet": "<b>Remote</b>Contractor &middot; Apply &middot; Sr. Golang Engineer. <b>Remote</b>golangContractor. Full-<br>\ntime. Apply &middot; Lead Developer. Full-time. Uncategorized. Apply &middot; <b>Junior</b> Engineer.",
+        "htmlTitle": "Must Win",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/mustwin?by=commitment",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/5389efa8-19c3-401e-89cd-6a94e2d1a7fb-1467396017209.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "115",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2VMS42PyPJnM84aAg3Z-Lxf75qmb640Kp0o3c7B7Lw2nJHsgFo-iVA",
+                    "width": "115"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Job openings at Must Win",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/5389efa8-19c3-401e-89cd-6a94e2d1a7fb-1467396017209.png",
+                    "og:image:height": "200",
+                    "og:title": "Must Win jobs",
+                    "og:url": "https://jobs.lever.co/mustwin",
+                    "twitter:description": "Job openings at Must Win",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/5389efa8-19c3-401e-89cd-6a94e2d1a7fb-1467396036128.png",
+                    "twitter:title": "Must Win",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "RemoteContractor · Apply · Sr. Golang Engineer. RemotegolangContractor. Full-\ntime. Apply · Lead Developer. Full-time. Uncategorized. Apply · Junior Engineer.",
+        "title": "Must Win"
+    }
+,
+    {
+        "cacheId": "ZTel6j33IVgJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../cbedfacd-4f68-4a48-9c9b-73842cc0a483",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../cbedfacd-4f68-4a48-9c9b-73842cc0a483",
+        "htmlSnippet": "... Are eager to foster collaboration with <b>remote</b> teams by understanding their ... <br>\nbut step in when needed to act as “tie breaker” or to guide more <b>junior</b> engineers<br>\n&nbsp;...",
+        "htmlTitle": "Kindred - Director of Software Engineering",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/kindred/cbedfacd-4f68-4a48-9c9b-73842cc0a483",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:description": "Kindred Systems Inc.’s mission is to build machines with human-like intelligence. The company's central thesis is that intelligence requires a body. Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to understand and participate in our world, with the ultimate goal of a future where intelligent machines work together with people to create abundance shared by all. Our mission is about applying cutting edge research to solve problems for enterprise customers. As such, we are looking for someone who has a passion for our mission and who has a proven track record of being part of teams capable of delivering high-reliability product to market at startup speeds. As a Director of Software Engineering, you will be leading and managing the software development team in our San Francisco office. The software stack includes backend services, front end web UIs, VR development and streaming media services. We are looking for a strong technologist w",
+                    "og:image:height": "200",
+                    "og:title": "Kindred - Director of Software Engineering",
+                    "og:url": "https://jobs.lever.co/kindred/cbedfacd-4f68-4a48-9c9b-73842cc0a483",
+                    "twitter:description": "Kindred Systems Inc.’s mission is to build machines with human-like intelligence. The company's central thesis is that intelligence requires a body. Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to understand and participate in our world, with the ultimate goal of a future where intelligent machines work together with people to create abundance shared by all. Our mission is about applying cutting edge research to solve problems for enterprise customers. As such, we are looking for someone who has a passion for our mission and who has a proven track record of being part of teams capable of delivering high-reliability product to market at startup speeds. As a Director of Software Engineering, you will be leading and managing the software development team in our San Francisco office. The software stack includes backend services, front end web UIs, VR development and streaming media services. We are looking for a strong technologist w",
+                    "twitter:title": "Kindred - Director of Software Engineering",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "... Are eager to foster collaboration with remote teams by understanding their ... \nbut step in when needed to act as “tie breaker” or to guide more junior engineers\n ...",
+        "title": "Kindred - Director of Software Engineering"
+    }
+,
+    {
+        "cacheId": "yccZK50TmgMJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../70b75ec1-94fc-41cf-96e9-c710b1a7686d",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../70b75ec1-94fc-41cf-96e9-c710b1a7686d",
+        "htmlSnippet": "San Francisco, CA or <b>Remote</b> ... From an ambitious <b>junior</b> developer with two <br>\nyears of experience and a strong portfolio, to a senior developer with ten years of<br>\n&nbsp;...",
+        "htmlTitle": "Poll Everywhere - Front End Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/70b75ec1-94fc-41cf-96e9-c710b1a7686d",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/polleverywhere.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "200",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdIaI3weP0Pnl9ACCGJqv8HZRW0vNPgQ44tZOwOhQQp8R1RnlwqRN4Vw",
+                    "width": "200"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "At Poll Everywhere, we’re re-imagining our user experience to be simple, snappy, and delightful. We’re looking for somebody who has a keen eye for good UX and has extensive experience building maintainable, large-scale CSS and JavaScript applications. Our development process includes building static sites with both Ruby and Node, maintaining JavaScript libraries with NPM, and designing reusable application components. We like to keep things DRY. Are you familiar with Design Tokens? We’ve got those, too. That said, we’re a team of pragmatists. You should understand trade-offs: know when to invest more time up front architecting the correct solution, when to accumulate or pay down tech debt, and when to use third-party libraries versus writing your own. You’ll work directly with other engineers (both front end and back end), design, marketing, customer service, and project managers to build intuitive, engaging applications. Want to see how we build software? Check out the Poll Everywhe",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/polleverywhere.png",
+                    "og:image:height": "200",
+                    "og:title": "Poll Everywhere - Front End Engineer",
+                    "og:url": "https://jobs.lever.co/polleverywhere/70b75ec1-94fc-41cf-96e9-c710b1a7686d",
+                    "twitter:description": "At Poll Everywhere, we’re re-imagining our user experience to be simple, snappy, and delightful. We’re looking for somebody who has a keen eye for good UX and has extensive experience building maintainable, large-scale CSS and JavaScript applications. Our development process includes building static sites with both Ruby and Node, maintaining JavaScript libraries with NPM, and designing reusable application components. We like to keep things DRY. Are you familiar with Design Tokens? We’ve got those, too. That said, we’re a team of pragmatists. You should understand trade-offs: know when to invest more time up front architecting the correct solution, when to accumulate or pay down tech debt, and when to use third-party libraries versus writing your own. You’ll work directly with other engineers (both front end and back end), design, marketing, customer service, and project managers to build intuitive, engaging applications. Want to see how we build software? Check out the Poll Everywhe",
+                    "twitter:title": "Poll Everywhere - Front End Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "San Francisco, CA or Remote ... From an ambitious junior developer with two \nyears of experience and a strong portfolio, to a senior developer with ten years of\n ...",
+        "title": "Poll Everywhere - Front End Engineer"
+    }
+,
+    {
+        "cacheId": "bh8rcZNN8fIJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../95939abf-07b4-4b92-8481-420526dd641a",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../95939abf-07b4-4b92-8481-420526dd641a",
+        "htmlSnippet": "... engage in technical mentorship of your peers and <b>junior</b> techies; contribute ... <br>\nsolutions to societal problems; you&#39;ve worked with <b>remote</b> teams, or would like to.",
+        "htmlTitle": "Picwell - Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/picwell/95939abf-07b4-4b92-8481-420526dd641a",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/e8cc56a8-6ca0-41e0-adba-d62416fe494d-1475636494626.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "80",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZG5q3fabiapCt1V4xSXx9T9V1hO3P9HvegyUyFrnN3IPAIF-m9RprZo4",
+                    "width": "213"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "What We Do Picwell is committed to empowering ordinary Americans to make good health insurance choices for themselves and their families. The sheer complexity of health insurance leads many people to essentially choose at random. This results in unnecessarily high costs for consumers and billions of dollars of waste in the healthcare system. We use predictive analytics in combination with healthcare and behavioral economics research to reduce the choice complexity. A user's plan options are distilled down to personalized scores, which incorporate many nuances beyond pure cost, including the user's risk tolerance and preferred physicians. Picwell allows users to purchase a health plan that covers what they need, at a reasonable cost, with minimal stress. The Job As a software engineer at Picwell, your primary responsibility will be to build, maintain, and scale our health insurance recommendation APIs and underlying web service infrastructure. Currently, that infrastructure suppo",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/e8cc56a8-6ca0-41e0-adba-d62416fe494d-1475636494626.png",
+                    "og:image:height": "200",
+                    "og:title": "Picwell - Software Engineer",
+                    "og:url": "https://jobs.lever.co/picwell/95939abf-07b4-4b92-8481-420526dd641a",
+                    "twitter:description": "What We Do Picwell is committed to empowering ordinary Americans to make good health insurance choices for themselves and their families. The sheer complexity of health insurance leads many people to essentially choose at random. This results in unnecessarily high costs for consumers and billions of dollars of waste in the healthcare system. We use predictive analytics in combination with healthcare and behavioral economics research to reduce the choice complexity. A user's plan options are distilled down to personalized scores, which incorporate many nuances beyond pure cost, including the user's risk tolerance and preferred physicians. Picwell allows users to purchase a health plan that covers what they need, at a reasonable cost, with minimal stress. The Job As a software engineer at Picwell, your primary responsibility will be to build, maintain, and scale our health insurance recommendation APIs and underlying web service infrastructure. Currently, that infrastructure suppo",
+                    "twitter:title": "Picwell - Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "... engage in technical mentorship of your peers and junior techies; contribute ... \nsolutions to societal problems; you've worked with remote teams, or would like to.",
+        "title": "Picwell - Software Engineer"
+    }
+,
+    {
+        "cacheId": "S79aSzAQzooJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/axon/b27594de-91ae-4aea-b05e-2c6e1dfcb789",
+        "htmlFormattedUrl": "https://jobs.lever.co/axon/b27594de-91ae-4aea-b05e-2c6e1dfcb789",
+        "htmlSnippet": "Location: <b>Remote</b> Opportunity - North East Territory ... Train and mentor <b>junior</b> <br>\nengineers, customer service, and sales peers on positioning our solutions to&nbsp;...",
+        "htmlTitle": "Axon - Sales Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/axon/b27594de-91ae-4aea-b05e-2c6e1dfcb789",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/6aa14d12-a323-4bcb-9368-48a4fd3d7aca-1497567326829.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "190",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv4tWaK_c0_aSAH7VHCIUaK9xIw5lCeCQPyYa_yNBPWqTL6cv1-JKwKWur",
+                    "width": "266"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Location: Remote Opportunity - North East Territory Your Impact Axon is the developer and manufacturer of conducted electrical weapons, body worn cameras, and digital evidence management solutions. By successfully applying technical solutions to age old problems in law enforcement, the Axon team has redefined public safety around the globe. We are a team of passionate and dedicated professionals who desire to disrupt our industry, to protect life, with our products. Axon is seeking a high-energy, experienced sales engineer with expertise in network engineering and cloud solutions. This individual will play an instrumental role in accelerating our sales initiatives. We need a self-starter who excels in a high-paced, evangelistic startup environment, focusing on law enforcement, and thrives on pitching technology to C-Level leadership as well as users.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/6aa14d12-a323-4bcb-9368-48a4fd3d7aca-1497567326829.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Axon - Sales Engineer",
+                    "og:url": "https://jobs.lever.co/axon/b27594de-91ae-4aea-b05e-2c6e1dfcb789",
+                    "twitter:description": "Location: Remote Opportunity - North East Territory Your Impact Axon is the developer and manufacturer of conducted electrical weapons, body worn cameras, and digital evidence management solutions. By successfully applying technical solutions to age old problems in law enforcement, the Axon team has redefined public safety around the globe. We are a team of passionate and dedicated professionals who desire to disrupt our industry, to protect life, with our products. Axon is seeking a high-energy, experienced sales engineer with expertise in network engineering and cloud solutions. This individual will play an instrumental role in accelerating our sales initiatives. We need a self-starter who excels in a high-paced, evangelistic startup environment, focusing on law enforcement, and thrives on pitching technology to C-Level leadership as well as users.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/6aa14d12-a323-4bcb-9368-48a4fd3d7aca-1497567377352.png",
+                    "twitter:title": "Axon - Sales Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Location: Remote Opportunity - North East Territory ... Train and mentor junior \nengineers, customer service, and sales peers on positioning our solutions to ...",
+        "title": "Axon - Sales Engineer"
+    }
+,
+    {
+        "cacheId": "CVv6bbFLVC4J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../db9d667a-dc31-43c6-b869-c36bd9742af3",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../db9d667a-dc31-43c6-b869-c36bd9742af3",
+        "htmlSnippet": "Work independently as well as collaborate with on-site and <b>remote</b> teams as ... <br>\nMentoring and growing <b>junior</b> level developers through technical guidance and&nbsp;...",
+        "htmlTitle": "The Bouqs Company - Lead Front-End Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/thebouqs.com/db9d667a-dc31-43c6-b869-c36bd9742af3",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/4152f944-d082-403c-98f9-5493d4e6a3ec-1457557855270.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "160",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT26I4R99xIGtgk1f635jswnXO8Ji6EQkxAgn-Ljky--I1p9Cium9gdao8",
+                    "width": "291"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "An amazing opportunity is available with The Bouqs Company in Venice, CA. You will be a key member of our technology team driving a huge impact by guiding our front-end team and stack, reporting to the VP, Engineering. You will be instrumental in architecting our next generation platform and leading efforts that enable our business to scale and significantly influence its growth trajectory. You will work directly with business stakeholders to understand functional requirements and be responsible for solutions architecture, feature implementations, and quality releases on a platform based on service oriented architecture in AWS. You will be empowered with and have ownership of pragmatic technology choices to achieve your goals while providing mentorship to younger engineers. You will be challenged with all of this while maintaining a zero-downtime continuous deployment environment. What you will be doing: Partnering with business stakeholders in self organizing teams to architect, desi",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/4152f944-d082-403c-98f9-5493d4e6a3ec-1457557855270.png",
+                    "og:image:height": "200",
+                    "og:title": "The Bouqs Company - Lead Front-End Engineer",
+                    "og:url": "https://jobs.lever.co/thebouqs.com/db9d667a-dc31-43c6-b869-c36bd9742af3",
+                    "twitter:description": "An amazing opportunity is available with The Bouqs Company in Venice, CA. You will be a key member of our technology team driving a huge impact by guiding our front-end team and stack, reporting to the VP, Engineering. You will be instrumental in architecting our next generation platform and leading efforts that enable our business to scale and significantly influence its growth trajectory. You will work directly with business stakeholders to understand functional requirements and be responsible for solutions architecture, feature implementations, and quality releases on a platform based on service oriented architecture in AWS. You will be empowered with and have ownership of pragmatic technology choices to achieve your goals while providing mentorship to younger engineers. You will be challenged with all of this while maintaining a zero-downtime continuous deployment environment. What you will be doing: Partnering with business stakeholders in self organizing teams to architect, desi",
+                    "twitter:title": "The Bouqs Company - Lead Front-End Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Work independently as well as collaborate with on-site and remote teams as ... \nMentoring and growing junior level developers through technical guidance and ...",
+        "title": "The Bouqs Company - Lead Front-End Engineer"
+    }
+,
+    {
+        "cacheId": "cAN_cD2WLp8J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../178e2cdf-2e15-47e8-9d32-b24ac89032bf",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../178e2cdf-2e15-47e8-9d32-b24ac89032bf",
+        "htmlSnippet": "Senior backend software engineer. <b>Remote</b>. Development. Full-time. Apply for ... <br>\nShare expertise with other members of the team and mentor <b>junior</b> developers.",
+        "htmlTitle": "Sticker Mule - Senior backend software engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/stickermule/178e2cdf-2e15-47e8-9d32-b24ac89032bf",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/11593ed9-e0cd-40a9-aa67-66c615db43f1-1466797315850.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "80",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9BNENWnz6zQMV7LnsLZZvfUIZnu8f9n66AALij0UXsNfP2If4xy0w0eo",
+                    "width": "578"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "What you will do: 1. Design, build, test, deploy and maintain web applications and services. 2. Write clean, performant code in accordance with our team's code style guidelines. 3. Work to improve and maintain the code health of all of our software. 4. Collaborate with team leads and stakeholders to ensure that we're always building the best possible solution in the optimal way. 5. Participate in peer code reviews. 6. Share expertise with other members of the team and mentor junior developers. Requirements 1. 3+ years of professional software development experience. 2. High competency in at least one of the following languages: JavaScript, Ruby, or Go. 3. Strong analytical and critical thinking skills. 4. Strong written and verbal communication skills in English. 5. Experience with beneficial microservices/SOA or DevOps. Application requirements 1. Applicants must take a screening test after applying. 2. Test invites will be sent within 1-2 business days of applying.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/11593ed9-e0cd-40a9-aa67-66c615db43f1-1466797315850.png",
+                    "og:image:height": "200",
+                    "og:title": "Sticker Mule - Senior backend software engineer",
+                    "og:url": "https://jobs.lever.co/stickermule/178e2cdf-2e15-47e8-9d32-b24ac89032bf",
+                    "twitter:description": "What you will do: 1. Design, build, test, deploy and maintain web applications and services. 2. Write clean, performant code in accordance with our team's code style guidelines. 3. Work to improve and maintain the code health of all of our software. 4. Collaborate with team leads and stakeholders to ensure that we're always building the best possible solution in the optimal way. 5. Participate in peer code reviews. 6. Share expertise with other members of the team and mentor junior developers. Requirements 1. 3+ years of professional software development experience. 2. High competency in at least one of the following languages: JavaScript, Ruby, or Go. 3. Strong analytical and critical thinking skills. 4. Strong written and verbal communication skills in English. 5. Experience with beneficial microservices/SOA or DevOps. Application requirements 1. Applicants must take a screening test after applying. 2. Test invites will be sent within 1-2 business days of applying.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/11593ed9-e0cd-40a9-aa67-66c615db43f1-1483085312114.png",
+                    "twitter:title": "Sticker Mule - Senior backend software engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Senior backend software engineer. Remote. Development. Full-time. Apply for ... \nShare expertise with other members of the team and mentor junior developers.",
+        "title": "Sticker Mule - Senior backend software engineer"
+    }
+]

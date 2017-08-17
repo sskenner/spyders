@@ -1,0 +1,1855 @@
+{'context': {'title': 'Jobs.lever.coAll1Week'},
+ 'items': [{'cacheId': 'xhuOnHkH4eIJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/lever',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/<b>lever</b>',
+            'htmlSnippet': 'San FranciscoEngineeringFull-time &middot; Apply '
+                           '&middot; Distributed Systems Engineer. San <br>\n'
+                           'FranciscoEngineeringFull-time &middot; Apply '
+                           '&middot; Engineering Manager.',
+            'htmlTitle': '<b>Lever jobs</b>',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/lever',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1485482250838.png'}],
+                        'cse_thumbnail': [{'height': '163',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvaY2cvJFW71omS6443uZLV19Mhth7Q1O2ioGiEKFd3NpT5sYY9P2WdYfa',
+                                           'width': '310'}],
+                        'metatags': [{'og:description': 'Job openings at Lever',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1485482250838.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Lever jobs',
+                                      'og:url': 'https://jobs.lever.co/lever',
+                                      'twitter:description': 'Job openings at '
+                                                             'Lever',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1485543689940.png',
+                                      'twitter:title': 'Lever',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'San FranciscoEngineeringFull-time · Apply · '
+                       'Distributed Systems Engineer. San \n'
+                       'FranciscoEngineeringFull-time · Apply · Engineering '
+                       'Manager.',
+            'title': 'Lever jobs'},
+           {'cacheId': 'JODhjGiGRxAJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/twitch',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/twitch',
+            'htmlSnippet': 'San Francisco, CAEngineeringFull-time &middot; '
+                           'Apply &middot; Software Engineer. San <br>\n'
+                           'Francisco, CAEngineeringFull-time &middot; Twitch '
+                           'Home Page &middot; <b>Jobs</b> powered by.',
+            'htmlTitle': 'Twitch',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/twitch',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png'}],
+                        'cse_thumbnail': [{'height': '86',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwhiiUaX0nLhDUxpLDdXLy7EDppirezOyA1X1YPxZRDP9S-46TKPSCZug',
+                                           'width': '258'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Twitch',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Twitch jobs',
+                                      'og:url': 'https://jobs.lever.co/twitch',
+                                      'twitter:description': 'Job openings at '
+                                                             'Twitch',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504133475.png',
+                                      'twitter:title': 'Twitch',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'San Francisco, CAEngineeringFull-time · Apply · '
+                       'Software Engineer. San \n'
+                       'Francisco, CAEngineeringFull-time · Twitch Home Page · '
+                       'Jobs powered by.',
+            'title': 'Twitch'},
+           {'cacheId': 'atZ5fA4LY4kJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/kraken',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/kraken',
+            'htmlSnippet': 'Apply &middot; PR Specialist. San FranciscoPublic '
+                           'RelationsFull-time. Recruiting. Apply &middot; '
+                           '<br>\n'
+                           'Technical Recruiter. San '
+                           'FranciscoRecruitingFull-time &middot; <b>Jobs</b> '
+                           'powered by.',
+            'htmlTitle': 'Kraken Exchange',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/kraken',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/741f7d55-0312-4036-bd47-ce74d90a2485-1489794581444.png'}],
+                        'cse_thumbnail': [{'height': '159',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6KEBmN_y5hD2_d6PxUJ-FR5NByUkpi3_I8A_ewtY_ZosIH_oeg-XQxfyW',
+                                           'width': '318'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Kraken Exchange',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/741f7d55-0312-4036-bd47-ce74d90a2485-1489794581444.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Kraken Exchange jobs',
+                                      'og:url': 'https://jobs.lever.co/kraken',
+                                      'twitter:description': 'Job openings at '
+                                                             'Kraken Exchange',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/741f7d55-0312-4036-bd47-ce74d90a2485-1489794326306.png',
+                                      'twitter:title': 'Kraken Exchange',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Apply · PR Specialist. San FranciscoPublic '
+                       'RelationsFull-time. Recruiting. Apply · \n'
+                       'Technical Recruiter. San FranciscoRecruitingFull-time '
+                       '· Jobs powered by.',
+            'title': 'Kraken Exchange'},
+           {'cacheId': '3_bXunfzk4kJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/roosterteeth',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/roosterteeth',
+            'htmlSnippet': 'Austin, TXShared Services – ProductFull-time '
+                           '&middot; Apply &middot; VP, Consumer Products. '
+                           '<br>\n'
+                           'Austin, TXShared Services – ProductFull-time '
+                           '&middot; <b>Jobs</b> powered by.',
+            'htmlTitle': 'Rooster Teeth',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/roosterteeth',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/0bedc653-bcde-4011-a483-c393c6a83ce7-1494019841872.png'}],
+                        'cse_thumbnail': [{'height': '85',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfFrB7-RAr1NyGm0ErbH2SV12L0YIQshZkTwJ6raBSMQyyR84e9tQNpQ',
+                                           'width': '590'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Rooster Teeth',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/0bedc653-bcde-4011-a483-c393c6a83ce7-1494019841872.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Rooster Teeth jobs',
+                                      'og:url': 'https://jobs.lever.co/roosterteeth',
+                                      'twitter:description': 'Job openings at '
+                                                             'Rooster Teeth',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/0bedc653-bcde-4011-a483-c393c6a83ce7-1494019836450.png',
+                                      'twitter:title': 'Rooster Teeth',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Austin, TXShared Services – ProductFull-time · Apply · '
+                       'VP, Consumer Products. \n'
+                       'Austin, TXShared Services – ProductFull-time · Jobs '
+                       'powered by.',
+            'title': 'Rooster Teeth'},
+           {'cacheId': 'YcPjXBepEhkJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/flyzipline',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/flyzipline',
+            'htmlSnippet': 'Half Moon BaySoftware EngineeringFull-time. Supply '
+                           'Chain. Apply &middot; Buyer/<br>\n'
+                           'Planner. Half Moon BaySupply ChainFull-time '
+                           '&middot; Zipline Home Page &middot; <b>Jobs</b> '
+                           '<br>\n'
+                           'powered by.',
+            'htmlTitle': 'Zipline',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/flyzipline',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/85e5c177-1c48-44f8-a814-d88bb0584f08-1470355906495.png'}],
+                        'cse_thumbnail': [{'height': '146',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA1dg8b_I3I1YzLprkBF2fuxdzt0ROIC1l6DqgCae9_-jWOgMzL3AOeJo',
+                                           'width': '344'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Zipline',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/85e5c177-1c48-44f8-a814-d88bb0584f08-1470355906495.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Zipline jobs',
+                                      'og:url': 'https://jobs.lever.co/flyzipline',
+                                      'twitter:description': 'Job openings at '
+                                                             'Zipline',
+                                      'twitter:title': 'Zipline',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Half Moon BaySoftware EngineeringFull-time. Supply '
+                       'Chain. Apply · Buyer/\n'
+                       'Planner. Half Moon BaySupply ChainFull-time · Zipline '
+                       'Home Page · Jobs \n'
+                       'powered by.',
+            'title': 'Zipline'},
+           {'cacheId': 'YCXrEWnSqSsJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/drizly',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/drizly',
+            'htmlSnippet': '... Intelligence Analyst. BostonProductFull-time '
+                           '&middot; Apply &middot; Sommelier Customer <br>\n'
+                           'Service - Part Time. BostonProductIntern &middot; '
+                           'Drizly Home Page &middot; <b>Jobs</b> powered by.',
+            'htmlTitle': 'Drizly',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/drizly',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/drizly-2015.png'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQvXsdjEOALxBphtlFblaWhU4slaVgQBlPVgjQFgkIElSfQZGR0XqCCOY',
+                                           'width': '225'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Drizly',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/drizly-2015.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Drizly jobs',
+                                      'og:url': 'https://jobs.lever.co/drizly',
+                                      'twitter:description': 'Job openings at '
+                                                             'Drizly',
+                                      'twitter:title': 'Drizly',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': '... Intelligence Analyst. BostonProductFull-time · '
+                       'Apply · Sommelier Customer \n'
+                       'Service - Part Time. BostonProductIntern · Drizly Home '
+                       'Page · Jobs powered by.',
+            'title': 'Drizly'},
+           {'cacheId': 'XsaZJX5D1u0J',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/chanzuckerberg',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/chanzuckerberg',
+            'htmlSnippet': 'Palo Alto, CATechnologyFull-time &middot; Apply '
+                           '&middot; Software Engineer, Production Tools - '
+                           '<br>\n'
+                           'Education. Palo Alto, CATechnologyFull-time '
+                           '&middot; <b>Jobs</b> powered by.',
+            'htmlTitle': 'Chan Zuckerberg Initiative',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/chanzuckerberg',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/5677ff2b-be2c-49e7-b0cb-7e33c18149dd-1493236538696.png'}],
+                        'cse_thumbnail': [{'height': '163',
+                                           'src': 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdCHgppwc8MOqFqW3hAcr3_owpCjGPmF3A_F-wGQp3jtzkEXsdcvuNbBA',
+                                           'width': '310'}],
+                        'metatags': [{'og:description': 'Job openings at Chan '
+                                                        'Zuckerberg Initiative',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/5677ff2b-be2c-49e7-b0cb-7e33c18149dd-1493236538696.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Chan Zuckerberg Initiative '
+                                                  'jobs',
+                                      'og:url': 'https://jobs.lever.co/chanzuckerberg',
+                                      'twitter:description': 'Job openings at '
+                                                             'Chan Zuckerberg '
+                                                             'Initiative',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/5677ff2b-be2c-49e7-b0cb-7e33c18149dd-1467045375869.png',
+                                      'twitter:title': 'Chan Zuckerberg '
+                                                       'Initiative',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Palo Alto, CATechnologyFull-time · Apply · Software '
+                       'Engineer, Production Tools - \n'
+                       'Education. Palo Alto, CATechnologyFull-time · Jobs '
+                       'powered by.',
+            'title': 'Chan Zuckerberg Initiative'},
+           {'cacheId': 'ePIrP1BeOf0J',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/faradayfuture',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/faradayfuture',
+            'htmlSnippet': '... Angeles, CAVehicle SafetyFull-time &middot; '
+                           'Apply &middot; Vehicle Safety Engineer. Los <br>\n'
+                           'Angeles, CAVehicle SafetyFull-time &middot; '
+                           'Faraday Future Home Page &middot; <b>Jobs</b> '
+                           'powered <br>\n'
+                           'by.',
+            'htmlTitle': 'Faraday Future',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/faradayfuture',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1441842243319.png'}],
+                        'cse_thumbnail': [{'height': '160',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn4Le6NsfYwsgtm_BzfdDD6PRSBafSLVTV2_CDVvASefPNg_Z7xQKpwg8',
+                                           'width': '160'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Faraday Future',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1441842243319.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Faraday Future jobs',
+                                      'og:url': 'https://jobs.lever.co/faradayfuture',
+                                      'twitter:description': 'Job openings at '
+                                                             'Faraday Future',
+                                      'twitter:title': 'Faraday Future',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': '... Angeles, CAVehicle SafetyFull-time · Apply · '
+                       'Vehicle Safety Engineer. Los \n'
+                       'Angeles, CAVehicle SafetyFull-time · Faraday Future '
+                       'Home Page · Jobs powered \n'
+                       'by.',
+            'title': 'Faraday Future'},
+           {'cacheId': 'Jidp0gLcxFkJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/buildzoom',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/buildzoom',
+            'htmlSnippet': 'Project Consultant. Oklahoma City, '
+                           'OKSalesFull-time &middot; Apply &middot; Project '
+                           'Consultant. <br>\n'
+                           'San Francisco, CASalesFull-time &middot; BuildZoom '
+                           'Home Page &middot; <b>Jobs</b> powered by.',
+            'htmlTitle': 'BuildZoom',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/buildzoom',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png'}],
+                        'cse_thumbnail': [{'height': '86',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPIGW4mpTptRqpWfyujdXKPdUome_NKXbS-ANTdaoasEtGaZxexp6mA',
+                                           'width': '584'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'BuildZoom',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/a3b2b6dd-16cf-45aa-a206-a4216631569d-1492712480375.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'BuildZoom jobs',
+                                      'og:url': 'https://jobs.lever.co/buildzoom',
+                                      'twitter:description': 'Job openings at '
+                                                             'BuildZoom',
+                                      'twitter:title': 'BuildZoom',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Project Consultant. Oklahoma City, OKSalesFull-time · '
+                       'Apply · Project Consultant. \n'
+                       'San Francisco, CASalesFull-time · BuildZoom Home Page '
+                       '· Jobs powered by.',
+            'title': 'BuildZoom'},
+           {'cacheId': '3Wvyb7MR8gIJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/lumosity',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/lumosity',
+            'htmlSnippet': '... Training XP. San FranciscoProductFull-time. '
+                           'Science. Apply &middot; Senior Data <br>\n'
+                           'Scientist. San FranciscoScienceFull-time &middot; '
+                           'Lumosity Home Page &middot; <b>Jobs</b> powered '
+                           '<br>\n'
+                           'by.',
+            'htmlTitle': 'Lumosity',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/lumosity',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/lumosity_recruiting.png'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx8zlMWVMF0KhpPJ2wzhQYmQqjHjOyH3k3U429QAAq2kEeC3TdO9jJMG0',
+                                           'width': '225'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Lumosity',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/lumosity_recruiting.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Lumosity jobs',
+                                      'og:url': 'https://jobs.lever.co/lumosity',
+                                      'twitter:description': 'Job openings at '
+                                                             'Lumosity',
+                                      'twitter:title': 'Lumosity',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': '... Training XP. San FranciscoProductFull-time. '
+                       'Science. Apply · Senior Data \n'
+                       'Scientist. San FranciscoScienceFull-time · Lumosity '
+                       'Home Page · Jobs powered \n'
+                       'by.',
+            'title': 'Lumosity'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'nextPage': [{'count': 10,
+                           'cx': '009043117829057268965:tgiqlni9v2w',
+                           'inputEncoding': 'utf8',
+                           'outputEncoding': 'utf8',
+                           'safe': 'off',
+                           'searchTerms': 'jobs.lever.co',
+                           'startIndex': 11,
+                           'title': 'Google Custom Search - jobs.lever.co',
+                           'totalResults': '46400'}],
+             'request': [{'count': 10,
+                          'cx': '009043117829057268965:tgiqlni9v2w',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'jobs.lever.co',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - jobs.lever.co',
+                          'totalResults': '46400'}]},
+ 'searchInformation': {'formattedSearchTime': '0.65',
+                       'formattedTotalResults': '46,400',
+                       'searchTime': 0.651219,
+                       'totalResults': '46400'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}
+
+{'context': {'title': 'Jobs.lever.coAll1Week'},
+ 'items': [{'cacheId': 'tmYaYjfExYIJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/.../6d532ae9-9d6f-4398-8a85-3b9f15b01b7f',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/.../6d532ae9-9d6f-4398-8a85-3b9f15b01b7f',
+            'htmlSnippet': 'We&#39;re just going to keep saying buzzwords '
+                           'until you sign an <b>employment</b> contract<br>\n'
+                           '. Then we&#39;ll stop. Maybe. The '
+                           '<b>Javascript</b> team is tight-knit, and '
+                           'absolutely <br>\n'
+                           'essential to the success of our ... AtScale is '
+                           'fundamentally an engineering <br>\n'
+                           '<b>company</b>.',
+            'htmlTitle': 'AtScale - <b>Javascript</b> Engineer',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/atscale/6d532ae9-9d6f-4398-8a85-3b9f15b01b7f',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/a404c145-432d-417b-b0bb-434e1f318a53-1483969425636.png'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8KpI0KtVTX1IoTjopoeSxBgWwIItt8cYf4ck4poDA2TawZRR055psPaUc',
+                                           'width': '225'}],
+                        'metatags': [{'og:description': 'There’s a lot of data '
+                                                        'out there. AtScale is '
+                                                        'a platform that helps '
+                                                        'companies extract '
+                                                        'knowledge from their '
+                                                        'data. We’re just '
+                                                        'going to keep saying '
+                                                        'buzzwords until you '
+                                                        'sign an employment '
+                                                        'contract. Then we’ll '
+                                                        'stop. Maybe. The '
+                                                        'Javascript team is '
+                                                        'tight-knit, and '
+                                                        'absolutely essential '
+                                                        'to the success of our '
+                                                        'product. We need '
+                                                        'people that can come '
+                                                        'into that '
+                                                        'environment, and use '
+                                                        'the autonomy and '
+                                                        'freedom that our '
+                                                        'position provides to '
+                                                        'ship high-quality, '
+                                                        'high-impact code. '
+                                                        "We're looking for "
+                                                        'people with a strong '
+                                                        'background in '
+                                                        'Javascript. Maybe you '
+                                                        'even hate it a little '
+                                                        'bit. But you’ve '
+                                                        "persisted, you've "
+                                                        'built Javascript '
+                                                        'applications, maybe '
+                                                        'with React, maybe '
+                                                        'with a Node backend, '
+                                                        "and you're interested "
+                                                        'in thinking '
+                                                        'creatively to solve '
+                                                        'problems which have '
+                                                        'not been solved '
+                                                        'before.',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/a404c145-432d-417b-b0bb-434e1f318a53-1483969425636.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'AtScale - Javascript '
+                                                  'Engineer',
+                                      'og:url': 'https://jobs.lever.co/atscale/6d532ae9-9d6f-4398-8a85-3b9f15b01b7f',
+                                      'twitter:description': 'There’s a lot of '
+                                                             'data out there. '
+                                                             'AtScale is a '
+                                                             'platform that '
+                                                             'helps companies '
+                                                             'extract '
+                                                             'knowledge from '
+                                                             'their data. '
+                                                             'We’re just going '
+                                                             'to keep saying '
+                                                             'buzzwords until '
+                                                             'you sign an '
+                                                             'employment '
+                                                             'contract. Then '
+                                                             'we’ll stop. '
+                                                             'Maybe. The '
+                                                             'Javascript team '
+                                                             'is tight-knit, '
+                                                             'and absolutely '
+                                                             'essential to the '
+                                                             'success of our '
+                                                             'product. We need '
+                                                             'people that can '
+                                                             'come into that '
+                                                             'environment, and '
+                                                             'use the autonomy '
+                                                             'and freedom that '
+                                                             'our position '
+                                                             'provides to ship '
+                                                             'high-quality, '
+                                                             'high-impact '
+                                                             "code. We're "
+                                                             'looking for '
+                                                             'people with a '
+                                                             'strong '
+                                                             'background in '
+                                                             'Javascript. '
+                                                             'Maybe you even '
+                                                             'hate it a little '
+                                                             'bit. But you’ve '
+                                                             'persisted, '
+                                                             "you've built "
+                                                             'Javascript '
+                                                             'applications, '
+                                                             'maybe with '
+                                                             'React, maybe '
+                                                             'with a Node '
+                                                             'backend, and '
+                                                             "you're "
+                                                             'interested in '
+                                                             'thinking '
+                                                             'creatively to '
+                                                             'solve problems '
+                                                             'which have not '
+                                                             'been solved '
+                                                             'before.',
+                                      'twitter:title': 'AtScale - Javascript '
+                                                       'Engineer',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': "We're just going to keep saying buzzwords until you "
+                       'sign an employment contract\n'
+                       ". Then we'll stop. Maybe. The Javascript team is "
+                       'tight-knit, and absolutely \n'
+                       'essential to the success of our ... AtScale is '
+                       'fundamentally an engineering \n'
+                       'company.',
+            'title': 'AtScale - Javascript Engineer'},
+           {'cacheId': '3MvaWZ2hdY0J',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/...com/19ab3197-7896-4284-b53a-783bbf4f1817',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/...<b>com</b>/19ab3197-7896-4284-b53a-783bbf4f1817',
+            'htmlSnippet': 'At Help.<b>com</b>, we want to help eliminate '
+                           'terrible customer service experiences and <br>\n'
+                           'make good ... We are predominantly in the '
+                           '<b>JavaScript</b>/Node.<b>js</b> ecosystem, <br>\n'
+                           'specifically a React/Redux ... All of our '
+                           '<b>positions</b> are based in our office in '
+                           'Austin, <br>\n'
+                           'TX.',
+            'htmlTitle': 'Help.<b>com</b> - Software Engineer (Front-end - '
+                         'React.<b>js</b>)',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/help.com/19ab3197-7896-4284-b53a-783bbf4f1817',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1453999919757.png'}],
+                        'cse_thumbnail': [{'height': '123',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTNrvw0FhjVi2p-1ZKDMkFPJ6ryVlLpHoFj2YBdUiAdxvaMBcqXIC1JA',
+                                           'width': '411'}],
+                        'metatags': [{'og:description': 'At Help.com, we want '
+                                                        'to help eliminate '
+                                                        'terrible customer '
+                                                        'service experiences '
+                                                        'and make good '
+                                                        'experiences great. '
+                                                        'Waiting around for '
+                                                        'agents to locate your '
+                                                        'account information, '
+                                                        'lookup a company '
+                                                        'policy, or see your '
+                                                        'previous interaction '
+                                                        'history will become a '
+                                                        'thing of the past. '
+                                                        "We're just getting "
+                                                        'started so you have '
+                                                        'the chance to come in '
+                                                        'and help us build new '
+                                                        'products on a small, '
+                                                        'agile team. Your '
+                                                        'contributions will be '
+                                                        'felt immediately and '
+                                                        "you'll be able to "
+                                                        'help us shape our '
+                                                        'products and '
+                                                        'development path. We '
+                                                        'are predominantly in '
+                                                        'the '
+                                                        'JavaScript/Node.js '
+                                                        'ecosystem, '
+                                                        'specifically a '
+                                                        'React/Redux stack on '
+                                                        'the front-end. We are '
+                                                        'looking for a '
+                                                        'front-end engineer to '
+                                                        'assist with '
+                                                        'development for our '
+                                                        'customer service '
+                                                        'platform. As our '
+                                                        'product is real time, '
+                                                        'distributed, and '
+                                                        'relies on a great '
+                                                        'user experience, '
+                                                        'we’re looking for an '
+                                                        'engineer that has '
+                                                        'extensive experience '
+                                                        'in building single '
+                                                        'page applications. '
+                                                        'Since we are a '
+                                                        'communications '
+                                                        'platform, our UI has '
+                                                        'to be both beautiful '
+                                                        "and fast. We're "
+                                                        'looking for eng',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1453999919757.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Help.com - Software '
+                                                  'Engineer (Front-end - '
+                                                  'React.js)',
+                                      'og:url': 'https://jobs.lever.co/help.com/19ab3197-7896-4284-b53a-783bbf4f1817',
+                                      'twitter:description': 'At Help.com, we '
+                                                             'want to help '
+                                                             'eliminate '
+                                                             'terrible '
+                                                             'customer service '
+                                                             'experiences and '
+                                                             'make good '
+                                                             'experiences '
+                                                             'great. Waiting '
+                                                             'around for '
+                                                             'agents to locate '
+                                                             'your account '
+                                                             'information, '
+                                                             'lookup a company '
+                                                             'policy, or see '
+                                                             'your previous '
+                                                             'interaction '
+                                                             'history will '
+                                                             'become a thing '
+                                                             'of the past. '
+                                                             "We're just "
+                                                             'getting started '
+                                                             'so you have the '
+                                                             'chance to come '
+                                                             'in and help us '
+                                                             'build new '
+                                                             'products on a '
+                                                             'small, agile '
+                                                             'team. Your '
+                                                             'contributions '
+                                                             'will be felt '
+                                                             'immediately and '
+                                                             "you'll be able "
+                                                             'to help us shape '
+                                                             'our products and '
+                                                             'development '
+                                                             'path. We are '
+                                                             'predominantly in '
+                                                             'the '
+                                                             'JavaScript/Node.js '
+                                                             'ecosystem, '
+                                                             'specifically a '
+                                                             'React/Redux '
+                                                             'stack on the '
+                                                             'front-end. We '
+                                                             'are looking for '
+                                                             'a front-end '
+                                                             'engineer to '
+                                                             'assist with '
+                                                             'development for '
+                                                             'our customer '
+                                                             'service '
+                                                             'platform. As our '
+                                                             'product is real '
+                                                             'time, '
+                                                             'distributed, and '
+                                                             'relies on a '
+                                                             'great user '
+                                                             'experience, '
+                                                             'we’re looking '
+                                                             'for an engineer '
+                                                             'that has '
+                                                             'extensive '
+                                                             'experience in '
+                                                             'building single '
+                                                             'page '
+                                                             'applications. '
+                                                             'Since we are a '
+                                                             'communications '
+                                                             'platform, our UI '
+                                                             'has to be both '
+                                                             'beautiful and '
+                                                             "fast. We're "
+                                                             'looking for eng',
+                                      'twitter:title': 'Help.com - Software '
+                                                       'Engineer (Front-end - '
+                                                       'React.js)',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'At Help.com, we want to help eliminate terrible '
+                       'customer service experiences and \n'
+                       'make good ... We are predominantly in the '
+                       'JavaScript/Node.js ecosystem, \n'
+                       'specifically a React/Redux ... All of our positions '
+                       'are based in our office in Austin, \n'
+                       'TX.',
+            'title': 'Help.com - Software Engineer (Front-end - React.js)'},
+           {'cacheId': 'JODhjGiGRxAJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/twitch',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/twitch',
+            'htmlSnippet': 'San Francisco, CAEngineeringFull-time &middot; '
+                           'Apply &middot; Software Engineer. San <br>\n'
+                           'Francisco, CAEngineeringFull-time &middot; Twitch '
+                           'Home Page &middot; <b>Jobs</b> powered by.',
+            'htmlTitle': 'Twitch',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/twitch',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png'}],
+                        'cse_thumbnail': [{'height': '86',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwhiiUaX0nLhDUxpLDdXLy7EDppirezOyA1X1YPxZRDP9S-46TKPSCZug',
+                                           'width': '258'}],
+                        'metatags': [{'og:description': 'Job openings at '
+                                                        'Twitch',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Twitch jobs',
+                                      'og:url': 'https://jobs.lever.co/twitch',
+                                      'twitter:description': 'Job openings at '
+                                                             'Twitch',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504133475.png',
+                                      'twitter:title': 'Twitch',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'San Francisco, CAEngineeringFull-time · Apply · '
+                       'Software Engineer. San \n'
+                       'Francisco, CAEngineeringFull-time · Twitch Home Page · '
+                       'Jobs powered by.',
+            'title': 'Twitch'},
+           {'cacheId': 'IIhH93V68tkJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/wish/80358841-6ebf-448c-8f0d-c69d43d8b76b',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/wish/80358841-6ebf-448c-8f0d-c69d43d8b76b',
+            'htmlSnippet': 'Apply for this <b>job</b> ... The platform team '
+                           'offers a rare opportunity to work on key <br>\n'
+                           '<b>company</b> initiatives from customer service, '
+                           '... Programming language: Python; <br>\n'
+                           'Frontend technologies: <b>JavaScript</b> is the '
+                           'programming language for the frontend / <br>\n'
+                           'UI.',
+            'htmlTitle': 'Wish - Full Stack Software Engineer',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/wish/80358841-6ebf-448c-8f0d-c69d43d8b76b',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/wish.png'}],
+                        'cse_thumbnail': [{'height': '130',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSKbozcIFarv-rLiTR8CKiHlczGOTtctrLB22J6aiNhXdQfUW1hV3wksu',
+                                           'width': '388'}],
+                        'metatags': [{'og:description': 'We’re looking for the '
+                                                        "world's best "
+                                                        'engineers to build a '
+                                                        'premier commerce '
+                                                        'platform from the '
+                                                        'ground up. This role '
+                                                        'is ideal for someone '
+                                                        'who enjoys '
+                                                        'engineering complex '
+                                                        'systems and features '
+                                                        'at all levels of the '
+                                                        'stack. The platform '
+                                                        'team offers a rare '
+                                                        'opportunity to work '
+                                                        'on key company '
+                                                        'initiatives from '
+                                                        'customer service, '
+                                                        'business '
+                                                        'intelligence, ERP, '
+                                                        'RESTful APIs, data '
+                                                        'pipelines, data '
+                                                        'visualization, as '
+                                                        'well as both web and '
+                                                        'mobile apps. Our '
+                                                        'engineers move '
+                                                        'extremely fast, while '
+                                                        'solving unusual and '
+                                                        'challenging problems. '
+                                                        'Our team is small and '
+                                                        'nimble. We release '
+                                                        'new code daily to '
+                                                        'ensure that engineers '
+                                                        'are able to iterate '
+                                                        'quickly, and make an '
+                                                        'impact immediately. '
+                                                        'Each engineer has the '
+                                                        'opportunity to work '
+                                                        'at all levels of the '
+                                                        'stack. They work on '
+                                                        'entire features from '
+                                                        'the database level to '
+                                                        'the client. We '
+                                                        'cultivate an '
+                                                        'environment for '
+                                                        'smart, driven '
+                                                        'engineers to thrive. '
+                                                        'You should be able to '
+                                                        'perform and '
+                                                        'contribute under a '
+                                                        'great deal of '
+                                                        'independence. '
+                                                        'Regardless of your '
+                                                        'seniority or '
+                                                        'experience, we are '
+                                                        'ultim',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/wish.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Wish - Full Stack Software '
+                                                  'Engineer',
+                                      'og:url': 'https://jobs.lever.co/wish/80358841-6ebf-448c-8f0d-c69d43d8b76b',
+                                      'twitter:description': 'We’re looking '
+                                                             "for the world's "
+                                                             'best engineers '
+                                                             'to build a '
+                                                             'premier commerce '
+                                                             'platform from '
+                                                             'the ground up. '
+                                                             'This role is '
+                                                             'ideal for '
+                                                             'someone who '
+                                                             'enjoys '
+                                                             'engineering '
+                                                             'complex systems '
+                                                             'and features at '
+                                                             'all levels of '
+                                                             'the stack. The '
+                                                             'platform team '
+                                                             'offers a rare '
+                                                             'opportunity to '
+                                                             'work on key '
+                                                             'company '
+                                                             'initiatives from '
+                                                             'customer '
+                                                             'service, '
+                                                             'business '
+                                                             'intelligence, '
+                                                             'ERP, RESTful '
+                                                             'APIs, data '
+                                                             'pipelines, data '
+                                                             'visualization, '
+                                                             'as well as both '
+                                                             'web and mobile '
+                                                             'apps. Our '
+                                                             'engineers move '
+                                                             'extremely fast, '
+                                                             'while solving '
+                                                             'unusual and '
+                                                             'challenging '
+                                                             'problems. Our '
+                                                             'team is small '
+                                                             'and nimble. We '
+                                                             'release new code '
+                                                             'daily to ensure '
+                                                             'that engineers '
+                                                             'are able to '
+                                                             'iterate quickly, '
+                                                             'and make an '
+                                                             'impact '
+                                                             'immediately. '
+                                                             'Each engineer '
+                                                             'has the '
+                                                             'opportunity to '
+                                                             'work at all '
+                                                             'levels of the '
+                                                             'stack. They work '
+                                                             'on entire '
+                                                             'features from '
+                                                             'the database '
+                                                             'level to the '
+                                                             'client. We '
+                                                             'cultivate an '
+                                                             'environment for '
+                                                             'smart, driven '
+                                                             'engineers to '
+                                                             'thrive. You '
+                                                             'should be able '
+                                                             'to perform and '
+                                                             'contribute under '
+                                                             'a great deal of '
+                                                             'independence. '
+                                                             'Regardless of '
+                                                             'your seniority '
+                                                             'or experience, '
+                                                             'we are ultim',
+                                      'twitter:title': 'Wish - Full Stack '
+                                                       'Software Engineer',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Apply for this job ... The platform team offers a rare '
+                       'opportunity to work on key \n'
+                       'company initiatives from customer service, ... '
+                       'Programming language: Python; \n'
+                       'Frontend technologies: JavaScript is the programming '
+                       'language for the frontend / \n'
+                       'UI.',
+            'title': 'Wish - Full Stack Software Engineer'},
+           {'cacheId': 'Yn81xZrlkzUJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/tint/114491bb-f40c-4b3c-97c6-c6bca35183a8',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/tint/114491bb-f40c-4b3c-97c6-c6bca35183a8',
+            'htmlSnippet': 'Apply for this <b>job</b> ... With a smart and '
+                           'disciplined team focused on business <br>\n'
+                           'metrics and <b>company</b> culture, we have been '
+                           'able to grow profitably without <br>\n'
+                           'raising&nbsp;...',
+            'htmlTitle': 'TINT - Senior Software Engineer, Frontend',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/tint/114491bb-f40c-4b3c-97c6-c6bca35183a8',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/tint.png'}],
+                        'cse_thumbnail': [{'height': '111',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRnkkXxnsIg2e8dxYdb5rJeH60VaDkb5WG9SDwtSFC1iAK8qHzQu4deyY',
+                                           'width': '455'}],
+                        'metatags': [{'og:description': "Marketing shouldn't "
+                                                        'be hard—it should be '
+                                                        "fun. That's why we "
+                                                        'built TINT, a '
+                                                        'marketing platform '
+                                                        'that help marketers '
+                                                        'leverage '
+                                                        'user-generated '
+                                                        'content. TINT curates '
+                                                        'the best '
+                                                        'user-generated '
+                                                        'content and showcases '
+                                                        'it throughout your '
+                                                        'marketing efforts. We '
+                                                        'believe in letting '
+                                                        'your community- the '
+                                                        'real people that use, '
+                                                        'share, and love your '
+                                                        'brand- tell your true '
+                                                        'brand story. TINT '
+                                                        'supports 5,000+ '
+                                                        'brands and '
+                                                        'organizations around '
+                                                        'the globe from '
+                                                        'Planned Parenthood to '
+                                                        'Greenpeace, and Coca '
+                                                        'Cola to the UN. With '
+                                                        'a smart and '
+                                                        'disciplined team '
+                                                        'focused on business '
+                                                        'metrics and company '
+                                                        'culture, we have been '
+                                                        'able to grow '
+                                                        'profitably without '
+                                                        'raising any '
+                                                        'additional venture '
+                                                        'capital money, and '
+                                                        'are now leading our '
+                                                        'market. We share '
+                                                        'bonuses every quarter '
+                                                        'when we meet our '
+                                                        'financial goals. TINT '
+                                                        'prides itself on a '
+                                                        'transparent culture '
+                                                        'where everything from '
+                                                        'meeting notes to '
+                                                        'salaries are shared, '
+                                                        'and we also have a '
+                                                        'pretty cool '
+                                                        'self-improvement '
+                                                        'program to boot. You '
+                                                        'can find out more '
+                                                        'about our approach '
+                                                        'and culture here. '
+                                                        'TINT is',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/tint.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'TINT - Senior Software '
+                                                  'Engineer, Frontend',
+                                      'og:url': 'https://jobs.lever.co/tint/114491bb-f40c-4b3c-97c6-c6bca35183a8',
+                                      'twitter:description': 'Marketing '
+                                                             "shouldn't be "
+                                                             'hard—it should '
+                                                             "be fun. That's "
+                                                             'why we built '
+                                                             'TINT, a '
+                                                             'marketing '
+                                                             'platform that '
+                                                             'help marketers '
+                                                             'leverage '
+                                                             'user-generated '
+                                                             'content. TINT '
+                                                             'curates the best '
+                                                             'user-generated '
+                                                             'content and '
+                                                             'showcases it '
+                                                             'throughout your '
+                                                             'marketing '
+                                                             'efforts. We '
+                                                             'believe in '
+                                                             'letting your '
+                                                             'community- the '
+                                                             'real people that '
+                                                             'use, share, and '
+                                                             'love your brand- '
+                                                             'tell your true '
+                                                             'brand story. '
+                                                             'TINT supports '
+                                                             '5,000+ brands '
+                                                             'and '
+                                                             'organizations '
+                                                             'around the globe '
+                                                             'from Planned '
+                                                             'Parenthood to '
+                                                             'Greenpeace, and '
+                                                             'Coca Cola to the '
+                                                             'UN. With a smart '
+                                                             'and disciplined '
+                                                             'team focused on '
+                                                             'business metrics '
+                                                             'and company '
+                                                             'culture, we have '
+                                                             'been able to '
+                                                             'grow profitably '
+                                                             'without raising '
+                                                             'any additional '
+                                                             'venture capital '
+                                                             'money, and are '
+                                                             'now leading our '
+                                                             'market. We share '
+                                                             'bonuses every '
+                                                             'quarter when we '
+                                                             'meet our '
+                                                             'financial goals. '
+                                                             'TINT prides '
+                                                             'itself on a '
+                                                             'transparent '
+                                                             'culture where '
+                                                             'everything from '
+                                                             'meeting notes to '
+                                                             'salaries are '
+                                                             'shared, and we '
+                                                             'also have a '
+                                                             'pretty cool '
+                                                             'self-improvement '
+                                                             'program to boot. '
+                                                             'You can find out '
+                                                             'more about our '
+                                                             'approach and '
+                                                             'culture here. '
+                                                             'TINT is',
+                                      'twitter:title': 'TINT - Senior Software '
+                                                       'Engineer, Frontend',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Apply for this job ... With a smart and disciplined '
+                       'team focused on business \n'
+                       'metrics and company culture, we have been able to grow '
+                       'profitably without \n'
+                       'raising\xa0...',
+            'title': 'TINT - Senior Software Engineer, Frontend'},
+           {'cacheId': '-epDX_GGAg4J',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/.../1f580ccd-360e-4ad2-8513-e8ae411c8b18',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/.../1f580ccd-360e-4ad2-8513-e8ae411c8b18',
+            'htmlSnippet': 'Apply for this <b>job</b>. Zenput is a San '
+                           'Francisco based venture funded mobile <br>\n'
+                           'enterprise <b>company</b> currently ... We lean '
+                           'heavily on HTML5 and <b>Javascript</b> to do <br>\n'
+                           'so.',
+            'htmlTitle': 'Zenput - Senior <b>Javascript</b> Engineer',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/zenput/1f580ccd-360e-4ad2-8513-e8ae411c8b18',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/5ce508bc-829c-4587-9128-b7e750d0ff4d-1497380697142.png'}],
+                        'cse_thumbnail': [{'height': '163',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzP9w5hGFIst15gPTNsIrZFoQK9r57JG1ISTRwpHUf-ixqt9U1dMMrQho',
+                                           'width': '310'}],
+                        'metatags': [{'og:description': 'Zenput is a San '
+                                                        'Francisco based '
+                                                        'venture funded mobile '
+                                                        'enterprise company '
+                                                        'currently with twenty '
+                                                        'employees. Our focus '
+                                                        'is on helping '
+                                                        'retailers and '
+                                                        'consumer packaged '
+                                                        'goods companies deal '
+                                                        'with task management '
+                                                        'and data collection '
+                                                        'for field workers. '
+                                                        'Our current customers '
+                                                        'include well known '
+                                                        'brands like Domino’s, '
+                                                        'Coca-Cola, Papa '
+                                                        'John’s, 7-Eleven, '
+                                                        'Sunoco, and many '
+                                                        'others. Recently we '
+                                                        'have begun to expand '
+                                                        'into the Internet of '
+                                                        'Things (IoT) as our '
+                                                        'customers are now '
+                                                        'using more and more '
+                                                        'connected systems, '
+                                                        'from smart '
+                                                        'thermometers to '
+                                                        'connected security '
+                                                        'systems. We need your '
+                                                        'help in growing the '
+                                                        'systems side of our '
+                                                        'architecture in order '
+                                                        'to support these new '
+                                                        'growth in data. As '
+                                                        'with most Silicon '
+                                                        'Valley companies, we '
+                                                        'move very fast except '
+                                                        "that we don't like to "
+                                                        'break things. We lean '
+                                                        'heavily on HTML5 and '
+                                                        'Javascript to do so. '
+                                                        'We extensively use '
+                                                        'Backbone in the '
+                                                        'frontend, connected '
+                                                        'to a Python/Django '
+                                                        'backend, with MySQL '
+                                                        'and Mongo for '
+                                                        'persistence. Our iOS '
+                                                        'and Android apps are '
+                                                        'also fully written '
+                                                        'with HTML and Ja',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/5ce508bc-829c-4587-9128-b7e750d0ff4d-1497380697142.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Zenput - Senior Javascript '
+                                                  'Engineer',
+                                      'og:url': 'https://jobs.lever.co/zenput/1f580ccd-360e-4ad2-8513-e8ae411c8b18',
+                                      'twitter:description': 'Zenput is a San '
+                                                             'Francisco based '
+                                                             'venture funded '
+                                                             'mobile '
+                                                             'enterprise '
+                                                             'company '
+                                                             'currently with '
+                                                             'twenty '
+                                                             'employees. Our '
+                                                             'focus is on '
+                                                             'helping '
+                                                             'retailers and '
+                                                             'consumer '
+                                                             'packaged goods '
+                                                             'companies deal '
+                                                             'with task '
+                                                             'management and '
+                                                             'data collection '
+                                                             'for field '
+                                                             'workers. Our '
+                                                             'current '
+                                                             'customers '
+                                                             'include well '
+                                                             'known brands '
+                                                             'like Domino’s, '
+                                                             'Coca-Cola, Papa '
+                                                             'John’s, '
+                                                             '7-Eleven, '
+                                                             'Sunoco, and many '
+                                                             'others. Recently '
+                                                             'we have begun to '
+                                                             'expand into the '
+                                                             'Internet of '
+                                                             'Things (IoT) as '
+                                                             'our customers '
+                                                             'are now using '
+                                                             'more and more '
+                                                             'connected '
+                                                             'systems, from '
+                                                             'smart '
+                                                             'thermometers to '
+                                                             'connected '
+                                                             'security '
+                                                             'systems. We need '
+                                                             'your help in '
+                                                             'growing the '
+                                                             'systems side of '
+                                                             'our architecture '
+                                                             'in order to '
+                                                             'support these '
+                                                             'new growth in '
+                                                             'data. As with '
+                                                             'most Silicon '
+                                                             'Valley '
+                                                             'companies, we '
+                                                             'move very fast '
+                                                             'except that we '
+                                                             "don't like to "
+                                                             'break things. We '
+                                                             'lean heavily on '
+                                                             'HTML5 and '
+                                                             'Javascript to do '
+                                                             'so. We '
+                                                             'extensively use '
+                                                             'Backbone in the '
+                                                             'frontend, '
+                                                             'connected to a '
+                                                             'Python/Django '
+                                                             'backend, with '
+                                                             'MySQL and Mongo '
+                                                             'for persistence. '
+                                                             'Our iOS and '
+                                                             'Android apps are '
+                                                             'also fully '
+                                                             'written with '
+                                                             'HTML and Ja',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/5ce508bc-829c-4587-9128-b7e750d0ff4d-1497380632158.png',
+                                      'twitter:title': 'Zenput - Senior '
+                                                       'Javascript Engineer',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Apply for this job. Zenput is a San Francisco based '
+                       'venture funded mobile \n'
+                       'enterprise company currently ... We lean heavily on '
+                       'HTML5 and Javascript to do \n'
+                       'so.',
+            'title': 'Zenput - Senior Javascript Engineer'},
+           {'cacheId': 'cQaHmT7cAxUJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/close.../10a1e32b-1a59-48dc-b8f4-e6f0dfae4e20',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/close.../10a1e32b-1a59-48dc-b8f4-e6f0dfae4e20',
+            'htmlSnippet': 'Apply for this <b>job</b> ... Our app&#39;s '
+                           'front-end is a single-page HTML5/<b>JavaScript</b> '
+                           'web <br>\n'
+                           'app written with Backbone.<b>js</b> &amp; React, '
+                           '... with the whole team :) Help build a truly '
+                           '<br>\n'
+                           'successful SaaS <b>company</b> with a stellar team '
+                           'where you can have a huge impact.',
+            'htmlTitle': 'Close.io - Senior <b>JavaScript</b>/UI Frontend '
+                         'Engineer',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/close.io/10a1e32b-1a59-48dc-b8f4-e6f0dfae4e20',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/Close.io.png'}],
+                        'cse_thumbnail': [{'height': '128',
+                                           'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQcidLcpznSau4hKSPlGy_ZZ7FpcAqqhz5ip8E3xYls3ThLdtUIFYUNfyF',
+                                           'width': '393'}],
+                        'metatags': [{'og:description': 'ABOUT US At Close.io '
+                                                        'we’re building the '
+                                                        'sales communication '
+                                                        'platform of the '
+                                                        'future. We’ve built a '
+                                                        'next-generation CRM '
+                                                        'that eliminates '
+                                                        'manual data entry and '
+                                                        'helps sales teams '
+                                                        'close more deals. We '
+                                                        'are hiring engineers '
+                                                        'to help us unify the '
+                                                        "world's sales calls "
+                                                        'and emails into one '
+                                                        'beautiful workflow. '
+                                                        'Our app’s front-end '
+                                                        'is a single-page '
+                                                        'HTML5/JavaScript web '
+                                                        'app written with '
+                                                        'Backbone.js & React, '
+                                                        'jQuery, RequireJS, '
+                                                        'Handlebars, QUnit, '
+                                                        'etc. It’s built '
+                                                        'entirely on top of '
+                                                        'our public REST API '
+                                                        'and targets only '
+                                                        'modern browsers. Our '
+                                                        'UI updates in near '
+                                                        'real-time and is '
+                                                        'written in LESS/CSS '
+                                                        'atop Bootstrap. We ❤ '
+                                                        'open source – using '
+                                                        '40+ frontend '
+                                                        'libraries/plugins '
+                                                        'with contributions to '
+                                                        'many of them. ABOUT '
+                                                        "YOU We're looking for "
+                                                        'experienced full-time '
+                                                        'developers to join '
+                                                        'our core team who '
+                                                        'have a strong '
+                                                        'understanding of web '
+                                                        'technologies and want '
+                                                        'to help design, '
+                                                        'implement, and launch '
+                                                        'major user-facing '
+                                                        'features.',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/Close.io.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Close.io - Senior '
+                                                  'JavaScript/UI Frontend '
+                                                  'Engineer',
+                                      'og:url': 'https://jobs.lever.co/close.io/10a1e32b-1a59-48dc-b8f4-e6f0dfae4e20',
+                                      'twitter:description': 'ABOUT US At '
+                                                             'Close.io we’re '
+                                                             'building the '
+                                                             'sales '
+                                                             'communication '
+                                                             'platform of the '
+                                                             'future. We’ve '
+                                                             'built a '
+                                                             'next-generation '
+                                                             'CRM that '
+                                                             'eliminates '
+                                                             'manual data '
+                                                             'entry and helps '
+                                                             'sales teams '
+                                                             'close more '
+                                                             'deals. We are '
+                                                             'hiring engineers '
+                                                             'to help us unify '
+                                                             "the world's "
+                                                             'sales calls and '
+                                                             'emails into one '
+                                                             'beautiful '
+                                                             'workflow. Our '
+                                                             'app’s front-end '
+                                                             'is a single-page '
+                                                             'HTML5/JavaScript '
+                                                             'web app written '
+                                                             'with Backbone.js '
+                                                             '& React, jQuery, '
+                                                             'RequireJS, '
+                                                             'Handlebars, '
+                                                             'QUnit, etc. It’s '
+                                                             'built entirely '
+                                                             'on top of our '
+                                                             'public REST API '
+                                                             'and targets only '
+                                                             'modern browsers. '
+                                                             'Our UI updates '
+                                                             'in near '
+                                                             'real-time and is '
+                                                             'written in '
+                                                             'LESS/CSS atop '
+                                                             'Bootstrap. We ❤ '
+                                                             'open source – '
+                                                             'using 40+ '
+                                                             'frontend '
+                                                             'libraries/plugins '
+                                                             'with '
+                                                             'contributions to '
+                                                             'many of them. '
+                                                             "ABOUT YOU We're "
+                                                             'looking for '
+                                                             'experienced '
+                                                             'full-time '
+                                                             'developers to '
+                                                             'join our core '
+                                                             'team who have a '
+                                                             'strong '
+                                                             'understanding of '
+                                                             'web technologies '
+                                                             'and want to help '
+                                                             'design, '
+                                                             'implement, and '
+                                                             'launch major '
+                                                             'user-facing '
+                                                             'features.',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/7cee7f57-cca0-4e06-9fa2-82d0871a65f3-1480629543022.png',
+                                      'twitter:title': 'Close.io - Senior '
+                                                       'JavaScript/UI Frontend '
+                                                       'Engineer',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': "Apply for this job ... Our app's front-end is a "
+                       'single-page HTML5/JavaScript web \n'
+                       'app written with Backbone.js & React, ... with the '
+                       'whole team :) Help build a truly \n'
+                       'successful SaaS company with a stellar team where you '
+                       'can have a huge impact.',
+            'title': 'Close.io - Senior JavaScript/UI Frontend Engineer'},
+           {'cacheId': 'xl93IIGlWnQJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/...com/ea972c24-982c-4724-bb4a-11cdf39c262d',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/...<b>com</b>/ea972c24-982c-4724-bb4a-11cdf39c262d',
+            'htmlSnippet': 'At Help.<b>com</b>, we want to help eliminate '
+                           'terrible customer service experiences and <br>\n'
+                           'make ... We are predominantly in the '
+                           '<b>JavaScript</b>/Node.<b>js</b> ecosystem, but '
+                           'are <br>\n'
+                           'developing a ... All of our <b>positions</b> are '
+                           'based in our office in downtown Austin, TX<br>\n'
+                           '.',
+            'htmlTitle': 'Help.<b>com</b> - Senior Software Engineer (Backend '
+                         '- Node.<b>js</b>)',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/help.com/ea972c24-982c-4724-bb4a-11cdf39c262d',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1453999919757.png'}],
+                        'cse_thumbnail': [{'height': '123',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTNrvw0FhjVi2p-1ZKDMkFPJ6ryVlLpHoFj2YBdUiAdxvaMBcqXIC1JA',
+                                           'width': '411'}],
+                        'metatags': [{'og:description': 'At Help.com, we want '
+                                                        'to help eliminate '
+                                                        'terrible customer '
+                                                        'service experiences '
+                                                        'and make good '
+                                                        'experiences great. '
+                                                        'Waiting around for '
+                                                        'agents to locate your '
+                                                        'account information, '
+                                                        'lookup a company '
+                                                        'policy, or see your '
+                                                        'previous interaction '
+                                                        'history will become a '
+                                                        'thing of the past. '
+                                                        "We're just getting "
+                                                        'started so you have '
+                                                        'the chance to come in '
+                                                        'and help us build new '
+                                                        'products on a small, '
+                                                        'agile team. Your '
+                                                        'contributions will be '
+                                                        'felt immediately and '
+                                                        "you'll be able to "
+                                                        'help us shape our '
+                                                        'products and '
+                                                        'development path. We '
+                                                        'are predominantly in '
+                                                        'the '
+                                                        'JavaScript/Node.js '
+                                                        'ecosystem, but are '
+                                                        'developing a '
+                                                        'microservice '
+                                                        'architecture that '
+                                                        'gives us immense '
+                                                        'flexibility in our '
+                                                        'choice of languages '
+                                                        'and tools. We take '
+                                                        'pride in making sure '
+                                                        'that our APIs are '
+                                                        'well documented, our '
+                                                        'code is well tested, '
+                                                        'and our team '
+                                                        'understands what '
+                                                        "we're building and "
+                                                        "why. We're looking "
+                                                        'for a solid backend '
+                                                        'developer who has '
+                                                        'been around the block '
+                                                        'to help us build out '
+                                                        'our API driven '
+                                                        '(micro)services '
+                                                        "architecture. We're "
+                                                        'working with the '
+                                                        'realtime w',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1453999919757.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'Help.com - Senior Software '
+                                                  'Engineer (Backend - '
+                                                  'Node.js)',
+                                      'og:url': 'https://jobs.lever.co/help.com/ea972c24-982c-4724-bb4a-11cdf39c262d',
+                                      'twitter:description': 'At Help.com, we '
+                                                             'want to help '
+                                                             'eliminate '
+                                                             'terrible '
+                                                             'customer service '
+                                                             'experiences and '
+                                                             'make good '
+                                                             'experiences '
+                                                             'great. Waiting '
+                                                             'around for '
+                                                             'agents to locate '
+                                                             'your account '
+                                                             'information, '
+                                                             'lookup a company '
+                                                             'policy, or see '
+                                                             'your previous '
+                                                             'interaction '
+                                                             'history will '
+                                                             'become a thing '
+                                                             'of the past. '
+                                                             "We're just "
+                                                             'getting started '
+                                                             'so you have the '
+                                                             'chance to come '
+                                                             'in and help us '
+                                                             'build new '
+                                                             'products on a '
+                                                             'small, agile '
+                                                             'team. Your '
+                                                             'contributions '
+                                                             'will be felt '
+                                                             'immediately and '
+                                                             "you'll be able "
+                                                             'to help us shape '
+                                                             'our products and '
+                                                             'development '
+                                                             'path. We are '
+                                                             'predominantly in '
+                                                             'the '
+                                                             'JavaScript/Node.js '
+                                                             'ecosystem, but '
+                                                             'are developing a '
+                                                             'microservice '
+                                                             'architecture '
+                                                             'that gives us '
+                                                             'immense '
+                                                             'flexibility in '
+                                                             'our choice of '
+                                                             'languages and '
+                                                             'tools. We take '
+                                                             'pride in making '
+                                                             'sure that our '
+                                                             'APIs are well '
+                                                             'documented, our '
+                                                             'code is well '
+                                                             'tested, and our '
+                                                             'team understands '
+                                                             "what we're "
+                                                             'building and '
+                                                             "why. We're "
+                                                             'looking for a '
+                                                             'solid backend '
+                                                             'developer who '
+                                                             'has been around '
+                                                             'the block to '
+                                                             'help us build '
+                                                             'out our API '
+                                                             'driven '
+                                                             '(micro)services '
+                                                             'architecture. '
+                                                             "We're working "
+                                                             'with the '
+                                                             'realtime w',
+                                      'twitter:title': 'Help.com - Senior '
+                                                       'Software Engineer '
+                                                       '(Backend - Node.js)',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'At Help.com, we want to help eliminate terrible '
+                       'customer service experiences and \n'
+                       'make ... We are predominantly in the '
+                       'JavaScript/Node.js ecosystem, but are \n'
+                       'developing a ... All of our positions are based in our '
+                       'office in downtown Austin, TX\n'
+                       '.',
+            'title': 'Help.com - Senior Software Engineer (Backend - Node.js)'},
+           {'cacheId': '4muv_CMT5PMJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/.../561da79b-86dd-4d38-b641-2d6d3abb2d1f',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/.../561da79b-86dd-4d38-b641-2d6d3abb2d1f',
+            'htmlSnippet': 'Apply for this <b>job</b> ... We are a seed-stage '
+                           '<b>company</b> and Public Benefit <br>\n'
+                           'Corporation, supported by some of the biggest '
+                           'names in Silicon Valley. <b>Company</b> <br>\n'
+                           'Culture.',
+            'htmlTitle': 'OpenInvest - Full-Stack Software Engineer',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/openinvest/561da79b-86dd-4d38-b641-2d6d3abb2d1f',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/c7a28505-c5e8-421e-91b5-122c0674143a-1489793594780.png'}],
+                        'cse_thumbnail': [{'height': '225',
+                                           'src': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjNha8PTqdbp-498E36RoEkzpnVWOjeK0CXfYGVDlNSfdOUg86x3XW0Go',
+                                           'width': '225'}],
+                        'metatags': [{'og:description': 'As a core technical '
+                                                        "hire, you'll work "
+                                                        'with and report to '
+                                                        'our CTO. You’ll '
+                                                        'provide guidance and '
+                                                        'support in crafting, '
+                                                        'improving and '
+                                                        'implementing our '
+                                                        'technology stack. '
+                                                        'You’re the kind of '
+                                                        'person who cares '
+                                                        'deeply about and '
+                                                        'understands what it '
+                                                        'takes to cultivate a '
+                                                        'healthy engineering '
+                                                        'culture. You can '
+                                                        'delegate to teammates '
+                                                        "as needed, and aren't "
+                                                        'afraid to reach out '
+                                                        'for advice. You are '
+                                                        'collaborative and '
+                                                        'committed to building '
+                                                        'relationships with '
+                                                        'your peers and '
+                                                        'reports. We’d like '
+                                                        'you to be comfortable '
+                                                        'with full stack '
+                                                        'experience (you '
+                                                        'handle both front and '
+                                                        'back end issues '
+                                                        'flexibly and with '
+                                                        "ease). You're "
+                                                        'passionate about '
+                                                        'inventing new '
+                                                        'solutions to '
+                                                        'problems, and you '
+                                                        'have experience being '
+                                                        'on call in case '
+                                                        'something happens '
+                                                        '(which it will). Your '
+                                                        'work will impact the '
+                                                        'next iteration of our '
+                                                        'product and how we '
+                                                        'achieve our mission '
+                                                        'of responsible, '
+                                                        'transparent and '
+                                                        'ethical investing.',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/c7a28505-c5e8-421e-91b5-122c0674143a-1489793594780.png',
+                                      'og:image:height': '200',
+                                      'og:title': 'OpenInvest - Full-Stack '
+                                                  'Software Engineer',
+                                      'og:url': 'https://jobs.lever.co/openinvest/561da79b-86dd-4d38-b641-2d6d3abb2d1f',
+                                      'twitter:description': 'As a core '
+                                                             'technical hire, '
+                                                             "you'll work with "
+                                                             'and report to '
+                                                             'our CTO. You’ll '
+                                                             'provide guidance '
+                                                             'and support in '
+                                                             'crafting, '
+                                                             'improving and '
+                                                             'implementing our '
+                                                             'technology '
+                                                             'stack. You’re '
+                                                             'the kind of '
+                                                             'person who cares '
+                                                             'deeply about and '
+                                                             'understands what '
+                                                             'it takes to '
+                                                             'cultivate a '
+                                                             'healthy '
+                                                             'engineering '
+                                                             'culture. You can '
+                                                             'delegate to '
+                                                             'teammates as '
+                                                             'needed, and '
+                                                             "aren't afraid to "
+                                                             'reach out for '
+                                                             'advice. You are '
+                                                             'collaborative '
+                                                             'and committed to '
+                                                             'building '
+                                                             'relationships '
+                                                             'with your peers '
+                                                             'and reports. '
+                                                             'We’d like you to '
+                                                             'be comfortable '
+                                                             'with full stack '
+                                                             'experience (you '
+                                                             'handle both '
+                                                             'front and back '
+                                                             'end issues '
+                                                             'flexibly and '
+                                                             'with ease). '
+                                                             "You're "
+                                                             'passionate about '
+                                                             'inventing new '
+                                                             'solutions to '
+                                                             'problems, and '
+                                                             'you have '
+                                                             'experience being '
+                                                             'on call in case '
+                                                             'something '
+                                                             'happens (which '
+                                                             'it will). Your '
+                                                             'work will impact '
+                                                             'the next '
+                                                             'iteration of our '
+                                                             'product and how '
+                                                             'we achieve our '
+                                                             'mission of '
+                                                             'responsible, '
+                                                             'transparent and '
+                                                             'ethical '
+                                                             'investing.',
+                                      'twitter:title': 'OpenInvest - '
+                                                       'Full-Stack Software '
+                                                       'Engineer',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Apply for this job ... We are a seed-stage company and '
+                       'Public Benefit \n'
+                       'Corporation, supported by some of the biggest names in '
+                       'Silicon Valley. Company \n'
+                       'Culture.',
+            'title': 'OpenInvest - Full-Stack Software Engineer'},
+           {'cacheId': 'n9iLsCWSYKMJ',
+            'displayLink': 'jobs.lever.co',
+            'formattedUrl': 'https://jobs.lever.co/paytm/aa6af0f6-3811-4edc-8251-41ad7a7a13fc',
+            'htmlFormattedUrl': 'https://<b>jobs</b>.<b>lever</b>.<b>co</b>/paytm/aa6af0f6-3811-4edc-8251-41ad7a7a13fc',
+            'htmlSnippet': 'Software Engineer (Node.<b>js</b>). Paytm '
+                           'Development Center, India – Noida. <b>Job</b> '
+                           '<br>\n'
+                           'Description. We are looking for Node.<b>js</b> '
+                           'ninjas who want to help us design cutting<br>\n'
+                           '&nbsp;...',
+            'htmlTitle': 'Paytm Labs - Software Engineer (Node.<b>js</b>)',
+            'kind': 'customsearch#result',
+            'link': 'https://jobs.lever.co/paytm/aa6af0f6-3811-4edc-8251-41ad7a7a13fc',
+            'pagemap': {'cse_image': [{'src': 'https://lever-client-logos.s3.amazonaws.com/6521cfd0-ca15-4021-8fc8-e8b3c3e2897d-1483105246638.png'}],
+                        'cse_thumbnail': [{'height': '159',
+                                           'src': 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKSWkV27XT1bSGqnoitBZD4fSH7bM7XKGVO0jeURFbZLVeE85miT9kAvw',
+                                           'width': '318'}],
+                        'metatags': [{'og:description': 'Software Engineer '
+                                                        '(Node.js) Paytm '
+                                                        'Development Center, '
+                                                        'India – Noida Job '
+                                                        'Description We are '
+                                                        'looking for Node.js '
+                                                        'ninjas who want to '
+                                                        'help us design '
+                                                        'cutting edge scalable '
+                                                        'products to meet our '
+                                                        'rapidly growing '
+                                                        'business. We are '
+                                                        'building out a team '
+                                                        'and looking for '
+                                                        'multiple levels but '
+                                                        'you should have at '
+                                                        'least 3 years of '
+                                                        'programming '
+                                                        'experience. Key '
+                                                        'Responsibilities '
+                                                        '\uf0d8 Build high '
+                                                        'availability and '
+                                                        'extreme reliable high '
+                                                        'volume transactional '
+                                                        'systems. \uf0d8 '
+                                                        'Deliver reliable '
+                                                        'solutions that handle '
+                                                        'massive data and high '
+                                                        'traffic. Skills '
+                                                        'required \uf0d8 MS or '
+                                                        'BS/B.Tech in computer '
+                                                        'science or equivalent '
+                                                        'experience from top '
+                                                        'college. \uf0d8 '
+                                                        'Hands-on experience '
+                                                        'in writing Node.js '
+                                                        'applications '
+                                                        '(including Socket.io '
+                                                        'and Express or '
+                                                        'similar). \uf0d8 '
+                                                        'Proficiency in '
+                                                        'multiple programming '
+                                                        'language, both '
+                                                        'dynamic (JavaScript, '
+                                                        'Python, etc.) and '
+                                                        'strongly typed object '
+                                                        'oriented language. '
+                                                        '\uf0d8 Experience and '
+                                                        'knowledge of open '
+                                                        'source tools & '
+                                                        'frameworks, broader '
+                                                        'cutting edge '
+                                                        'technologies around '
+                                                        'server side '
+                                                        'development. \uf0d8 '
+                                                        'Excellent data '
+                                                        'structure',
+                                      'og:image': 'https://lever-client-logos.s3.amazonaws.com/6521cfd0-ca15-4021-8fc8-e8b3c3e2897d-1483105246638.png',
+                                      'og:image:height': '630',
+                                      'og:image:width': '1200',
+                                      'og:title': 'Paytm Labs - Software '
+                                                  'Engineer (Node.js)',
+                                      'og:url': 'https://jobs.lever.co/paytm/aa6af0f6-3811-4edc-8251-41ad7a7a13fc',
+                                      'twitter:description': 'Software '
+                                                             'Engineer '
+                                                             '(Node.js) Paytm '
+                                                             'Development '
+                                                             'Center, India – '
+                                                             'Noida Job '
+                                                             'Description We '
+                                                             'are looking for '
+                                                             'Node.js ninjas '
+                                                             'who want to help '
+                                                             'us design '
+                                                             'cutting edge '
+                                                             'scalable '
+                                                             'products to meet '
+                                                             'our rapidly '
+                                                             'growing '
+                                                             'business. We are '
+                                                             'building out a '
+                                                             'team and looking '
+                                                             'for multiple '
+                                                             'levels but you '
+                                                             'should have at '
+                                                             'least 3 years of '
+                                                             'programming '
+                                                             'experience. Key '
+                                                             'Responsibilities '
+                                                             '\uf0d8 Build '
+                                                             'high '
+                                                             'availability and '
+                                                             'extreme reliable '
+                                                             'high volume '
+                                                             'transactional '
+                                                             'systems. \uf0d8 '
+                                                             'Deliver reliable '
+                                                             'solutions that '
+                                                             'handle massive '
+                                                             'data and high '
+                                                             'traffic. Skills '
+                                                             'required \uf0d8 '
+                                                             'MS or BS/B.Tech '
+                                                             'in computer '
+                                                             'science or '
+                                                             'equivalent '
+                                                             'experience from '
+                                                             'top college. '
+                                                             '\uf0d8 Hands-on '
+                                                             'experience in '
+                                                             'writing Node.js '
+                                                             'applications '
+                                                             '(including '
+                                                             'Socket.io and '
+                                                             'Express or '
+                                                             'similar). \uf0d8 '
+                                                             'Proficiency in '
+                                                             'multiple '
+                                                             'programming '
+                                                             'language, both '
+                                                             'dynamic '
+                                                             '(JavaScript, '
+                                                             'Python, etc.) '
+                                                             'and strongly '
+                                                             'typed object '
+                                                             'oriented '
+                                                             'language. \uf0d8 '
+                                                             'Experience and '
+                                                             'knowledge of '
+                                                             'open source '
+                                                             'tools & '
+                                                             'frameworks, '
+                                                             'broader cutting '
+                                                             'edge '
+                                                             'technologies '
+                                                             'around server '
+                                                             'side '
+                                                             'development. '
+                                                             '\uf0d8 Excellent '
+                                                             'data structure',
+                                      'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/6521cfd0-ca15-4021-8fc8-e8b3c3e2897d-1483105235161.png',
+                                      'twitter:title': 'Paytm Labs - Software '
+                                                       'Engineer (Node.js)',
+                                      'viewport': 'width=device-width, '
+                                                  'initial-scale=1, '
+                                                  'maximum-scale=1'}]},
+            'snippet': 'Software Engineer (Node.js). Paytm Development Center, '
+                       'India – Noida. Job \n'
+                       'Description. We are looking for Node.js ninjas who '
+                       'want to help us design cutting\n'
+                       '\xa0...',
+            'title': 'Paytm Labs - Software Engineer (Node.js)'}],
+ 'kind': 'customsearch#search',
+ 'queries': {'nextPage': [{'count': 10,
+                           'cx': '009043117829057268965:tgiqlni9v2w',
+                           'inputEncoding': 'utf8',
+                           'outputEncoding': 'utf8',
+                           'safe': 'off',
+                           'searchTerms': 'jobs.lever.co javascript',
+                           'startIndex': 11,
+                           'title': 'Google Custom Search - jobs.lever.co '
+                                    'javascript',
+                           'totalResults': '2700'}],
+             'request': [{'count': 10,
+                          'cx': '009043117829057268965:tgiqlni9v2w',
+                          'inputEncoding': 'utf8',
+                          'outputEncoding': 'utf8',
+                          'safe': 'off',
+                          'searchTerms': 'jobs.lever.co javascript',
+                          'startIndex': 1,
+                          'title': 'Google Custom Search - jobs.lever.co '
+                                   'javascript',
+                          'totalResults': '2700'}]},
+ 'searchInformation': {'formattedSearchTime': '0.51',
+                       'formattedTotalResults': '2,700',
+                       'searchTime': 0.512026,
+                       'totalResults': '2700'},
+ 'url': {'template': 'https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json',
+         'type': 'application/json'}}

@@ -1,0 +1,20 @@
+<!-- <person>
+  <name>Chuck</name>
+  <phone type="intl">
+    +1 734 303 4456
+  </phone>
+  <email hide="yes"/>
+</person> -->
+
+<!-- <stuff>
+  <users>
+    <user x="2">
+      <id>001</id>
+      <name>Chuck</name>
+    </user>
+    <user x="7">
+      <id>009</id>
+      <name>Brent</name>
+    </user>
+  </users>
+</stuff> -->
