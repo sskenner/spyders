@@ -1,0 +1,116 @@
+[
+    {
+        "cacheId": "2ooR4d0VEr0J", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../b6caaae6-2924-48d3-866c-507aeed7f92c", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../b6caaae6-2924-48d3-866c-507aeed7f92c", 
+        "htmlSnippet": "We are a <b>remote</b> and talented product development group and we work in small <br>\nautonomous teams to create high quality products. Thousands of organizations&nbsp;...", 
+        "htmlTitle": "Sonatype - Senior Full-Stack <b>Java</b> Software Engineer - 100% <b>Remote</b>", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "160", 
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzhxSjZw-Fr4thSQ9zY_X8gKc_7u-cqOTZr4ziVVoxvK5zhrc5dt81Kw", 
+                    "width": "160"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Sonatype\u2019s mission is to enable organizations to better manage their software supply chain. We offer a series of products and services including the Nexus Repository Manager and Nexus Lifecycle Manager. We are a remote and talented product development group and we work in small autonomous teams to create high quality products. Thousands of organizations and millions of developers use our software. If you have a passion for challenging problems, software craftsmanship, and having impact, then Sonatype is the right place for you.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png", 
+                    "og:image:height": "200", 
+                    "og:title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote", 
+                    "og:url": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c", 
+                    "twitter:description": "Sonatype\u2019s mission is to enable organizations to better manage their software supply chain. We offer a series of products and services including the Nexus Repository Manager and Nexus Lifecycle Manager. We are a remote and talented product development group and we work in small autonomous teams to create high quality products. Thousands of organizations and millions of developers use our software. If you have a passion for challenging problems, software craftsmanship, and having impact, then Sonatype is the right place for you.", 
+                    "twitter:title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "We are a remote and talented product development group and we work in small \nautonomous teams to create high quality products. Thousands of organizations\u00a0...", 
+        "title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote"
+    }, 
+    {
+        "cacheId": "QJY5N8Zv2wIJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c.../apply", 
+        "htmlFormattedUrl": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c.../apply", 
+        "htmlSnippet": "Self-identification of veteran status (Completion is voluntary and will not subject <br>\nyou to adverse treatment). Sonatype is a Government contractor subject to the&nbsp;...", 
+        "htmlTitle": "Sonatype - Senior <b>Java</b> Software Engineer - 100% <b>Remote</b>", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c/apply", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "160", 
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzhxSjZw-Fr4thSQ9zY_X8gKc_7u-cqOTZr4ziVVoxvK5zhrc5dt81Kw", 
+                    "width": "160"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Sonatype has drawn from the global pool of software development talent, with engineering expertise in the UK, Europe, Canada and the US. Our product development teams lead the ongoing evolution of multiple market leading products -- Nexus Repository and Nexus Lifecycle -- used by hundreds of thousands of developers, application security professionals and legal staff across the world. No one is going to tell you when to get up in the morning. No one is going to dole out a bunch of small tasks for you to do each day. Members of Sonatype's software development organization have to have the internal drive and initiative to make the product vision a reality. Flow should be the predominant state of mind.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png", 
+                    "og:image:height": "200", 
+                    "og:title": "Sonatype - Senior Java Software Engineer - 100% Remote", 
+                    "og:url": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c/apply", 
+                    "twitter:description": "Sonatype has drawn from the global pool of software development talent, with engineering expertise in the UK, Europe, Canada and the US. Our product development teams lead the ongoing evolution of multiple market leading products -- Nexus Repository and Nexus Lifecycle -- used by hundreds of thousands of developers, application security professionals and legal staff across the world. No one is going to tell you when to get up in the morning. No one is going to dole out a bunch of small tasks for you to do each day. Members of Sonatype's software development organization have to have the internal drive and initiative to make the product vision a reality. Flow should be the predominant state of mind.", 
+                    "twitter:title": "Sonatype - Senior Java Software Engineer - 100% Remote", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Self-identification of veteran status (Completion is voluntary and will not subject \nyou to adverse treatment). Sonatype is a Government contractor subject to the\u00a0...", 
+        "title": "Sonatype - Senior Java Software Engineer - 100% Remote"
+    }, 
+    {
+        "cacheId": "8zKSX4m_e8EJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../8e22a1b5-8977-4ef7-aeb4-516db6c8d39f", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../8e22a1b5-8977-4ef7-aeb4-516db6c8d39f", 
+        "htmlSnippet": "Using Smart Glass and a human-driven <b>remote</b> documentation service, the ... To <br>\nsupport this streaming platform and the documentation service, multiple <b>Java</b>&nbsp;...", 
+        "htmlTitle": "Augmedix - BD Sr. Software Engineer (<b>Java</b> EE)", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/augmedix/8e22a1b5-8977-4ef7-aeb4-516db6c8d39f", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/bc748819-be73-4e7d-aaf6-89744dd930c6-1485956443633.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "89", 
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSN4OR0a8rMdf78FHhI_e6-UxgjZOQ4rmDqPZrLPm9_7qnTqPG19nXQ", 
+                    "width": "568"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Augmedix is one of the leading healthcare startups in the world, providing documentation service to Doctors around the United States by leveraging cutting edge technology. Using Smart Glass and a human-driven remote documentation service, the core of the technology platform is end-to-end secured audio-video streaming. To support this streaming platform and the documentation service, multiple Java based Rich Internet Applications have been operating in parallel, running on top of AWS cloud infrastructure. You will have to be dynamic enough to work on different cutting edge frontend frameworks and technology, along with writing secured and robust backend codes, while collaborating with a high energy, highly motivated and skillful team spread out between San Francisco and Dhaka. You will be responsible for developing secured service oriented web services, writing testable codes ensuring maximum code coverage, developing rich single page applications using react framework etc.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/bc748819-be73-4e7d-aaf6-89744dd930c6-1485956443633.png", 
+                    "og:image:height": "200", 
+                    "og:title": "Augmedix - BD Sr. Software Engineer (Java EE)", 
+                    "og:url": "https://jobs.lever.co/augmedix/8e22a1b5-8977-4ef7-aeb4-516db6c8d39f", 
+                    "twitter:description": "Augmedix is one of the leading healthcare startups in the world, providing documentation service to Doctors around the United States by leveraging cutting edge technology. Using Smart Glass and a human-driven remote documentation service, the core of the technology platform is end-to-end secured audio-video streaming. To support this streaming platform and the documentation service, multiple Java based Rich Internet Applications have been operating in parallel, running on top of AWS cloud infrastructure. You will have to be dynamic enough to work on different cutting edge frontend frameworks and technology, along with writing secured and robust backend codes, while collaborating with a high energy, highly motivated and skillful team spread out between San Francisco and Dhaka. You will be responsible for developing secured service oriented web services, writing testable codes ensuring maximum code coverage, developing rich single page applications using react framework etc.", 
+                    "twitter:title": "Augmedix - BD Sr. Software Engineer (Java EE)", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Using Smart Glass and a human-driven remote documentation service, the ... To \nsupport this streaming platform and the documentation service, multiple Java\u00a0...", 
+        "title": "Augmedix - BD Sr. Software Engineer (Java EE)"
+    }
+]

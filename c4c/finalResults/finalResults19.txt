@@ -1,0 +1,42 @@
+[
+    {
+        "cacheId": "M8tZBEkf-BYJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../51a34b24-f84b-4187-9021-0e6a640a516c", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../51a34b24-f84b-4187-9021-0e6a640a516c", 
+        "htmlSnippet": "Software Development Engineer (<b>Scala</b>) ... if you make a convincing pitch - no-<br>\none is going to say \u201cno\u201d; Flexible working hours with a possibility for <b>remote</b> work.", 
+        "htmlTitle": "BestMile - Software Development Engineer (<b>Scala</b>)", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/bestmile/51a34b24-f84b-4187-9021-0e6a640a516c", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/5bdcefdc-7bf8-4ca3-8d5d-43fb93cc78f2-1486022343508.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "159", 
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrk7OHE58LdZAxMFrMdXL4kM_xH2Radf2vHY8dtwhO7c5Yql6dDAfzcko", 
+                    "width": "318"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "BestMile is a fast growing Swiss startup with offices in Lausanne (Switzerland) and San Francisco (USA) developing cloud technology that leverages the full potential of autonomous vehicles to tackle urban mobility challenges. BestMile is building a distributed and scalable platform to control and optimise fleets of driverless vehicles in real time around the world. BestMile is looking for a talented Software Development Engineer to join its team. The ideal candidate must have a deep knowledge of software development and cloud infrastructures, micro-services architectures and Big Data challenges. We expect you to be an excellent analyst, team player and problem solver, having fluency in Scala and some other JVM based or functional programming languages.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/5bdcefdc-7bf8-4ca3-8d5d-43fb93cc78f2-1486022343508.png", 
+                    "og:image:height": "630", 
+                    "og:image:width": "1200", 
+                    "og:title": "BestMile - Software Development Engineer (Scala)", 
+                    "og:url": "https://jobs.lever.co/bestmile/51a34b24-f84b-4187-9021-0e6a640a516c", 
+                    "twitter:description": "BestMile is a fast growing Swiss startup with offices in Lausanne (Switzerland) and San Francisco (USA) developing cloud technology that leverages the full potential of autonomous vehicles to tackle urban mobility challenges. BestMile is building a distributed and scalable platform to control and optimise fleets of driverless vehicles in real time around the world. BestMile is looking for a talented Software Development Engineer to join its team. The ideal candidate must have a deep knowledge of software development and cloud infrastructures, micro-services architectures and Big Data challenges. We expect you to be an excellent analyst, team player and problem solver, having fluency in Scala and some other JVM based or functional programming languages.", 
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/5bdcefdc-7bf8-4ca3-8d5d-43fb93cc78f2-1486022313300.png", 
+                    "twitter:title": "BestMile - Software Development Engineer (Scala)", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Software Development Engineer (Scala) ... if you make a convincing pitch - no-\none is going to say \u201cno\u201d; Flexible working hours with a possibility for remote work.", 
+        "title": "BestMile - Software Development Engineer (Scala)"
+    }
+]

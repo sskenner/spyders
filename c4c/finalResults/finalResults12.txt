@@ -1,0 +1,764 @@
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote', 'website': 'https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c', 'description': 'We are a remote and talented product development group and we work in small \nautonomous teams to create high quality products. Thousands of organizations\xa0...', 'utc_datetime': '2017-08-11T17:49:56.196274', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+
+
+
+[
+    {
+        "cacheId": "2ooR4d0VEr0J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../b6caaae6-2924-48d3-866c-507aeed7f92c",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../b6caaae6-2924-48d3-866c-507aeed7f92c",
+        "htmlSnippet": "We are a <b>remote</b> and talented product development group and we work in small <br>\nautonomous teams to create high quality products. Thousands of organizations&nbsp;...",
+        "htmlTitle": "Sonatype - Senior Full-Stack <b>Java</b> Software Engineer - 100% <b>Remote</b>",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "160",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzhxSjZw-Fr4thSQ9zY_X8gKc_7u-cqOTZr4ziVVoxvK5zhrc5dt81Kw",
+                    "width": "160"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Sonatype\u2019s mission is to enable organizations to better manage their software supply chain. We offer a series of products and services including the Nexus Repository Manager and Nexus Lifecycle Manager. We are a remote and talented product development group and we work in small autonomous teams to create high quality products. Thousands of organizations and millions of developers use our software. If you have a passion for challenging problems, software craftsmanship, and having impact, then Sonatype is the right place for you.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png",
+                    "og:image:height": "200",
+                    "og:title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote",
+                    "og:url": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c",
+                    "twitter:description": "Sonatype\u2019s mission is to enable organizations to better manage their software supply chain. We offer a series of products and services including the Nexus Repository Manager and Nexus Lifecycle Manager. We are a remote and talented product development group and we work in small autonomous teams to create high quality products. Thousands of organizations and millions of developers use our software. If you have a passion for challenging problems, software craftsmanship, and having impact, then Sonatype is the right place for you.",
+                    "twitter:title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "We are a remote and talented product development group and we work in small \nautonomous teams to create high quality products. Thousands of organizations\u00a0...",
+        "title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote"
+    },
+    {
+        "cacheId": "QJY5N8Zv2wIJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c.../apply",
+        "htmlFormattedUrl": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c.../apply",
+        "htmlSnippet": "U.S. Equal Employment Opportunity information (Completion is voluntary and will <br>\nnot subject you to adverse treatment). Sonatype provides equal employment&nbsp;...",
+        "htmlTitle": "Sonatype - Senior Full-Stack <b>Java</b> Software Engineer - 100% <b>Remote</b>",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c/apply",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "160",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzhxSjZw-Fr4thSQ9zY_X8gKc_7u-cqOTZr4ziVVoxvK5zhrc5dt81Kw",
+                    "width": "160"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Sonatype\u2019s mission is to enable organizations to better manage theirsoftware supply chain. We offer a series of products and services including theNexus Repository Manager andNexus Lifecycle Manager. We are a remote and talented product development group and we work in small autonomous teams to create high quality products. Thousands of organizations and millions of developers use our software. If you have a passion for challenging problems, software craftsmanship, and having impact, then Sonatype is the right place for you.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png",
+                    "og:image:height": "200",
+                    "og:title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote",
+                    "og:url": "https://jobs.lever.co/sonatype/b6caaae6-2924-48d3-866c-507aeed7f92c/apply",
+                    "twitter:description": "Sonatype\u2019s mission is to enable organizations to better manage theirsoftware supply chain. We offer a series of products and services including theNexus Repository Manager andNexus Lifecycle Manager. We are a remote and talented product development group and we work in small autonomous teams to create high quality products. Thousands of organizations and millions of developers use our software. If you have a passion for challenging problems, software craftsmanship, and having impact, then Sonatype is the right place for you.",
+                    "twitter:title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "U.S. Equal Employment Opportunity information (Completion is voluntary and will \nnot subject you to adverse treatment). Sonatype provides equal employment\u00a0...",
+        "title": "Sonatype - Senior Full-Stack Java Software Engineer - 100% Remote"
+    },
+    {
+        "cacheId": "8zKSX4m_e8EJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../8e22a1b5-8977-4ef7-aeb4-516db6c8d39f",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../8e22a1b5-8977-4ef7-aeb4-516db6c8d39f",
+        "htmlSnippet": "Using Smart Glass and a human-driven <b>remote</b> documentation service, the ... To <br>\nsupport this streaming platform and the documentation service, multiple <b>Java</b>&nbsp;...",
+        "htmlTitle": "Augmedix - BD Sr. Software Engineer (<b>Java</b> EE)",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/augmedix/8e22a1b5-8977-4ef7-aeb4-516db6c8d39f",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/bc748819-be73-4e7d-aaf6-89744dd930c6-1485956443633.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "89",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSN4OR0a8rMdf78FHhI_e6-UxgjZOQ4rmDqPZrLPm9_7qnTqPG19nXQ",
+                    "width": "568"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Augmedix is one of the leading healthcare startups in the world, providing documentation service to Doctors around the United States by leveraging cutting edge technology. Using Smart Glass and a human-driven remote documentation service, the core of the technology platform is end-to-end secured audio-video streaming. To support this streaming platform and the documentation service, multiple Java based Rich Internet Applications have been operating in parallel, running on top of AWS cloud infrastructure. You will have to be dynamic enough to work on different cutting edge frontend frameworks and technology, along with writing secured and robust backend codes, while collaborating with a high energy, highly motivated and skillful team spread out between San Francisco and Dhaka. You will be responsible for developing secured service oriented web services, writing testable codes ensuring maximum code coverage, developing rich single page applications using react framework etc.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/bc748819-be73-4e7d-aaf6-89744dd930c6-1485956443633.png",
+                    "og:image:height": "200",
+                    "og:title": "Augmedix - BD Sr. Software Engineer (Java EE)",
+                    "og:url": "https://jobs.lever.co/augmedix/8e22a1b5-8977-4ef7-aeb4-516db6c8d39f",
+                    "twitter:description": "Augmedix is one of the leading healthcare startups in the world, providing documentation service to Doctors around the United States by leveraging cutting edge technology. Using Smart Glass and a human-driven remote documentation service, the core of the technology platform is end-to-end secured audio-video streaming. To support this streaming platform and the documentation service, multiple Java based Rich Internet Applications have been operating in parallel, running on top of AWS cloud infrastructure. You will have to be dynamic enough to work on different cutting edge frontend frameworks and technology, along with writing secured and robust backend codes, while collaborating with a high energy, highly motivated and skillful team spread out between San Francisco and Dhaka. You will be responsible for developing secured service oriented web services, writing testable codes ensuring maximum code coverage, developing rich single page applications using react framework etc.",
+                    "twitter:title": "Augmedix - BD Sr. Software Engineer (Java EE)",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Using Smart Glass and a human-driven remote documentation service, the ... To \nsupport this streaming platform and the documentation service, multiple Java\u00a0...",
+        "title": "Augmedix - BD Sr. Software Engineer (Java EE)"
+    },
+    {
+        "cacheId": "MXdquh5RkkwJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../f55e2f8d-a7c9-42cf-8f05-fa999db32002?...",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../f55e2f8d-a7c9-42cf-8f05-fa999db32002?...",
+        "htmlSnippet": "We&#39;re a Micro Services, Docker, AWS, Redshift, and <b>Java</b> 8 shop that deals with <br>\n... the exchange of data with <b>remote</b> systems using <b>Java</b> over SOAP or REST.",
+        "htmlTitle": "Zuora - Senior <b>Java</b> Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/zuora/f55e2f8d-a7c9-42cf-8f05-fa999db32002?lever-source=stackshare.io/match",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1446067848871.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "119",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0VZ6YTKqmn9Z0MVKgTLdx04ud38zpLq4BjWKinGIC0BXUMIRtv05EXw",
+                    "width": "422"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "\u201cHello World\u201d we\u2019re Zuora. We are solving some unbelievably complex problems around multi-tenancy and transnational systems that we could use your help on. Let me tell you a little bit more about us and our tech stack so we can feel more comfortable with each other. We\u2019re a Micro Services, Docker, AWS, Redshift, and Java 8 shop that deals with extremely high volume data processing in the billions. We are the market leader in subscription management helping companies transform from a one time product based sale towards a SaaS/subscription based organization. Sounds simple enough, right? We are riding a once in a century shift in business models and are the only company on the planet helping companies in their transformation. We\u2019ve been featured on 21 Enterprise Startups To Bet Your Career On, Jim Cramer's Mad Money, and are personally funded by Marc Benioff and Dave Duffield. Oh, and did I mention, our CEO and co-founder was employee # 11 at Salesforce? Here is a role we are",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1446067848871.png",
+                    "og:image:height": "200",
+                    "og:title": "Zuora - Senior Java Engineer",
+                    "og:url": "https://jobs.lever.co/zuora/f55e2f8d-a7c9-42cf-8f05-fa999db32002",
+                    "twitter:description": "\u201cHello World\u201d we\u2019re Zuora. We are solving some unbelievably complex problems around multi-tenancy and transnational systems that we could use your help on. Let me tell you a little bit more about us and our tech stack so we can feel more comfortable with each other. We\u2019re a Micro Services, Docker, AWS, Redshift, and Java 8 shop that deals with extremely high volume data processing in the billions. We are the market leader in subscription management helping companies transform from a one time product based sale towards a SaaS/subscription based organization. Sounds simple enough, right? We are riding a once in a century shift in business models and are the only company on the planet helping companies in their transformation. We\u2019ve been featured on 21 Enterprise Startups To Bet Your Career On, Jim Cramer's Mad Money, and are personally funded by Marc Benioff and Dave Duffield. Oh, and did I mention, our CEO and co-founder was employee # 11 at Salesforce? Here is a role we are",
+                    "twitter:title": "Zuora - Senior Java Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "We're a Micro Services, Docker, AWS, Redshift, and Java 8 shop that deals with \n... the exchange of data with remote systems using Java over SOAP or REST.",
+        "title": "Zuora - Senior Java Engineer"
+    },
+    {
+        "cacheId": "pJ6R35asxzAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/sonatype",
+        "htmlFormattedUrl": "https://jobs.lever.co/sonatype",
+        "htmlSnippet": "... Clearance Required. United States - <b>Remote</b>Customer SuccessFull-Time ... <br>\nSenior Full-Stack <b>Java</b> Software Engineer - 100% <b>Remote</b>. <b>Remote</b>ProductFull-&nbsp;...",
+        "htmlTitle": "Sonatype",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/sonatype",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "160",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzhxSjZw-Fr4thSQ9zY_X8gKc_7u-cqOTZr4ziVVoxvK5zhrc5dt81Kw",
+                    "width": "160"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Job openings at Sonatype",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png",
+                    "og:image:height": "200",
+                    "og:title": "Sonatype jobs",
+                    "og:url": "https://jobs.lever.co/sonatype",
+                    "twitter:description": "Job openings at Sonatype",
+                    "twitter:title": "Sonatype",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "... Clearance Required. United States - RemoteCustomer SuccessFull-Time ... \nSenior Full-Stack Java Software Engineer - 100% Remote. RemoteProductFull-\u00a0...",
+        "title": "Sonatype"
+    },
+    {
+        "cacheId": "LsbySZi48YAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../724d796a-91ef-406d-8e99-8db0954ac0df",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../724d796a-91ef-406d-8e99-8db0954ac0df",
+        "htmlSnippet": "Course delivery either in person or <b>remotely</b>. Administration of course delivery. ... <br>\nBasic to intermediate knowledge of <b>Java</b> / JavaScript / Python / Scala / R.",
+        "htmlTitle": "Qubole - Education Instructor",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/qubole/724d796a-91ef-406d-8e99-8db0954ac0df",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/qubole_newlogo_JPG.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "145",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbxwkMBaXQQWehaIxnUSkpTvzfQNHT83seSj3uVmMryPyopQLnd8H88xs",
+                    "width": "347"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Qubole, the fastest growing big data-as-a-service company, is looking for an Education Instructor to join our team. Qubole\u2019s cloud service provides a fast, easy and reliable path to turn big data into valuable business insights for companies like Autodesk, Pinterest, Under Armour and Oracle. We sit at the intersection of two of the largest and most exciting trends in technology: Cloud and Big Data. Our customers use Qubole Data Service as a one-stop platform for processing massive amounts of data through the latest analytical tools such as Hive, Spark, and many others within the AWS, Google Compute, and Microsoft Azure cloud environments. The Customer Success organization plays a key role within Qubole to ensure new customers are on-boarded as quickly as possible and are successful at adopting and gaining the benefits of Qubole on an ongoing and increasing basis. As an Education Instructor, you will be a member of the team that is responsible for ensuring that our employees, cust",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/qubole_newlogo_JPG.png",
+                    "og:image:height": "200",
+                    "og:title": "Qubole - Education Instructor",
+                    "og:url": "https://jobs.lever.co/qubole/724d796a-91ef-406d-8e99-8db0954ac0df",
+                    "twitter:description": "Qubole, the fastest growing big data-as-a-service company, is looking for an Education Instructor to join our team. Qubole\u2019s cloud service provides a fast, easy and reliable path to turn big data into valuable business insights for companies like Autodesk, Pinterest, Under Armour and Oracle. We sit at the intersection of two of the largest and most exciting trends in technology: Cloud and Big Data. Our customers use Qubole Data Service as a one-stop platform for processing massive amounts of data through the latest analytical tools such as Hive, Spark, and many others within the AWS, Google Compute, and Microsoft Azure cloud environments. The Customer Success organization plays a key role within Qubole to ensure new customers are on-boarded as quickly as possible and are successful at adopting and gaining the benefits of Qubole on an ongoing and increasing basis. As an Education Instructor, you will be a member of the team that is responsible for ensuring that our employees, cust",
+                    "twitter:title": "Qubole - Education Instructor",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Course delivery either in person or remotely. Administration of course delivery. ... \nBasic to intermediate knowledge of Java / JavaScript / Python / Scala / R.",
+        "title": "Qubole - Education Instructor"
+    },
+    {
+        "cacheId": "-gxlYSpVYUYJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../12b727a6-e8c5-4fe9-99d0-12d1c88ca84c",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../12b727a6-e8c5-4fe9-99d0-12d1c88ca84c",
+        "htmlSnippet": "Sr Mobile Software Engineer in Test (<b>Remote</b>) ... with one or more of the following <br>\nlanguages: <b>Java</b>, Kotlin, Swift, Objective C, JavaScript, Ruby; Experience with&nbsp;...",
+        "htmlTitle": "Instructure - Sr Mobile Software Engineer in Test (<b>Remote</b>)",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/instructure/12b727a6-e8c5-4fe9-99d0-12d1c88ca84c",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/Instructure.png"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Instructure was founded to define, develop, and deploy superior, easy-to-use software. (And that\u2019s what we did / do / will keep on doing.) We are dedicated to the fight against iffy, mothbally, shoddy software. We make better, more usable tools for teaching and learning (you know, stuff people will actually use). A better connected and more open edtech ecosystem. And more effective ways for everyone everywhere to access education, make discoveries, share knowledge, be inspired, and do big things. We accomplish all this by giving smart, creative, passionate people opportunities to create awesome. So here\u2019s your opportunity. Instructure takes testing seriously and we are looking for a Sr Mobile Software Engineer in Test who enjoys working on complex problems to help improve our mobile development environment. You will work in tandem with our mobile product development team to automate the testing of code changes. We are looking for strong mobile software engineering candidates who have",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/Instructure.png",
+                    "og:image:height": "200",
+                    "og:title": "Instructure - Sr Mobile Software Engineer in Test (Remote)",
+                    "og:url": "https://jobs.lever.co/instructure/12b727a6-e8c5-4fe9-99d0-12d1c88ca84c",
+                    "twitter:description": "Instructure was founded to define, develop, and deploy superior, easy-to-use software. (And that\u2019s what we did / do / will keep on doing.) We are dedicated to the fight against iffy, mothbally, shoddy software. We make better, more usable tools for teaching and learning (you know, stuff people will actually use). A better connected and more open edtech ecosystem. And more effective ways for everyone everywhere to access education, make discoveries, share knowledge, be inspired, and do big things. We accomplish all this by giving smart, creative, passionate people opportunities to create awesome. So here\u2019s your opportunity. Instructure takes testing seriously and we are looking for a Sr Mobile Software Engineer in Test who enjoys working on complex problems to help improve our mobile development environment. You will work in tandem with our mobile product development team to automate the testing of code changes. We are looking for strong mobile software engineering candidates who have",
+                    "twitter:title": "Instructure - Sr Mobile Software Engineer in Test (Remote)",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Sr Mobile Software Engineer in Test (Remote) ... with one or more of the following \nlanguages: Java, Kotlin, Swift, Objective C, JavaScript, Ruby; Experience with\u00a0...",
+        "title": "Instructure - Sr Mobile Software Engineer in Test (Remote)"
+    },
+    {
+        "cacheId": "9hngu5mB1ocJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../dbd793f1-8a11-41d6-8d9d-f07ec19c8b80",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../dbd793f1-8a11-41d6-8d9d-f07ec19c8b80",
+        "htmlSnippet": "Senior Technical Support Specialist - Europe - 100% <b>Remote</b> ... <b>Java</b> and/or <br>\nother software development experience (the position doesn&#39;t require writing code<br>\n,&nbsp;...",
+        "htmlTitle": "Sonatype - Senior Technical Support Specialist - Europe - 100 ...",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/sonatype/dbd793f1-8a11-41d6-8d9d-f07ec19c8b80",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "160",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzhxSjZw-Fr4thSQ9zY_X8gKc_7u-cqOTZr4ziVVoxvK5zhrc5dt81Kw",
+                    "width": "160"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "The Senior Technical Support Specialist will be responsible for providing in-depth technical support for our Europe and Asia Pacific Region. You will work with other support and engineering team members to perform triage, root cause analysis, debugging and troubleshooting of our product installations running at customer sites. You will help maintain our knowledge base of best practices, known issues and solutions and extend our support infrastructure by crafting and writing diagnostic tools/scripts. And you will probably even write some code. We strive for and has achieved extraordinary customer support. The highly technical nature of our products require a much higher level of experience and expertise from support than you would typically find most organizations. In fact, the current support team members all have development and/or quality engineering backgrounds. They thrive on the challenge of solving a variety of technical problems at the application, operating system, and netw",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png",
+                    "og:image:height": "200",
+                    "og:title": "Sonatype - Senior Technical Support Specialist - Europe - 100% Remote",
+                    "og:url": "https://jobs.lever.co/sonatype/dbd793f1-8a11-41d6-8d9d-f07ec19c8b80",
+                    "twitter:description": "The Senior Technical Support Specialist will be responsible for providing in-depth technical support for our Europe and Asia Pacific Region. You will work with other support and engineering team members to perform triage, root cause analysis, debugging and troubleshooting of our product installations running at customer sites. You will help maintain our knowledge base of best practices, known issues and solutions and extend our support infrastructure by crafting and writing diagnostic tools/scripts. And you will probably even write some code. We strive for and has achieved extraordinary customer support. The highly technical nature of our products require a much higher level of experience and expertise from support than you would typically find most organizations. In fact, the current support team members all have development and/or quality engineering backgrounds. They thrive on the challenge of solving a variety of technical problems at the application, operating system, and netw",
+                    "twitter:title": "Sonatype - Senior Technical Support Specialist - Europe - 100% Remote",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Senior Technical Support Specialist - Europe - 100% Remote ... Java and/or \nother software development experience (the position doesn't require writing code\n,\u00a0...",
+        "title": "Sonatype - Senior Technical Support Specialist - Europe - 100 ..."
+    },
+    {
+        "cacheId": "yPFQJ7xtmwgJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../489972f6-7fe6-44b4-bc6f-80709f4f1f83",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../489972f6-7fe6-44b4-bc6f-80709f4f1f83",
+        "htmlSnippet": "As a Senior <b>Remote</b> Sensing Scientist at CiBO you&#39;ll be part of a ... Experience in <br>\na compiled production-class OO or FP programming language such as <b>Java</b>,&nbsp;...",
+        "htmlTitle": "CiBO Technologies - Senior <b>Remote</b> Sensing Scientist - Cambridge",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/cibotechnologies/489972f6-7fe6-44b4-bc6f-80709f4f1f83",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "121",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmNvkyMjhJq32mxdKanJki0nAy_6paCQ_h3P1jKJ5K5DpyaPXOcgPUQ",
+                    "width": "415"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "As a Senior Remote Sensing Scientist at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and other remote sensing experts. You will help enrich the pipeline of image-based knowledge components in support of our core platform that creates, improves, and scales agricultural models and optimization. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. CiBO is a science-based company, so prepare to learn and invent with us! Qualifications: Solid foundation in computer vision, image processing and analysis, and remote sensing principles. Comprehensive understanding and experience with ground, airborne, and space-based image collection platforms. Significant experience sourcing, curating, processing, and interpreting large volumes of data from variety of imaging modalities, such as multi/hyperspectral, thermal, LiDAR, radar, etc. Significant experience developing algorithms and methods for object detection an",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png",
+                    "og:image:height": "200",
+                    "og:title": "CiBO Technologies - Senior Remote Sensing Scientist - Cambridge",
+                    "og:url": "https://jobs.lever.co/cibotechnologies/489972f6-7fe6-44b4-bc6f-80709f4f1f83",
+                    "twitter:description": "As a Senior Remote Sensing Scientist at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and other remote sensing experts. You will help enrich the pipeline of image-based knowledge components in support of our core platform that creates, improves, and scales agricultural models and optimization. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. CiBO is a science-based company, so prepare to learn and invent with us! Qualifications: Solid foundation in computer vision, image processing and analysis, and remote sensing principles. Comprehensive understanding and experience with ground, airborne, and space-based image collection platforms. Significant experience sourcing, curating, processing, and interpreting large volumes of data from variety of imaging modalities, such as multi/hyperspectral, thermal, LiDAR, radar, etc. Significant experience developing algorithms and methods for object detection an",
+                    "twitter:title": "CiBO Technologies - Senior Remote Sensing Scientist - Cambridge",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "As a Senior Remote Sensing Scientist at CiBO you'll be part of a ... Experience in \na compiled production-class OO or FP programming language such as Java,\u00a0...",
+        "title": "CiBO Technologies - Senior Remote Sensing Scientist - Cambridge"
+    },
+    {
+        "cacheId": "4v6QEbZpUPAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/aira/4a4d7985-cec8-46e3-ba23-0d065be4cea1",
+        "htmlFormattedUrl": "https://jobs.lever.co/aira/4a4d7985-cec8-46e3-ba23-0d065be4cea1",
+        "htmlSnippet": "Work the <b>Java</b> Platform, develop APIs, integrations into external systems like <br>\nfinance ... the cornerstone of <b>remote</b> assistance that is deployable on all <br>\ncomputers.",
+        "htmlTitle": "Aira - Full Stack Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/aira/4a4d7985-cec8-46e3-ba23-0d065be4cea1",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/Aira.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "200",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIz1iU6Be3XHiwdfXvAc3MGg9WSwLlKh-4KlfLc570MiCwgPFYbYsi82A",
+                    "width": "200"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Aira is looking for a rockstar Full Stack Software Engineer. You will be part of the Engineering team responsible in developing the Aira product, which includes Java API platform, JavaScript web applications, Android applications, and devOps for end customers and agents. Your roles and responsibilities include design and development of full stack of product features, while providing expertise in the full software development lifecycle, from concept and design to testing and production support. We have a service that connects blind customers via video-streaming smart glasses to human Agents located throughout the US and are hiring the next uniquely talented designer to join our growing team. There are an estimated 30 million blind and low-vision people in the United States and over 300m worldwide. Innovation for these customers requires ultimate usability, creativity and forward looking solutions. Our goal is to develop leading technology and services that help remove remaining barri",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/Aira.png",
+                    "og:image:height": "200",
+                    "og:title": "Aira - Full Stack Software Engineer",
+                    "og:url": "https://jobs.lever.co/aira/4a4d7985-cec8-46e3-ba23-0d065be4cea1",
+                    "twitter:description": "Aira is looking for a rockstar Full Stack Software Engineer. You will be part of the Engineering team responsible in developing the Aira product, which includes Java API platform, JavaScript web applications, Android applications, and devOps for end customers and agents. Your roles and responsibilities include design and development of full stack of product features, while providing expertise in the full software development lifecycle, from concept and design to testing and production support. We have a service that connects blind customers via video-streaming smart glasses to human Agents located throughout the US and are hiring the next uniquely talented designer to join our growing team. There are an estimated 30 million blind and low-vision people in the United States and over 300m worldwide. Innovation for these customers requires ultimate usability, creativity and forward looking solutions. Our goal is to develop leading technology and services that help remove remaining barri",
+                    "twitter:title": "Aira - Full Stack Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Work the Java Platform, develop APIs, integrations into external systems like \nfinance ... the cornerstone of remote assistance that is deployable on all \ncomputers.",
+        "title": "Aira - Full Stack Software Engineer"
+    },
+    {
+        "cacheId": "wrPgpjRiqVgJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../ceca12e0-94aa-4899-adf3-3d8e6d32013e",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../ceca12e0-94aa-4899-adf3-3d8e6d32013e",
+        "htmlSnippet": "Strong programming skills in at least one of an object oriented {Scala, <b>Java</b>, C++, <br>\nC#, ... Experience with image processing, computer vision or <b>remote</b> sensing.",
+        "htmlTitle": "CiBO Technologies - Crop Model Scientist - Cambridge",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/cibotechnologies/ceca12e0-94aa-4899-adf3-3d8e6d32013e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "121",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmNvkyMjhJq32mxdKanJki0nAy_6paCQ_h3P1jKJ5K5DpyaPXOcgPUQ",
+                    "width": "415"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "As a Crop Model Scientist at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and remote sensing experts. You will help build customer facing applications and our core platform to create, improve, and scale agricultural models and optimization. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. As engineers, we believe in types, tests, functional programming, and automation. Our major platform is built on Scala in AWS, with sprinklings of R. CiBO is a science-based company, so prepare to learn and invent with us! Software is a creative process and we welcome non-traditional and diverse candidates to apply. Qualifications Solid foundation in plant physiology with particular emphasis on agriculture and current agronomic best practices Significant experience with modeling crop development phases, growth, stresses, and interactions with biotic and abiotic factors, especially creation of models with different b",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png",
+                    "og:image:height": "200",
+                    "og:title": "CiBO Technologies - Crop Model Scientist - Cambridge",
+                    "og:url": "https://jobs.lever.co/cibotechnologies/ceca12e0-94aa-4899-adf3-3d8e6d32013e",
+                    "twitter:description": "As a Crop Model Scientist at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and remote sensing experts. You will help build customer facing applications and our core platform to create, improve, and scale agricultural models and optimization. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. As engineers, we believe in types, tests, functional programming, and automation. Our major platform is built on Scala in AWS, with sprinklings of R. CiBO is a science-based company, so prepare to learn and invent with us! Software is a creative process and we welcome non-traditional and diverse candidates to apply. Qualifications Solid foundation in plant physiology with particular emphasis on agriculture and current agronomic best practices Significant experience with modeling crop development phases, growth, stresses, and interactions with biotic and abiotic factors, especially creation of models with different b",
+                    "twitter:title": "CiBO Technologies - Crop Model Scientist - Cambridge",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Strong programming skills in at least one of an object oriented {Scala, Java, C++, \nC#, ... Experience with image processing, computer vision or remote sensing.",
+        "title": "CiBO Technologies - Crop Model Scientist - Cambridge"
+    },
+    {
+        "cacheId": "1m0Cr76aZgMJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/g2i/58bf69ab-f263-4750-9023-9b88bee37159",
+        "htmlFormattedUrl": "https://jobs.lever.co/g2i/58bf69ab-f263-4750-9023-9b88bee37159",
+        "htmlSnippet": "<b>Remote</b> (Only North America, South America, or Europe) ... While we prefer <br>\ncandidates that have experience in native Android (<b>Java</b>) or iOS (Objective C), it <br>\nisn&#39;t&nbsp;...",
+        "htmlTitle": "G2i - React Native Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/g2i/58bf69ab-f263-4750-9023-9b88bee37159",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/51169b53-0eea-44b4-b61c-7ad4bd11d6da-1468871032046.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "225",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnE2-Pr4gWvWTSh8nn1wYoLDSffBZ_4aijFrFKJlKPg03grleyC3QbEOax",
+                    "width": "225"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "We\u2019re looking for talented React Native engineers to partner with amazing product companies to work as part of a team on React Native apps for iOS and Android. We regularly partner with Y Combinator funded product companies that place a high value on engineering. Strong communication and documentation skills are needed as this is a fast paced engineering environment. At least 3 months of React Native experience is required and full stack experience with Rails or Node.js is a plus (Apollo Client/GraphQL experience a huge plus). While we prefer candidates that have experience in native Android (Java) or iOS (Objective C), it isn\u2019t required. This is a fully remote contract position. Contract lengths vary depending on the project, but range from 1 to 3 months (some last as long as 6 months). The majority of our clients are in the San Francisco area so the closer to that timezone the better. Onsite travel is not required but is often appreciated by our partners. Please let us know if that",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/51169b53-0eea-44b4-b61c-7ad4bd11d6da-1468871032046.png",
+                    "og:image:height": "200",
+                    "og:title": "G2i - React Native Engineer",
+                    "og:url": "https://jobs.lever.co/g2i/58bf69ab-f263-4750-9023-9b88bee37159",
+                    "twitter:description": "We\u2019re looking for talented React Native engineers to partner with amazing product companies to work as part of a team on React Native apps for iOS and Android. We regularly partner with Y Combinator funded product companies that place a high value on engineering. Strong communication and documentation skills are needed as this is a fast paced engineering environment. At least 3 months of React Native experience is required and full stack experience with Rails or Node.js is a plus (Apollo Client/GraphQL experience a huge plus). While we prefer candidates that have experience in native Android (Java) or iOS (Objective C), it isn\u2019t required. This is a fully remote contract position. Contract lengths vary depending on the project, but range from 1 to 3 months (some last as long as 6 months). The majority of our clients are in the San Francisco area so the closer to that timezone the better. Onsite travel is not required but is often appreciated by our partners. Please let us know if that",
+                    "twitter:title": "G2i - React Native Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Remote (Only North America, South America, or Europe) ... While we prefer \ncandidates that have experience in native Android (Java) or iOS (Objective C), it \nisn't\u00a0...",
+        "title": "G2i - React Native Engineer"
+    },
+    {
+        "cacheId": "AWYoALSlRW0J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/circle/4e00e38d-a06e-4ae3-809e-9d4e2acc11f5",
+        "htmlFormattedUrl": "https://jobs.lever.co/circle/4e00e38d-a06e-4ae3-809e-9d4e2acc11f5",
+        "htmlSnippet": "5+ years of professional development experience in <b>Java</b>, REST, Postgres, ... <br>\nExcellent communication skills, able to collaborate with <b>remote</b> teams, share <br>\nideas&nbsp;...",
+        "htmlTitle": "Circle - Senior Software Engineer, Payments",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/circle/4e00e38d-a06e-4ae3-809e-9d4e2acc11f5",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/a54289dc-12d0-40f2-a039-444b354b84a1-1498080721795.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "163",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyXG_Sgx5JJ5YVSeQ44M6mX2jWoZSfXfYGURJWXvJ9JwstG8g83s9qhwE",
+                    "width": "310"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Boston, USA At Circle, we're shaking up the global economy by making money simple. With us, you can send money like a text \u2014 instant, secure and free \u2014 whether your friend is across the table or across the ocean. Our mission? To connect every person in the world by exchanging value across borders, between currencies and among friends. We are passionate about building social payments experiences that our users (and friends) love. Circle\u2019s engineering team enables us to do that at scale, supporting customers all over the world and processing millions of transactions across multiple currencies in a reliable, secure and fast way.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/a54289dc-12d0-40f2-a039-444b354b84a1-1498080721795.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Circle - Senior Software Engineer, Payments",
+                    "og:url": "https://jobs.lever.co/circle/4e00e38d-a06e-4ae3-809e-9d4e2acc11f5",
+                    "twitter:description": "Boston, USA At Circle, we're shaking up the global economy by making money simple. With us, you can send money like a text \u2014 instant, secure and free \u2014 whether your friend is across the table or across the ocean. Our mission? To connect every person in the world by exchanging value across borders, between currencies and among friends. We are passionate about building social payments experiences that our users (and friends) love. Circle\u2019s engineering team enables us to do that at scale, supporting customers all over the world and processing millions of transactions across multiple currencies in a reliable, secure and fast way.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/a54289dc-12d0-40f2-a039-444b354b84a1-1498080712639.png",
+                    "twitter:title": "Circle - Senior Software Engineer, Payments",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "5+ years of professional development experience in Java, REST, Postgres, ... \nExcellent communication skills, able to collaborate with remote teams, share \nideas\u00a0...",
+        "title": "Circle - Senior Software Engineer, Payments"
+    },
+    {
+        "cacheId": "YoIYEbT7V_4J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../0f3ba9f7-e679-4e0b-a015-edf79be49937",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../0f3ba9f7-e679-4e0b-a015-edf79be49937",
+        "htmlSnippet": "Familiarity with modern web languages such as Python, <b>Java</b>, JavaScript, ... We <br>\ncurrently have <b>remote</b> workers in CO, MI, and NC, but if you&#39;re interested in&nbsp;...",
+        "htmlTitle": "Emma Inc. - Principal Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/myemma/0f3ba9f7-e679-4e0b-a015-edf79be49937",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/b63278a3-49c5-487c-9ea0-de631db4416a-1476382296589.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "159",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdQ7y0FQVfatVwLgWxdvUPolA3xHcA7S5Bborstrq6TIj0l9tiGACacQ",
+                    "width": "318"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "A Principal Software Engineer is responsible for designing developing scalable web applications deployed in the cloud and co-located environments. They oversee an app team to guide product delivery across the UI, API and infrastructure layers. Principal software engineers set and enforce standards for system design, application requirements, and proper maintenance and monitoring. They are required to have excellent communication skills, handle multiple projects and timelines, delegate well, and have working knowledge of several programming languages and frameworks.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/b63278a3-49c5-487c-9ea0-de631db4416a-1476382296589.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Emma Inc. - Principal Engineer",
+                    "og:url": "https://jobs.lever.co/myemma/0f3ba9f7-e679-4e0b-a015-edf79be49937",
+                    "twitter:description": "A Principal Software Engineer is responsible for designing developing scalable web applications deployed in the cloud and co-located environments. They oversee an app team to guide product delivery across the UI, API and infrastructure layers. Principal software engineers set and enforce standards for system design, application requirements, and proper maintenance and monitoring. They are required to have excellent communication skills, handle multiple projects and timelines, delegate well, and have working knowledge of several programming languages and frameworks.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/b63278a3-49c5-487c-9ea0-de631db4416a-1476381847646.png",
+                    "twitter:title": "Emma Inc. - Principal Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Familiarity with modern web languages such as Python, Java, JavaScript, ... We \ncurrently have remote workers in CO, MI, and NC, but if you're interested in\u00a0...",
+        "title": "Emma Inc. - Principal Engineer"
+    },
+    {
+        "cacheId": "vThL-_b-F-sJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../753c9403-bd56-4b57-b05d-1b5c1505c227",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../753c9403-bd56-4b57-b05d-1b5c1505c227",
+        "htmlSnippet": "8+ years of software engineering experience with 5 years of <b>Java</b> applications <br>\ndevelopment experience; Strong experience implementing ETL solutions; Strong<br>\n&nbsp;...",
+        "htmlTitle": "Sonatype - Senior Data Engineer - 100% <b>Remote</b>",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/sonatype/753c9403-bd56-4b57-b05d-1b5c1505c227",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "160",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzhxSjZw-Fr4thSQ9zY_X8gKc_7u-cqOTZr4ziVVoxvK5zhrc5dt81Kw",
+                    "width": "160"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "We are expanding our Data team, responsible for unlocking insight from vast amounts of software component data, powering our suite of products enabling our customers from making informed and automated decisions in managing their software supply chain. As a Data Engineer, you will lead or contribute to designing, development, and monitoring of systems and solutions for collecting, storing, processing, and analyzing large data sets. You will work in a team made up of Data Scientists and other Data Engineers. No one is going to tell you when to get up in the morning, or dole our a bunch of small tasks for you to do every single day. Members of Sonatype's Product organization have the internal drive and initiative to make the product vision a reality. Flow should be the predominate state of mind.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f71fdf53-ca28-4888-a2ae-8f01b01afa91-1492526707458.png",
+                    "og:image:height": "200",
+                    "og:title": "Sonatype - Senior Data Engineer - 100% Remote",
+                    "og:url": "https://jobs.lever.co/sonatype/753c9403-bd56-4b57-b05d-1b5c1505c227",
+                    "twitter:description": "We are expanding our Data team, responsible for unlocking insight from vast amounts of software component data, powering our suite of products enabling our customers from making informed and automated decisions in managing their software supply chain. As a Data Engineer, you will lead or contribute to designing, development, and monitoring of systems and solutions for collecting, storing, processing, and analyzing large data sets. You will work in a team made up of Data Scientists and other Data Engineers. No one is going to tell you when to get up in the morning, or dole our a bunch of small tasks for you to do every single day. Members of Sonatype's Product organization have the internal drive and initiative to make the product vision a reality. Flow should be the predominate state of mind.",
+                    "twitter:title": "Sonatype - Senior Data Engineer - 100% Remote",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "8+ years of software engineering experience with 5 years of Java applications \ndevelopment experience; Strong experience implementing ETL solutions; Strong\n\u00a0...",
+        "title": "Sonatype - Senior Data Engineer - 100% Remote"
+    },
+    {
+        "cacheId": "NnpDMR9GOLIJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../0094b44f-f39e-4a65-ac6d-6fa4befc8afa",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../0094b44f-f39e-4a65-ac6d-6fa4befc8afa",
+        "htmlSnippet": "Work with local and <b>remote</b> engineers on a regionally distributed team. \u2022 Develop <br>\nusing <b>Java</b>, Scala, NodeJS, PostgreSQL and Redis. Qualifications. \u2022 5+ years&nbsp;...",
+        "htmlTitle": "OpenGov - Senior Back End Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/opengov/0094b44f-f39e-4a65-ac6d-6fa4befc8afa",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/60ca6075-e79d-4635-902c-19ea46d48acc-1492796726737.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "105",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa-uy5uATX8ygM2sO43ZcVGgHiBqO_Y-NQCpGIwohoLwoGrRKiIWAUaB0",
+                    "width": "480"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "About OpenGov OpenGov is a fast-growing, venture-backed software company that is powering more effective and accountable government. We are the leader in government performance solutions: easy-to-use software for better budgeting, improved reporting and operational intelligence, and comprehensive citizen transparency and open data. OpenGov solutions give governments the right tools and relevant data for more informed decision- making and better outcomes for the public. Over 1,500 public agencies in 48 states are part of the growing OpenGov network. Founded in 2012, OpenGov customers include the State Treasurer of Ohio, the city of Minneapolis, MN; Maricopa County, AZ; and Washington, DC. OpenGov is backed by Andreessen Horowitz, Emerson Collective, 8VC, and Thrive Capital and has headquarters in Redwood City, CA. Senior Back-end Engineer Description As a senior member of the OpenGov Operate team you'll build best-in-class SaaS solutions that enable efficiency, transparency, and acco",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/60ca6075-e79d-4635-902c-19ea46d48acc-1492796726737.png",
+                    "og:image:height": "200",
+                    "og:title": "OpenGov - Senior Back End Engineer",
+                    "og:url": "https://jobs.lever.co/opengov/0094b44f-f39e-4a65-ac6d-6fa4befc8afa",
+                    "twitter:description": "About OpenGov OpenGov is a fast-growing, venture-backed software company that is powering more effective and accountable government. We are the leader in government performance solutions: easy-to-use software for better budgeting, improved reporting and operational intelligence, and comprehensive citizen transparency and open data. OpenGov solutions give governments the right tools and relevant data for more informed decision- making and better outcomes for the public. Over 1,500 public agencies in 48 states are part of the growing OpenGov network. Founded in 2012, OpenGov customers include the State Treasurer of Ohio, the city of Minneapolis, MN; Maricopa County, AZ; and Washington, DC. OpenGov is backed by Andreessen Horowitz, Emerson Collective, 8VC, and Thrive Capital and has headquarters in Redwood City, CA. Senior Back-end Engineer Description As a senior member of the OpenGov Operate team you'll build best-in-class SaaS solutions that enable efficiency, transparency, and acco",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/60ca6075-e79d-4635-902c-19ea46d48acc-1492809387081.png",
+                    "twitter:title": "OpenGov - Senior Back End Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Work with local and remote engineers on a regionally distributed team. \u2022 Develop \nusing Java, Scala, NodeJS, PostgreSQL and Redis. Qualifications. \u2022 5+ years\u00a0...",
+        "title": "OpenGov - Senior Back End Engineer"
+    },
+    {
+        "cacheId": "Rd6CUrRg2LEJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../0034ffdb-be3e-43ce-849f-811deaa6d31f",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../0034ffdb-be3e-43ce-849f-811deaa6d31f",
+        "htmlSnippet": "Experience with at least one of each of an object oriented {Scala, <b>Java</b>, C++, ... <br>\nimage processing, computer vision, <b>remote</b> sensing, agriculture, or biology.",
+        "htmlTitle": "CiBO Technologies - Senior Software Engineer - Infrastructure ...",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/cibotechnologies/0034ffdb-be3e-43ce-849f-811deaa6d31f",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "121",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmNvkyMjhJq32mxdKanJki0nAy_6paCQ_h3P1jKJ5K5DpyaPXOcgPUQ",
+                    "width": "415"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "As Senior Software Engineer at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and remote sensing experts. You will help extend CiBO to planetary-scale simulation by automating and parallelizing every aspect of our complex process in AWS. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. As engineers we believe in type tests, functional programming and automation. Our major platform is built on Scala in AWS, with sprinklings of R. CiBO is a science-based company, so prepare to learn and invent with us! Software is a creative process and we welcome non-traditional and diverse candidates to apply. Qualifications Significant experience with AWS tools such as ECS, Lambda, EMR, or CloudFormation Experience with Linux, DevOps, infrastructure-as-code, and automated deployment Solid foundation in computer science, including algorithms, and data structures Significant experience with professional software engine",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png",
+                    "og:image:height": "200",
+                    "og:title": "CiBO Technologies - Senior Software Engineer - Infrastructure & Automation - St Louis",
+                    "og:url": "https://jobs.lever.co/cibotechnologies/0034ffdb-be3e-43ce-849f-811deaa6d31f",
+                    "twitter:description": "As Senior Software Engineer at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and remote sensing experts. You will help extend CiBO to planetary-scale simulation by automating and parallelizing every aspect of our complex process in AWS. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. As engineers we believe in type tests, functional programming and automation. Our major platform is built on Scala in AWS, with sprinklings of R. CiBO is a science-based company, so prepare to learn and invent with us! Software is a creative process and we welcome non-traditional and diverse candidates to apply. Qualifications Significant experience with AWS tools such as ECS, Lambda, EMR, or CloudFormation Experience with Linux, DevOps, infrastructure-as-code, and automated deployment Solid foundation in computer science, including algorithms, and data structures Significant experience with professional software engine",
+                    "twitter:title": "CiBO Technologies - Senior Software Engineer - Infrastructure & Automation - St Louis",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Experience with at least one of each of an object oriented {Scala, Java, C++, ... \nimage processing, computer vision, remote sensing, agriculture, or biology.",
+        "title": "CiBO Technologies - Senior Software Engineer - Infrastructure ..."
+    },
+    {
+        "cacheId": "bsZ67_cPAIsJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/g2i/efb3903f-29ae-48a0-aea2-9c1535fb4164",
+        "htmlFormattedUrl": "https://jobs.lever.co/g2i/efb3903f-29ae-48a0-aea2-9c1535fb4164",
+        "htmlSnippet": "<b>Remote</b> (Only North America, South America, or Europe) ... Strong experience in <br>\nAndroid (<b>Java</b>) is preferred and familiarity with iOS and Objective C is a plus.",
+        "htmlTitle": "G2i - Android/Obj-C Developer for Open Source Integrations",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/g2i/efb3903f-29ae-48a0-aea2-9c1535fb4164",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/51169b53-0eea-44b4-b61c-7ad4bd11d6da-1468871032046.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "225",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnE2-Pr4gWvWTSh8nn1wYoLDSffBZ_4aijFrFKJlKPg03grleyC3QbEOax",
+                    "width": "225"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "We\u2019re looking for a talented native mobile developer to partner with an amazing product company to develop a variety of high-quality open-source integrations with 3rd-party services. Strong experience in Android (Java) is preferred and familiarity with iOS and Objective C is a plus. Strong communication and documentation skills are needed to help make each integration easy to configure and use. This has the potential to be a long-term project building out a rich ecosystem of integrations on multiple platforms. Note: There is no set contract length. The first integration will take 2-4 weeks and if the contract goes well, it could easily turn into 6 - 12 months of work.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/51169b53-0eea-44b4-b61c-7ad4bd11d6da-1468871032046.png",
+                    "og:image:height": "200",
+                    "og:title": "G2i - Android/Obj-C Developer for Open Source Integrations",
+                    "og:url": "https://jobs.lever.co/g2i/efb3903f-29ae-48a0-aea2-9c1535fb4164",
+                    "twitter:description": "We\u2019re looking for a talented native mobile developer to partner with an amazing product company to develop a variety of high-quality open-source integrations with 3rd-party services. Strong experience in Android (Java) is preferred and familiarity with iOS and Objective C is a plus. Strong communication and documentation skills are needed to help make each integration easy to configure and use. This has the potential to be a long-term project building out a rich ecosystem of integrations on multiple platforms. Note: There is no set contract length. The first integration will take 2-4 weeks and if the contract goes well, it could easily turn into 6 - 12 months of work.",
+                    "twitter:title": "G2i - Android/Obj-C Developer for Open Source Integrations",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Remote (Only North America, South America, or Europe) ... Strong experience in \nAndroid (Java) is preferred and familiarity with iOS and Objective C is a plus.",
+        "title": "G2i - Android/Obj-C Developer for Open Source Integrations"
+    },
+    {
+        "cacheId": "Ez_T5bKmcmIJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../9017a757-12a2-4ac2-bb90-cb2e3f91ade3",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../9017a757-12a2-4ac2-bb90-cb2e3f91ade3",
+        "htmlSnippet": "Experience with at least one of each of an object oriented {Scala, <b>Java</b>, C++, ... <br>\nExperience with Bayesian statistics, math, image processing, or <b>remote</b> sensing.",
+        "htmlTitle": "CiBO Technologies - Engagement Engineer - St Louis",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/cibotechnologies/9017a757-12a2-4ac2-bb90-cb2e3f91ade3",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "121",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmNvkyMjhJq32mxdKanJki0nAy_6paCQ_h3P1jKJ5K5DpyaPXOcgPUQ",
+                    "width": "415"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "As an Engagement Engineer at CiBO you\u2019ll be part of a larger team of developers, data scientists, agronomists, and remote sensing experts. EE\u2019s spend at least 40% of their time deployed from farm fields to wall street working directly with customers to propose, design, rapidly prototype and build custom, enterprise-grade applications. We don\u2019t just provide software tools, we are responsible end-to-end for improving our customers\u2019 businesses. EE\u2019s are supported by our core platform team and library of components to simulate, optimize and aggregate outcomes of all aspects of agriculture, but also know when to just \u201cmake it work.\u201d As engineers, we believe in types, tests, FP, and automation. CiBO runs on Scala in AWS, with sprinklings of R. Qualifications Solid foundation in computer science, including algorithms and data structures Significant experience with professional software engineering, including automated testing, Agile, pair programming, refactoring, relational databases, and",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png",
+                    "og:image:height": "200",
+                    "og:title": "CiBO Technologies - Engagement Engineer - St Louis",
+                    "og:url": "https://jobs.lever.co/cibotechnologies/9017a757-12a2-4ac2-bb90-cb2e3f91ade3",
+                    "twitter:description": "As an Engagement Engineer at CiBO you\u2019ll be part of a larger team of developers, data scientists, agronomists, and remote sensing experts. EE\u2019s spend at least 40% of their time deployed from farm fields to wall street working directly with customers to propose, design, rapidly prototype and build custom, enterprise-grade applications. We don\u2019t just provide software tools, we are responsible end-to-end for improving our customers\u2019 businesses. EE\u2019s are supported by our core platform team and library of components to simulate, optimize and aggregate outcomes of all aspects of agriculture, but also know when to just \u201cmake it work.\u201d As engineers, we believe in types, tests, FP, and automation. CiBO runs on Scala in AWS, with sprinklings of R. Qualifications Solid foundation in computer science, including algorithms and data structures Significant experience with professional software engineering, including automated testing, Agile, pair programming, refactoring, relational databases, and",
+                    "twitter:title": "CiBO Technologies - Engagement Engineer - St Louis",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Experience with at least one of each of an object oriented {Scala, Java, C++, ... \nExperience with Bayesian statistics, math, image processing, or remote sensing.",
+        "title": "CiBO Technologies - Engagement Engineer - St Louis"
+    },
+    {
+        "cacheId": "nJYVDvQRbwQJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../015c46ba-ea76-4a06-8c0d-dd3ab7035c5e",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../015c46ba-ea76-4a06-8c0d-dd3ab7035c5e",
+        "htmlSnippet": "and a strongly typed language {Scala, <b>Java</b>, C++, Haskell, etc.}. ... computer <br>\nvision, or <b>remote</b> sensingDomain knowledge in agriculture, the biological <br>\nsciences,&nbsp;...",
+        "htmlTitle": "CiBO Technologies - Senior Software Engineer - Cambridge",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/cibotechnologies/015c46ba-ea76-4a06-8c0d-dd3ab7035c5e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "121",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmNvkyMjhJq32mxdKanJki0nAy_6paCQ_h3P1jKJ5K5DpyaPXOcgPUQ",
+                    "width": "415"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "As Senior Software Engineer at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and remote sensing experts. You will help build customer facing applications and our core platform to create, improve, and scale agricultural models and optimization. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. As engineers we believe in type tests, functional programming and automation. Our major platform is built on Scala in AWS, with sprinklings of R. CiBO is a science-based company, so prepare to learn and invent with us! Software is a creative process and we welcome non-traditional and diverse candidates to apply. Qualifications Solid foundation in computer science, including algorithms and data structures Significant experience with professional software engineering including automated testing, Agile, pair programming, refactoring, relational databases, and micro/services Experience with at least one NoSQL store,",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/dd2e0aa0-4905-44cc-a2a4-d74d85838438-1492695934888.png",
+                    "og:image:height": "200",
+                    "og:title": "CiBO Technologies - Senior Software Engineer - Cambridge",
+                    "og:url": "https://jobs.lever.co/cibotechnologies/015c46ba-ea76-4a06-8c0d-dd3ab7035c5e",
+                    "twitter:description": "As Senior Software Engineer at CiBO you\u2019ll be part of a collaborative team of developers, data scientists, agronomists, and remote sensing experts. You will help build customer facing applications and our core platform to create, improve, and scale agricultural models and optimization. Our culture is built on cross-disciplinary collaboration, learning, and rapid prototyping. As engineers we believe in type tests, functional programming and automation. Our major platform is built on Scala in AWS, with sprinklings of R. CiBO is a science-based company, so prepare to learn and invent with us! Software is a creative process and we welcome non-traditional and diverse candidates to apply. Qualifications Solid foundation in computer science, including algorithms and data structures Significant experience with professional software engineering including automated testing, Agile, pair programming, refactoring, relational databases, and micro/services Experience with at least one NoSQL store,",
+                    "twitter:title": "CiBO Technologies - Senior Software Engineer - Cambridge",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "and a strongly typed language {Scala, Java, C++, Haskell, etc.}. ... computer \nvision, or remote sensingDomain knowledge in agriculture, the biological \nsciences,\u00a0...",
+        "title": "CiBO Technologies - Senior Software Engineer - Cambridge"
+    }
+]

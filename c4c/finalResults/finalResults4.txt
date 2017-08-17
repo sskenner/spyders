@@ -1,0 +1,299 @@
+[
+    {
+        "cacheId": "j7kZZeblSi4J", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../a8a21044-3839-4ecb-ae9f-d2433cb3030b", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../a8a21044-3839-4ecb-ae9f-d2433cb3030b", 
+        "htmlSnippet": "Provide guidance to other team members and mentorship to <b>junior</b> software ... <br>\nCSS, and <b>JavaScript</b> through to the back-end technologies that support websites<br>\n&nbsp;...", 
+        "htmlTitle": "Quantcast - Senior Full-Stack Engineer, Ad Reporting", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/quantcast/a8a21044-3839-4ecb-ae9f-d2433cb3030b", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/e6f46c3e-9ac6-490b-9b2a-f12d164a38a6-1500917784243.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "129", 
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUwvaVLO5paUiLOcLZy--VSw2wCXl2uOchxvh4HXzQP1TmdfQBUBYVoWY", 
+                    "width": "389"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "The Advertising Reporting Team is responsible for building industry-leading reporting solutions for Quantcast\u2019s advertising clients, providing rich insights into their advertising campaigns and audience. We are looking for a senior full-stack engineer who has significant experience with both client-side and server-side Web technologies. You will be leading the development of brand new, innovative reporting features to deliver an intuitive user experience and service architecture for our large and rapidly growing advertising client base. The right applicant will be a versatile technical leader, deeply interested in technology and finding the best solution for a problem, as well as redefining the problem to make our software best-in-class. We currently use AngularJS, d3, SASS, Java, and the Play framework.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/e6f46c3e-9ac6-490b-9b2a-f12d164a38a6-1500917784243.png", 
+                    "og:image:height": "630", 
+                    "og:image:width": "1200", 
+                    "og:title": "Quantcast - Senior Full-Stack Engineer, Ad Reporting", 
+                    "og:url": "https://jobs.lever.co/quantcast/a8a21044-3839-4ecb-ae9f-d2433cb3030b", 
+                    "twitter:description": "The Advertising Reporting Team is responsible for building industry-leading reporting solutions for Quantcast\u2019s advertising clients, providing rich insights into their advertising campaigns and audience. We are looking for a senior full-stack engineer who has significant experience with both client-side and server-side Web technologies. You will be leading the development of brand new, innovative reporting features to deliver an intuitive user experience and service architecture for our large and rapidly growing advertising client base. The right applicant will be a versatile technical leader, deeply interested in technology and finding the best solution for a problem, as well as redefining the problem to make our software best-in-class. We currently use AngularJS, d3, SASS, Java, and the Play framework.", 
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/e6f46c3e-9ac6-490b-9b2a-f12d164a38a6-1473777796380.png", 
+                    "twitter:title": "Quantcast - Senior Full-Stack Engineer, Ad Reporting", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Provide guidance to other team members and mentorship to junior software ... \nCSS, and JavaScript through to the back-end technologies that support websites\n\u00a0...", 
+        "title": "Quantcast - Senior Full-Stack Engineer, Ad Reporting"
+    }, 
+    {
+        "cacheId": "7hlxEsFYyGgJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548", 
+        "htmlFormattedUrl": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548", 
+        "htmlSnippet": "We are searching for a <b>Junior</b> Developer to join their engineering team in ... As a <br>\n<b>Junior</b> Developer at Koddi you will: ... Intermediate PHP and <b>Javascript</b> skills.", 
+        "htmlTitle": "Koddi - <b>Junior</b> Developer", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548", 
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:description": "We are searching for a Junior Developer to join their engineering team in Fort Worth Texas. Koddi develops platforms that help digital advertisers market more intelligently and optimize advanced ad campaigns. We\u2019re expanding our engineering team to scale out the successful product set we have by integrating more deeply with current clients and expanding into related verticals.", 
+                    "og:image:height": "200", 
+                    "og:title": "Koddi - Junior Developer", 
+                    "og:url": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548", 
+                    "twitter:description": "We are searching for a Junior Developer to join their engineering team in Fort Worth Texas. Koddi develops platforms that help digital advertisers market more intelligently and optimize advanced ad campaigns. We\u2019re expanding our engineering team to scale out the successful product set we have by integrating more deeply with current clients and expanding into related verticals.", 
+                    "twitter:title": "Koddi - Junior Developer", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "We are searching for a Junior Developer to join their engineering team in ... As a \nJunior Developer at Koddi you will: ... Intermediate PHP and Javascript skills.", 
+        "title": "Koddi - Junior Developer"
+    }, 
+    {
+        "cacheId": "u950MlW4E5oJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../851b9097-8189-4314-a390-13663b6edefd", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../851b9097-8189-4314-a390-13663b6edefd", 
+        "htmlSnippet": "Senior Software Engineer (Python &amp; <b>JavaScript</b>) ... investing in <b>junior</b> team <br>\nmembers, promoting a healthy development culture, and leading by example.", 
+        "htmlTitle": "BrightLink - Senior Software Engineer (Python &amp; <b>JavaScript</b>)", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/brightlink/851b9097-8189-4314-a390-13663b6edefd", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278409457.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "120", 
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bHKK7i_B3kjz7ppY97IuyrIvLsj6GW8NvHc8UhBtHyzabhpBVt0b3g", 
+                    "width": "418"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Who is BrightLink? BrightLink is a consultative, industry thought-leader offering services and technology for the professional credentialing industry. At our core, we are passionate about seeing family trees changed by facilitating the delivery, results, continuing education, and management of professional credentialing exams for individuals who are looking to better their lives and careers through licensure or certification. Who are we looking for? BrightLink is looking for a team member to help build innovative solutions that create remarkable experiences for our clients. The Ideal team member has mastery of computer science and engineering fundamentals and is comfortable working in an Agile/Lean development environment. The team member should have the ability and passion to learn new technologies quickly, as well as possess the drive to help others do the same. In addition to technical skills, we also look for candidates who embrace our company core values. These Core Values re", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278409457.png", 
+                    "og:image:height": "630", 
+                    "og:image:width": "1200", 
+                    "og:title": "BrightLink - Senior Software Engineer (Python & JavaScript)", 
+                    "og:url": "https://jobs.lever.co/brightlink/851b9097-8189-4314-a390-13663b6edefd", 
+                    "twitter:description": "Who is BrightLink? BrightLink is a consultative, industry thought-leader offering services and technology for the professional credentialing industry. At our core, we are passionate about seeing family trees changed by facilitating the delivery, results, continuing education, and management of professional credentialing exams for individuals who are looking to better their lives and careers through licensure or certification. Who are we looking for? BrightLink is looking for a team member to help build innovative solutions that create remarkable experiences for our clients. The Ideal team member has mastery of computer science and engineering fundamentals and is comfortable working in an Agile/Lean development environment. The team member should have the ability and passion to learn new technologies quickly, as well as possess the drive to help others do the same. In addition to technical skills, we also look for candidates who embrace our company core values. These Core Values re", 
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278348416.png", 
+                    "twitter:title": "BrightLink - Senior Software Engineer (Python & JavaScript)", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Senior Software Engineer (Python & JavaScript) ... investing in junior team \nmembers, promoting a healthy development culture, and leading by example.", 
+        "title": "BrightLink - Senior Software Engineer (Python & JavaScript)"
+    }, 
+    {
+        "cacheId": "gFWHz1y27mUJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../43bb5cbc-1a7d-4096-94db-07c235890e39", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../43bb5cbc-1a7d-4096-94db-07c235890e39", 
+        "htmlSnippet": "<b>Junior</b> Software Developer - Vancouver. Vancouver ... Experience with web <br>\ntechnologies (REST, Angular2, CSS, <b>JavaScript</b>, JQuery, D3 and/or RXJS). <br>\nExcellent&nbsp;...", 
+        "htmlTitle": "Visier - <b>Junior</b> Software Developer - Vancouver", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/visier/43bb5cbc-1a7d-4096-94db-07c235890e39", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/visier-logo.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "97", 
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW8_ZAF63PSBxz_VK0ORL6Fq5qV4nkJ9Mt4_kUy8OL_qiTstruErd0-GU", 
+                    "width": "369"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Visier is the gathering place for the smartest thinkers, wisest sages, brightest innovators, and creative masterminds. You are a self-starter. You like to roll up your sleeves and transform the ordinary into the extraordinary. You are excited about innovating and creating new technology. We are relentlessly passionate about empowering companies with the insights they need to confidently answer critical business questions and be more successful. PayPal, Yahoo, LinkedIn, Micron, Time Inc, Electronic Arts, and BMO are just some of the brands we\u2019ve transformed with our award-winning solutions. Our vision is ambitious: to redefine the field of business intelligence by creating domain-specific and end-user-centric analytic applications. With over 200 employees across our Vancouver and San Jose offices, we\u2019re looking for new talent to join our dynamic, passion-driven organization. Grow with us to become an expert developer with a proven record of delivery of high quality solutions. What yo", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/visier-logo.png", 
+                    "og:image:height": "200", 
+                    "og:title": "Visier - Junior Software Developer - Vancouver", 
+                    "og:url": "https://jobs.lever.co/visier/43bb5cbc-1a7d-4096-94db-07c235890e39", 
+                    "twitter:description": "Visier is the gathering place for the smartest thinkers, wisest sages, brightest innovators, and creative masterminds. You are a self-starter. You like to roll up your sleeves and transform the ordinary into the extraordinary. You are excited about innovating and creating new technology. We are relentlessly passionate about empowering companies with the insights they need to confidently answer critical business questions and be more successful. PayPal, Yahoo, LinkedIn, Micron, Time Inc, Electronic Arts, and BMO are just some of the brands we\u2019ve transformed with our award-winning solutions. Our vision is ambitious: to redefine the field of business intelligence by creating domain-specific and end-user-centric analytic applications. With over 200 employees across our Vancouver and San Jose offices, we\u2019re looking for new talent to join our dynamic, passion-driven organization. Grow with us to become an expert developer with a proven record of delivery of high quality solutions. What yo", 
+                    "twitter:title": "Visier - Junior Software Developer - Vancouver", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Junior Software Developer - Vancouver. Vancouver ... Experience with web \ntechnologies (REST, Angular2, CSS, JavaScript, JQuery, D3 and/or RXJS). \nExcellent\u00a0...", 
+        "title": "Visier - Junior Software Developer - Vancouver"
+    }, 
+    {
+        "cacheId": "bzboMQ9CAncJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../164fbcb1-ccb8-44f8-b155-152909ec4c84", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../164fbcb1-ccb8-44f8-b155-152909ec4c84", 
+        "htmlSnippet": "To this end, a <b>Junior</b> Software Engineer in Advertising must have the ability to <br>\ndeliver HTML and <b>javascript</b> code in a time-sensitive manner. In their position, <br>\nthey&nbsp;...", 
+        "htmlTitle": "The Meet Group - <b>Junior</b> Software Engineer - Advertising", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/meetgroup/164fbcb1-ccb8-44f8-b155-152909ec4c84", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/deb709e0-3e48-4888-b142-7f31df4de294-1494972283470.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "159", 
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwzttIfmbF3cHuh7z1NAjhqWgCsfzq2Jouny4VdtE9eEK2aAvmHaOM_s", 
+                    "width": "318"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "As engineers, we believe Engineering Serendipity is more than a kick-ass statement; we believe it\u2019s our goal. From conceptualization through completion, every product and feature we build is designed to improve the friendship-making experience of our members. To this end, a Junior Software Engineer in Advertising must have the ability to deliver HTML and javascript code in a time-sensitive manner. In their position, they must also be a good team player and deliver software which meets the needs and goals of stakeholders.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/deb709e0-3e48-4888-b142-7f31df4de294-1494972283470.png", 
+                    "og:image:height": "630", 
+                    "og:image:width": "1200", 
+                    "og:title": "The Meet Group - Junior Software Engineer - Advertising", 
+                    "og:url": "https://jobs.lever.co/meetgroup/164fbcb1-ccb8-44f8-b155-152909ec4c84", 
+                    "twitter:description": "As engineers, we believe Engineering Serendipity is more than a kick-ass statement; we believe it\u2019s our goal. From conceptualization through completion, every product and feature we build is designed to improve the friendship-making experience of our members. To this end, a Junior Software Engineer in Advertising must have the ability to deliver HTML and javascript code in a time-sensitive manner. In their position, they must also be a good team player and deliver software which meets the needs and goals of stakeholders.", 
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/deb709e0-3e48-4888-b142-7f31df4de294-1494972272902.png", 
+                    "twitter:title": "The Meet Group - Junior Software Engineer - Advertising", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "To this end, a Junior Software Engineer in Advertising must have the ability to \ndeliver HTML and javascript code in a time-sensitive manner. In their position, \nthey\u00a0...", 
+        "title": "The Meet Group - Junior Software Engineer - Advertising"
+    }, 
+    {
+        "cacheId": "--feGDrX2G0J", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+        "htmlSnippet": "The <b>Junior</b> Developer role will be fast paced from the moment you start; you will <br>\n... for the web, Hibernate, or any other persistence framework HTML/<b>JavaScript</b>/&nbsp;...", 
+        "htmlTitle": "RealDecoy - <b>Junior</b> Web Application Developer", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/realdecoy.com/3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f956f020-8a8c-4eab-9384-b861ac443b41-1462393738256.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "34", 
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYNds_tkLBKHSwiIi0xjxyrSN6Skc0nvmVeD_KjdYAch4PFsSLB_5mAg", 
+                    "width": "174"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "RealDecoy is seeking to add a new Developer to the Ottawa team. The Junior Developer role will be fast paced from the moment you start; you will be learning new technologies, new ways of working and you will be collaborating with a variety of clients to ensure that we provide the best possible service to them. You will be responsible for implementing web sites and web applications using Java and related technologies. You will have the opportunity to work on concurrent projects with other professional developers, technical leads, project managers and planners. You will be expected to keep current of new and emerging techniques, understand when and how they can be applied to projects and assist in documenting trusted best practices. Typically, you will be required to: o Assist in designing the deployment architecture for web-based applications. o Perform program modifications following detailed technical specifications and resolve programming problems. o Create detailed technical specif", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f956f020-8a8c-4eab-9384-b861ac443b41-1462393738256.png", 
+                    "og:image:height": "200", 
+                    "og:title": "RealDecoy - Junior Web Application Developer", 
+                    "og:url": "https://jobs.lever.co/realdecoy.com/3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+                    "twitter:description": "RealDecoy is seeking to add a new Developer to the Ottawa team. The Junior Developer role will be fast paced from the moment you start; you will be learning new technologies, new ways of working and you will be collaborating with a variety of clients to ensure that we provide the best possible service to them. You will be responsible for implementing web sites and web applications using Java and related technologies. You will have the opportunity to work on concurrent projects with other professional developers, technical leads, project managers and planners. You will be expected to keep current of new and emerging techniques, understand when and how they can be applied to projects and assist in documenting trusted best practices. Typically, you will be required to: o Assist in designing the deployment architecture for web-based applications. o Perform program modifications following detailed technical specifications and resolve programming problems. o Create detailed technical specif", 
+                    "twitter:title": "RealDecoy - Junior Web Application Developer", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "The Junior Developer role will be fast paced from the moment you start; you will \n... for the web, Hibernate, or any other persistence framework HTML/JavaScript/\u00a0...", 
+        "title": "RealDecoy - Junior Web Application Developer"
+    }, 
+    {
+        "cacheId": "--feGDrX2G0J", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+        "htmlSnippet": "The <b>Junior</b> Developer role will be fast paced from the moment you start; you will <br>\n... for the web, Hibernate, or any other persistence framework HTML/<b>JavaScript</b>/&nbsp;...", 
+        "htmlTitle": "RealDecoy - <b>Junior</b> Web Application Developer", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/realdecoy.com/3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/f956f020-8a8c-4eab-9384-b861ac443b41-1462393738256.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "34", 
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYNds_tkLBKHSwiIi0xjxyrSN6Skc0nvmVeD_KjdYAch4PFsSLB_5mAg", 
+                    "width": "174"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "RealDecoy is seeking to add a new Developer to the Ottawa team. The Junior Developer role will be fast paced from the moment you start; you will be learning new technologies, new ways of working and you will be collaborating with a variety of clients to ensure that we provide the best possible service to them. You will be responsible for implementing web sites and web applications using Java and related technologies. You will have the opportunity to work on concurrent projects with other professional developers, technical leads, project managers and planners. You will be expected to keep current of new and emerging techniques, understand when and how they can be applied to projects and assist in documenting trusted best practices. Typically, you will be required to: o Assist in designing the deployment architecture for web-based applications. o Perform program modifications following detailed technical specifications and resolve programming problems. o Create detailed technical specif", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/f956f020-8a8c-4eab-9384-b861ac443b41-1462393738256.png", 
+                    "og:image:height": "200", 
+                    "og:title": "RealDecoy - Junior Web Application Developer", 
+                    "og:url": "https://jobs.lever.co/realdecoy.com/3ad0e81a-ae43-48bd-a46a-2dde5a21b559", 
+                    "twitter:description": "RealDecoy is seeking to add a new Developer to the Ottawa team. The Junior Developer role will be fast paced from the moment you start; you will be learning new technologies, new ways of working and you will be collaborating with a variety of clients to ensure that we provide the best possible service to them. You will be responsible for implementing web sites and web applications using Java and related technologies. You will have the opportunity to work on concurrent projects with other professional developers, technical leads, project managers and planners. You will be expected to keep current of new and emerging techniques, understand when and how they can be applied to projects and assist in documenting trusted best practices. Typically, you will be required to: o Assist in designing the deployment architecture for web-based applications. o Perform program modifications following detailed technical specifications and resolve programming problems. o Create detailed technical specif", 
+                    "twitter:title": "RealDecoy - Junior Web Application Developer", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "The Junior Developer role will be fast paced from the moment you start; you will \n... for the web, Hibernate, or any other persistence framework HTML/JavaScript/\u00a0...", 
+        "title": "RealDecoy - Junior Web Application Developer"
+    }, 
+    {
+        "cacheId": "RkSICsOWvvIJ", 
+        "displayLink": "jobs.lever.co", 
+        "formattedUrl": "https://jobs.lever.co/.../8430781c-8590-4cde-ab3b-90de758be996", 
+        "htmlFormattedUrl": "https://jobs.lever.co/.../8430781c-8590-4cde-ab3b-90de758be996", 
+        "htmlSnippet": "Girls Who Code is looking for a <b>Junior</b> Application Developer to join its ... <br>\nProficiency in at least one programming language (Java, <b>JavaScript</b>, C#/C++,&nbsp;...", 
+        "htmlTitle": "Girls Who Code - <b>Junior</b> Application Developer", 
+        "kind": "customsearch#result", 
+        "link": "https://jobs.lever.co/girlswhocode/8430781c-8590-4cde-ab3b-90de758be996", 
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1447953491607.png"
+                }
+            ], 
+            "cse_thumbnail": [
+                {
+                    "height": "153", 
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBTIRg2we60mBKH8YCVgiy0u2_YHplg6BlQX5uO7Xn_8TaimT3AdpwG6Y", 
+                    "width":`"330"
+                }
+            ], 
+            "metatags": [
+                {
+                    "og:description": "Girls Who Code is looking for a Junior Application Developer to join its Operations team to support the development and maintenance of organization\u2019s applications, integration projects and database. This role will report to the Senior Manager of Technical Projects. The Junior Application Developer will be responsible for working in a team to develop applications and system integrations, data cleaning, and process improvements. Responsible for coding, debugging, and testing applications/integrations across a wide range of platforms. The Junior Application Developer will work closely with the Solutions Architect and other stakeholders to produce scalable and robust solutions. This is a great opportunity for individuals looking to get hands on experience with a breadth of projects and technology.", 
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1447953491607.png", 
+                    "og:image:height": "200", 
+                    "og:title": "Girls Who Code - Junior Application Developer", 
+                    "og:url": "https://jobs.lever.co/girlswhocode/8430781c-8590-4cde-ab3b-90de758be996", 
+                    "twitter:description": "Girls Who Code is looking for a Junior Application Developer to join its Operations team to support the development and maintenance of organization\u2019s applications, integration projects and database. This role will report to the Senior Manager of Technical Projects. The Junior Application Developer will be responsible for working in a team to develop applications and system integrations, data cleaning, and process improvements. Responsible for coding, debugging, and testing applications/integrations across a wide range of platforms. The Junior Application Developer will work closely with the Solutions Architect and other stakeholders to produce scalable and robust solutions. This is a great opportunity for individuals looking to get hands on experience with a breadth of projects and technology.", 
+                    "twitter:title": "Girls Who Code - Junior Application Developer", 
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        }, 
+        "snippet": "Girls Who Code is looking for a Junior Application Developer to join its ... \nProficiency in at least one programming language (Java, JavaScript, C#/C++,\u00a0...", 
+        "title": "Girls Who Code - Junior Application Developer"
+    }
+]

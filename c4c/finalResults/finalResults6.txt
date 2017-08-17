@@ -1,0 +1,77 @@
+[
+    {
+        "cacheId": "FK ... AJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.le ... 5e",
+        "htmlFormattedUrl": "https://jobs.le ... 5e",
+        "htmlSnippet": "<b>Junior</b> So ... er. <b>Remote</b>. Pr ... bsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.le ... 5e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-cl ... 06.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://enc ... hw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help ... be.",
+                    "og:image": "https://lever-cl ... 06.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.le ... 5e",
+                    "twitter:description": "Help ... be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=de ... le=1"
+                }
+            ]
+        },
+        "snippet": "Junior  ... dd\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    },
+    {
+        "cacheId": "xw ... kJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.le...3e",
+        "htmlFormattedUrl": "https://jobs.le...3e",
+        "htmlSnippet": "As a <b>Junior</b> Br ... sp;...",
+        "htmlTitle": "Creative Market - <b>Junior</b> Brand Designer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.le...3e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-cl...81.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "116",
+                    "src": "https://en...00"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Overview Cr...u",
+                    "og:image": "https://lever-cl...81.png",
+                    "og:image:height": "200",
+                    "og:title": "Creative Market - Junior Brand Designer",
+                    "og:url": "https://jobs.le...3e",
+                    "twitter:description": "Overview Cr...u",
+                    "twitter:title": "Creative Market - Junior Brand Designer",
+                    "viewport": "width=de...e=1"
+                }
+            ]
+        },
+        "snippet": "As a Ju...0a0...",
+        "title": "Creative Market - Junior Brand Designer"
+    }
+]
