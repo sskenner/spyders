@@ -33,6 +33,7 @@ def get_job_listings_from_google(number_of_listings_to_get = 1):
     return_value = []
     for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
         return_value.extend(do_google_search(
+            # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
             search_term='C+junior site:jobs.lever.co',
             api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
             num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY,
@@ -44,8 +45,6 @@ def save_api_call_results(listings):
     with open('finalResults.txt','ab+') as f:
         f.write(json.dumps(get_job_listings_from_google(), sort_keys = True,
                 indent = 4))
-        # f.write(json.dumps(get_job_listings_from_google(), sort_keys = True,
-        #         indent = 4))
 
 def send_job_listings_to_codeforcash(listings):
     for listing in range(len(listings)):

@@ -41,7 +41,7 @@ results_from_GSE_query = [
         "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
         "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
         "kind": "customsearch#result",
-        "link": "https://jobs.lever.co/britecore.com/99ba5486-307f-4e4d-8ed6-8f403ef41b65",
+        "link": "https://jobs.lever.co/augmedix/8e22a1b5-8977-4ef7-aeb4-516db6c8d39f",
         "pagemap": {
             "cse_image": [
                 {
@@ -119,6 +119,9 @@ def send_job_listings_to_codeforcash(listings):
     print(title_tag)
     print(data_of_each_listing["website"])
     desc = []
+    for row in soup.find("div", attrs={"class" : "section section page-centered"}):
+        desc.append(row.text)
+    descWnewline = "\n".join(desc)
     for row in soup.find_all('li'):
         desc.append(row.text)
     descWnewline = "\n".join(desc)

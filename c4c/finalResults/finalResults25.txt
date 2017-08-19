@@ -1,0 +1,811 @@
+[
+    {
+        "cacheId": "MQ89deGMffAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../b86a2960-abd7-4995-b533-5eeed3c90546",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../b86a2960-abd7-4995-b533-5eeed3c90546",
+        "htmlSnippet": "San Francisco, CA or <b>Remote</b> ... From an ambitious <b>junior</b> developer with two <br>\nyears of experience and a strong portfolio, to a senior developer with ten years of<br>\n&nbsp;...",
+        "htmlTitle": "Poll Everywhere - Ruby Web Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/polleverywhere.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "200",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdIaI3weP0Pnl9ACCGJqv8HZRW0vNPgQ44tZOwOhQQp8R1RnlwqRN4Vw",
+                    "width": "200"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "We started Poll Everywhere as a Ruby on Rails application and are expanding it into a world of smaller, single-purpose applications. We built our own realtime streaming service that integrates with Rails, firehose.io. This framework ensures fast, responsive presentations for the millions of Poll Everywhere presenters using our software. The problems we're solving are unique, and we're sharing our knowledge with RailsConf talks about realtime web app best practices and how to decouple Rails from specialized front end applications. At Poll Everywhere, we pride ourselves on transparency, and strive to build as much of our software as we can out in the open. Our engineers are passionate about creating reliable software, so water-cooler talk may involve Service Objects or HATEOAS APIs. Want to see how we build software? Check out the Poll Everywhere Playbook.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/polleverywhere.png",
+                    "og:image:height": "200",
+                    "og:title": "Poll Everywhere - Ruby Web Engineer",
+                    "og:url": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+                    "twitter:description": "We started Poll Everywhere as a Ruby on Rails application and are expanding it into a world of smaller, single-purpose applications. We built our own realtime streaming service that integrates with Rails, firehose.io. This framework ensures fast, responsive presentations for the millions of Poll Everywhere presenters using our software. The problems we're solving are unique, and we're sharing our knowledge with RailsConf talks about realtime web app best practices and how to decouple Rails from specialized front end applications. At Poll Everywhere, we pride ourselves on transparency, and strive to build as much of our software as we can out in the open. Our engineers are passionate about creating reliable software, so water-cooler talk may involve Service Objects or HATEOAS APIs. Want to see how we build software? Check out the Poll Everywhere Playbook.",
+                    "twitter:title": "Poll Everywhere - Ruby Web Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "San Francisco, CA or Remote ... From an ambitious junior developer with two \nyears of experience and a strong portfolio, to a senior developer with ten years of\n\u00a0...",
+        "title": "Poll Everywhere - Ruby Web Engineer"
+    }
+][
+    {
+        "cacheId": "7hlxEsFYyGgJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548",
+        "htmlFormattedUrl": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548",
+        "htmlSnippet": "We are searching for a <b>Junior</b> Developer to join their engineering team in ... As a <br>\n<b>Junior</b> Developer at Koddi you will: ... Intermediate PHP and <b>Javascript</b> skills.",
+        "htmlTitle": "Koddi - <b>Junior</b> Developer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:description": "We are searching for a Junior Developer to join their engineering team in Fort Worth Texas. Koddi develops platforms that help digital advertisers market more intelligently and optimize advanced ad campaigns. We\u2019re expanding our engineering team to scale out the successful product set we have by integrating more deeply with current clients and expanding into related verticals.",
+                    "og:image:height": "200",
+                    "og:title": "Koddi - Junior Developer",
+                    "og:url": "https://jobs.lever.co/koddi/a166e767-7530-4f1f-bff1-b89427bd1548",
+                    "twitter:description": "We are searching for a Junior Developer to join their engineering team in Fort Worth Texas. Koddi develops platforms that help digital advertisers market more intelligently and optimize advanced ad campaigns. We\u2019re expanding our engineering team to scale out the successful product set we have by integrating more deeply with current clients and expanding into related verticals.",
+                    "twitter:title": "Koddi - Junior Developer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "We are searching for a Junior Developer to join their engineering team in ... As a \nJunior Developer at Koddi you will: ... Intermediate PHP and Javascript skills.",
+        "title": "Koddi - Junior Developer"
+    }
+][
+    {
+        "cacheId": "u950MlW4E5oJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../851b9097-8189-4314-a390-13663b6edefd",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../851b9097-8189-4314-a390-13663b6edefd",
+        "htmlSnippet": "Senior Software Engineer (Python &amp; <b>JavaScript</b>) ... investing in <b>junior</b> team <br>\nmembers, promoting a healthy development culture, and leading by example.",
+        "htmlTitle": "BrightLink - Senior Software Engineer (Python &amp; <b>JavaScript</b>)",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/brightlink/851b9097-8189-4314-a390-13663b6edefd",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278409457.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "120",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bHKK7i_B3kjz7ppY97IuyrIvLsj6GW8NvHc8UhBtHyzabhpBVt0b3g",
+                    "width": "418"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Who is BrightLink? BrightLink is a consultative, industry thought-leader offering services and technology for the professional credentialing industry. At our core, we are passionate about seeing family trees changed by facilitating the delivery, results, continuing education, and management of professional credentialing exams for individuals who are looking to better their lives and careers through licensure or certification. Who are we looking for? BrightLink is looking for a team member to help build innovative solutions that create remarkable experiences for our clients. The Ideal team member has mastery of computer science and engineering fundamentals and is comfortable working in an Agile/Lean development environment. The team member should have the ability and passion to learn new technologies quickly, as well as possess the drive to help others do the same. In addition to technical skills, we also look for candidates who embrace our company core values. These Core Values re",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278409457.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "BrightLink - Senior Software Engineer (Python & JavaScript)",
+                    "og:url": "https://jobs.lever.co/brightlink/851b9097-8189-4314-a390-13663b6edefd",
+                    "twitter:description": "Who is BrightLink? BrightLink is a consultative, industry thought-leader offering services and technology for the professional credentialing industry. At our core, we are passionate about seeing family trees changed by facilitating the delivery, results, continuing education, and management of professional credentialing exams for individuals who are looking to better their lives and careers through licensure or certification. Who are we looking for? BrightLink is looking for a team member to help build innovative solutions that create remarkable experiences for our clients. The Ideal team member has mastery of computer science and engineering fundamentals and is comfortable working in an Agile/Lean development environment. The team member should have the ability and passion to learn new technologies quickly, as well as possess the drive to help others do the same. In addition to technical skills, we also look for candidates who embrace our company core values. These Core Values re",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278348416.png",
+                    "twitter:title": "BrightLink - Senior Software Engineer (Python & JavaScript)",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Senior Software Engineer (Python & JavaScript) ... investing in junior team \nmembers, promoting a healthy development culture, and leading by example.",
+        "title": "BrightLink - Senior Software Engineer (Python & JavaScript)"
+    }
+][
+    {
+        "cacheId": "u950MlW4E5oJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../851b9097-8189-4314-a390-13663b6edefd",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../851b9097-8189-4314-a390-13663b6edefd",
+        "htmlSnippet": "Senior Software Engineer (Python &amp; <b>JavaScript</b>) ... investing in <b>junior</b> team <br>\nmembers, promoting a healthy development culture, and leading by example.",
+        "htmlTitle": "BrightLink - Senior Software Engineer (Python &amp; <b>JavaScript</b>)",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/faradayfuture/0106cfa3-6b00-4759-a5e0-39372c3d69e7",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278409457.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "120",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bHKK7i_B3kjz7ppY97IuyrIvLsj6GW8NvHc8UhBtHyzabhpBVt0b3g",
+                    "width": "418"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Who is BrightLink? BrightLink is a consultative, industry thought-leader offering services and technology for the professional credentialing industry. At our core, we are passionate about seeing family trees changed by facilitating the delivery, results, continuing education, and management of professional credentialing exams for individuals who are looking to better their lives and careers through licensure or certification. Who are we looking for? BrightLink is looking for a team member to help build innovative solutions that create remarkable experiences for our clients. The Ideal team member has mastery of computer science and engineering fundamentals and is comfortable working in an Agile/Lean development environment. The team member should have the ability and passion to learn new technologies quickly, as well as possess the drive to help others do the same. In addition to technical skills, we also look for candidates who embrace our company core values. These Core Values re",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278409457.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "BrightLink - Senior Software Engineer (Python & JavaScript)",
+                    "og:url": "https://jobs.lever.co/brightlink/851b9097-8189-4314-a390-13663b6edefd",
+                    "twitter:description": "Who is BrightLink? BrightLink is a consultative, industry thought-leader offering services and technology for the professional credentialing industry. At our core, we are passionate about seeing family trees changed by facilitating the delivery, results, continuing education, and management of professional credentialing exams for individuals who are looking to better their lives and careers through licensure or certification. Who are we looking for? BrightLink is looking for a team member to help build innovative solutions that create remarkable experiences for our clients. The Ideal team member has mastery of computer science and engineering fundamentals and is comfortable working in an Agile/Lean development environment. The team member should have the ability and passion to learn new technologies quickly, as well as possess the drive to help others do the same. In addition to technical skills, we also look for candidates who embrace our company core values. These Core Values re",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/c62d4bae-a95e-4423-a0e6-1b45e6e9f1ad-1499278348416.png",
+                    "twitter:title": "BrightLink - Senior Software Engineer (Python & JavaScript)",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Senior Software Engineer (Python & JavaScript) ... investing in junior team \nmembers, promoting a healthy development culture, and leading by example.",
+        "title": "BrightLink - Senior Software Engineer (Python & JavaScript)"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/polleverywhere/b86a2960-abd7-4995-b533-5eeed3c90546",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/faradayfuture/0106cfa3-6b00-4759-a5e0-39372c3d69e7",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/faradayfuture/0106cfa3-6b00-4759-a5e0-39372c3d69e7",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+][
+    {
+        "cacheId": "FKYdclr58rAJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlFormattedUrl": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+        "htmlSnippet": "<b>Junior</b> Software Engineer. <b>Remote</b>. Product. Full-time. Apply for this job. Help fix <br>\nthe legal ... As a <b>junior</b> software engineer at Clerky, you will: Maintain and add&nbsp;...",
+        "htmlTitle": "Clerky - <b>Junior</b> Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/augmedix/8e22a1b5-8977-4ef7-aeb4-516db6c8d39f",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "40",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJmxfo4IYHwoLO1aPEGSPTMcRZyVWULWTxp8OOJkQmA0T-jws1yhhw",
+                    "width": "220"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1451935950706.png",
+                    "og:image:height": "200",
+                    "og:title": "Clerky - Junior Software Engineer",
+                    "og:url": "https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e",
+                    "twitter:description": "Help fix the legal industry! The way legal transactions are done is filled with inefficiencies, which leads to ridiculously high legal fees. We're fixing this by building software that automates and streamlines the process. We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to incorporate. Y Combinator and other top accelerators use our software to handle their investment paperwork. Our product is used by tons of top tier startups and investors. We're a quiet leader in the legal technology space - if you are interested in changing the legal industry, this is arguably the best place to be.",
+                    "twitter:title": "Clerky - Junior Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Junior Software Engineer. Remote. Product. Full-time. Apply for this job. Help fix \nthe legal ... As a junior software engineer at Clerky, you will: Maintain and add\u00a0...",
+        "title": "Clerky - Junior Software Engineer"
+    }
+]

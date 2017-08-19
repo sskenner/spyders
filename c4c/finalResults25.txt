@@ -1,0 +1,133 @@
+[
+    {
+        "cacheId": "RJcRJMCSptQJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../7356ec04-84ca-4db8-810a-562ac67312da",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../7356ec04-84ca-4db8-810a-562ac67312da",
+        "htmlSnippet": "Knowledge Android SDK, <b>SQLite</b>, MySQL or similar database management <br>\nsystem. \u00b7 Familiar with AndroidStudio. Understanding of other compiled <br>\nlanguages:.",
+        "htmlTitle": "Telmate - Senior Mobile Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/telmate/7356ec04-84ca-4db8-810a-562ac67312da",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/telmate_logo_450.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "159",
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr0M3Pt0ieinKs2L87yS7pQhAf5z7Rg53cpK1oCTL9meCRWSDNt_upY2c",
+                    "width": "318"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "The Senior Mobile Application Engineer leads the development and maintenance of Android and iPhone apps. In addition to delivering the product, this is heavily involved in driving mobile strategy across all platforms. This role is heavy on the Android side, with kernel-level development skills needed.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/telmate_logo_450.png",
+                    "og:image:height": "200",
+                    "og:title": "Telmate - Senior Mobile Engineer",
+                    "og:url": "https://jobs.lever.co/telmate/7356ec04-84ca-4db8-810a-562ac67312da",
+                    "twitter:description": "The Senior Mobile Application Engineer leads the development and maintenance of Android and iPhone apps. In addition to delivering the product, this is heavily involved in driving mobile strategy across all platforms. This role is heavy on the Android side, with kernel-level development skills needed.",
+                    "twitter:title": "Telmate - Senior Mobile Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "Knowledge Android SDK, SQLite, MySQL or similar database management \nsystem. \u00b7 Familiar with AndroidStudio. Understanding of other compiled \nlanguages:.",
+        "title": "Telmate - Senior Mobile Engineer"
+    }
+][
+    {
+        "cacheId": "Q2vxZkEZDQ0J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../660b02d8-6701-4499-9768-fbe1fceca9aa",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../660b02d8-6701-4499-9768-fbe1fceca9aa",
+        "htmlSnippet": "... Experience with using databases (mysql, postgresql, <b>sqlite</b>); Experience with <br>\nGoogle Cloud or AWS; Experience using container technology (docker, coreOS,<br>\n&nbsp;...",
+        "htmlTitle": "Bay Labs - Full-stack Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/baylabs/660b02d8-6701-4499-9768-fbe1fceca9aa",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:description": "Bay Labs is at the forefront of bringing deep learning advances to critical unsolved healthcare problems. We have gathered an extraordinary team of clinicians, engineers, and scientists who are developing breakthrough technologies in cardiovascular imaging and care addressing the largest cause of death in the US. Bay Labs has a diverse technical expertise with leaders in machine learning, visual neuroscience, robotics, and physics. We collaborate with a network of world renowned clinical and academic advisors, progressing in a very short period of time. Current investors in Bay Labs are recognized leaders in venture capital. The Full-Stack Software Engineer will be a core member of the Bay Labs engineering team responsible for full-stack development and deployment of our products and services.",
+                    "og:image:height": "200",
+                    "og:title": "Bay Labs - Full-stack Software Engineer",
+                    "og:url": "https://jobs.lever.co/baylabs/660b02d8-6701-4499-9768-fbe1fceca9aa",
+                    "twitter:description": "Bay Labs is at the forefront of bringing deep learning advances to critical unsolved healthcare problems. We have gathered an extraordinary team of clinicians, engineers, and scientists who are developing breakthrough technologies in cardiovascular imaging and care addressing the largest cause of death in the US. Bay Labs has a diverse technical expertise with leaders in machine learning, visual neuroscience, robotics, and physics. We collaborate with a network of world renowned clinical and academic advisors, progressing in a very short period of time. Current investors in Bay Labs are recognized leaders in venture capital. The Full-Stack Software Engineer will be a core member of the Bay Labs engineering team responsible for full-stack development and deployment of our products and services.",
+                    "twitter:title": "Bay Labs - Full-stack Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "... Experience with using databases (mysql, postgresql, sqlite); Experience with \nGoogle Cloud or AWS; Experience using container technology (docker, coreOS,\n\u00a0...",
+        "title": "Bay Labs - Full-stack Software Engineer"
+    }
+][
+    {
+        "cacheId": "Q2vxZkEZDQ0J",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../660b02d8-6701-4499-9768-fbe1fceca9aa",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../660b02d8-6701-4499-9768-fbe1fceca9aa",
+        "htmlSnippet": "... Experience with using databases (mysql, postgresql, <b>sqlite</b>); Experience with <br>\nGoogle Cloud or AWS; Experience using container technology (docker, coreOS,<br>\n&nbsp;...",
+        "htmlTitle": "Bay Labs - Full-stack Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/baylabs/660b02d8-6701-4499-9768-fbe1fceca9aa",
+        "pagemap": {
+            "metatags": [
+                {
+                    "og:description": "Bay Labs is at the forefront of bringing deep learning advances to critical unsolved healthcare problems. We have gathered an extraordinary team of clinicians, engineers, and scientists who are developing breakthrough technologies in cardiovascular imaging and care addressing the largest cause of death in the US. Bay Labs has a diverse technical expertise with leaders in machine learning, visual neuroscience, robotics, and physics. We collaborate with a network of world renowned clinical and academic advisors, progressing in a very short period of time. Current investors in Bay Labs are recognized leaders in venture capital. The Full-Stack Software Engineer will be a core member of the Bay Labs engineering team responsible for full-stack development and deployment of our products and services.",
+                    "og:image:height": "200",
+                    "og:title": "Bay Labs - Full-stack Software Engineer",
+                    "og:url": "https://jobs.lever.co/baylabs/660b02d8-6701-4499-9768-fbe1fceca9aa",
+                    "twitter:description": "Bay Labs is at the forefront of bringing deep learning advances to critical unsolved healthcare problems. We have gathered an extraordinary team of clinicians, engineers, and scientists who are developing breakthrough technologies in cardiovascular imaging and care addressing the largest cause of death in the US. Bay Labs has a diverse technical expertise with leaders in machine learning, visual neuroscience, robotics, and physics. We collaborate with a network of world renowned clinical and academic advisors, progressing in a very short period of time. Current investors in Bay Labs are recognized leaders in venture capital. The Full-Stack Software Engineer will be a core member of the Bay Labs engineering team responsible for full-stack development and deployment of our products and services.",
+                    "twitter:title": "Bay Labs - Full-stack Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "... Experience with using databases (mysql, postgresql, sqlite); Experience with \nGoogle Cloud or AWS; Experience using container technology (docker, coreOS,\n\u00a0...",
+        "title": "Bay Labs - Full-stack Software Engineer"
+    }
+][
+    {
+        "cacheId": "Al6HsfetCYYJ",
+        "displayLink": "jobs.lever.co",
+        "formattedUrl": "https://jobs.lever.co/.../1deb20ec-ca6a-4807-8f43-74274104cd44",
+        "htmlFormattedUrl": "https://jobs.lever.co/.../1deb20ec-ca6a-4807-8f43-74274104cd44",
+        "htmlSnippet": "(<b>sqlite</b>, core data or equivalent. Strong understanding of concurrent programming <br>\narchitecture and best practices. Native UI development experience, especially&nbsp;...",
+        "htmlTitle": "Livongo - Mobile Software Engineer",
+        "kind": "customsearch#result",
+        "link": "https://jobs.lever.co/livongo/1deb20ec-ca6a-4807-8f43-74274104cd44",
+        "pagemap": {
+            "cse_image": [
+                {
+                    "src": "https://lever-client-logos.s3.amazonaws.com/38293ecd-7516-43c9-9ddc-fe79b3423292-1492034311715.png"
+                }
+            ],
+            "cse_thumbnail": [
+                {
+                    "height": "96",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCaK8TdoDDI129m9h0cMBdxayzjfK6GcbVsMmlBXpTEU_ytFll3q7Xt0",
+                    "width": "524"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:description": "Livongo is looking for a smart and capable mobile application engineer to join our ranks. The ideal candidate should have a passion for working on technology that is transformative and crucially important to helping the lives of those impacted by one of the fastest growing chronic conditions in the world. We are building an end to end service that integrates seamlessly into the lives of those affected by diabetes via a multitude of touchpoints on the front end while providing intelligent integrations and analytics on the backend. We value engineers that strive for excellence and have a sense of compassion and urgency to solving one of the most pressing healthcare crises of our generation.",
+                    "og:image": "https://lever-client-logos.s3.amazonaws.com/38293ecd-7516-43c9-9ddc-fe79b3423292-1492034311715.png",
+                    "og:image:height": "630",
+                    "og:image:width": "1200",
+                    "og:title": "Livongo - Mobile Software Engineer",
+                    "og:url": "https://jobs.lever.co/livongo/1deb20ec-ca6a-4807-8f43-74274104cd44",
+                    "twitter:description": "Livongo is looking for a smart and capable mobile application engineer to join our ranks. The ideal candidate should have a passion for working on technology that is transformative and crucially important to helping the lives of those impacted by one of the fastest growing chronic conditions in the world. We are building an end to end service that integrates seamlessly into the lives of those affected by diabetes via a multitude of touchpoints on the front end while providing intelligent integrations and analytics on the backend. We value engineers that strive for excellence and have a sense of compassion and urgency to solving one of the most pressing healthcare crises of our generation.",
+                    "twitter:image": "https://lever-client-logos.s3.amazonaws.com/38293ecd-7516-43c9-9ddc-fe79b3423292-1492034291479.png",
+                    "twitter:title": "Livongo - Mobile Software Engineer",
+                    "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                }
+            ]
+        },
+        "snippet": "(sqlite, core data or equivalent. Strong understanding of concurrent programming \narchitecture and best practices. Native UI development experience, especially\u00a0...",
+        "title": "Livongo - Mobile Software Engineer"
+    }
+]
