@@ -34,6 +34,8 @@ def do_google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
     res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
     return res['items']
+    
+    # print(res['items'])
 
 # results_from_GSE_query = []
 
@@ -44,11 +46,12 @@ def do_google_search(search_term, api_key, cse_id, **kwargs):
 
 def get_job_listings_from_google(number_of_listings_to_get = 100):
     return_value = []
+    # range(x, ...) = index to start from
     for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
         return_value.extend(do_google_search(
             # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
             # 'site:jobs.lever.co "c++" +engineer'
-            search_term='site:jobs.lever.co "c++" +engineer',
+            search_term='engineer software site:jobs.lever.co/brightedge/',
             api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN, num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY,
             # start=1))
             start=search_result_number_from_which_api_query_results_start))
@@ -101,8 +104,9 @@ def send_job_listings_to_codeforcash(listings):
             web_data = lynx.stdout.read()
             web_data = web_data.decode('utf-8', 'replace')
             
-            #test print lynx formatted description 
-            # print(web_data)
+            #test print url and lynx formatted description
+            print(data_of_each_listing["website"])
+            print(web_data)
 
             data_to_send_in_request_body["description"] = web_data
 
@@ -110,8 +114,8 @@ def send_job_listings_to_codeforcash(listings):
                 # data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key].encode('UTF8').decode('utf-8')
                 data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key]
 
-            #test print json formatted complete listing
-            print(data_to_send_in_request_body)
+            # #test print json formatted complete listing
+            # print(data_to_send_in_request_body)
     
         # response_per_post = requests.post(
         #     url=CODEFORCASH_BASE_URL+'/api/metum/create',
