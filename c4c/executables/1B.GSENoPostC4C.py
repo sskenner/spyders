@@ -30,19 +30,25 @@ CODEFORCASH_API_KEY = '5b26197b391c5dab05c5606d43fba9c6'
 
 MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY = 10
 
-CSE_SEARCH_TERM = 'engineer software site:jobs.lever.co/'
+CSE_SEARCH_TERM_PREFIX = 'engineer software site:jobs.lever.co/'
 
-CSE_INDEX_START = 1
+# clients = ['brightedge']
+# clients = ['brightedge', 'voleon']
+clients = ['brightedge', 'blendlabs', 'voleon']
 
-client = ['brightedge']
+def pass_different_clients():
+    for client in clients:
+        cse_search_term = CSE_SEARCH_TERM_PREFIX + client
+        print(cse_search_term)
+        get_job_listings_from_google(cse_search_term)
 
-def do_google_search(search_term=CSE_SEARCH_TERM, api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN, start=CSE_INDEX_START, **kwargs):
+
+def do_google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
-    res = service.cse().list(q=search_term + client[0], cx=cse_id, start=start, **kwargs).execute()
+    res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
+    # print(res['items'])
     print(res['queries']['request'][0]['totalResults'])
     return res['items']
-    
-    # print(res['items'])
 
 # results_from_GSE_query = []
 
@@ -51,23 +57,26 @@ def do_google_search(search_term=CSE_SEARCH_TERM, api_key=API_KEY_TO_USE_FOR_THI
 #     data_get_job_listings_from_google = results_from_GSE_query
 #     return data_get_job_listings_from_google
 
-# def get_job_listings_from_google(number_of_listings_to_get = 100):
-#     return_value = []
-#      # range(x, ...) = index to start from
-#     for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
-#         return_value.extend(do_google_search(
-#             # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
-#             # 'site:jobs.lever.co "c++" +engineer'
-#             search_term='engineer software site:jobs.lever.co/brightedge/',
-#             api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN, num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY,
-#             # start=1))
-#             start=search_result_number_from_which_api_query_results_start))
-#     return return_value[:number_of_listings_to_get]
+def get_job_listings_from_google(cse_search_term, number_of_listings_to_get = 100):
+    return_value = []
+    try:
+        for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
+            return_value.extend(do_google_search(
+                # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
+                # 'site:jobs.lever.co "c++" +engineer'
+                search_term=cse_search_term,
+                api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN, num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY,
+                # start=1))
+                start=search_result_number_from_which_api_query_results_start))
+    except:
+        pass
+    print(return_value[:number_of_listings_to_get])
+    return return_value[:number_of_listings_to_get]
 
-def save_gse_call_results(listings):
-    with open('finalResults.txt','a+') as f:
-        f.write(json.dumps(do_google_search(), sort_keys = True,
-                indent = 4))
+# def save_gse_call_results(listings):
+#     with open('finalResults.txt','a+') as f:
+#         f.write(json.dumps(get_job_listings_from_google()), sort_keys = True,
+#                 indent = 4)
 
 def send_job_listings_to_codeforcash(listings):
     for listing in range(len(listings)):
@@ -111,8 +120,7 @@ def send_job_listings_to_codeforcash(listings):
             web_data = lynx.stdout.read()
             web_data = web_data.decode('utf-8', 'replace')
             
-            #test print url and lynx formatted description
-            print(data_of_each_listing["website"])
+            #test print lynx formatted description 
             # print(web_data)
 
             data_to_send_in_request_body["description"] = web_data
@@ -121,8 +129,8 @@ def send_job_listings_to_codeforcash(listings):
                 # data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key].encode('UTF8').decode('utf-8')
                 data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key]
 
-            # #test print json formatted complete listing
-            # print(data_to_send_in_request_body)
+            #test print json formatted complete listing
+            print(data_to_send_in_request_body)
     
         # response_per_post = requests.post(
         #     url=CODEFORCASH_BASE_URL+'/api/metum/create',
@@ -132,8 +140,11 @@ def send_job_listings_to_codeforcash(listings):
         #     pickle.dump(response_per_post, f)
 
 if __name__ == '__main__':
-    # save_gse_call_results(send_job_listings_to_codeforcash(do_google_search()))
-    send_job_listings_to_codeforcash(do_google_search())
+    send_job_listings_to_codeforcash(pass_different_clients())
+    
+    # get_job_listings_from_google(pass_different_clients())
+    
+    # save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google(pass_different_clients())))
 
     # save_gse_call_results(send_job_listings_to_codeforcash(remove_non_ascii(get_job_listings_from_google())))
 

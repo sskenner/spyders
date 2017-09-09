@@ -1,0 +1,687 @@
+[
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Software Engineer',
+    'htmlTitle': 'BrightEdge - <b>Software Engineer</b>',
+    'link': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'Are you a software engineer looking to join a fast-paced team with ample room \nfor growth? Do you enjoy working with the latest technologies and do you want to\n\xa0...',
+    'htmlSnippet': 'Are you a <b>software engineer</b> looking to join a fast-paced team with ample room <br>\nfor growth? Do you enjoy working with the latest technologies and do you want to<br>\n&nbsp;...',
+    'cacheId': 'Kw4Btfzu7REJ',
+    'formattedUrl': 'https://jobs.lever.co/.../3d8d1fcb-994b-4a45-b1b6-a76910c364d2',
+    'htmlFormattedUrl': 'https://jobs.lever.co/.../3d8d1fcb-994b-4a45-b1b6-a76910c364d2',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Software Engineer',
+          'twitter:description': 'Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk! As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest compan',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Software Engineer',
+          'og:description': 'Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk! As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest compan',
+          'og:url': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Software Development Engineer in Test',
+    'htmlTitle': 'BrightEdge - <b>Software</b> Development <b>Engineer</b> in Test',
+    'link': 'https://jobs.lever.co/brightedge/f861c953-e7ee-42b9-8fd4-ba2912a89f49',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'BrightEdge is looking for a Software Development Engineer in Test to join our \nteam. In this position, you will perform various kinds of testing and automation\xa0...',
+    'htmlSnippet': 'BrightEdge is looking for a <b>Software</b> Development <b>Engineer</b> in Test to join our <br>\nteam. In this position, you will perform various kinds of testing and automation&nbsp;...',
+    'cacheId': 'mC627DTyTBsJ',
+    'formattedUrl': 'https://jobs.lever.co/.../f861c953-e7ee-42b9-8fd4-ba2912a89f49',
+    'htmlFormattedUrl': 'https://jobs.lever.co/.../f861c953-e7ee-42b9-8fd4-ba2912a89f49',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Software Development Engineer in Test',
+          'twitter:description': 'Are you an engineer with passion and experience in Software Quality Assurance and Test Automation? Are you looking to join a fast-paced team with ample room for growth and innovation? BrightEdge is looking for a Software Development Engineer in Test to join our team. In this position, you will perform various kinds of testing and automation activities to enforce the highest level of product quality for the BrightEdge Platform. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by many Fortune 100, Fortune 500 and Fortune 1000 organizations and brands.',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Software Development Engineer in Test',
+          'og:description': 'Are you an engineer with passion and experience in Software Quality Assurance and Test Automation? Are you looking to join a fast-paced team with ample room for growth and innovation? BrightEdge is looking for a Software Development Engineer in Test to join our team. In this position, you will perform various kinds of testing and automation activities to enforce the highest level of product quality for the BrightEdge Platform. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by many Fortune 100, Fortune 500 and Fortune 1000 organizations and brands.',
+          'og:url': 'https://jobs.lever.co/brightedge/f861c953-e7ee-42b9-8fd4-ba2912a89f49',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Front End Software Engineer',
+    'htmlTitle': 'BrightEdge - Front End <b>Software Engineer</b>',
+    'link': 'https://jobs.lever.co/brightedge/f89f332e-6530-4455-b74a-5eeee89ea2a5',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'BrightEdge is looking for a Front End Software Engineer who loves working with \nReact.js, Redux and Javascript. If you like helping others, seeing things grow\xa0...',
+    'htmlSnippet': 'BrightEdge is looking for a Front End <b>Software Engineer</b> who loves working with <br>\nReact.js, Redux and Javascript. If you like helping others, seeing things grow&nbsp;...',
+    'cacheId': 'DVlEHBmyfe0J',
+    'formattedUrl': 'https://jobs.lever.co/.../f89f332e-6530-4455-b74a-5eeee89ea2a5',
+    'htmlFormattedUrl': 'https://jobs.lever.co/.../f89f332e-6530-4455-b74a-5eeee89ea2a5',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Front End Software Engineer',
+          'twitter:description': 'Join the international industry pioneer behind Content Performance Marketing! BrightEdge’s award-winning platform precisely measures and optimizes marketing content across online channels. We’ve thoroughly redefined the concept of search engine optimization (SEO), and our cloud-based platform is powered by big data analysis that allows customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge is looking for a Front End Software Engineer who loves working with React.js, Redux and Javascript. If you like helping others, seeing things grow and watching a market quickly adopt your creations…this is your place!',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Front End Software Engineer',
+          'og:description': 'Join the international industry pioneer behind Content Performance Marketing! BrightEdge’s award-winning platform precisely measures and optimizes marketing content across online channels. We’ve thoroughly redefined the concept of search engine optimization (SEO), and our cloud-based platform is powered by big data analysis that allows customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge is looking for a Front End Software Engineer who loves working with React.js, Redux and Javascript. If you like helping others, seeing things grow and watching a market quickly adopt your creations…this is your place!',
+          'og:url': 'https://jobs.lever.co/brightedge/f89f332e-6530-4455-b74a-5eeee89ea2a5',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Software Engineer',
+    'htmlTitle': 'BrightEdge - <b>Software Engineer</b>',
+    'link': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2/',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'U.S. Equal Employment Opportunity information (Completion is voluntary and will \nnot subject you to adverse treatment). BrightEdge provides equal employment\xa0...',
+    'htmlSnippet': 'U.S. Equal Employment Opportunity information (Completion is voluntary and will <br>\nnot subject you to adverse treatment). BrightEdge provides equal employment&nbsp;...',
+    'cacheId': 'BDVwmTv_vS8J',
+    'formattedUrl': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6.../apply',
+    'htmlFormattedUrl': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6.../apply',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Software Engineer',
+          'twitter:description': 'Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk! As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest compani',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Software Engineer',
+          'og:description': 'Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk! As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest compani',
+          'og:url': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2/apply',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Software Engineer, Full Stack',
+    'htmlTitle': 'BrightEdge - <b>Software Engineer</b>, Full Stack',
+    'link': 'https://jobs.lever.co/brightedge/662fe728-6345-40ea-bed2-ba403d405d13/',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'U.S. Equal Employment Opportunity information (Completion is voluntary and will \nnot subject you to adverse treatment). BrightEdge provides equal employment\xa0...',
+    'htmlSnippet': 'U.S. Equal Employment Opportunity information (Completion is voluntary and will <br>\nnot subject you to adverse treatment). BrightEdge provides equal employment&nbsp;...',
+    'cacheId': '5NYp9QRdzacJ',
+    'formattedUrl': 'https://jobs.lever.co/brightedge/662fe728-6345-40ea-bed2.../apply',
+    'htmlFormattedUrl': 'https://jobs.lever.co/brightedge/662fe728-6345-40ea-bed2.../apply',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Software Engineer, Full Stack',
+          'twitter:description': 'As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk! BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest compan',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Software Engineer, Full Stack',
+          'og:description': 'As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk! BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest compan',
+          'og:url': 'https://jobs.lever.co/brightedge/662fe728-6345-40ea-bed2-ba403d405d13/apply',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Sales Engineer',
+    'htmlTitle': 'BrightEdge - Sales <b>Engineer</b>',
+    'link': 'https://jobs.lever.co/brightedge/d0579004-b2df-42da-ae47-7f2346da5c2e',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'BrightEdge is looking for a Sales Engineer to take our pre-sales process to the ... \nManagement Software, Salesforce and other third-party integrations is a plus\xa0...',
+    'htmlSnippet': 'BrightEdge is looking for a Sales <b>Engineer</b> to take our pre-sales process to the ... <br>\nManagement <b>Software</b>, Salesforce and other third-party integrations is a plus&nbsp;...',
+    'cacheId': 'O0XRv9oqEioJ',
+    'formattedUrl': 'https://jobs.lever.co/.../d0579004-b2df-42da-ae47-7f2346da5c2e',
+    'htmlFormattedUrl': 'https://jobs.lever.co/.../d0579004-b2df-42da-ae47-7f2346da5c2e',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Sales Engineer',
+          'twitter:description': 'As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. Are you a technology enthusiast looking to join a fast-paced team with ample room for growth? Do you love building relationships with clients and want to manage and own the technical side of sales for an industry leader? If so, we need to talk! BrightEdge is looking for a Sales Engineer to take our pre-sales process to the next level. You will be an invaluable addition to the Sales team as someone',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Sales Engineer',
+          'og:description': 'As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. Are you a technology enthusiast looking to join a fast-paced team with ample room for growth? Do you love building relationships with clients and want to manage and own the technical side of sales for an industry leader? If so, we need to talk! BrightEdge is looking for a Sales Engineer to take our pre-sales process to the next level. You will be an invaluable addition to the Sales team as someone',
+          'og:url': 'https://jobs.lever.co/brightedge/d0579004-b2df-42da-ae47-7f2346da5c2e',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Web Developer',
+    'htmlTitle': 'BrightEdge - Web Developer',
+    'link': 'https://jobs.lever.co/brightedge/d4b7745f-e15a-44e6-9558-9dd7eb5bdc26',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'Are you a software engineer looking to join a fast-paced team with ample room \nfor growth? Do you love front-end / web development and want to manage and\xa0...',
+    'htmlSnippet': 'Are you a <b>software engineer</b> looking to join a fast-paced team with ample room <br>\nfor growth? Do you love front-end / web development and want to manage and&nbsp;...',
+    'cacheId': 'oKJaCYi2lB4J',
+    'formattedUrl': 'https://jobs.lever.co/.../d4b7745f-e15a-44e6-9558-9dd7eb5bdc26',
+    'htmlFormattedUrl': 'https://jobs.lever.co/.../d4b7745f-e15a-44e6-9558-9dd7eb5bdc26',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Web Developer',
+          'twitter:description': 'As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you love front-end / web development and want to manage and own the website of an industry leader? If so, we need to talk! BrightEdge is looking for a Web Developer to take responsibility of our web properties, which are visited by tens of thousands of viewers each month and growing quickly. You will collab',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Web Developer',
+          'og:description': 'As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you love front-end / web development and want to manage and own the website of an industry leader? If so, we need to talk! BrightEdge is looking for a Web Developer to take responsibility of our web properties, which are visited by tens of thousands of viewers each month and growing quickly. You will collab',
+          'og:url': 'https://jobs.lever.co/brightedge/d4b7745f-e15a-44e6-9558-9dd7eb5bdc26',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge',
+    'htmlTitle': 'BrightEdge',
+    'link': '',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'Foster City HQR&D – Software DevelopmentFull-time · Apply ... Software \nDevelopment Engineer in Test. Foster City ... Software Engineer, Data & \nInfrastructure.',
+    'htmlSnippet': 'Foster City HQR&amp;D – <b>Software</b> DevelopmentFull-time &middot; Apply ... <b>Software</b> <br>\nDevelopment <b>Engineer</b> in Test. Foster City ... <b>Software Engineer</b>, Data &amp; <br>\nInfrastructure.',
+    'cacheId': '0XA8gIqU7gkJ',
+    'formattedUrl': 'https://jobs.lever.co/brightedge/',
+    'htmlFormattedUrl': 'https://jobs.lever.co/brightedge/',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge',
+          'twitter:description': 'Job openings at BrightEdge',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge jobs',
+          'og:description': 'Job openings at BrightEdge',
+          'og:url': 'https://jobs.lever.co/brightedge',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  },
+  {
+    'kind': 'customsearch#result',
+    'title': 'BrightEdge - Back End Developer, Intelligent Experiences',
+    'htmlTitle': 'BrightEdge - Back End Developer, Intelligent Experiences',
+    'link': 'https://jobs.lever.co/brightedge/8f64062b-c557-4a6a-be40-70c057c8a2e2',
+    'displayLink': 'jobs.lever.co',
+    'snippet': 'R&D – Software Development ... A BA/BS degree is required; 2 years of Back-\nEnd Software Engineer experience; A working understanding SaaS and Cloud\xa0...',
+    'htmlSnippet': 'R&amp;D – <b>Software</b> Development ... A BA/BS degree is required; 2 years of Back-<br>\nEnd <b>Software Engineer</b> experience; A working understanding SaaS and Cloud&nbsp;...',
+    'cacheId': 'XBKupLSlJR8J',
+    'formattedUrl': 'https://jobs.lever.co/.../8f64062b-c557-4a6a-be40-70c057c8a2e2',
+    'htmlFormattedUrl': 'https://jobs.lever.co/.../8f64062b-c557-4a6a-be40-70c057c8a2e2',
+    'pagemap': {
+      'cse_thumbnail': [
+        {
+          'width': '306',
+          'height': '165',
+          'src': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQNabfPIIk51v8AsADS3rDUnaCFVMm6jfTuFxtS67-SSRulUU6F-C5V-RT'
+        }
+      ],
+      'metatags': [
+        {
+          'viewport': 'width=device-width, initial-scale=1, maximum-scale=1',
+          'twitter:title': 'BrightEdge - Back End Developer, Intelligent Experiences',
+          'twitter:description': 'Does the idea of developing cutting edge technology make you code for joy? Are you looking for a fast-paced team with ample room for growth? Do you want to make an impact on over 50% of Fortune 500 companies? If so, we need to talk! As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. BrightEdge is looking for a Back End Developer to join our Intelligent Experiences product team. Intelligent Experiences manipulates vast amounts of content performanc',
+          'twitter:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495228998728.png',
+          'og:title': 'BrightEdge - Back End Developer, Intelligent Experiences',
+          'og:description': 'Does the idea of developing cutting edge technology make you code for joy? Are you looking for a fast-paced team with ample room for growth? Do you want to make an impact on over 50% of Fortune 500 companies? If so, we need to talk! As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture. BrightEdge is looking for a Back End Developer to join our Intelligent Experiences product team. Intelligent Experiences manipulates vast amounts of content performanc',
+          'og:url': 'https://jobs.lever.co/brightedge/8f64062b-c557-4a6a-be40-70c057c8a2e2',
+          'og:image': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png',
+          'og:image:height': '630',
+          'og:image:width': '1200'
+        }
+      ],
+      'cse_image': [
+        {
+          'src': 'https://lever-client-logos.s3.amazonaws.com/4dd69699-da37-436b-8b6c-826a9752d240-1495229034630.png'
+        }
+      ]
+    }
+  }
+]
+
+(venv) arias-Air:c4c nimda$ python3 2ManualGSENoPost.py 
+https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2
+   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk!
+
+   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.
+
+   BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest companies in the world. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by more than 1200 customers and 9000 brands.
+
+Core Responsibilities
+
+     * Participate in the design and development of key back-end components in Python and PHP as well as front-end components in Javascript, HTML and CSS
+     * Develop highly scalable systems using open source technologies like Hive, Impala, Hadoop, HBase, and cloud technologies (Amazon EC2)
+
+What it Takes to be Successful
+
+     * Has strong experience coding in Python
+     * Is passionate about Big Data, Machine Learning, and/or Cloud Computing
+     * Is searching for a Software Engineer position with a successful startup in Silicon Valley
+     * Has a BS/ MS (required) in Computer Science or related field with demonstrated academic excellence
+     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable
+     * Has a strong desire to learn new technologies and work on innovative projects
+     * Is ready and excited to come on board in a fast-paced environment with ample opportunity for growth
+
+Benefits & Perks
+
+     * Competitive Salary with Stock Options
+     * Medical / Dental / Vision Insurance / PTO
+     * Team networking, social events, Friday company lunches
+     * Hackathons
+     * Release celebrations every 6 weeks
+     * Fully stocked kitchens
+     * Comfortable working spaces
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Software Engineer', 'website': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2', 'description': '   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk!\n\n   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.\n\n   BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest companies in the world. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by more than 1200 customers and 9000 brands.\n\nCore Responsibilities\n\n     * Participate in the design and development of key back-end components in Python and PHP as well as front-end components in Javascript, HTML and CSS\n     * Develop highly scalable systems using open source technologies like Hive, Impala, Hadoop, HBase, and cloud technologies (Amazon EC2)\n\nWhat it Takes to be Successful\n\n     * Has strong experience coding in Python\n     * Is passionate about Big Data, Machine Learning, and/or Cloud Computing\n     * Is searching for a Software Engineer position with a successful startup in Silicon Valley\n     * Has a BS/ MS (required) in Computer Science or related field with demonstrated academic excellence\n     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable\n     * Has a strong desire to learn new technologies and work on innovative projects\n     * Is ready and excited to come on board in a fast-paced environment with ample opportunity for growth\n\nBenefits & Perks\n\n     * Competitive Salary with Stock Options\n     * Medical / Dental / Vision Insurance / PTO\n     * Team networking, social events, Friday company lunches\n     * Hackathons\n     * Release celebrations every 6 weeks\n     * Fully stocked kitchens\n     * Comfortable working spaces\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n', 'utc_datetime': '2017-09-09T00:12:57.871402', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+https://jobs.lever.co/brightedge/f861c953-e7ee-42b9-8fd4-ba2912a89f49
+   Are you an engineer with passion and experience in Software Quality Assurance and Test Automation? Are you looking to join a fast-paced team with ample room for growth and innovation?
+
+   BrightEdge is looking for a Software Development Engineer in Test to join our team. In this position, you will perform various kinds of testing and automation activities to enforce the highest level of product quality for the BrightEdge Platform. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by many Fortune 100, Fortune 500 and Fortune 1000 organizations and brands.
+
+Core Responsibilities
+
+     * Partner with other teams & drive cross-functional efforts with the goal of ensuring high quality on end-to-end product functionality
+     * Innovate and invest in tools and solutions that'll help increase the efficiency of product development
+     * Develop automated testing systems that leverage in-house scripts and commercial tools for complex, multi-tiered and multi-tenant cloud-based applications
+     * Develop, modify and execute software test strategies
+     * Participate in troubleshooting and triaging of issues with different teams to drive towards root cause identification and resolution
+     * Find opportunities for continuous improvements to our software system and product
+
+What it Takes to be Successful
+
+     * BS or MS in Computer Science or related technical field
+     * 1-5 years' professional experience as a Software Test Engineer, with a focus on test automation
+     * Solid OO design and implementation skills using Java/Python/C# or similar
+     * Experience creating automated test frameworks for web applications or other software
+     * Ability to write excellent test plans, test cases and test scripts
+     * Familiarity with databases and capability to generate complex database queries
+     * Familiarity with UNIX systems
+     * Experience with continuous integration environments
+     * Experience in Agile/Scrum methodologies
+     * A champion of quality, able to test and vouch for the integrity of the product
+     * An analytical mind and can break down complex problems into solvable components and believe that no detail is too small to be overlooked
+     * Strong interpersonal skills, ability to take ownership, and the ability to identify and solve problems quickly in a fast-paced environment
+
+Benefits & Perks
+
+     * Competitive salary with stock options
+     * Full health and retirement benefits--Medical / Dental / Vision Insurance / 401K / PTO
+     * Internal promotions and career growth opportunities
+     * Team networking, social events, Thursday & Friday company lunches
+     * Hackathons
+     * Release celebrations every 6 weeks
+     * Free snacks and beverages everyday
+     * Comfortable working spaces
+     * Employer sponsored activities and clubs
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Software Development Engineer in Test', 'website': 'https://jobs.lever.co/brightedge/f861c953-e7ee-42b9-8fd4-ba2912a89f49', 'description': "   Are you an engineer with passion and experience in Software Quality Assurance and Test Automation? Are you looking to join a fast-paced team with ample room for growth and innovation?\n\n   BrightEdge is looking for a Software Development Engineer in Test to join our team. In this position, you will perform various kinds of testing and automation activities to enforce the highest level of product quality for the BrightEdge Platform. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by many Fortune 100, Fortune 500 and Fortune 1000 organizations and brands.\n\nCore Responsibilities\n\n     * Partner with other teams & drive cross-functional efforts with the goal of ensuring high quality on end-to-end product functionality\n     * Innovate and invest in tools and solutions that'll help increase the efficiency of product development\n     * Develop automated testing systems that leverage in-house scripts and commercial tools for complex, multi-tiered and multi-tenant cloud-based applications\n     * Develop, modify and execute software test strategies\n     * Participate in troubleshooting and triaging of issues with different teams to drive towards root cause identification and resolution\n     * Find opportunities for continuous improvements to our software system and product\n\nWhat it Takes to be Successful\n\n     * BS or MS in Computer Science or related technical field\n     * 1-5 years' professional experience as a Software Test Engineer, with a focus on test automation\n     * Solid OO design and implementation skills using Java/Python/C# or similar\n     * Experience creating automated test frameworks for web applications or other software\n     * Ability to write excellent test plans, test cases and test scripts\n     * Familiarity with databases and capability to generate complex database queries\n     * Familiarity with UNIX systems\n     * Experience with continuous integration environments\n     * Experience in Agile/Scrum methodologies\n     * A champion of quality, able to test and vouch for the integrity of the product\n     * An analytical mind and can break down complex problems into solvable components and believe that no detail is too small to be overlooked\n     * Strong interpersonal skills, ability to take ownership, and the ability to identify and solve problems quickly in a fast-paced environment\n\nBenefits & Perks\n\n     * Competitive salary with stock options\n     * Full health and retirement benefits--Medical / Dental / Vision Insurance / 401K / PTO\n     * Internal promotions and career growth opportunities\n     * Team networking, social events, Thursday & Friday company lunches\n     * Hackathons\n     * Release celebrations every 6 weeks\n     * Free snacks and beverages everyday\n     * Comfortable working spaces\n     * Employer sponsored activities and clubs\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n", 'utc_datetime': '2017-09-09T00:12:59.903689', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+https://jobs.lever.co/brightedge/f89f332e-6530-4455-b74a-5eeee89ea2a5
+   Join the international industry pioneer behind Content Performance Marketing! BrightEdge's award-winning platform precisely measures and optimizes marketing content across online channels.  We've thoroughly redefined the concept of search engine optimization (SEO), and our cloud-based platform is powered by big data analysis that allows customers to plan, optimize, and measure campaigns based on real-time content performance.
+
+   BrightEdge is looking for a Front End Software Engineer who loves working with React.js, Redux and Javascript.  If you like helping others, seeing things grow and watching a market quickly adopt your creations...this is your place!
+
+Core Responsibilities & What it Takes to be Successful
+
+     * Lives and dreams of improving user interface (UI)
+     * Has a strong desire to learn new technologies and work on innovative projects
+     * Thrives in a fast-paced environment with ample opportunity for growth
+     * Experience with modern web frameworks
+     * Expert knowledge of JavaScript, HTML, and CSS
+     * Ability to develop for cross-browser compatibility issues and client side performance considerations
+     * 2+ years of working experience
+     * Degree in Computer Science is preferred
+     * Experience with ES6 is a plus
+     * Experience with React.js is a huge plus
+
+Benefits & Perks
+
+     * Competitive Salary with Stock Options
+     * Medical / Dental / Vision Insurance / PTO
+     * Team networking, social events, Friday company lunches
+     * Hackathons
+     * Release celebrations every 6 weeks
+     * Fully stocked kitchens
+     * Comfortable working spaces
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Front End Software Engineer', 'website': 'https://jobs.lever.co/brightedge/f89f332e-6530-4455-b74a-5eeee89ea2a5', 'description': "   Join the international industry pioneer behind Content Performance Marketing! BrightEdge's award-winning platform precisely measures and optimizes marketing content across online channels.  We've thoroughly redefined the concept of search engine optimization (SEO), and our cloud-based platform is powered by big data analysis that allows customers to plan, optimize, and measure campaigns based on real-time content performance.\n\n   BrightEdge is looking for a Front End Software Engineer who loves working with React.js, Redux and Javascript.  If you like helping others, seeing things grow and watching a market quickly adopt your creations...this is your place!\n\nCore Responsibilities & What it Takes to be Successful\n\n     * Lives and dreams of improving user interface (UI)\n     * Has a strong desire to learn new technologies and work on innovative projects\n     * Thrives in a fast-paced environment with ample opportunity for growth\n     * Experience with modern web frameworks\n     * Expert knowledge of JavaScript, HTML, and CSS\n     * Ability to develop for cross-browser compatibility issues and client side performance considerations\n     * 2+ years of working experience\n     * Degree in Computer Science is preferred\n     * Experience with ES6 is a plus\n     * Experience with React.js is a huge plus\n\nBenefits & Perks\n\n     * Competitive Salary with Stock Options\n     * Medical / Dental / Vision Insurance / PTO\n     * Team networking, social events, Friday company lunches\n     * Hackathons\n     * Release celebrations every 6 weeks\n     * Fully stocked kitchens\n     * Comfortable working spaces\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n", 'utc_datetime': '2017-09-09T00:13:00.933225', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2/
+   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk!
+
+   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.
+
+   BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest companies in the world. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by more than 1200 customers and 9000 brands.
+
+Core Responsibilities
+
+     * Participate in the design and development of key back-end components in Python and PHP as well as front-end components in Javascript, HTML and CSS
+     * Develop highly scalable systems using open source technologies like Hive, Impala, Hadoop, HBase, and cloud technologies (Amazon EC2)
+
+What it Takes to be Successful
+
+     * Has strong experience coding in Python
+     * Is passionate about Big Data, Machine Learning, and/or Cloud Computing
+     * Is searching for a Software Engineer position with a successful startup in Silicon Valley
+     * Has a BS/ MS (required) in Computer Science or related field with demonstrated academic excellence
+     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable
+     * Has a strong desire to learn new technologies and work on innovative projects
+     * Is ready and excited to come on board in a fast-paced environment with ample opportunity for growth
+
+Benefits & Perks
+
+     * Competitive Salary with Stock Options
+     * Medical / Dental / Vision Insurance / PTO
+     * Team networking, social events, Friday company lunches
+     * Hackathons
+     * Release celebrations every 6 weeks
+     * Fully stocked kitchens
+     * Comfortable working spaces
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Software Engineer', 'website': 'https://jobs.lever.co/brightedge/3d8d1fcb-994b-4a45-b1b6-a76910c364d2/', 'description': '   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk!\n\n   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.\n\n   BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest companies in the world. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by more than 1200 customers and 9000 brands.\n\nCore Responsibilities\n\n     * Participate in the design and development of key back-end components in Python and PHP as well as front-end components in Javascript, HTML and CSS\n     * Develop highly scalable systems using open source technologies like Hive, Impala, Hadoop, HBase, and cloud technologies (Amazon EC2)\n\nWhat it Takes to be Successful\n\n     * Has strong experience coding in Python\n     * Is passionate about Big Data, Machine Learning, and/or Cloud Computing\n     * Is searching for a Software Engineer position with a successful startup in Silicon Valley\n     * Has a BS/ MS (required) in Computer Science or related field with demonstrated academic excellence\n     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable\n     * Has a strong desire to learn new technologies and work on innovative projects\n     * Is ready and excited to come on board in a fast-paced environment with ample opportunity for growth\n\nBenefits & Perks\n\n     * Competitive Salary with Stock Options\n     * Medical / Dental / Vision Insurance / PTO\n     * Team networking, social events, Friday company lunches\n     * Hackathons\n     * Release celebrations every 6 weeks\n     * Fully stocked kitchens\n     * Comfortable working spaces\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n', 'utc_datetime': '2017-09-09T00:13:01.856531', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+https://jobs.lever.co/brightedge/662fe728-6345-40ea-bed2-ba403d405d13/
+   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.
+
+   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk!
+
+   BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest companies in the world. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by more than 1200 customers and 9000 brands.
+
+Core Responsibilities
+
+     * Participate in the design and development of key back-end components in Python and PHP as well as front-end components in Javascript, HTML and CSS
+     * Develop highly scalable systems using open source technologies like Hive, Impala, Hadoop, HBase, and cloud technologies (Amazon EC2)
+
+What it Takes to be Successful
+
+     * Has strong experience coding in Python
+     * Is passionate about Big Data, Machine Learning, and/or Cloud Computing
+     * Is searching for a Software Engineer position with a successful startup in Silicon Valley
+     * Has a BS/ MS (required) in Computer Science or related field with demonstrated academic excellence
+     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable
+     * Has a strong desire to learn new technologies and work on innovative projects
+     * Is ready and excited to come on board in a fast-paced environment with ample opportunity for growth
+
+Benefits & Perks
+
+     * Competitive Salary with Stock Options
+     * Medical / Dental / Vision Insurance / PTO
+     * Team networking, social events, Friday company lunches
+     * Hackathons
+     * Release celebrations every 6 weeks
+     * Fully stocked kitchens
+     * Comfortable working spaces
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Software Engineer, Full Stack', 'website': 'https://jobs.lever.co/brightedge/662fe728-6345-40ea-bed2-ba403d405d13/', 'description': '   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.\n\n   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you enjoy working with the latest technologies and do you want to work on an innovative, industry-leading product? If so, we need to talk!\n\n   BrightEdge is looking for a Software Engineer to join our team. In this position, you will develop key backend and frontend components used by some of the largest companies in the world. BrightEdge is growing quickly, and this is a great opportunity to work with some of the brightest minds in Silicon Valley on innovative solutions used by more than 1200 customers and 9000 brands.\n\nCore Responsibilities\n\n     * Participate in the design and development of key back-end components in Python and PHP as well as front-end components in Javascript, HTML and CSS\n     * Develop highly scalable systems using open source technologies like Hive, Impala, Hadoop, HBase, and cloud technologies (Amazon EC2)\n\nWhat it Takes to be Successful\n\n     * Has strong experience coding in Python\n     * Is passionate about Big Data, Machine Learning, and/or Cloud Computing\n     * Is searching for a Software Engineer position with a successful startup in Silicon Valley\n     * Has a BS/ MS (required) in Computer Science or related field with demonstrated academic excellence\n     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable\n     * Has a strong desire to learn new technologies and work on innovative projects\n     * Is ready and excited to come on board in a fast-paced environment with ample opportunity for growth\n\nBenefits & Perks\n\n     * Competitive Salary with Stock Options\n     * Medical / Dental / Vision Insurance / PTO\n     * Team networking, social events, Friday company lunches\n     * Hackathons\n     * Release celebrations every 6 weeks\n     * Fully stocked kitchens\n     * Comfortable working spaces\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n', 'utc_datetime': '2017-09-09T00:13:02.857809', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+https://jobs.lever.co/brightedge/d0579004-b2df-42da-ae47-7f2346da5c2e
+   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.
+
+   Are you a technology enthusiast looking to join a fast-paced team with ample room for growth? Do you love building relationships with clients and want to manage and own the technical side of sales for an industry leader? If so, we need to talk!
+
+   BrightEdge is looking for a Sales Engineer to take our pre-sales process to the next level. You will be an invaluable addition to the Sales team as someone who will execute the pre-sales process (discovery, platform demos, Proof of Concepts, etc) with the technical acumen to win over CTOs. Presentations and demos will excite you, whether you're presenting to a smaller customer or a Fortune 500 team, and you'll be passionate about building relationships with potential clients.
+
+Core Responsibilities
+
+     * Create demos of the BrightEdge platform tailored to potential clients
+     * Demonstrate and sell platform features in presentations with potential client executives
+     * Provide technical information to clients and fellow salespeople
+     * Understand thoroughly the BrightEdge platform and the insights it allows our clients
+
+What it Takes to be Successful
+
+     * A BA/BS degree is required
+     * An understanding of data analytics and search engine optimization (SEO)
+     * Eagerness to learn (platform training will be provided)
+     * Experience with Customer Management Software, Salesforce and other third-party integrations is a plus
+     * Working knowledge of PHP, HTML5, CSS3, MySQL, JavaScript (React/Redux) is a plus
+     * Familiarity with software development is also a plus
+
+Benefits & Perks
+
+     * Competitive Salary with Stock Options
+     * Medical/ Dental/ Vision Insurance/ PTO
+     * Team networking, social events, Friday company lunches
+     * Fully stocked kitchens
+     * Comfortable working spaces
+     * A highly collaborative and supportive team
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Sales Engineer', 'website': 'https://jobs.lever.co/brightedge/d0579004-b2df-42da-ae47-7f2346da5c2e', 'description': "   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.\n\n   Are you a technology enthusiast looking to join a fast-paced team with ample room for growth? Do you love building relationships with clients and want to manage and own the technical side of sales for an industry leader? If so, we need to talk!\n\n   BrightEdge is looking for a Sales Engineer to take our pre-sales process to the next level. You will be an invaluable addition to the Sales team as someone who will execute the pre-sales process (discovery, platform demos, Proof of Concepts, etc) with the technical acumen to win over CTOs. Presentations and demos will excite you, whether you're presenting to a smaller customer or a Fortune 500 team, and you'll be passionate about building relationships with potential clients.\n\nCore Responsibilities\n\n     * Create demos of the BrightEdge platform tailored to potential clients\n     * Demonstrate and sell platform features in presentations with potential client executives\n     * Provide technical information to clients and fellow salespeople\n     * Understand thoroughly the BrightEdge platform and the insights it allows our clients\n\nWhat it Takes to be Successful\n\n     * A BA/BS degree is required\n     * An understanding of data analytics and search engine optimization (SEO)\n     * Eagerness to learn (platform training will be provided)\n     * Experience with Customer Management Software, Salesforce and other third-party integrations is a plus\n     * Working knowledge of PHP, HTML5, CSS3, MySQL, JavaScript (React/Redux) is a plus\n     * Familiarity with software development is also a plus\n\nBenefits & Perks\n\n     * Competitive Salary with Stock Options\n     * Medical/ Dental/ Vision Insurance/ PTO\n     * Team networking, social events, Friday company lunches\n     * Fully stocked kitchens\n     * Comfortable working spaces\n     * A highly collaborative and supportive team\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n", 'utc_datetime': '2017-09-09T00:13:04.018341', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+https://jobs.lever.co/brightedge/d4b7745f-e15a-44e6-9558-9dd7eb5bdc26
+   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.
+
+   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you love front-end / web development and want to manage and own the website of an industry leader? If so, we need to talk!
+
+   BrightEdge is looking for a Web Developer to take responsibility of our web properties, which are visited by tens of thousands of viewers each month and growing quickly. You will collaborate with Marketing, Engineering and UX to manage and implement changes and updates to the sites. We are seeking a self-starter who is not afraid to tackle large projects and works well prioritizing tasks in a fast-paced environment.
+
+Core Responsibilities
+
+     * Manage the company's web properties
+     * Manage and implement updates to development and production servers / conduct website change management process
+     * Implement Drupal best practices and internal processes
+     * Custom code and take ownership of modules, themes, and database work
+     * Collaborate with vendors and Marketing,  Engineering, and UX teams, from C-level to developers to QA
+     * Provide technical leadership and assume overall accountability for a successful implementation on all projects
+     * Ensure technical solutions are properly architected and specified, as well as review all code for quality assurance purposes
+     * Integrate website with existing applications or third-party/open-source platforms
+
+What it Takes to be Successful
+
+     * A BA/BS degree is required, ideally in Computer Science or related technical field with demonstrated academic excellence
+     * Solid understanding of PHP, HTML5, CSS3, MySQL, JavaScript (Angular JS & React JS), and Drupal
+     * Familiarity with a CSS Preprocessor like LESS or Sass is a plus
+     * Experience with Eloqua, Salesforce and other third-party integrations is a plus
+     * Agile development experience and deep familiarity with software development
+     * a link to your personal website or blog to showcase your skills
+
+Benefits & Perks
+
+     * Competitive Salary with Stock Options
+     * Medical/ Dental/ Vision Insurance/ PTO
+     * Team networking, social events, Friday company lunches
+     * Hackathons
+     * Release celebrations every 6 weeks
+     * Fully stocked kitchens
+     * Comfortable working spaces
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Web Developer', 'website': 'https://jobs.lever.co/brightedge/d4b7745f-e15a-44e6-9558-9dd7eb5bdc26', 'description': "   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of search engine optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.\n\n   Are you a software engineer looking to join a fast-paced team with ample room for growth? Do you love front-end / web development and want to manage and own the website of an industry leader? If so, we need to talk!\n\n   BrightEdge is looking for a Web Developer to take responsibility of our web properties, which are visited by tens of thousands of viewers each month and growing quickly. You will collaborate with Marketing, Engineering and UX to manage and implement changes and updates to the sites. We are seeking a self-starter who is not afraid to tackle large projects and works well prioritizing tasks in a fast-paced environment.\n\nCore Responsibilities\n\n     * Manage the company's web properties\n     * Manage and implement updates to development and production servers / conduct website change management process\n     * Implement Drupal best practices and internal processes\n     * Custom code and take ownership of modules, themes, and database work\n     * Collaborate with vendors and Marketing,  Engineering, and UX teams, from C-level to developers to QA\n     * Provide technical leadership and assume overall accountability for a successful implementation on all projects\n     * Ensure technical solutions are properly architected and specified, as well as review all code for quality assurance purposes\n     * Integrate website with existing applications or third-party/open-source platforms\n\nWhat it Takes to be Successful\n\n     * A BA/BS degree is required, ideally in Computer Science or related technical field with demonstrated academic excellence\n     * Solid understanding of PHP, HTML5, CSS3, MySQL, JavaScript (Angular JS & React JS), and Drupal\n     * Familiarity with a CSS Preprocessor like LESS or Sass is a plus\n     * Experience with Eloqua, Salesforce and other third-party integrations is a plus\n     * Agile development experience and deep familiarity with software development\n     * a link to your personal website or blog to showcase your skills\n\nBenefits & Perks\n\n     * Competitive Salary with Stock Options\n     * Medical/ Dental/ Vision Insurance/ PTO\n     * Team networking, social events, Friday company lunches\n     * Hackathons\n     * Release celebrations every 6 weeks\n     * Fully stocked kitchens\n     * Comfortable working spaces\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n", 'utc_datetime': '2017-09-09T00:13:04.981898', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+https://jobs.lever.co/brightedge/8f64062b-c557-4a6a-be40-70c057c8a2e2
+   Does the idea of developing cutting edge technology make you code for joy? Are you looking for a fast-paced team with ample room for growth? Do you want to make an impact on over 50% of Fortune 500 companies? If so, we need to talk!
+
+   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.
+
+   BrightEdge is looking for a Back End Developer to join our Intelligent Experiences product team. Intelligent Experiences manipulates vast amounts of content performance data and enables marketers to create strategic content that draws in consumers. IX is unique to BrightEdge and is a prime example of cutting edge technology in the MarTech world.
+
+Core Responsibilities
+
+     * Build scalable cloud-based web applications (Python, Java)
+     * Specialize in the back-end design and data aspects of new features from end to end (Python, Java, MySQL, and Impala)
+     * Create innovative solutions to complex data-driven problems
+
+What it Takes to be Successful
+
+     * A BA/BS degree is required
+     * 2 years of Back-End Software Engineer experience
+     * A working understanding SaaS and Cloud Computing concepts
+     * Eagerness to learn (platform training will be provided)
+     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable
+
+Benefits & Perks
+
+     * Competitive Salary with Stock Options
+     * Medical/ Dental/ Vision Insurance/ PTO
+     * Team networking, social events, Friday company lunches
+     * Fully stocked kitchens
+     * Comfortable working spaces
+     * A highly collaborative and supportive team
+     * Hackathons
+     * Release celebrations every 6 weeks
+
+   About BrightEdge
+
+   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.
+
+   Apply for this job
+
+{'key': '5b26197b391c5dab05c5606d43fba9c6', 'title': 'BrightEdge - Back End Developer, Intelligent Experiences', 'website': 'https://jobs.lever.co/brightedge/8f64062b-c557-4a6a-be40-70c057c8a2e2', 'description': '   Does the idea of developing cutting edge technology make you code for joy? Are you looking for a fast-paced team with ample room for growth? Do you want to make an impact on over 50% of Fortune 500 companies? If so, we need to talk!\n\n   As the industry pioneer behind Content Performance Marketing, BrightEdge has thoroughly redefined the concept of Search Engine Optimization (SEO) by developing an award-winning platform that precisely measures and optimizes marketing content across online channels. Our cloud-based platform is powered by big data analysis that allows our customers to plan, optimize, and measure campaigns based on real-time content performance. BrightEdge has emerged as the leading international provider of cloud-based SEO Enterprise solutions due to its dynamic and results oriented entrepreneurial culture.\n\n   BrightEdge is looking for a Back End Developer to join our Intelligent Experiences product team. Intelligent Experiences manipulates vast amounts of content performance data and enables marketers to create strategic content that draws in consumers. IX is unique to BrightEdge and is a prime example of cutting edge technology in the MarTech world.\n\nCore Responsibilities\n\n     * Build scalable cloud-based web applications (Python, Java)\n     * Specialize in the back-end design and data aspects of new features from end to end (Python, Java, MySQL, and Impala)\n     * Create innovative solutions to complex data-driven problems\n\nWhat it Takes to be Successful\n\n     * A BA/BS degree is required\n     * 2 years of Back-End Software Engineer experience\n     * A working understanding SaaS and Cloud Computing concepts\n     * Eagerness to learn (platform training will be provided)\n     * Is excited about the code he/she writes and takes pride in making it maintainable and scalable\n\nBenefits & Perks\n\n     * Competitive Salary with Stock Options\n     * Medical/ Dental/ Vision Insurance/ PTO\n     * Team networking, social events, Friday company lunches\n     * Fully stocked kitchens\n     * Comfortable working spaces\n     * A highly collaborative and supportive team\n     * Hackathons\n     * Release celebrations every 6 weeks\n\n   About BrightEdge\n\n   BrightEdge Technologies, Inc. (www.BrightEdge.com) is privately held and the leader in cloud-based SEO and Content Performance Marketing solutions for over 1200 enterprise, corporate, and agency customers and 9000 brands. The BrightEdge platform boosts their marketing performance by streamlining, automating, and integrating search optimization, social marketing, and content performance management capabilities for its customers. Advanced BrightEdge technology delivers visibility, executable recommendations, competitive insights, and dynamic performance metrics. With the largest technology, sales, and customer success teams in our industry, we help customers innovate and execute to achieve superior marketing performance.\n\n   Apply for this job\n', 'utc_datetime': '2017-09-09T00:13:05.937550', 'lat': '', 'lng': '', 'country': '', 'employment_type': '', 'remote_ok': '', 'time_commitment': ''}
+(venv) arias-Air:c4c nimda$ 
