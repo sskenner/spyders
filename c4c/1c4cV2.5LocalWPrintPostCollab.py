@@ -30,53 +30,43 @@ CODEFORCASH_API_KEY = '5b26197b391c5dab05c5606d43fba9c6'
 
 MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY = 10
 
-CSE_SEARCH_TERM_PREFIX = 'engineer software site:jobs.lever.co/'
-
-# clients = ['brightedge']
-# clients = ['brightedge', 'voleon']
-clients = ['brightedge', 'blendlabs', 'voleon']
-
-def pass_different_clients():
-    for client in clients:
-        cse_search_term = CSE_SEARCH_TERM_PREFIX + client
-        print(cse_search_term)
-        get_job_listings_from_google(cse_search_term)
-
-
 def do_google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
     res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
-    # print(res['items'])
-    print(res['queries']['request'][0]['totalResults'])
-    return res['items']
 
-# results_from_GSE_query = []
+    #TODO: determine how to send/skip when res['items'] does not exist instead of forcing 404?
+    if res['queries']['request'][0]['totalResults'] == '0':
+        res = {
+                'items': [
+                    {
+                        'title': 'NO MORE RECORDS',
+                        'link': 'https://jobs.lever.co/xyz'
+                        # in case lever 404 stops working
+                        # 'link': 'https://github.com/sskenner/xyz'
+                    }
+                ]
+            }
+        # visual of when reach the gse page when totalResults == '0'
+        print('MANUAL ASSIGNMENT OF RES')
+        return res['items']
+    else:
+        return res['items']
+    
 
-# #local manual per listing test
-# def get_job_listings_from_google():
-#     data_get_job_listings_from_google = results_from_GSE_query
-#     return data_get_job_listings_from_google
-
-def get_job_listings_from_google(cse_search_term, number_of_listings_to_get = 100):
+def get_job_listings_from_google(number_of_listings_to_get):
     return_value = []
-    try:
-        for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
-            return_value.extend(do_google_search(
-                # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
-                # 'site:jobs.lever.co "c++" +engineer'
-                search_term=cse_search_term,
-                api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN, num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY,
-                # start=1))
-                start=search_result_number_from_which_api_query_results_start))
-    except:
-        pass
-    print(return_value[:number_of_listings_to_get])
+    for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
+        return_value.extend(do_google_search(
+            # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
+            search_term="haskell 'software engineer'",
+            api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
+            num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY, start=search_result_number_from_which_api_query_results_start))
     return return_value[:number_of_listings_to_get]
 
-# def save_gse_call_results(listings):
-#     with open('finalResults.txt','a+') as f:
-#         f.write(json.dumps(get_job_listings_from_google()), sort_keys = True,
-#                 indent = 4)
+def save_gse_call_results(listings):
+    with open('finalResults.txt','a+') as f:
+        f.write(json.dumps(get_job_listings_from_google(100), sort_keys = True,
+                indent = 4))
 
 def send_job_listings_to_codeforcash(listings):
     for listing in range(len(listings)):
@@ -107,10 +97,7 @@ def send_job_listings_to_codeforcash(listings):
             htmlDecode = soup.encode('utf-8').decode('utf-8', 'ignore')
             
             f = open('Lynx.htm','w')
-            try:
-                f.write(htmlDecode)
-            except:
-                print('POTENTIAL ENCODE ERROR')
+            f.write(htmlDecode)
             f.close()
 
             #refactor as functions
@@ -120,7 +107,7 @@ def send_job_listings_to_codeforcash(listings):
             web_data = lynx.stdout.read()
             web_data = web_data.decode('utf-8', 'replace')
             
-            #test print lynx formatted description 
+            # #test print lynx formatted description 
             # print(web_data)
 
             data_to_send_in_request_body["description"] = web_data
@@ -132,19 +119,17 @@ def send_job_listings_to_codeforcash(listings):
             #test print json formatted complete listing
             print(data_to_send_in_request_body)
     
+        # # send formatted json to code4cash api
         # response_per_post = requests.post(
         #     url=CODEFORCASH_BASE_URL+'/api/metum/create',
         #     data=data_to_send_in_request_body)
-        
+        # # save code4cash response
         # with open('responseFromCodeforcash','ab+') as f:
         #     pickle.dump(response_per_post, f)
 
 if __name__ == '__main__':
-    send_job_listings_to_codeforcash(pass_different_clients())
-    
-    # get_job_listings_from_google(pass_different_clients())
-    
-    # save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google(pass_different_clients())))
+    save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google(100)))
+    # save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google()))
 
     # save_gse_call_results(send_job_listings_to_codeforcash(remove_non_ascii(get_job_listings_from_google())))
 

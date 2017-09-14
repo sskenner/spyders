@@ -32,9 +32,8 @@ MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY = 10
 
 CSE_SEARCH_TERM_PREFIX = "'software engineer' site:jobs.lever.co/"
 
-# clients = ['brightedge']
-clients = ['voleon', 'brightedge']
-# clients = ['brightedge', 'blendlabs', 'voleon']
+# clients = ['blendlabs', 'brightedge']
+clients = ['twitch','chanzuckerberg','everlaw','button','drawbridge','duolingo','myemma','upserve','creditkarma','abacus']
 
 def pass_different_clients():
     for client in clients:
@@ -46,8 +45,8 @@ def pass_different_clients():
 def do_google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
     res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
+    print(res['queries']['request'][0]['totalResults'])
     print(res['items'])
-    # print(res['queries']['request'][0]['totalResults'])
     return res['items']
 
 # results_from_GSE_query = []
