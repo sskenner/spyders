@@ -74,7 +74,7 @@ def get_job_listings_from_google(number_of_listings_to_get):
 
 def save_gse_call_results(listings):
     with open('saved_gse_results.txt','a+') as f:
-        f.write(json.dumps(get_job_listings_from_google(100), sort_keys = True,
+        f.write(json.dumps(get_job_listings_from_google(10), sort_keys = True,
                 indent = 4))
 
 def send_job_listings_to_codeforcash(listings):
@@ -106,34 +106,35 @@ def send_job_listings_to_codeforcash(listings):
             print(e)
             continue
         else:
-#TODO: 
-# - dupe for location ... refactor? can do as single call?
-# test: https://jobs.lever.co/awake-security/7a6a64c4-71e8-4de9-9fc3-832860890b49
-            only_tag_class = SoupStrainer("div", {"class" : "section-wrapper page-full-width"})
-            soup = BeautifulSoup(html, "html.parser", parse_only=only_tag_class)
-            html_decoded = soup.encode('utf-8').decode('utf-8', 'ignore')
-            
+            # soupstrain description
+            description_tag_class = SoupStrainer("div", {"class" : "section-wrapper page-full-width"})
+            description_soup = BeautifulSoup(html, "html.parser", parse_only=description_tag_class)
+            description_html_decoded = description_soup.encode('utf-8').decode('utf-8', 'ignore')
+           
             f = open('Lynx.htm','w')
-            f.write(html_decoded)
+            f.write(description_html_decoded)
             f.close()
 
             # pass description through lynx to format
-            web_data = ''
+            description_web_data = ''
             cmd = 'lynx -dump -width 1024 -nolist -notitle \"{0}\"'.format('./Lynx.htm')
             lynx = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE)
-            web_data = lynx.stdout.read()
-            web_data = web_data.decode('utf-8', 'replace')
+            description_web_data = lynx.stdout.read()
+            description_web_data = description_web_data.decode('utf-8', 'replace')
+
+            # soupstrain location
+            location_tag_class = SoupStrainer("div", {"class" : "sort-by-time posting-category medium-category-label"})
+            location_soup_html = BeautifulSoup(html, "html.parser", parse_only=location_tag_class)
+            location = location_soup_html.text
 
             # check for bad words in description
             for bad_word in BAD_WORDS_LIST:
-                if bad_word in web_data:
+                if bad_word in description_web_data:
                     any_bad_words = True
                     print('bad word found')
                 else:
-                    data_to_send_in_request_body["description"] = web_data
-#TODO:
-# -put location data in dict here
-                    # data_to_send_in_request_body["country"] = location
+                    data_to_send_in_request_body["description"] = description_web_data
+                    data_to_send_in_request_body["country"] = location
 
                     for data_key in data_to_send_in_request_body:
                         data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key]
@@ -141,6 +142,8 @@ def send_job_listings_to_codeforcash(listings):
             # save listings without bad words
             if any_bad_words == False:
                 clean_data_to_post = data_to_send_in_request_body
+                # test: print formatted descriptions
+                # print(description_web_data)
             else:
                 continue
                     
@@ -148,9 +151,9 @@ def send_job_listings_to_codeforcash(listings):
             # print(data_to_send_in_request_body)
         print(clean_data_to_post)   
 
-        # save prePostListings before post to c4c
-        with open('saved_clean_post_data.txt','a+') as f:
-            f.write(json.dumps(clean_data_to_post))
+        # # save prePostListings before post to c4c
+        # with open('saved_clean_post_data.txt','a+') as f:
+        #     f.write(json.dumps(clean_data_to_post))
     
         # # send formatted json to code4cash api
         # response_per_post = requests.post(
@@ -161,4 +164,4 @@ def send_job_listings_to_codeforcash(listings):
         #     pickle.dump(response_per_post, f)
 
 if __name__ == '__main__':
-    save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google(100)))
+    save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google(10)))
