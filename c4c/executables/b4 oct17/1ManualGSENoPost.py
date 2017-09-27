@@ -36,11 +36,11 @@ CSE_SEARCH_TERM_PREFIX = "'software engineer' site:jobs.lever.co/"
 # clients = ['brightedge', 'voleon']
 # clients = ['brightedge', 'blendlabs', 'voleon']
 
-# def pass_different_clients():
-#     for client in clients:
-#         cse_search_term = CSE_SEARCH_TERM_PREFIX + client
-#         print(cse_search_term)
-#         get_job_listings_from_google(cse_search_term)
+def pass_different_clients():
+    for client in clients:
+        cse_search_term = CSE_SEARCH_TERM_PREFIX + client
+        print(cse_search_term)
+        get_job_listings_from_google(cse_search_term)
 
 
 # def do_google_search(search_term, api_key, cse_id, **kwargs):
@@ -4174,21 +4174,21 @@ def get_job_listings_from_google():
     data_get_job_listings_from_google = results_from_GSE_query
     return data_get_job_listings_from_google
 
-# def get_job_listings_from_google(cse_search_term, number_of_listings_to_get = 100):
-#     return_value = []
-#     try:
-#         for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
-#             return_value.extend(do_google_search(
-#                 # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
-#                 # 'site:jobs.lever.co "c++" +engineer'
-#                 search_term=cse_search_term,
-#                 api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN, num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY,
-#                 # start=1))
-#                 start=search_result_number_from_which_api_query_results_start))
-#     except:
-#         pass
-#     print(return_value[:number_of_listings_to_get])
-#     return return_value[:number_of_listings_to_get]
+def get_job_listings_from_google(cse_search_term, number_of_listings_to_get = 100):
+    return_value = []
+    try:
+        for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
+            return_value.extend(do_google_search(
+                # https://i.codefor.cash/job_alerts/generate_subscriber_keywords
+                # 'site:jobs.lever.co "c++" +engineer'
+                search_term=cse_search_term,
+                api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN, num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY,
+                # start=1))
+                start=search_result_number_from_which_api_query_results_start))
+    except:
+        pass
+    print(return_value[:number_of_listings_to_get])
+    return return_value[:number_of_listings_to_get]
 
 # def save_gse_call_results(listings):
 #     with open('finalResults.txt','a+') as f:
