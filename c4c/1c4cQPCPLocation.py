@@ -41,7 +41,9 @@ def do_google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
     res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
 
-    #TODO: determine how to send/skip when res['items'] does not exist instead of forcing 404?
+#TODO: 
+# -determine how to send/skip when res['items'] does not exist instead of forcing 404? 
+# -can use p4e list loop strategies?
     if res['queries']['request'][0]['totalResults'] == '0':
         res = {
                 'items': [
@@ -104,6 +106,9 @@ def send_job_listings_to_codeforcash(listings):
             print(e)
             continue
         else:
+#TODO: 
+# - dupe for location ... refactor? can do as single call?
+# test: https://jobs.lever.co/awake-security/7a6a64c4-71e8-4de9-9fc3-832860890b49
             only_tag_class = SoupStrainer("div", {"class" : "section-wrapper page-full-width"})
             soup = BeautifulSoup(html, "html.parser", parse_only=only_tag_class)
             html_decoded = soup.encode('utf-8').decode('utf-8', 'ignore')
@@ -126,6 +131,9 @@ def send_job_listings_to_codeforcash(listings):
                     print('bad word found')
                 else:
                     data_to_send_in_request_body["description"] = web_data
+#TODO:
+# -put location data in dict here
+                    # data_to_send_in_request_body["country"] = location
 
                     for data_key in data_to_send_in_request_body:
                         data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key]
