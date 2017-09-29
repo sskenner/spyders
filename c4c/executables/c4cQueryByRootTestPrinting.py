@@ -35,48 +35,67 @@ CODEFORCASH_API_KEY = '5b26197b391c5dab05c5606d43fba9c6'
 
 MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY = 10
 
-clients = ['twitch', 'creditkarma']
+# clients = ['twitch', 'creditkarma']
+clients = ['creditkarma']
 
 BAD_WORDS_LIST = ["personal trainer", "executive assistant", "low cost","ultimate software", "app tester", "1-2 hours a day","secretary", "front desk", "office manager", "use referr", "commission", "motivated individuals" , "sales specialist","no experience required", "amazing opportunity", "court researcher","technical support", "tech support", "mystery shopper","customer service", "field engineer", "administrative", "book keeping", "extra money", "extra cash", "extra income", "data entry", "have a car", "debit card", "earn extra income", "step by step training", "dollars a week", "supplemental income", "sales rep","closed lead", "do you want to make", "facebook page", "facebook fan page", "theater installation", "game tester", "% stake","printing and mailing", "laserjet", "credit score","real estate investment", "research study","in person", "focus group", "survey", "you must live", "local", "must be local", "tutor", "instructor", "partner ", "equity", "cofounder", "co founder", "co-founder", "unpaid", "volunteer", "get paid", "get pay", "weekly", "webcam", "money making", "fast money", "workfromhome", "fast cash", "scam", "make money", "selling cell phones", "wireless sales", "it's legit", "telemarketer", "fb account", "Cell Phone Repair", "earn money by just", "only applicants residing in", "from his location", "virtual assistant", "by working less", "earn extra money", "experienced seller", "looking for a job", "earn over", "motorclub",  "office assistant", "event planner", "____________________________________________________________", "Filter by:"]
 
 def do_google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
     res = service.cse().list(q=search_term, cx=cse_id, **kwargs).execute()
+    # print(type(res))
+    # print(res)
+    print('new loop')
+    print(res['queries']['request'][0]['totalResults'], 'totalResults')
+    print(res['queries']['request'][0]['startIndex'], 'startIndex')
 
 #TODO: 
 # -determine how to send/skip when res['items'] does not exist instead of forcing 404? 
 # -can use p4e list loop strategies?
     if res['queries']['request'][0]['totalResults'] == '0':
-        res = {
-                'items': [
-                    {
-                        'title': 'NO MORE RECORDS',
-                        'link': 'https://jobs.lever.co/xyz'
-                        # use in case lever 404 stops working
-                        # 'link': 'https://github.com/sskenner/xyz'
-                    }
-                ]
-            }
-        # # prints when reach the gse page where totalResults == '0'
-        # print('MANUAL ASSIGNMENT OF RES')
+        # res = {
+        #         'items': [
+        #             {
+        #                 'title': 'NO MORE RECORDS',
+        #                 'link': 'https://jobs.lever.co/xyz'
+        #                 # use in case lever 404 stops working
+        #                 # 'link': 'https://github.com/sskenner/xyz'
+        #             }
+        #         ]
+        #     }
+        # # # prints when reach the gse page where totalResults == '0'
+        print('MANUAL ASSIGNMENT OF RES')
+        # print(res)
         return res['items']
     else:
         return res['items']
+    # print(res['items'])
+    # return res['items']
     
 # set gse query parameters to iterate through results
 def get_job_listings_from_google(cse_search_term, number_of_listings_to_get):
     return_value = []
+# >> if return nothing then continue or break
     for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
-        return_value.extend(do_google_search(
-            # online version of keywords > https://i.codefor.cash/job_alerts/generate_subscriber_keywords
-            search_term=cse_search_term,
-            api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
-            num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY, start=search_result_number_from_which_api_query_results_start))
+        # return_value.extend(do_google_search(
+        #     # online version of keywords > https://i.codefor.cash/job_alerts/generate_subscriber_keywords
+        #     search_term=cse_search_term,
+        #     api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
+        #     num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY, start=search_result_number_from_which_api_query_results_start))
+        try:
+            return_value.extend(do_google_search(
+                # online version of keywords > https://i.codefor.cash/job_alerts/generate_subscriber_keywords
+                search_term=cse_search_term,
+                api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
+                num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY, start=search_result_number_from_which_api_query_results_start))
+        except:
+            print(len(return_value), 'gjlfg')
+            return return_value[:number_of_listings_to_get]
     return return_value[:number_of_listings_to_get]
 
 def save_gse_call_results(listings):
     with open('saved_gse_results.txt','a+') as f:
-        f.write(json.dumps(get_job_listings_from_google("'software engineer remote' site:jobs.lever.co/" + client, 20), sort_keys = True,
+        f.write(json.dumps(get_job_listings_from_google("'software engineer' site:jobs.lever.co/" + client, 40), sort_keys = True,
                 indent = 4))
 
 def send_job_listings_to_codeforcash(listings):
@@ -160,7 +179,7 @@ def send_job_listings_to_codeforcash(listings):
                     
             # # test print json formatted complete listing
             # print(data_to_send_in_request_body)
-        print(clean_data_to_post)   
+        # print(clean_data_to_post)   
 
         # # save prePostListings before post to c4c
         # with open('saved_clean_post_data.txt','a+') as f:
@@ -176,4 +195,5 @@ def send_job_listings_to_codeforcash(listings):
 
 if __name__ == '__main__':
     for client in clients:
-        save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google("'software engineer remote' site:jobs.lever.co/" + client, 20)))
+        get_job_listings_from_google("'software engineer' site:jobs.lever.co/" + client, 40)        
+        # save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google("'software engineer' site:jobs.lever.co/" + client, 40)))

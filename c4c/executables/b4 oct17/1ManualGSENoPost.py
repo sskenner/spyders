@@ -4169,7 +4169,7 @@ results_from_GSE_query = [
   }
 ]
 
-# #local manual per listing test
+# local manual per listing test
 def get_job_listings_from_google():
     data_get_job_listings_from_google = results_from_GSE_query
     return data_get_job_listings_from_google
