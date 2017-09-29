@@ -58,6 +58,91 @@ BAD_WORDS_LIST = ["personal trainer", "executive assistant", "low cost","ultimat
 #     else:
 #         return res['items']
 
+# test 3
+# results_from_GSE_query = [
+#   {
+#     "kind": "customsearch#result",
+#     "title": "Twitch - Software Engineer",
+#     "htmlTitle": "Twitch - <b>Software Engineer</b>",
+#     "link": "https://jobs.lever.co/twitch/a5f652d5-4f30-40ae-a860-14b869b5a445",
+#     "displayLink": "jobs.lever.co",
+#     "snippet": "Not all Software Engineers fit neatly into a bucket. Luckily, neither do all of the \nthings that need to get done here at Twitch. If you're a smart engineer who's\u00a0...",
+#     "htmlSnippet": "Not all <b>Software Engineers</b> fit neatly into a bucket. Luckily, neither do all of the <br>\nthings that need to get done here at Twitch. If you&#39;re a smart engineer who&#39;s&nbsp;...",
+#     "cacheId": "Q51oEA-WB0QJ",
+#     "formattedUrl": "https://jobs.lever.co/twitch/a5f652d5-4f30-40ae-a860-14b869b5a445",
+#     "htmlFormattedUrl": "https://jobs.lever.co/twitch/a5f652d5-4f30-40ae-a860-14b869b5a445",
+#     "pagemap": {
+#       "cse_thumbnail": [
+#         {
+#           "width": "258",
+#           "height": "86",
+#           "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwhiiUaX0nLhDUxpLDdXLy7EDppirezOyA1X1YPxZRDP9S-46TKPSCZug"
+#         }
+#       ],
+#       "metatags": [
+#         {
+#           "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+#           "twitter:title": "Twitch - Software Engineer",
+#           "twitter:description": "Not all Software Engineers fit neatly into a bucket. Luckily, neither do all of the things that need to get done here at Twitch. If you\u2019re a smart engineer who\u2019s capable of learning things on the fly and isn't afraid to venture into the unknown, Twitch is definitely the place for you. As a Software Engineer at Twitch, some things you may be working on are: Our chat system, which supports millions of concurrent users Our video distribution system, which is one of the largest in the world Elegant, highly-available web services to support one of our many front end platforms Front end web engineering that is functional, beautiful, and delightful Building applications for one of the many non-web platforms we support, including iOS, Android, XBox 360, XBox One, and Playstation 4 Building new features that millions of users will be seeing Helping build robust deployment tools to help us move forward rapidly Building great tools that lets us support our custom",
+#           "twitter:image": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504133475.png",
+#           "og:title": "Twitch - Software Engineer",
+#           "og:description": "Not all Software Engineers fit neatly into a bucket. Luckily, neither do all of the things that need to get done here at Twitch. If you\u2019re a smart engineer who\u2019s capable of learning things on the fly and isn't afraid to venture into the unknown, Twitch is definitely the place for you. As a Software Engineer at Twitch, some things you may be working on are: Our chat system, which supports millions of concurrent users Our video distribution system, which is one of the largest in the world Elegant, highly-available web services to support one of our many front end platforms Front end web engineering that is functional, beautiful, and delightful Building applications for one of the many non-web platforms we support, including iOS, Android, XBox 360, XBox One, and Playstation 4 Building new features that millions of users will be seeing Helping build robust deployment tools to help us move forward rapidly Building great tools that lets us support our custom",
+#           "og:url": "https://jobs.lever.co/twitch/a5f652d5-4f30-40ae-a860-14b869b5a445",
+#           "og:image": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png",
+#           "og:image:height": "630",
+#           "og:image:width": "1200"
+#         }
+#       ],
+#       "cse_image": [
+#         {
+#           "src": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png"
+#         }
+#       ]
+#     }
+#   },
+#   {
+#     "kind": "customsearch#result",
+#     "title": "Twitch - Software Engineer - Data",
+#     "htmlTitle": "Twitch - <b>Software Engineer</b> - Data",
+#     "link": "https://jobs.lever.co/twitch/889401a7-d917-4947-97d7-8a2d2e2fd430",
+#     "displayLink": "jobs.lever.co",
+#     "snippet": "The Science Engineering team is looking for a developer to help us meet all the \ndiverse data needs within Twitch and to scale with those needs. Our team\u00a0...",
+#     "htmlSnippet": "The Science <b>Engineering</b> team is looking for a developer to help us meet all the <br>\ndiverse data needs within Twitch and to scale with those needs. Our team&nbsp;...",
+#     "cacheId": "fWiE9VK-OKMJ",
+#     "formattedUrl": "https://jobs.lever.co/.../889401a7-d917-4947-97d7-8a2d2e2fd430",
+#     "htmlFormattedUrl": "https://jobs.lever.co/.../889401a7-d917-4947-97d7-8a2d2e2fd430",
+#     "pagemap": {
+#       "cse_thumbnail": [
+#         {
+#           "width": "258",
+#           "height": "86",
+#           "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwhiiUaX0nLhDUxpLDdXLy7EDppirezOyA1X1YPxZRDP9S-46TKPSCZug"
+#         }
+#       ],
+#       "metatags": [
+#         {
+#           "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+#           "twitter:title": "Twitch - Software Engineer - Data",
+#           "twitter:description": "The Science Engineering team is looking for a developer to help us meet all the diverse data needs within Twitch and to scale with those needs. Our team develops and operates the real-time behavioral data pipeline, which collects, processes, and distributes data to other teams. We provide data to systems and decision making throughout the company, and we have a constantly growing list of data consumers. The core pipeline is open source -- check out our code at github.com/twitchscience",
+#           "twitter:image": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504133475.png",
+#           "og:title": "Twitch - Software Engineer - Data",
+#           "og:description": "The Science Engineering team is looking for a developer to help us meet all the diverse data needs within Twitch and to scale with those needs. Our team develops and operates the real-time behavioral data pipeline, which collects, processes, and distributes data to other teams. We provide data to systems and decision making throughout the company, and we have a constantly growing list of data consumers. The core pipeline is open source -- check out our code at github.com/twitchscience",
+#           "og:url": "https://jobs.lever.co/twitch/889401a7-d917-4947-97d7-8a2d2e2fd430",
+#           "og:image": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png",
+#           "og:image:height": "630",
+#           "og:image:width": "1200"
+#         }
+#       ],
+#       "cse_image": [
+#         {
+#           "src": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png"
+#         }
+#       ]
+#     }
+#   }
+# ]
+
+# test 55
 results_from_GSE_query = [
   {
     "kind": "customsearch#result",
@@ -2340,12 +2425,23 @@ def send_job_listings_to_codeforcash(listings):
             description_web_data = lynx.stdout.read()
             description_web_data = description_web_data.decode('utf-8', 'replace')
 
+            # soupstrain time_commitment & employment_type
+            time_commitment_tag_class = SoupStrainer("div", {"class" : "sort-by-commitment posting-category medium-category-label"})
+            time_commitment_soup_html = BeautifulSoup(html, "html.parser", parse_only=time_commitment_tag_class)
+            time_commitment = time_commitment_soup_html.text
+            data_to_send_in_request_body["time_commitment"] = time_commitment
+            if time_commitment == "":
+                data_to_send_in_request_body["employment_type"] = "doesnt_say"
+            else:
+                data_to_send_in_request_body["employment_type"] = time_commitment
+            print('TC:', time_commitment, 'ET:', data_to_send_in_request_body["employment_type"])
+
             # soupstrain location
             location_tag_class = SoupStrainer("div", {"class" : "sort-by-time posting-category medium-category-label"})
             location_soup_html = BeautifulSoup(html, "html.parser", parse_only=location_tag_class)
             location = location_soup_html.text
             print(location)
-# try-except and/or search all divs
+
             try: 
                 country = Geocoder.geocode(location).country
                 latitude = Geocoder.geocode(location).latitude
@@ -2388,8 +2484,10 @@ def send_job_listings_to_codeforcash(listings):
                 # test: print formatted descriptions
                 # print(description_web_data)
             else:
+                print("*********************************************")
                 continue
         # hit geocoder every 1 sec
+        print("*********************************************")
         time.sleep(0.25)            
             # # test print json formatted complete listing
             # print(data_to_send_in_request_body)
