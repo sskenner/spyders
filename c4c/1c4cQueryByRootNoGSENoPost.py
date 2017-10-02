@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup, SoupStrainer
 from urllib.request import Request, urlopen
 from pygeocoder import Geocoder
 import time
+import sys
 
 
 AVAILABLE_TOKEN_SETS = {
@@ -2417,6 +2418,13 @@ def save_gse_call_results(listings):
     # with open('saved_gse_results.txt','a+') as f:
     #     f.write(json.dumps(get_job_listings_from_google("'software engineer' remote site:jobs.lever.co/" + client, 10), sort_keys = True,
     #             indent = 4))
+def save_print_log(data):
+    saveout = sys.stdout
+    fsock = open('./saved_files/saved_post_metrics.log', 'a+')
+    sys.stdout = fsock
+    print(data)
+    sys.stdout = saveout
+    fsock.close()
 
 def send_job_listings_to_codeforcash(listings):
     save_gse_call_results(listings)
@@ -2447,6 +2455,7 @@ def send_job_listings_to_codeforcash(listings):
         # keep going if url is 404
         except urllib.error.HTTPError as e:
             print(e)
+            save_print_log(e)
             continue
         else:
             # soupstrain description
@@ -2476,7 +2485,9 @@ def send_job_listings_to_codeforcash(listings):
                 data_to_send_in_request_body["employment_type"] = time_commitment
             # print listing title
             print(data_of_each_listing["title"])
+            save_print_log(data_of_each_listing["title"])
             print('>>>>', data_of_each_listing["website"])
+            save_print_log(data_of_each_listing["website"])
             print('TC:', time_commitment, 'ET:', data_to_send_in_request_body["employment_type"])
 
             # soupstrain location
@@ -2484,6 +2495,7 @@ def send_job_listings_to_codeforcash(listings):
             location_soup_html = BeautifulSoup(html, "html.parser", parse_only=location_tag_class)
             location = location_soup_html.text
             print(location)
+            save_print_log(location)
 
             try:
                 country = Geocoder.geocode(location).country
@@ -2510,6 +2522,7 @@ def send_job_listings_to_codeforcash(listings):
                 if bad_word in data_of_each_listing["title"] or bad_word in description_web_data:
                     any_bad_words = True
                     print('** bad word:', bad_word)
+                    save_print_log(bad_word)
                     with open('./saved_files/saved_badword_list.txt','a+') as f:
                         f.write(json.dumps(data_to_send_in_request_body))
                 else:
@@ -2526,9 +2539,11 @@ def send_job_listings_to_codeforcash(listings):
                 # print(description_web_data)
             else:
                 print("*********************************************")
+                save_print_log("*********************************************")
                 continue
         # hit geocoder every 1 sec
         print("*********************************************")
+        save_print_log("*********************************************")
         time.sleep(0.25)
         # # test print json formatted complete listing
         # print(data_to_send_in_request_body)
@@ -2548,6 +2563,7 @@ def send_job_listings_to_codeforcash(listings):
 
     # print(clean_data_to_post)
     print('****', count, 'Clean Listings Posted ****')
+    save_print_log(count)
 
 if __name__ == '__main__':
     send_job_listings_to_codeforcash(get_job_listings_from_google())
