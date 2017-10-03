@@ -13,6 +13,7 @@ from unidecode import unidecode
 from bs4 import BeautifulSoup, SoupStrainer
 from urllib.request import Request, urlopen
 from pygeocoder import Geocoder
+from pygeolib import GeocoderError
 import time
 import sys
 
@@ -60,7 +61,47 @@ BAD_WORDS_LIST = ["personal trainer", "executive assistant", "low cost","ultimat
 #         return res['items']
 
 # test 3
-results_from_GSE_query_3 = [
+results_from_GSE_query_4 = [
+  {
+    "kind": "customsearch#result",
+    "title": "Twitch - iOS Engineer",
+    "htmlTitle": "Twitch - iOS <b>Engineer</b>",
+    "link": "https://jobs.lever.co/twitch/5777f110-4e1f-4dbd-85dc-219187e9caae",
+    "displayLink": "jobs.lever.co",
+    "snippet": "As an iOS Software Engineer, you will make major contributions to a rapidly-\nevolving, native app that is a portal to the Twitch community for millions of users.",
+    "htmlSnippet": "As an iOS <b>Software Engineer</b>, you will make major contributions to a rapidly-<br>\nevolving, native app that is a portal to the Twitch community for millions of users.",
+    "cacheId": "D-LQ1zCdz1QJ",
+    "formattedUrl": "https://jobs.lever.co/twitch/5777f110-4e1f-4dbd-85dc-219187e9caae",
+    "htmlFormattedUrl": "https://jobs.lever.co/twitch/5777f110-4e1f-4dbd-85dc-219187e9caae",
+    "pagemap": {
+      "cse_thumbnail": [
+        {
+          "width": "258",
+          "height": "86",
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwhiiUaX0nLhDUxpLDdXLy7EDppirezOyA1X1YPxZRDP9S-46TKPSCZug"
+        }
+      ],
+      "metatags": [
+        {
+          "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+          "twitter:title": "Twitch - iOS Engineer",
+          "twitter:description": "Twitch\u2019s Mobile Engineering team is responsible for developing viewing applications for the Android and iOS platforms, supporting phone, tablet and set-top devices. These platforms represent an ever-growing share of Twitch viewership and providing functional and delightful experiences on them is essential to user engagement. As an iOS Software Engineer, you will make major contributions to a rapidly-evolving, native app that is a portal to the Twitch community for millions of users.",
+          "twitter:image": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504133475.png",
+          "og:title": "Twitch - iOS Engineer",
+          "og:description": "Twitch\u2019s Mobile Engineering team is responsible for developing viewing applications for the Android and iOS platforms, supporting phone, tablet and set-top devices. These platforms represent an ever-growing share of Twitch viewership and providing functional and delightful experiences on them is essential to user engagement. As an iOS Software Engineer, you will make major contributions to a rapidly-evolving, native app that is a portal to the Twitch community for millions of users.",
+          "og:url": "https://jobs.lever.co/twitch/5777f110-4e1f-4dbd-85dc-219187e9caae",
+          "og:image": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png",
+          "og:image:height": "630",
+          "og:image:width": "1200"
+        }
+      ],
+      "cse_image": [
+        {
+          "src": "https://lever-client-logos.s3.amazonaws.com/afe693b8-cabb-45ce-8e8b-df618719e86f-1474504280272.png"
+        }
+      ]
+    }
+  },
   {
     "kind": "customsearch#result",
     "title": "Twitch - Software Engineer",
@@ -2389,7 +2430,7 @@ results_from_GSE_query_55 = [
 
 # local manual per listing test
 def get_job_listings_from_google():
-    data_get_job_listings_from_google = results_from_GSE_query_3
+    data_get_job_listings_from_google = results_from_GSE_query_55
     return data_get_job_listings_from_google
 
 # # set gse query parameters to iterate through results
@@ -2505,17 +2546,21 @@ def send_job_listings_to_codeforcash(listings):
                 print('## slept ##')
                 save_print_log("## slept ##")
                 time.sleep(11)
-                # try:
-                country = Geocoder.geocode(location).country
-                latitude = Geocoder.geocode(location).latitude
-                longitude = Geocoder.geocode(location).longitude
-                # except:
-                #     continue
-
-            print("country:", country, "coords", latitude, longitude)
-            data_to_send_in_request_body["country"] = country
-            data_to_send_in_request_body["lat"] = latitude
-            data_to_send_in_request_body["lng"] = longitude
+                try:
+                    country = Geocoder.geocode(location).country
+                    latitude = Geocoder.geocode(location).latitude
+                    longitude = Geocoder.geocode(location).longitude
+                except GeocoderError as e:
+                    print(e)
+                    save_print_log(e)
+                    pass
+            try:
+                print("country:", country, "coords", latitude, longitude)
+                data_to_send_in_request_body["country"] = country
+                data_to_send_in_request_body["lat"] = latitude
+                data_to_send_in_request_body["lng"] = longitude
+            except:
+                pass
 
             # set remote or not
             if 'Remote' in location or 'remote' in location or 'Remote' in data_of_each_listing["title"] or 'remote' in data_of_each_listing["title"]:
