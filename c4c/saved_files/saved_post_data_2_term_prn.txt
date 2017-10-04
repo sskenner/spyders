@@ -1,0 +1,847 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py 
+**** ROOT: luminartech ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Luminar - Embedded Software Engineer
+>>>> https://jobs.lever.co/luminartech/0142f507-e920-4f79-bdb6-de963293f147
+TC: Full-Time ET: Full-Time
+Orlando, Florida
+country: United States coords 28.5383355 -81.3792365
+*********************************************
+<Response [200]>
+Luminar - Software Engineer, LIDAR
+>>>> https://jobs.lever.co/luminartech/ea31e395-2f18-47f7-aaaa-aab66e492949
+TC: Full-Time ET: Full-Time
+Orlando, Florida
+country: United States coords 28.5383355 -81.3792365
+*********************************************
+<Response [200]>
+Luminar - Software Engineer, Tooling and Visualization
+>>>> https://jobs.lever.co/luminartech/2a00445e-15c6-427b-958f-6ba576908ff8
+TC: Full-Time ET: Full-Time
+Orlando, Florida
+country: United States coords 28.5383355 -81.3792365
+*********************************************
+<Response [200]>
+Luminar - Rendering Software Engineer
+>>>> https://jobs.lever.co/luminartech/3ce8b6d1-84fa-4be4-b8b8-d8d880e99bc0
+TC: Full-Time ET: Full-Time
+Orlando, Florida
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Orlando%2C+Florida&sensor=false&bounds=&region=&language=&components=
+country: United States coords 28.5383355 -81.3792365
+*********************************************
+<Response [200]>
+Luminar - Simulation Software Engineer
+>>>> https://jobs.lever.co/luminartech/f6e8fe7e-4eb7-4f19-abef-840eaa92eedf/apply
+TC:  ET: doesnt_say
+Palo Alto, California
+## slept ##
+country: United States coords 37.4418834 -122.1430195
+** bad word: ____________________________________________________________
+*********************************************
+Luminar - Sr. Software Engineer, Tooling and Visualization
+>>>> https://jobs.lever.co/luminartech/0d218d2e-2c17-4c05-8078-7cd4918ea760/apply
+TC: Full-Time ET: Full-Time
+Palo Alto, California
+## slept ##
+country: United States coords 37.4418834 -122.1430195
+** bad word: ____________________________________________________________
+*********************************************
+Luminar
+>>>> https://jobs.lever.co/luminartech
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+** bad word: Filter by:
+*********************************************
+Luminar - Automation Test Engineer
+>>>> https://jobs.lever.co/luminartech/01024fd0-943d-40f3-8d5c-a9747ee6d4b0
+TC: Full-Time ET: Full-Time
+Orlando, Florida
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Orlando%2C+Florida&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+XXXX 5 Clean Listings Posted XXXX
+**** ROOT: ginkgobioworks ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+19 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+19 Listings + Empty Index
+@@@@ 19 Listings Saved @@@@
+Ginkgo Bioworks - Software Engineer
+>>>> https://jobs.lever.co/ginkgobioworks/44c46f23-d10e-4b67-a82d-5d0afe2735c7
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Software Engineer
+>>>> https://jobs.lever.co/ginkgobioworks/44c46f23-d10e-4b67-a82d-5d0afe2735c7/apply
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Ginkgo Bioworks - Senior Software Engineer
+>>>> https://jobs.lever.co/ginkgobioworks/8bf18af2-e1d6-4227-8106-b73f64a17025/apply
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Ginkgo Bioworks - Site Reliability Engineer
+>>>> https://jobs.lever.co/ginkgobioworks/a24cdf3d-0faa-4fc2-852c-b790b508d7cb
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+** bad word: local
+*********************************************
+Ginkgo Bioworks - Test Engineer / Analytical Chemist
+>>>> https://jobs.lever.co/ginkgobioworks/18fdc303-6747-42f3-baa5-e2cc3fbe2d66
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks
+>>>> https://jobs.lever.co/ginkgobioworks
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+** bad word: Filter by:
+*********************************************
+Ginkgo Bioworks
+>>>> https://jobs.lever.co/ginkgobioworks/?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+** bad word: Filter by:
+*********************************************
+Ginkgo Bioworks
+>>>> https://jobs.lever.co/ginkgobioworks?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+** bad word: Filter by:
+*********************************************
+Ginkgo Bioworks - Scientist - Assay Development
+>>>> https://jobs.lever.co/ginkgobioworks/24f8e749-861d-423f-ac5e-a87c4e5dc113
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Automation Engineer
+>>>> https://jobs.lever.co/ginkgobioworks/ce992b09-c1e7-4686-9566-ac67a9992369
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Software Product Manager
+>>>> https://jobs.lever.co/ginkgobioworks/ea0710da-ecaf-4e8f-a13c-f813f2ad3d52
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Senior System Administrator
+>>>> https://jobs.lever.co/ginkgobioworks/5ed3b110-a3ea-43f3-8edc-5456e46504dc
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Foundry Operations Paid Co-op
+>>>> https://jobs.lever.co/ginkgobioworks/5e9105cb-21c8-4811-b918-32739e827fc2
+TC: Intern ET: Intern
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Research Associate / Strain Engineer
+>>>> https://jobs.lever.co/ginkgobioworks/ad43f346-02b8-4054-827a-86c9c1d5262d
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Automation Padawan (1 year paid internship)
+>>>> https://jobs.lever.co/ginkgobioworks/fe2ab4b5-eaeb-4e1f-a834-1c645a7fb3ef
+TC: Intern ET: Intern
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Synthetic Biologist / Geneticist
+>>>> https://jobs.lever.co/ginkgobioworks/6a65d50a-8c0e-4ca1-b83b-cbde693d2f16
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Organism Engineer
+>>>> https://jobs.lever.co/ginkgobioworks/8057a870-e971-4c35-8441-42e781e23123
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Test Team Padawan (1 year paid internship)
+>>>> https://jobs.lever.co/ginkgobioworks/f68f5f7e-d1b9-4625-8ad8-ff6369dee236
+TC: Intern ET: Intern
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Ginkgo Bioworks - Inventory Coordinator
+>>>> https://jobs.lever.co/ginkgobioworks/4d1464be-69a2-41b1-9402-5e09d870dafe
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+** bad word: customer service
+*********************************************
+XXXX 12 Clean Listings Posted XXXX
+**** ROOT: opendoor ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Opendoor - Software Engineer
+>>>> https://jobs.lever.co/opendoor/cf102953-5e15-4329-bb22-95f53a5fed43
+TC:  ET: doesnt_say
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Opendoor - Senior Software Engineer
+>>>> https://jobs.lever.co/opendoor/f1bace9e-8d29-4d45-a72b-98e2c06bf2c1
+TC:  ET: doesnt_say
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Opendoor - Software Engineer
+>>>> https://jobs.lever.co/opendoor/cf102953-5e15-4329-bb22-95f53a5fed43/apply
+TC:  ET: doesnt_say
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Opendoor - Machine Learning Engineer
+>>>> https://jobs.lever.co/opendoor/72503b31-7183-4c31-b3b2-31f158e86aeb
+TC:  ET: doesnt_say
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Opendoor - Lever
+>>>> https://jobs.lever.co/opendoor
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Opendoor - Engineering Manager
+>>>> https://jobs.lever.co/opendoor/4686d45a-ca1c-4815-b973-c4c22ec29036
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Opendoor - Agent Sales Manager
+>>>> https://jobs.lever.co/opendoor/bbb1609c-4ef8-41ed-973d-badb080ef0cf
+TC: Full-time ET: Full-time
+Phoenix, AZ
+## slept ##
+country: United States coords 33.4483771 -112.0740373
+** bad word: weekly
+*********************************************
+Opendoor - Head of Customer Success
+>>>> https://jobs.lever.co/opendoor/602cc524-50de-4f95-a231-f23813c908a7
+TC: Full-time ET: Full-time
+Phoenix, AZ
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Phoenix%2C+AZ&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.4483771 -112.0740373
+** bad word: weekly
+*********************************************
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: convoy ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Convoy - Software Engineer
+>>>> https://jobs.lever.co/convoy/94f6e8c3-5803-4f40-82b7-36094f24495a
+TC: Full-time ET: Full-time
+Seattle, Washington
+country: United States coords 47.6062095 -122.3320708
+** bad word: get paid
+*********************************************
+Convoy - Software Engineer
+>>>> https://jobs.lever.co/convoy/94f6e8c3-5803-4f40-82b7-36094f24495a/apply
+TC: Full-time ET: Full-time
+Seattle, Washington
+## slept ##
+country: United States coords 47.6062095 -122.3320708
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Convoy
+>>>> https://jobs.lever.co/convoy
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 47.6062095 -122.3320708
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: neuralink ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Neuralink - Software Engineer, Embedded Systems & Firmware
+>>>> https://jobs.lever.co/neuralink/b02d4f67-53e2-43f0-bb80-ae2d2048ab35
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Neuralink - Software Engineer, Backend
+>>>> https://jobs.lever.co/neuralink/6b01dc79-1e6b-4598-b9f4-5359e72fc0e0
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Neuralink - Software Engineer, Infrastructure & Tooling
+>>>> https://jobs.lever.co/neuralink/6b01dc79-1e6b-4598-b9f4-5359e72fc0e0/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Neuralink - Mechatronics Engineer
+>>>> https://jobs.lever.co/neuralink/cfddef3a-1b20-46bf-b35b-773ddeae1e31
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Neuralink - Mechanical Engineer
+>>>> https://jobs.lever.co/neuralink/dd91768e-8fec-4cec-bc1f-2481ea15ca05
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Neuralink
+>>>> https://jobs.lever.co/neuralink/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Neuralink - Systems Engineer/Electrical Engineer
+>>>> https://jobs.lever.co/neuralink/9de1e6cb-1a1e-41b5-b3d8-2de8e8703105
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 5 Clean Listings Posted XXXX
+**** ROOT: forwardnetworks ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Forward Networks - Software Engineer (Networking)
+>>>> https://jobs.lever.co/forwardnetworks/35a5b9b4-94ea-4501-8006-2c42ed1461ca
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Forward Networks - Software Engineer (Java/Features)
+>>>> https://jobs.lever.co/forwardnetworks/d4c3a1df-2eef-4568-b208-0ff5cf686ce7
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Forward Networks - Sr. Software Engineer, Backend
+>>>> https://jobs.lever.co/forwardnetworks/fd9abf48-46de-4432-bbcb-d1746fa7a6f8
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Forward Networks - Software Engineer (Networking)
+>>>> https://jobs.lever.co/forwardnetworks/35a5b9b4-94ea-4501-8006-2c42ed1461ca/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+** bad word: ____________________________________________________________
+*********************************************
+Forward Networks - Sr. Software Engineer, Backend
+>>>> https://jobs.lever.co/forwardnetworks/fd9abf48-46de-4432-bbcb-d1746fa7a6f8/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+** bad word: ____________________________________________________________
+*********************************************
+Forward Networks - Sales Engineer
+>>>> https://jobs.lever.co/forwardnetworks/66a24c16-6ca1-48e8-b715-3e5a94f16818
+TC: Full-time ET: Full-time
+NYC
+## slept ##
+country: United States coords 40.7127837 -74.0059413
+*********************************************
+<Response [200]>
+Forward Networks
+>>>> https://jobs.lever.co/forwardnetworks/?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+Forward Networks
+>>>> https://jobs.lever.co/forwardnetworks
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+Forward Networks
+>>>> https://jobs.lever.co/forwardnetworks?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+Forward Networks
+>>>> https://jobs.lever.co/forwardnetworks/?location=Palo%20Alto%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: indiegogo.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Indiegogo - Software Engineer
+>>>> https://jobs.lever.co/indiegogo.com/59144bbe-1ec5-40dd-b581-fdd1fe65de11
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: equity
+*********************************************
+Indiegogo - Software Engineer
+>>>> https://jobs.lever.co/indiegogo.com/59144bbe-1ec5-40dd-b581-fdd1fe65de11/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Indiegogo - DevOps Engineer
+>>>> https://jobs.lever.co/indiegogo.com/595b546d-b219-44e9-bb2c-6d0e7891fa18
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: equity
+*********************************************
+Indiegogo
+>>>> https://jobs.lever.co/indiegogo.com
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Indiegogo - Lever
+>>>> https://jobs.lever.co/indiegogo.com?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: moxehealth ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+6 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+6 Listings + Empty Index
+@@@@ 6 Listings Saved @@@@
+Moxe Health - Software Engineer
+>>>> https://jobs.lever.co/moxehealth/3c8f7cb0-7f83-48fe-8ac2-ea12f2984eca
+TC: Full-time ET: Full-time
+Madison, WI
+country: United States coords 43.0730517 -89.4012302
+*********************************************
+<Response [200]>
+Moxe Health - Software Engineer
+>>>> https://jobs.lever.co/moxehealth/3c8f7cb0-7f83-48fe-8ac2-ea12f2984eca/apply
+TC: Full-time ET: Full-time
+Madison, WI
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Madison%2C+WI&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0730517 -89.4012302
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Moxe Health - Integration Engineer
+>>>> https://jobs.lever.co/moxehealth/07c8e46f-d002-4e8f-8914-bb444aa92d65
+TC: Full-time ET: Full-time
+Madison, WI
+country: United States coords 43.0730517 -89.4012302
+*********************************************
+<Response [200]>
+Moxe Health
+>>>> https://jobs.lever.co/moxehealth/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0730517 -89.4012302
+** bad word: Filter by:
+*********************************************
+Moxe Health - Lever
+>>>> https://jobs.lever.co/moxehealth/?by=team
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0730517 -89.4012302
+** bad word: Filter by:
+*********************************************
+Moxe Health - Lever
+>>>> https://jobs.lever.co/moxehealth/?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0730517 -89.4012302
+** bad word: Filter by:
+*********************************************
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: rover ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Rover.com - Software Engineer- Level 1 (Future Opportunity)
+>>>> https://jobs.lever.co/rover/2b2845e0-b9b1-45e6-a147-ba12102effba
+TC: Full-time ET: Full-time
+Seattle
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Rover.com - Senior Software Engineer - Owner Retention
+>>>> https://jobs.lever.co/rover/72575c4d-bf77-4a93-b3d0-5151e8c41f8e
+TC: Full-time ET: Full-time
+Seattle
+## slept ##
+country: United States coords 47.6062095 -122.3320708
+*********************************************
+<Response [200]>
+Rover.com - Senior Software Engineer - Search Algorithm
+>>>> https://jobs.lever.co/rover/8e3e6307-7106-4c3c-aa77-7992330e523b
+TC: Full-time ET: Full-time
+Seattle
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle&sensor=false&bounds=&region=&language=&components=
+country: United States coords 47.6062095 -122.3320708
+*********************************************
+<Response [200]>
+Rover.com - Director, Software Engineering
+>>>> https://jobs.lever.co/rover/5b6a1110-1c26-4f4d-b69b-8deb8c5f34c7
+TC: Full-time ET: Full-time
+Seattle
+country: United States coords 47.6062095 -122.3320708
+*********************************************
+<Response [200]>
+Rover.com - Senior Software Engineer - Web - Non-Django
+>>>> https://jobs.lever.co/rover/56f1ae39-a4c9-493b-8cc8-bd0d96072322/apply
+TC: Full-time ET: Full-time
+Seattle
+## slept ##
+country: United States coords 47.6062095 -122.3320708
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Rover.com - Software Engineer- Level 1 (Future Opportunity)
+>>>> https://jobs.lever.co/rover/2b2845e0-b9b1-45e6-a147-ba12102effba/apply
+TC: Full-time ET: Full-time
+Seattle
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle&sensor=false&bounds=&region=&language=&components=
+country: United States coords 47.6062095 -122.3320708
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Rover.com - Senior Software Engineer - Platform Performance and ...
+>>>> https://jobs.lever.co/rover/73309a52-eb53-4538-b2a0-1873c3faf4a0/apply
+TC: Full-time ET: Full-time
+Seattle
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle&sensor=false&bounds=&region=&language=&components=
+country: United States coords 47.6062095 -122.3320708
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Rover.com - Senior Django Software Engineer
+>>>> https://jobs.lever.co/rover/dffffa7f-3c5e-4ca3-a19e-3333b2e60f37/apply
+TC: Full-time ET: Full-time
+Seattle
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle&sensor=false&bounds=&region=&language=&components=
+country: United States coords 47.6062095 -122.3320708
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Rover.com
+>>>> https://jobs.lever.co/rover
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 47.6062095 -122.3320708
+** bad word: Filter by:
+*********************************************
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: radius ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+21 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+11 Listings + Empty Index
+@@@@ 11 Listings Saved @@@@
+Radius - Senior Software Engineer
+>>>> https://jobs.lever.co/radius/722273c5-9ff6-4204-ac46-da404daa0b75
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+** bad word: marketing
+*********************************************
+Radius - Staff Software Engineer
+>>>> https://jobs.lever.co/radius/9b8cad01-1504-4a2d-bc9f-a1d36ddaa34e
+TC:  ET: doesnt_say
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Radius - Senior Software Engineer, Machine Learning
+>>>> https://jobs.lever.co/radius/63f7b3b5-2e74-4a20-94ef-5ff6b9ccb0be
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Radius - Senior Data Software Engineer
+>>>> https://jobs.lever.co/radius/ec044bb5-8f17-44c1-938d-85150bba3003
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Radius - Senior Software Engineer, Platform
+>>>> https://jobs.lever.co/radius/76780012-b9cd-4b3f-9145-5825f8ab7eae
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Radius - Staff Software Engineer
+>>>> https://jobs.lever.co/radius/9b8cad01-1504-4a2d-bc9f-a1d36ddaa34e/apply
+TC:  ET: doesnt_say
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Radius - Senior Data Engineer, Data Warehouse Analytics
+>>>> https://jobs.lever.co/radius/37d7a903-949e-4b8f-968a-133dcb5f00ef
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Radius
+>>>> https://jobs.lever.co/radius/?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Radius - Engineering Manager, Applications
+>>>> https://jobs.lever.co/radius/61657b12-eca0-45bf-883c-12b2ce80fa69
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Radius - Corporate Counsel
+>>>> https://jobs.lever.co/radius/bef43a8c-017f-4f49-9cf6-6a77c7564c5d
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+*********************************************
+XXXX 6 Clean Listings Posted XXXX
+(venv) arias-Air:c4c nimda$ 

@@ -1,0 +1,633 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py 
+**** ROOT: chanzuckerberg ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+Chan Zuckerberg Initiative - Software Engineer
+>>>> https://jobs.lever.co/chanzuckerberg/02e1d904-51ef-4a95-93e9-b54fd176a2ca/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Chan Zuckerberg Initiative
+>>>> https://jobs.lever.co/chanzuckerberg?location=Palo%20Alto%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Chan Zuckerberg Initiative
+>>>> https://jobs.lever.co/chanzuckerberg?by=team&team=Technology
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Chan Zuckerberg Initiative
+>>>> https://jobs.lever.co/chanzuckerberg?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: everlaw ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Everlaw - Software Engineer
+>>>> https://jobs.lever.co/everlaw/72e5bdd8-0373-4714-a90e-7aebbb61b181
+TC: Full-time ET: Full-time
+Berkeley, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Berkeley%2C+CA&sensor=false&bounds=&region=&language=&components=
+** bad word: local
+** bad word: equity
+*********************************************
+Everlaw - Software Engineer
+>>>> https://jobs.lever.co/everlaw/72e5bdd8-0373-4714-a90e-7aebbb61b181/apply
+TC: Full-time ET: Full-time
+Berkeley, CA
+## slept ##
+country: United States coords 37.8715926 -122.272747
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Everlaw - Lever
+>>>> https://jobs.lever.co/everlaw?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8715926 -122.272747
+** bad word: Filter by:
+*********************************************
+Everlaw
+>>>> https://jobs.lever.co/everlaw/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8715926 -122.272747
+** bad word: Filter by:
+*********************************************
+Everlaw - Lever
+>>>> https://jobs.lever.co/everlaw?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8715926 -122.272747
+** bad word: Filter by:
+*********************************************
+Everlaw
+>>>> https://jobs.lever.co/everlaw?by=team&location=Berkeley%2C%20CA&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8715926 -122.272747
+** bad word: Filter by:
+*********************************************
+Everlaw
+>>>> https://jobs.lever.co/everlaw?commitment=Intern
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8715926 -122.272747
+** bad word: Filter by:
+*********************************************
+Everlaw
+>>>> https://jobs.lever.co/everlaw?location=Berkeley%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8715926 -122.272747
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: button ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Button - Software Engineer: Platform
+>>>> https://jobs.lever.co/button/bb8f751e-09aa-49c6-9913-cc4d8094f667
+TC: Full-time ET: Full-time
+New York
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Button - Senior Software Engineer in Test
+>>>> https://jobs.lever.co/button/65d33190-a65b-4505-9084-679397652b8b
+TC: Full-time ET: Full-time
+New York
+country: United States coords 40.7127837 -74.0059413
+** bad word: partner 
+*********************************************
+Button - Software Engineer: Data
+>>>> https://jobs.lever.co/button/73317c41-9450-4a6f-bf2b-4d8d25673087
+TC: Full-time ET: Full-time
+New York, San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York%2C+San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7692859 -74.0059413
+*********************************************
+<Response [200]>
+Button - Software Engineer: Android
+>>>> https://jobs.lever.co/button/845916b0-3a41-4d66-a9f4-63decf6c1f1d
+TC: Full-time ET: Full-time
+New York
+## slept ##
+country: United States coords 40.7127837 -74.0059413
+*********************************************
+<Response [200]>
+Button - Software Engineer: Data
+>>>> https://jobs.lever.co/button/73317c41-9450-4a6f-bf2b-4d8d25673087/apply
+TC: Full-time ET: Full-time
+New York, San Francisco
+country: United States coords 37.7692859 -122.4513275
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Button - Integrations Engineer: Partner Engineering
+>>>> https://jobs.lever.co/button/7ad7ff80-0e2a-4ed3-b1a5-39f5bab83c8f
+TC: Full-time ET: Full-time
+New York
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7692859 -122.4513275
+** bad word: partner 
+** bad word: volunteer
+*********************************************
+Button - DevOps / Site Reliability Engineer
+>>>> https://jobs.lever.co/button/871c44a5-5aa9-4ff4-91b1-e7fd3bf65d24
+TC: Full-time ET: Full-time
+New York
+## slept ##
+country: United States coords 40.7127837 -74.0059413
+*********************************************
+<Response [200]>
+Button
+>>>> https://jobs.lever.co/button
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+Button
+>>>> https://jobs.lever.co/button?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+Button - Partner Success Manager
+>>>> https://jobs.lever.co/button/79bdba62-0eb7-4db0-b940-3cc620d33b2b
+TC: Full-time ET: Full-time
+New York
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: marketing
+** bad word: partner 
+*********************************************
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: drawbridge ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+6 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+6 Listings + Empty Index
+@@@@ 6 Listings Saved @@@@
+Drawbridge - Software Engineer
+>>>> https://jobs.lever.co/drawbridge/8576e056-74f8-4f55-9d8b-3bd100202345
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Drawbridge - Senior Software Engineer
+>>>> https://jobs.lever.co/drawbridge/408a8d17-4404-432a-9b1b-af1da5c49791
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Drawbridge - Software Engineer
+>>>> https://jobs.lever.co/drawbridge/8576e056-74f8-4f55-9d8b-3bd100202345/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Drawbridge
+>>>> https://jobs.lever.co/drawbridge
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+** bad word: Filter by:
+*********************************************
+Drawbridge - Hadoop SPARK Engineer
+>>>> https://jobs.lever.co/drawbridge/2dfa5dd6-9175-4d80-8983-c68b2caf61ec
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Drawbridge
+>>>> https://jobs.lever.co/drawbridge?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+** bad word: Filter by:
+*********************************************
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: duolingo ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+25 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+16 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+16 Listings + Empty Index
+@@@@ 16 Listings Saved @@@@
+Duolingo - Software Engineer, iOS
+>>>> https://jobs.lever.co/duolingo/6e58fe72-0669-476d-bbe2-11f2264c8f92
+TC: Full-time ET: Full-time
+Pittsburgh, PA
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: co-founder
+*********************************************
+Duolingo - Software Engineer (Berlin)
+>>>> https://jobs.lever.co/duolingo/a5efda89-94ab-430e-b10b-52f72e0fdd1c
+TC: Full-time ET: Full-time
+Berlin, Germany
+country: Germany coords 52.52000659999999 13.404954
+*********************************************
+<Response [200]>
+Duolingo - Software Engineer, Android
+>>>> https://jobs.lever.co/duolingo/fb09b40b-3dc2-473d-ae24-bd7398b2354a
+TC: Full-time ET: Full-time
+Pittsburgh, PA
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: co-founder
+*********************************************
+Duolingo - Software Engineer Intern
+>>>> https://jobs.lever.co/duolingo/252144e5-c805-4143-a337-465c3bd5df42
+TC: Intern ET: Intern
+Pittsburgh, PA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Pittsburgh%2C+PA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.44062479999999 -79.9958864
+*********************************************
+<Response [200]>
+Duolingo - Software Engineer, New Graduate
+>>>> https://jobs.lever.co/duolingo/fac1f3d4-0407-4933-9e2e-d76eddb2b2bc
+TC: Full-time ET: Full-time
+Pittsburgh, PA
+## slept ##
+country: United States coords 40.44062479999999 -79.9958864
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Duolingo - Software Engineer (Berlin)
+>>>> https://jobs.lever.co/duolingo/a5efda89-94ab-430e-b10b-52f72e0fdd1c/apply
+TC: Full-time ET: Full-time
+Berlin, Germany
+country: Germany coords 52.52000659999999 13.404954
+** bad word: ____________________________________________________________
+*********************************************
+Duolingo - Software Engineer Intern
+>>>> https://jobs.lever.co/duolingo/252144e5-c805-4143-a337-465c3bd5df42/apply
+TC: Intern ET: Intern
+Pittsburgh, PA
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Duolingo
+>>>> https://jobs.lever.co/duolingo
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: Filter by:
+*********************************************
+Duolingo
+>>>> https://jobs.lever.co/duolingo?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: Filter by:
+*********************************************
+Duolingo - Engineering Manager
+>>>> https://jobs.lever.co/duolingo/7aa2d8d9-1692-4b65-9ce8-c1654dd2b2c1
+TC: Full-time ET: Full-time
+Pittsburgh, PA
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: co-founder
+*********************************************
+Duolingo
+>>>> https://jobs.lever.co/duolingo?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: Filter by:
+*********************************************
+Duolingo
+>>>> https://jobs.lever.co/duolingo?location=Pittsburgh%2C%20PA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: Filter by:
+*********************************************
+Duolingo - Senior Operations Engineer (DevOps)
+>>>> https://jobs.lever.co/duolingo/6c08bbbb-0e3c-443b-b67a-b4525a0886cb
+TC: Full-time ET: Full-time
+Pittsburgh, PA
+country: United States coords 40.44062479999999 -79.9958864
+** bad word: weekly
+*********************************************
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: myemma ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Emma Inc. - Software Engineer
+>>>> https://jobs.lever.co/myemma/958c0baf-40e2-451b-81d8-d2445e69c8c6
+TC: Full-time ET: Full-time
+Nashville, TN
+country: United States coords 36.1626638 -86.7816016
+*********************************************
+<Response [200]>
+Emma Inc. - Software Engineer
+>>>> https://jobs.lever.co/myemma/b2814431-d4dc-4a69-9472-622b0238ae83/apply
+TC: Full-time ET: Full-time
+Portland, OR
+## slept ##
+country: United States coords 45.5230622 -122.6764815
+** bad word: ____________________________________________________________
+*********************************************
+Emma Inc.
+>>>> https://jobs.lever.co/myemma
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 45.5230622 -122.6764815
+** bad word: Filter by:
+*********************************************
+Emma Inc.
+>>>> https://jobs.lever.co/myemma?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 45.5230622 -122.6764815
+** bad word: Filter by:
+*********************************************
+Emma Inc. - Lever
+>>>> https://jobs.lever.co/myemma?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 45.5230622 -122.6764815
+** bad word: Filter by:
+*********************************************
+Emma Inc.
+>>>> https://jobs.lever.co/myemma?location=Portland%2C%20OR
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 45.5230622 -122.6764815
+** bad word: Filter by:
+*********************************************
+Emma Inc.
+>>>> https://jobs.lever.co/myemma?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 45.5230622 -122.6764815
+** bad word: Filter by:
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: upserve ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Upserve - Lever
+>>>> https://jobs.lever.co/upserve?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Upserve - Lever
+>>>> https://jobs.lever.co/upserve?by=location&location=Providence%2C%20RI
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Upserve
+>>>> https://jobs.lever.co/upserve?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Upserve
+>>>> https://jobs.lever.co/upserve
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Upserve
+>>>> https://jobs.lever.co/upserve?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Upserve
+>>>> https://jobs.lever.co/upserve?by=location&location=San%20Francisco%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Upserve - Javascript Engineer
+>>>> https://jobs.lever.co/upserve/3784e28b-73b7-4e4f-9077-3ed6dbfa2a1f
+TC: Full-time ET: Full-time
+Providence, RI
+## slept ##
+country: United States coords 41.8239891 -71.4128343
+** bad word: local
+** bad word: partner 
+** bad word: weekly
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: abacus ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+Abacus - Software Engineer: Full Stack
+>>>> https://jobs.lever.co/abacus/e35c834e-1be7-4920-83b6-05dfed512afd
+TC: Full-time ET: Full-time
+New York City
+## slept ##
+country: United States coords 40.7127837 -74.0059413
+*********************************************
+<Response [200]>
+Abacus - Software Engineer: Full Stack
+>>>> https://jobs.lever.co/abacus/e35c834e-1be7-4920-83b6-05dfed512afd/apply
+TC: Full-time ET: Full-time
+New York City
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York+City&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: ____________________________________________________________
+*********************************************
+Abacus
+>>>> https://jobs.lever.co/abacus?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+Abacus
+>>>> https://jobs.lever.co/abacus
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127837 -74.0059413
+** bad word: Filter by:
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+(venv) arias-Air:c4c nimda$ 
