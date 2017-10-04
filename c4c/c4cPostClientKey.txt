@@ -8,4 +8,33 @@ xxx.['twitch','creditkarma']
 
 3.['openai','skillshare','cloudhealthtech','eventbrite','klaviyo','zerostack','nava','amplitude','netflix','updox','palantir','udemy','datanyze','clara','sparkfund','affirm','skurt','straighterline','doubledutch','eatsa.com']
 
-,'goat','aeratechnology','chain','yelp','rigetti','descarteslabs.com','bluecore','help.com','udacity','latticehq','buoyant','vevo','collabora','unu','moogsoft','paytm','theladders','boomtownroi.com','tachyus','opengov','meetgroup','flipagram','takescoop','light','node','quantcast','transfix','boomtownroi', 'com','yourmechanic','addepar','socialcops','signalfx','visby','wishabi','tangibleplay','appdirect','shapertools','tempoautomation','alation','tunein','chartio','bcg','looker','mailchannels','nylas','animoto','vts','machinezone','shift','tubularlabs','medallia','brandverity','sonatype','aurorasolar','jmawireless','retentionscience','carbon','altspace','laurelandwolf','flyzipline','apartmentlist','clearslide','grandrounds','faradayfuture','socialtables','circle','sigopt','outpostgames','lucid','notablelabs','smarking','euclidanalytics','codecademy','instructure','hvmn','bloc','swift-nav','leapyear','area1security','rigup','axoni','spreemo.com','thrivemarket','houzz','launchdarkly','skydio','keeptruckin','moo','docenthealth.com','kraken','light.house','codefights','zenreach.com','grove','knewton','reflektive.com','rocketlawyer','kasasa','matterport','turbonomic','scoot','adaptly','patientping.com','lumosity','loggi','canva','r3.com','bluelabs','realscout','tradeshift','aftership','stratim','autopilothq','point','lytro','redowl','moneylion','blispay.com','zoox','carbonrobotics','interana','ring','plaid','close.io','brigade','salsify','snowflake','cibotechnologies','usewheelhouse','symphonycommerce','do','fiscalnote','jawbonehealth','isl','max','databricks','lalamove','claralabs','pivotalcommware','betterdoctor','medium','frame.io','ascend.io','kounta','varomoney','dessertlabs','coursera','simberobotics.com','broadly','formswift','audiblemagic','quora','split','wish','thinair','schibsted','nextcaller','scalablepress','hicharlie.co','zuora','zignallabs','mobcrush','tivix','academia','genovatech','dremio','cloudlock','calm','axon','modcloth','progressly','neumob','perpetualabs.com','mythic-ai.com','easypost','counsyl','reifyhealth','ticktock','livongo','stridehealth','markforged','homesuite','token','dopplerlabs','kensho','lever','gigster','plethora','r3cev.com','solvvy','otto','nextev','kittyhawk.aero']
+4.['goat','aeratechnology','chain','yelp','rigetti','descarteslabs.com','bluecore','help.com','udacity','latticehq','buoyant','vevo','collabora','unu','moogsoft','paytm','theladders','boomtownroi.com','tachyus','opengov']
+
+############## split due to geocoder over limit issue ##################
+5.['meetgroup','flipagram','takescoop','light','node','quantcast','transfix','boomtownroi','yourmechanic','addepar','socialcops','signalfx','visby','wishabi','tangibleplay','appdirect','shapertools','tempoautomation','alation','tunein']
+
+5a.['meetgroup','flipagram','takescoop','light','node']
+5b.['quantcast']
+5c.['transfix','boomtownroi','yourmechanic','addepar','socialcops','signalfx','visby','wishabi','tangibleplay','appdirect','shapertools','tempoautomation','alation','tunein']
+############## split due to geocoder over limit issue ##################
+
+6.['chartio','bcg','looker','mailchannels','nylas','animoto','vts','machinezone','shift','tubularlabs','medallia','brandverity','sonatype','aurorasolar','jmawireless','retentionscience','carbon','altspace','laurelandwolf','flyzipline']
+
+7.['apartmentlist','clearslide','grandrounds','faradayfuture','socialtables','circle','sigopt','outpostgames','lucid','notablelabs','smarking','euclidanalytics','codecademy','instructure','hvmn','bloc','swift-nav','leapyear','area1security','rigup']
+
+8.['axoni','spreemo.com','thrivemarket','houzz','launchdarkly','skydio','keeptruckin','moo','docenthealth.com','kraken','light.house','codefights','zenreach.com','grove','knewton','reflektive.com','rocketlawyer','kasasa','matterport','turbonomic']
+
+############## split due to ??????? issue ##################
+9.['scoot','adaptly','patientping.com','lumosity','loggi','canva','r3.com','bluelabs','realscout','tradeshift','aftership','stratim','autopilothq','point','lytro','redowl','moneylion','blispay.com','zoox','carbonrobotics']
+
+9a.'scoot','adaptly','patientping.com','lumosity','loggi','canva','r3.com','bluelabs','realscout']
+9b.['tradeshift','aftership','stratim','autopilothq','point','lytro','redowl','moneylion','blispay.com','zoox','carbonrobotics']
+############## split due to geocoder over limit issue ##################
+
+10.['interana','ring','plaid','close.io','brigade','salsify','snowflake','cibotechnologies','usewheelhouse','symphonycommerce','do','fiscalnote','jawbonehealth','isl','max','databricks','lalamove','claralabs','pivotalcommware','betterdoctor']
+
+11.['medium','frame.io','ascend.io','kounta','varomoney','dessertlabs','coursera','simberobotics.com','broadly','formswift','audiblemagic','quora','split','wish','thinair','schibsted','nextcaller','scalablepress','hicharlie.co','zuora']
+
+12.['zignallabs','mobcrush','tivix','academia','genovatech','dremio','cloudlock','calm','axon','modcloth','progressly','neumob','perpetualabs.com','mythic-ai.com','easypost','counsyl','reifyhealth','ticktock','livongo','stridehealth']
+
+13. ['markforged','homesuite','token','dopplerlabs','kensho','lever','gigster','plethora','r3cev.com','solvvy','otto','nextev','kittyhawk.aero']

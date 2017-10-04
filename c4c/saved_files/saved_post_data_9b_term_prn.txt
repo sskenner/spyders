@@ -1,0 +1,911 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: tradeshift ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+13 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+13 Listings + Empty Index
+@@@@ 13 Listings Saved @@@@
+Tradeshift - Senior Software Engineer
+>>>> https://jobs.lever.co/tradeshift/2c54a1fa-5d00-4801-8e33-e4119b242567
+TC: Full-Time ET: Full-Time
+Suzhou, China
+country: China coords 31.298974 120.585289
+*********************************************
+<Response [200]>
+Tradeshift - Senior Software Engineer
+>>>> https://jobs.lever.co/tradeshift/2c54a1fa-5d00-4801-8e33-e4119b242567/apply
+TC: Full-Time ET: Full-Time
+Suzhou, China
+country: China coords 31.298974 120.585289
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Tradeshift
+>>>> https://jobs.lever.co/tradeshift
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: China coords 31.298974 120.585289
+** bad word: Filter by:
+*********************************************
+Tradeshift - Senior Quality Assurance Engineer
+>>>> https://jobs.lever.co/tradeshift/35165fcf-458c-4fb2-99a9-d7f3ebdb94de
+TC: Full-Time ET: Full-Time
+Bucharest, Romania
+## slept ##
+country: Romania coords 44.4267674 26.1025384
+*********************************************
+<Response [200]>
+Tradeshift - Sales Engineering Manager
+>>>> https://jobs.lever.co/tradeshift/75e99f89-4ca5-43ab-a66b-a9d46e3bf513
+TC: Full-Time ET: Full-Time
+Tokyo, Japan
+## slept ##
+country: Japan coords 35.6894875 139.6917064
+** bad word: marketing
+*********************************************
+Tradeshift
+>>>> https://jobs.lever.co/tradeshift?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Japan coords 35.6894875 139.6917064
+** bad word: Filter by:
+*********************************************
+Tradeshift
+>>>> https://jobs.lever.co/tradeshift?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Japan coords 35.6894875 139.6917064
+** bad word: Filter by:
+*********************************************
+Tradeshift - Senior Backend Engineer - Financial Services
+>>>> https://jobs.lever.co/tradeshift/616f57e6-3f3f-4544-95c8-f6a2665e8b82
+TC: Full-Time ET: Full-Time
+San Francisco, California
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+** bad word: partner
+** bad word: equity
+*********************************************
+Tradeshift - Senior Front End Engineer
+>>>> https://jobs.lever.co/tradeshift/f5753288-37c8-4d96-a05f-eb306831a9fc
+TC: Full-Time ET: Full-Time
+Bucharest, Romania
+country: Romania coords 44.4267674 26.1025384
+*********************************************
+<Response [200]>
+Tradeshift - Technical Integration Engineer
+>>>> https://jobs.lever.co/tradeshift/ecff3190-20fa-45d8-970a-99187bc09044
+TC: Full-Time ET: Full-Time
+Kuala Lumpur, Malaysia
+country: Malaysia coords 3.139003 101.686855
+*********************************************
+<Response [200]>
+Tradeshift - Associate Product Manager
+>>>> https://jobs.lever.co/tradeshift/b4dfa654-2a3a-49ac-9105-486fbb447ffa
+TC: Full-Time ET: Full-Time
+Suzhou, China
+country: China coords 31.298974 120.585289
+*********************************************
+<Response [200]>
+Tradeshift - Support Advocate
+>>>> https://jobs.lever.co/tradeshift/cecfd278-5ce7-409a-8194-5f15b26d61b7
+TC: Full-Time ET: Full-Time
+Kuala Lumpur, Malaysia
+country: Malaysia coords 3.139003 101.686855
+*********************************************
+<Response [200]>
+XXXX 6 Clean Listings Posted XXXX
+**** ROOT: aftership ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+AfterShip - Software Engineer - Backend
+>>>> https://jobs.lever.co/aftership/a8a93872-e511-4ef5-bd5e-c46d8b2d8c7d
+TC: Full time ET: Full time
+Hong Kong
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Hong+Kong&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+AfterShip - Software Engineer - API
+>>>> https://jobs.lever.co/aftership/55e781a8-be24-409b-a372-e071bca74e48
+TC: Full time ET: Full time
+Hong Kong
+country: Hong Kong coords 22.396428 114.109497
+*********************************************
+<Response [200]>
+AfterShip - Software Engineer - Full Stack
+>>>> https://jobs.lever.co/aftership/5c22fadf-580f-456b-9809-da86dd4142cf
+TC: Full time ET: Full time
+Hong Kong
+country: Hong Kong coords 22.396428 114.109497
+*********************************************
+<Response [200]>
+AfterShip - Software Engineer - Backend
+>>>> https://jobs.lever.co/aftership/a8a93872-e511-4ef5-bd5e-c46d8b2d8c7d/apply
+TC: Full time ET: Full time
+Hong Kong
+country: Hong Kong coords 22.396428 114.109497
+** bad word: ____________________________________________________________
+*********************************************
+AfterShip
+>>>> https://jobs.lever.co/aftership
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Hong Kong coords 22.396428 114.109497
+** bad word: Filter by:
+*********************************************
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: stratim ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: autopilothq ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Autopilot - Senior Software Engineer
+>>>> https://jobs.lever.co/autopilothq/4035cc4e-1365-4409-85b1-3e1476a65ab2
+TC: Full-time ET: Full-time
+Sydney, Australia
+## slept ##
+country: Australia coords -33.8688197 151.2092955
+** bad word: marketing
+*********************************************
+Autopilot - Senior Software Engineer
+>>>> https://jobs.lever.co/autopilothq/4035cc4e-1365-4409-85b1-3e1476a65ab2/apply
+TC: Full-time ET: Full-time
+Sydney, Australia
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Sydney%2C+Australia&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+** bad word: ____________________________________________________________
+*********************************************
+Autopilot
+>>>> https://jobs.lever.co/autopilothq
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+** bad word: Filter by:
+*********************************************
+Autopilot - (Senior) Technical Support Engineer - UK
+>>>> https://jobs.lever.co/autopilothq/6194c4af-1640-459b-bfa9-9e6ed9410600
+TC: Full-time ET: Full-time
+UK
+country: United Kingdom coords 55.378051 -3.435973
+** bad word: technical support
+** bad word: marketing
+*********************************************
+Autopilot - Lever
+>>>> https://jobs.lever.co/autopilothq?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 55.378051 -3.435973
+** bad word: Filter by:
+*********************************************
+Autopilot - Lever
+>>>> https://jobs.lever.co/autopilothq?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 55.378051 -3.435973
+** bad word: Filter by:
+*********************************************
+Autopilot - Lever
+>>>> https://jobs.lever.co/autopilothq?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 55.378051 -3.435973
+** bad word: Filter by:
+*********************************************
+Autopilot - Lever
+>>>> https://jobs.lever.co/autopilothq?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 55.378051 -3.435973
+** bad word: Filter by:
+*********************************************
+Autopilot - Lever
+>>>> https://jobs.lever.co/autopilothq?location=Sydney%2C%20Australia
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 55.378051 -3.435973
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: point ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lytro ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Lytro - Visual Effects Software Engineer, VR
+>>>> https://jobs.lever.co/lytro/4187e774-b233-4946-9265-a64c2de2ccae
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Lytro - Senior Python Software Engineer
+>>>> https://jobs.lever.co/lytro/b699a945-49cd-42ae-ae47-eda9588e46bc
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+Lytro - Senior Python Software Engineer
+>>>> https://jobs.lever.co/lytro/b699a945-49cd-42ae-ae47-eda9588e46bc/apply
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+** bad word: ____________________________________________________________
+*********************************************
+Lytro - Senior R&D Engineer - VR Data Compression
+>>>> https://jobs.lever.co/lytro/9842ac63-d1b1-477e-b1da-98e38395af59
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Lytro - Senior FX Artist (Unity)
+>>>> https://jobs.lever.co/lytro/f3bbd83f-5573-490c-aa8e-ec881b1a3eb6
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Lytro - Pipeline Technical Director (TD)
+>>>> https://jobs.lever.co/lytro/8d86956e-80b6-412c-acb1-911941cc8afa
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+** bad word: local
+*********************************************
+Lytro - Senior VFX Coordinator, VR
+>>>> https://jobs.lever.co/lytro/8cb0d6a0-41c3-46f4-9a47-6649cce84efd
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: redowl ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+6 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+6 Listings + Empty Index
+@@@@ 6 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: moneylion ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+21 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+MoneyLion - Senior Software Engineer
+>>>> https://jobs.lever.co/moneylion/d1fe7650-c862-4e29-a86f-60474d560736
+TC: Full-time ET: Full-time
+Kuala Lumpur
+country: Malaysia coords 3.139003 101.686855
+** bad word: debit card
+*********************************************
+MoneyLion - Software Engineer, Growth
+>>>> https://jobs.lever.co/moneylion/6240bc66-aae8-42bc-9006-34b127e3a310
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: debit card
+** bad word: marketing
+** bad word: partner
+*********************************************
+MoneyLion
+>>>> https://jobs.lever.co/moneylion?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: Filter by:
+*********************************************
+MoneyLion
+>>>> https://jobs.lever.co/moneylion
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: Filter by:
+*********************************************
+MoneyLion
+>>>> https://jobs.lever.co/moneylion/?by=commitment&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: Filter by:
+*********************************************
+MoneyLion
+>>>> https://jobs.lever.co/moneylion?location=San%20Francisco
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: Filter by:
+*********************************************
+MoneyLion
+>>>> https://jobs.lever.co/moneylion?location=Kuala%20Lumpur
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: Filter by:
+*********************************************
+MoneyLion
+>>>> https://jobs.lever.co/moneylion?by=location&location=San%20Francisco
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: Filter by:
+*********************************************
+MoneyLion
+>>>> https://jobs.lever.co/moneylion/?by=commitment&team=Marketing
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 3.139003 101.686855
+** bad word: Filter by:
+*********************************************
+MoneyLion - Test Engineer
+>>>> https://jobs.lever.co/moneylion/641fc47b-ce82-4bb1-afd0-1f492b432e5a
+TC: Full-time ET: Full-time
+Kuala Lumpur
+## slept ##
+country: Malaysia coords 3.139003 101.686855
+*********************************************
+<Response [200]>
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: blispay.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Blispay - Software Engineer (Back-End)
+>>>> https://jobs.lever.co/blispay.com/5eca6134-1624-42c6-852b-63d7d00af572/apply
+TC: Full-time ET: Full-time
+Baltimore, MD
+country: United States coords 39.2903848 -76.6121893
+** bad word: ____________________________________________________________
+*********************************************
+Blispay - Software Engineer (Back-End)
+>>>> https://jobs.lever.co/blispay.com/5eca6134-1624-42c6-852b-63d7d00af572
+TC: Full-time ET: Full-time
+Baltimore, MD
+country: United States coords 39.2903848 -76.6121893
+*********************************************
+<Response [200]>
+Blispay
+>>>> https://jobs.lever.co/blispay.com
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.2903848 -76.6121893
+** bad word: Filter by:
+*********************************************
+Blispay
+>>>> https://jobs.lever.co/blispay.com?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.2903848 -76.6121893
+** bad word: Filter by:
+*********************************************
+Blispay - Lever
+>>>> https://jobs.lever.co/blispay.com?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.2903848 -76.6121893
+** bad word: Filter by:
+*********************************************
+Blispay - Lever
+>>>> https://jobs.lever.co/blispay.com?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.2903848 -76.6121893
+** bad word: Filter by:
+*********************************************
+Blispay
+>>>> https://jobs.lever.co/blispay.com?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.2903848 -76.6121893
+** bad word: Filter by:
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: zoox ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+41 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+41 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+41 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+40 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+40 Listings + Empty Index
+@@@@ 40 Listings Saved @@@@
+Zoox - Software Engineer
+>>>> https://jobs.lever.co/zoox/2157ee7f-3b15-45cd-96ea-b76fc835d679
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: local
+*********************************************
+Zoox - Software Engineer - Prototyping
+>>>> https://jobs.lever.co/zoox/93ca2193-2f56-4720-a6ee-ae593d5208e4
+TC:  ET: doesnt_say
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+Zoox - Software Engineer - Computer Vision
+>>>> https://jobs.lever.co/zoox/f2ce2103-2f2c-4d93-a1c1-d6fcb5e9a434
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Software Engineer - TeleOps
+>>>> https://jobs.lever.co/zoox/a432c18d-0891-4e5d-85d8-c9d864a402c1
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Software Engineer - Simulation
+>>>> https://jobs.lever.co/zoox/d3479e79-90b0-4416-a1ce-ce18f73bd882
+TC:  ET: doesnt_say
+Menlo Park, CA
+## slept ##
+country: United States coords 37.4529598 -122.1817252
+** bad word: local
+*********************************************
+Zoox - Software Engineer - Tools
+>>>> https://jobs.lever.co/zoox/a4268999-921d-479c-9017-3d856d58f563
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: local
+*********************************************
+Zoox - Software Engineer
+>>>> https://jobs.lever.co/zoox/2157ee7f-3b15-45cd-96ea-b76fc835d679/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer, Radar
+>>>> https://jobs.lever.co/zoox/b041da7c-576e-4e39-b2cb-c6018f059224
+TC: Full-time ET: Full-time
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Software Engineer - Infrastructure
+>>>> https://jobs.lever.co/zoox/d960f33a-fb68-4f15-8034-6c09efdb0668
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Software Engineer - Perception
+>>>> https://jobs.lever.co/zoox/4882db0d-7f41-47e8-bb13-ce748a5edada/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Localization and Mapping
+>>>> https://jobs.lever.co/zoox/743cf92d-6646-4c72-b4a9-d2f39a2d4ce7
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: local
+*********************************************
+Zoox - Software Engineer - TeleOps
+>>>> https://jobs.lever.co/zoox/a432c18d-0891-4e5d-85d8-c9d864a402c1/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Menlo+Park%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer, Radar
+>>>> https://jobs.lever.co/zoox/b041da7c-576e-4e39-b2cb-c6018f059224/apply
+TC: Full-time ET: Full-time
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Machine Learning
+>>>> https://jobs.lever.co/zoox/81f7fbe7-4fd3-4814-b07d-2fd2177e32a4/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Simulation
+>>>> https://jobs.lever.co/zoox/d3479e79-90b0-4416-a1ce-ce18f73bd882/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Tools
+>>>> https://jobs.lever.co/zoox/a4268999-921d-479c-9017-3d856d58f563/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Infrastructure
+>>>> https://jobs.lever.co/zoox/d960f33a-fb68-4f15-8034-6c09efdb0668/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Computer Vision
+>>>> https://jobs.lever.co/zoox/f2ce2103-2f2c-4d93-a1c1-d6fcb5e9a434/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Localization and Mapping
+>>>> https://jobs.lever.co/zoox/743cf92d-6646-4c72-b4a9-d2f39a2d4ce7/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Prototyping
+>>>> https://jobs.lever.co/zoox/93ca2193-2f56-4720-a6ee-ae593d5208e4/apply
+TC:  ET: doesnt_say
+San Carlos, CA
+## slept ##
+country: United States coords 37.5071591 -122.2605222
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Software Engineer - Motion Planning
+>>>> https://jobs.lever.co/zoox/7dd45151-9d8a-45a4-bb33-86fb88c1995d
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: local
+*********************************************
+Zoox
+>>>> https://jobs.lever.co/zoox
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4529598 -122.1817252
+** bad word: Filter by:
+*********************************************
+Zoox - Software Engineer - Motion Planning
+>>>> https://jobs.lever.co/zoox/7dd45151-9d8a-45a4-bb33-86fb88c1995d/apply
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - Firmware Engineer
+>>>> https://jobs.lever.co/zoox/7f3635ff-8722-4cea-8757-2b0676135427
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - System Integration Engineer
+>>>> https://jobs.lever.co/zoox/aa966454-327f-4a39-8df5-fdf1ce068fcc
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Systems Engineer
+>>>> https://jobs.lever.co/zoox/acab39ec-21c0-4db8-9939-745653482072
+TC: Full-time ET: Full-time
+San Carlos, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Carlos%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5071591 -122.1817252
+*********************************************
+<Response [200]>
+Zoox
+>>>> https://jobs.lever.co/zoox?location=San%20Carlos%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5071591 -122.1817252
+** bad word: Filter by:
+*********************************************
+Zoox - Electrical Engineer - Compute
+>>>> https://jobs.lever.co/zoox/61ba5d15-5479-41df-a942-4ed7624534b6
+TC:  ET: doesnt_say
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Zoox - Mechanical Engineer, Vehicle Electronics
+>>>> https://jobs.lever.co/zoox/e40dae00-2e40-48af-82ab-168a584f0672
+TC: Full-time ET: Full-time
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+Zoox - Hardware Design Engineer
+>>>> https://jobs.lever.co/zoox/951cfc2d-c65b-49bd-b621-44fc22cd2672
+TC:  ET: doesnt_say
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+Zoox - Vehicle Test Engineer
+>>>> https://jobs.lever.co/zoox/cd288a44-a15e-4ebe-b966-f8c86f0877cc
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Optical Engineer
+>>>> https://jobs.lever.co/zoox/04d9a302-52fb-477e-a516-1b1d6bc76024
+TC:  ET: doesnt_say
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+Zoox - Interaction Designer
+>>>> https://jobs.lever.co/zoox/438a1946-6dfb-4146-a5cf-62f033c087a5
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Manufacturing Engineer
+>>>> https://jobs.lever.co/zoox/f30b80a4-10b2-402a-83e2-4bc5a1713cbb
+TC:  ET: doesnt_say
+San Carlos, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Carlos%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5071591 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - Controls Engineer
+>>>> https://jobs.lever.co/zoox/d09fa0d7-59ef-4404-a840-6c6f7885e832/apply
+TC:  ET: doesnt_say
+San Carlos, CA
+## slept ##
+country: United States coords 37.5071591 -122.2605222
+** bad word: ____________________________________________________________
+*********************************************
+Zoox - UI/UX Designer
+>>>> https://jobs.lever.co/zoox/c3a34016-f06b-4b97-8209-9fe2908f9c29
+TC:  ET: doesnt_say
+Menlo Park, CA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Zoox - HW Integration Engineer
+>>>> https://jobs.lever.co/zoox/948ea95c-53b1-4920-9270-2627cb6c42e2
+TC:  ET: doesnt_say
+Menlo Park, CA
+## slept ##
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+<Response [200]>
+Zoox - BoM / Change Management Analyst
+>>>> https://jobs.lever.co/zoox/ddd51c67-25d4-452f-a398-3e541810a505
+TC:  ET: doesnt_say
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+XXXX 18 Clean Listings Posted XXXX
+**** ROOT: carbonrobotics ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Carbon Robotics - Robotics Software Engineer
+>>>> https://jobs.lever.co/carbonrobotics/f1ddc530-5d56-4963-8f3f-9a1df14b7c61
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: equity
+*********************************************
+Carbon Robotics - Software Engineer (Contract)
+>>>> https://jobs.lever.co/carbonrobotics/07f4b8a6-2ad8-41e2-9f01-a2d48a3205f1
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Carbon Robotics - Robotics Software Engineer
+>>>> https://jobs.lever.co/carbonrobotics/f1ddc530-5d56-4963-8f3f-9a1df14b7c61/apply
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Carbon Robotics - Embedded Firmware Engineer
+>>>> https://jobs.lever.co/carbonrobotics/77224cdd-c5bd-4044-b809-7d4790ba64a1
+TC: Part-time ET: Part-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Carbon Robotics - System QA Engineer
+>>>> https://jobs.lever.co/carbonrobotics/7678ac71-7833-4bf3-bde6-05fe7eae89bf
+TC: Part-time ET: Part-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Carbon Robotics
+>>>> https://jobs.lever.co/carbonrobotics?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+XXXX 3 Clean Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

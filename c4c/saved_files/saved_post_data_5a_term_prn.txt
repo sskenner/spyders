@@ -1,0 +1,468 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py 
+**** ROOT: meetgroup ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+The Meet Group - Senior Software Engineer - Android
+>>>> https://jobs.lever.co/meetgroup/96e0e362-9e4c-49e2-87e5-eb4b52bcf613
+TC: Full-time ET: Full-time
+Greater Philadelphia Area
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Greater+Philadelphia+Area&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+The Meet Group - Senior Software Engineer - Backend
+>>>> https://jobs.lever.co/meetgroup/ba4a6565-832a-42a6-a8fd-d7f0353ad829
+TC: Full-time ET: Full-time
+Greater Philadelphia Area
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Greater+Philadelphia+Area&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+The Meet Group - Software Engineer - AdOps
+>>>> https://jobs.lever.co/meetgroup/164fbcb1-ccb8-44f8-b155-152909ec4c84
+TC: Full-time ET: Full-time
+Greater Philadelphia Area
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Greater+Philadelphia+Area&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+The Meet Group - Senior Software Engineer - API
+>>>> https://jobs.lever.co/meetgroup/a4c2cf8a-eea9-423f-8b82-e780cb870aaa
+TC: Full-time ET: Full-time
+Greater Philadelphia Area
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Greater+Philadelphia+Area&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+The Meet Group - Senior Software Engineer - iOS
+>>>> https://jobs.lever.co/meetgroup/61696e3a-6d48-48f4-bd91-e8afd9d9e649
+TC: Full-time ET: Full-time
+Greater Philadelphia Area
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Greater+Philadelphia+Area&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+The Meet Group - Senior Software Engineer - Android
+>>>> https://jobs.lever.co/meetgroup/96e0e362-9e4c-49e2-87e5-eb4b52bcf613/apply
+TC: Full-time ET: Full-time
+Greater Philadelphia Area
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Greater+Philadelphia+Area&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+The Meet Group
+>>>> https://jobs.lever.co/meetgroup
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+The Meet Group - Senior Product Manager
+>>>> https://jobs.lever.co/meetgroup/a9f232be-4867-4281-8623-8b40b7dec497
+TC: Full-time ET: Full-time
+Greater Philadelphia Area
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Greater+Philadelphia+Area&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+XXXX 6 Clean Listings Posted XXXX
+**** ROOT: flipagram ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Flipagram - Principal Software Engineer
+>>>> https://jobs.lever.co/flipagram/9af79ee9-010c-4d14-a911-05c1903fa62d
+TC: Full-time ET: Full-time
+Los Angeles
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Los+Angeles&sensor=false&bounds=&region=&language=&components=
+** bad word: administrative
+*********************************************
+Flipagram - Principal Software Engineer
+>>>> https://jobs.lever.co/flipagram/9af79ee9-010c-4d14-a911-05c1903fa62d/apply
+TC: Full-time ET: Full-time
+Los Angeles
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Los+Angeles&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Flipagram - Senior Software Engineer (Music Team)
+>>>> https://jobs.lever.co/flipagram/07cfce33-de30-438e-a8ec-16514936c58d/apply
+TC: Full-time ET: Full-time
+Los Angeles
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Los+Angeles&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: takescoop ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Scoop - Senior Software Engineer
+>>>> https://jobs.lever.co/takescoop/0738c3b5-3609-42c0-98e4-eb3d349ca34e
+TC: Full-time ET: Full-time
+San Francisco, California
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+California&sensor=false&bounds=&region=&language=&components=
+** bad word: equity
+*********************************************
+Scoop - Software Engineer
+>>>> https://jobs.lever.co/takescoop/f9d32b6a-e7dc-477a-9be2-653158031db0/apply
+TC: Full-time ET: Full-time
+San Francisco, California
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+California&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Scoop - Senior Software Engineer
+>>>> https://jobs.lever.co/takescoop/0738c3b5-3609-42c0-98e4-eb3d349ca34e/apply
+TC: Full-time ET: Full-time
+San Francisco, California
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+California&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Scoop
+>>>> https://jobs.lever.co/takescoop
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Scoop
+>>>> https://jobs.lever.co/takescoop?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Scoop
+>>>> https://jobs.lever.co/takescoop?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Scoop
+>>>> https://jobs.lever.co/takescoop?team=Sales
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Scoop
+>>>> https://jobs.lever.co/takescoop?commitment=Part-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Scoop - Senior Android Engineer
+>>>> https://jobs.lever.co/takescoop/64d80e73-9ebc-4a5a-b75a-9f954bcd9991
+TC: Full-time ET: Full-time
+San Francisco, California
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+California&sensor=false&bounds=&region=&language=&components=
+** bad word: weekly
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: light ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+29 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+29 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+26 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+26 Listings + Empty Index
+@@@@ 26 Listings Saved @@@@
+Light - senior software engineer - research
+>>>> https://jobs.lever.co/light/fe5bd7e3-8f33-4138-ae28-1d03c4e3a0a3
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Lighthouse - Software Engineer (C++)
+>>>> https://jobs.lever.co/light.house/232f61cd-148d-4180-aa9e-397e2ce62c2d
+TC: Full-time ET: Full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: equity
+*********************************************
+Light - senior systems software engineer
+>>>> https://jobs.lever.co/light/ecc5aaab-28c9-4f08-b5df-251393bbb017
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: partner 
+*********************************************
+Lighthouse - Software Engineer (C++)
+>>>> https://jobs.lever.co/light.house/232f61cd-148d-4180-aa9e-397e2ce62c2d/apply
+TC: Full-time ET: Full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Light - senior systems software engineer
+>>>> https://jobs.lever.co/light/ecc5aaab-28c9-4f08-b5df-251393bbb017/apply
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Light - senior software engineer - research
+>>>> https://jobs.lever.co/light/fe5bd7e3-8f33-4138-ae28-1d03c4e3a0a3/apply
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Light - senior build and release engineer
+>>>> https://jobs.lever.co/light/7270f61d-5ce6-47b0-b563-3a351efc1d6a
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Light - senior firmware QA engineer
+>>>> https://jobs.lever.co/light/df2f00c9-0781-4b0c-bec8-42dfb6427b92
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Light
+>>>> https://jobs.lever.co/light
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Light - image quality tuning engineer
+>>>> https://jobs.lever.co/light/7ec74ceb-019a-42d6-9e9f-64a852156233
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Light
+>>>> https://jobs.lever.co/light/?by=location&location=Palo%20Alto
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Lighthouse - Distributed Vision Systems Engineer
+>>>> https://jobs.lever.co/light.house/ce0c1170-8697-403c-a9aa-e766f9511a73
+TC: Full-time ET: Full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Light - senior build and release engineer
+>>>> https://jobs.lever.co/light/7270f61d-5ce6-47b0-b563-3a351efc1d6a/apply
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Light
+>>>> https://jobs.lever.co/light?team=Computational%20Imaging
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Light - senior firmware QA engineer
+>>>> https://jobs.lever.co/light/df2f00c9-0781-4b0c-bec8-42dfb6427b92/apply
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Lighthouse - Full Stack Engineer
+>>>> https://jobs.lever.co/light.house/a0019ce0-05a1-48f5-8d5f-0ac67e5977f9/apply
+TC: Full-time ET: Full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Lighthouse - Manager Quality / SQE / Reliability Engineering
+>>>> https://jobs.lever.co/light.house/2c7292e1-eacd-4dc0-87e2-8e6c5291ba23
+TC: Full-time ET: Full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: equity
+*********************************************
+Lighthouse - Deep Learning Engineer
+>>>> https://jobs.lever.co/light.house/8c76cda3-50f8-417b-b650-62a3419579ce
+TC: Full-time ET: Full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Light - technical program manager
+>>>> https://jobs.lever.co/light/bf8c937a-ae78-4907-b769-89176ed0bb93
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: amazing opportunity
+*********************************************
+Light
+>>>> https://jobs.lever.co/light?location=Taipei
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Light
+>>>> https://jobs.lever.co/light/?by=location&location=Taipei
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Light - senior materials program manager
+>>>> https://jobs.lever.co/light/f1880d6b-9647-4cfd-83a6-0e9d3a77eaf0
+TC: full-time ET: full-time
+Palo Alto
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto&sensor=false&bounds=&region=&language=&components=
+** bad word: weekly
+*********************************************
+XXXX 6 Clean Listings Posted XXXX
+**** ROOT: node ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Node - Senior Software Engineer (Distributed Systems)
+>>>> https://jobs.lever.co/node/3e235b72-8197-4339-9ac9-64dee9977626
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+^X^CTraceback (most recent call last):
+  File "1c4cQueryByRootGSEPost.py", line 172, in send_job_listings_to_codeforcash
+    country = Geocoder.geocode(location).country
+  File "/Users/nimda/code/venv/lib/python3.6/site-packages/pygeocoder.py", line 129, in geocode
+    return GeocoderResult(Geocoder.get_data(params=params))
+  File "/Users/nimda/code/venv/lib/python3.6/site-packages/pygeocoder.py", line 212, in get_data
+    raise GeocoderError(response_json['status'], response.url)
+pygeolib.GeocoderError: Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "1c4cQueryByRootGSEPost.py", line 258, in <module>
+    send_job_listings_to_codeforcash(get_job_listings_from_google("'software engineer' site:jobs.lever.co/" + client, 150))
+  File "1c4cQueryByRootGSEPost.py", line 178, in send_job_listings_to_codeforcash
+    time.sleep(11)
+KeyboardInterrupt
+(venv) arias-Air:c4c nimda$ 

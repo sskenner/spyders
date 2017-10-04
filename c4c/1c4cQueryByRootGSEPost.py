@@ -39,7 +39,7 @@ CODEFORCASH_API_KEY = '5b26197b391c5dab05c5606d43fba9c6'
 
 MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY = 10
 
-clients = ['luminartech','ginkgobioworks','opendoor','convoy','neuralink','forwardnetworks','indiegogo.com','moxehealth','rover','radius']
+clients = ['markforged','homesuite','token','dopplerlabs','kensho','lever','gigster','plethora','r3cev.com','solvvy','otto','nextev','kittyhawk.aero']
 
 BAD_WORDS_LIST = ["personal trainer", "executive assistant", "low cost","ultimate software", "app tester", "1-2 hours a day","secretary", "front desk", "office manager", "use referr", "commission", "motivated individuals" , "sales specialist","no experience required", "amazing opportunity", "court researcher","technical support", "tech support", "mystery shopper","customer service", "field engineer", "administrative", "book keeping", "extra money", "extra cash", "extra income", "data entry", "have a car", "debit card", "earn extra income", "step by step training", "dollars a week", "supplemental income", "sales rep","closed lead", "do you want to make", "facebook page", "facebook fan page", "theater installation", "game tester", "% stake","printing and mailing", "laserjet", "credit score","real estate investment", "marketing", "research study","in person", "focus group", "survey", "you must live", "local", "must be local", "tutor", "instructor", "partner ", "equity", "cofounder", "co founder", "co-founder", "unpaid", "volunteer", "get paid", "get pay", "weekly", "webcam", "money making", "fast money", "workfromhome", "fast cash", "scam", "make money", "selling cell phones", "wireless sales", "it's legit", "telemarketer", "fb account", "Cell Phone Repair", "earn money by just", "only applicants residing in", "from his location", "virtual assistant", "by working less", "earn extra money", "experienced seller", "looking for a job", "earn over", "motorclub",  "office assistant", "event planner", "____________________________________________________________", "Filter by:"]
 
@@ -168,6 +168,7 @@ def send_job_listings_to_codeforcash(listings):
             print(location)
             save_print_log(location)
 
+            # over limit ?? look into pay
             try:
                 country = Geocoder.geocode(location).country
                 latitude = Geocoder.geocode(location).latitude
@@ -228,7 +229,7 @@ def send_job_listings_to_codeforcash(listings):
             # time.sleep(3)
         print("*********************************************")
         save_print_log("*********************************************")
-        
+
         # # test print json formatted complete listing
         # print(data_to_send_in_request_body)
 
