@@ -1,3 +1,9 @@
+? > +software +engineer +developer +programmer 'by specialty'
+# what other ways to ? for software type
+['spacious']
+
+----
+
 ???.['brightedge', 'blendlabs', 'voleon']
 
 xxx.['twitch','creditkarma']
