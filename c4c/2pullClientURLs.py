@@ -1,8 +1,12 @@
 import re
 
-han = open('leverClientListGQueryByDate.txt')
+han = open('leverClientListURIListTest.txt')
+# han = open('leverClientListGQueryByDate.txt')
 
 for line in han:
     line = line.rstrip()
-    if re.search('https://jobs', line) :
-        print(line)
+    client = re.findall('(^.+)/', line)
+    print(client)
+
+    # if re.search('https://jobs', line) :
+    #     print(line)
