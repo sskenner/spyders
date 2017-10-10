@@ -45,6 +45,8 @@ xxx.['twitch','creditkarma']
 
 13. ['markforged','homesuite','token','dopplerlabs','kensho','lever','gigster','plethora','r3cev.com','solvvy','otto','nextev','kittyhawk.aero']
 
+----- 1st POST 10.04.17 ----------------------------------------------------- 
+
 ['1776', '21', '270strategies', '3dhubs', '3pillarglobal', '7geese', '90seconds', '98point6', '99taxis', '9gag', 'a16z', 'accion-systems', 'acquirent', 'activecampaign', 'addo', 'adello', 'aechelon', 'affectmentalhealth', 'affinity', 'agentiq']
 ['ahalogy', 'aira', 'airtasker', 'algolia', 'alluxio', 'amaro', 'ambassador', 'anchore', 'anduintransact', 'annex88', 'anomali', 'anotherco', 'anovaculinary', 'ansatzcapital', 'appacademy', 'appuri', 'appway', 'aproplan', 'aptible', 'aquicore']
 ['arcteryx.com', 'armory', 'aronsonllc', 'arrivelogistics', 'askfavor', 'askspoke', 'astranis', 'asus', 'atg', 'atomic', 'atomtickets.com', 'atrium', 'atscale', 'audible', 'augmedix', 'auth0', 'automatticdesign', 'ava', 'avant', 'avasis.com']
