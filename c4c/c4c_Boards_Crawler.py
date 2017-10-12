@@ -17,19 +17,21 @@ from pygeolib import GeocoderError
 import time
 import sys
 
-
+# INSERT GOOGLE SEARCH ENGINE TOKEN SETS HERE ######################
 AVAILABLE_TOKEN_SETS = {
-    'ess': {
-        'api_key': 'AIzaSyB_QXKEohLw7XvtgecsshkzkqUOJ8FzSCc',
-        'cse_id': '009043117829057268965:tgiqlni9v2w'
-    },
-    'ssk': {
-        'api_key': 'AIzaSyAn_YOSbC43zmv2cexCddaIYfJfMb9d08s',
-        'cse_id': '003565523015477317201:lwtcnf2u57i'
+    'c4c': {
+        'api_key': 'XXXXXXXXXXXXXXXXXX:XXXXXXX',
+        'cse_id': 'XXXXXXXXXXXXXXXXXX:XXXXXXX'
     }
+    # uncomment for additional token set
+    # ,
+    # 'c4c2': {
+    #     'api_key': 'XXXXXXXXXXXXXXXXXX:XXXXXXX,
+    #     'cse_id': 'XXXXXXXXXXXXXXXXXX:XXXXXXX'
+    # }
 }
 
-NAME_OF_TOKEN_SET_TO_USE_FOR_THIS_RUN = 'ess'
+NAME_OF_TOKEN_SET_TO_USE_FOR_THIS_RUN = 'c4c'
 
 API_KEY_TO_USE_FOR_THIS_RUN = AVAILABLE_TOKEN_SETS[NAME_OF_TOKEN_SET_TO_USE_FOR_THIS_RUN]['api_key']
 CSE_ID_TO_USE_FOR_THIS_RUN = AVAILABLE_TOKEN_SETS[NAME_OF_TOKEN_SET_TO_USE_FOR_THIS_RUN]['cse_id']
@@ -39,9 +41,7 @@ CODEFORCASH_API_KEY = '5b26197b391c5dab05c5606d43fba9c6'
 
 MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY = 10
 
-clients = ['markforged','homesuite','token','dopplerlabs','kensho','lever','gigster','plethora','r3cev.com','solvvy','otto','nextev','kittyhawk.aero']
-
-BAD_WORDS_LIST = ["personal trainer", "executive assistant", "low cost","ultimate software", "app tester", "1-2 hours a day","secretary", "front desk", "office manager", "use referr", "commission", "motivated individuals" , "sales specialist","no experience required", "amazing opportunity", "court researcher","technical support", "tech support", "mystery shopper","customer service", "field engineer", "administrative", "book keeping", "extra money", "extra cash", "extra income", "data entry", "have a car", "debit card", "earn extra income", "step by step training", "dollars a week", "supplemental income", "sales rep","closed lead", "do you want to make", "facebook page", "facebook fan page", "theater installation", "game tester", "% stake","printing and mailing", "laserjet", "credit score","real estate investment", "marketing", "research study","in person", "focus group", "survey", "you must live", "local", "must be local", "tutor", "instructor", "partner ", "equity", "cofounder", "co founder", "co-founder", "unpaid", "volunteer", "get paid", "get pay", "weekly", "webcam", "money making", "fast money", "workfromhome", "fast cash", "scam", "make money", "selling cell phones", "wireless sales", "it's legit", "telemarketer", "fb account", "Cell Phone Repair", "earn money by just", "only applicants residing in", "from his location", "virtual assistant", "by working less", "earn extra money", "experienced seller", "looking for a job", "earn over", "motorclub",  "office assistant", "event planner", "____________________________________________________________", "Filter by:"]
+skills = ["ruby","rails"," php","ruby on rails"," css","heroku"," aws","python","javascript"," sql","scraping","statistics","scraper","scripting","automate","data analy","data visual","crawl"," api","analytics","aws","html5","html","css","bootstrap","twilio","node","devops","mysql","mongodb","postgresql","wordpress","blogging","writing","laravel","codeigniter","mongo","postgres","sqlite","leveldb","firebase","neo4j","redis","jquery","nodejs","angular","express","vuejs","node.js","chat bot"," vue","webpack","github","stripe"," bot",".net","dot net"," c# ","react","asp.net","r studio","machine learning","react native"," nlp","apache spark","business intelligence"," d3 ","dataviz","hadoop","hbase","hive","kafka","matlab","mssql","powerbi","predictive analytics","quant","quantitative finance","scala","tableau"," vba","backbonejs","deployment","responsive","smtp","interactive brokers","ipsec","openbsd","twisted","bash","numpy","xmlrpc","qmail","dovecot","mailfront","rblsmtpd","djbdns","daemontools","golang"," c++","arduino","lambda","ansible","blockchain","ethereum","cryptocurrency","crypto-currency","bitcoin","docker","startup"," cto ","prototype","minimum viable product","automation"," qa ","java","rspec","phantomjs","selenium","cucumber","junit"," wcf","rest assured","rest-assured","nunit","jmeter"," ios","swift","objectivec","objective-c","objective c","admob","mobile","dotnet"," c ","full stack","windows services","azure","cloud","disaster recovery","business continuity","virtual it","web design","video","video editing","video editor","animation","flexbox","apache","typescript","rxjs","ecmascript","redux","babel","jekyll","nginx"," npm","gulp","grunt","sdssf","meteor","digital ocean","serverless"," bpm","process improvement","digital transformation","workflow","xamarin","project management","unity3d","unity","game programming","android","intern","freelance","angular2","spring","hibernate","cofounder","systems","linux","sysadmin","database","ember","ember.js","emberjs","data scientist","deep learning","unix"," qnx","embedded"," git","pandas","svr4"," aix","powerpc"," avr","emacs","lisp","shell"," iot","braintree","reactjs","browser","landing","knockout","kockout.js","web development","web app","website","web application","remote","part-time","knockoutjs","contract","kockout","d3js","d3.js","data visualization","woocommerce","visualcomposer","avada","eventscalendar","listify","xcode","scenekit","uikit","cocoapods","albanian","react-native","webdevelopment"," web","development","web-design"," es6","adwords","youtube"," ppc","google analytics","paid search","facebook ads","flask","django","symfony","haskell","functional programming","fullstack","full-stack"," f# ","start up","reflex-frp"," coq","framework","native","mobile app","mockups","mock-ups","mock ups","wire frames","wireframes","css3","es2016","react.js","front-end developer","react js"," js "," es7"," es8","es2015","es2017"," ts ","electron","cordova","blueprintjs","onsen","onsenui","reactnative",".net core","coreos","centos","rhel","red hat","redhat","ubuntu","debian","apache2","haproxy","kubernetes","docker swarm","node js","pascal","delphi","cobol","webapi","aurelia"," mvc","materialize","internet of things","maker","mean","software development","php7","nosql","data","data analysis","data mining","data architecture","database architecture","data warehouse","etl scripts"," etl","oracle","jenkins","architecture","microservices","continuous integration","logi","salesforce.com","wireframing","entry-level","critical-thinking","innovator","junior","frontend","material","worldpress","vue.js","sass","vuex","shopify","openstack"," ovh","vue","pyramid","sinatra","haxe","openfl","vertx","game servers","java8","mobile app development","apps","software","hardware"," mvp","watchos","tvos","macos","kotlin","objc","carthage","scss","rest api","website design","maintenance","user","interface","backend","clojure","clojurescript"," ux ","hack","sketch","ui/ux","rxswift","reactivecocoa"," frp"," wpf","windows client","kiosk","touchscreen","angularjs","aureliajs","ravendb","flux","angular 2","design","websites","develop","photoshop","healthcare","microservice"," s3 ","application","portfolio"," c9 ","sublime","nixos"," cto"," htm","numenta","datomic","play","restful","garden","generation","front end"," ai ","sikulix","generative","load","repl-driven-development","taxonomy","relational","theory","distributed","akka"," go ","blocks"," csp","communicating-sequential-processes","regex","om-next","boot","marketing","illustrator","user interface"," app","back end","rudy"," ui ","digital marketing","google maps","ecommerce","web dev"," mac","back-end","commerce","science","terminal","divi","ajax","rest","rabbitmq","senior","architect","chef","agile","joomla","minimal","salesforce","front-end","jupyter notebook","mailgun","j2ee","less","websockets"," xml","ionic"," r ","cakephp","excel","office","t-sql","entity framework","git hub","sql server 2014","visual studio 2015","adobe photoshop","elasticsearch","search","backbone","html/css","phonegap","alexa","dynamodb","meteor.js"," ror","angular.js","magento","drupal","moodle","elearning","webdesign","socialmediamarketing","digitalmarketing","training","coaching"]
 
 def do_google_search(search_term, api_key, cse_id, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
@@ -65,7 +65,6 @@ def get_job_listings_from_google(cse_search_term, number_of_listings_to_get):
     for search_result_number_from_which_api_query_results_start in range(1, number_of_listings_to_get + 1, MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY):
         try:
             return_value.extend(do_google_search(
-                # online version of keywords > https://i.codefor.cash/job_alerts/generate_subscriber_keywords
                 search_term=cse_search_term,
                 api_key=API_KEY_TO_USE_FOR_THIS_RUN, cse_id=CSE_ID_TO_USE_FOR_THIS_RUN,
                 num=MAXIMUM_NUMBER_OF_SEARCH_RESULTS_PER_GOOGLE_API_QUERY, start=search_result_number_from_which_api_query_results_start))
@@ -74,22 +73,14 @@ def get_job_listings_from_google(cse_search_term, number_of_listings_to_get):
             return return_value[:number_of_listings_to_get]
     return return_value[:number_of_listings_to_get]
 
-# def save_gse_call_results(listings):
-#     with open('saved_gse_results.txt','a+') as f:
-#         f.write(json.dump(listings), sort_keys = True,
-#                 indent = 4)
-
 def save_gse_call_results(listings):
     print('@@@@', len(listings), 'Listings Saved @@@@')
+    # save gse results as a file
     with open('./saved_files/saved_gse_results.txt','a+') as f:
         f.write(json.dumps(listings))
 
-    # relevant??????????
-    # with open('saved_gse_results.txt','a+') as f:
-    #     f.write(json.dumps(get_job_listings_from_google("'software engineer' remote site:jobs.lever.co/" + client, 10), sort_keys = True,
-    #             indent = 4))
-
 def save_print_log(data):
+    # save post metrics as file
     saveout = sys.stdout
     fsock = open('./saved_files/saved_post_metrics.log', 'a+')
     sys.stdout = fsock
@@ -168,7 +159,6 @@ def send_job_listings_to_codeforcash(listings):
             print(location)
             save_print_log(location)
 
-            # over limit ?? look into pay
             try:
                 country = Geocoder.geocode(location).country
                 latitude = Geocoder.geocode(location).latitude
@@ -176,7 +166,7 @@ def send_job_listings_to_codeforcash(listings):
             except:
                 print('## slept ##')
                 save_print_log("## slept ##")
-                time.sleep(11)
+                time.sleep(2)
                 try:
                     country = Geocoder.geocode(location).country
                     latitude = Geocoder.geocode(location).latitude
@@ -196,37 +186,11 @@ def send_job_listings_to_codeforcash(listings):
             # set remote or not
             if 'Remote' in location or 'remote' in location or 'Remote' in data_of_each_listing["title"] or 'remote' in data_of_each_listing["title"]:
                 data_to_send_in_request_body["remote_ok"] = 'remote_ok'
-                # print('remote')
             else:
-                # print('no remote')
                 data_to_send_in_request_body["remote_ok"] = 'doesnt_say'
 
-            # check for bad words in description
-            for bad_word in BAD_WORDS_LIST:
-                if bad_word in data_of_each_listing["title"] or bad_word in description_web_data:
-                    any_bad_words = True
-                    print('** bad word:', bad_word)
-                    save_print_log(bad_word)
-                    with open('./saved_files/saved_badword_list.txt','a+') as f:
-                        f.write(json.dumps(data_to_send_in_request_body))
-                else:
-                    data_to_send_in_request_body["description"] = description_web_data
+            count += 1
 
-                    for data_key in data_to_send_in_request_body:
-                        data_to_send_in_request_body[data_key] = data_to_send_in_request_body[data_key]
-
-            # save listings without bad words
-            if any_bad_words == False:
-                clean_data_to_post = data_to_send_in_request_body
-                count += 1
-                # # test: print formatted descriptions
-                # print(description_web_data)
-            else:
-                print("*********************************************")
-                save_print_log("*********************************************")
-                continue
-            # hit geocoder every 1 sec
-            # time.sleep(3)
         print("*********************************************")
         save_print_log("*********************************************")
 
@@ -236,7 +200,7 @@ def send_job_listings_to_codeforcash(listings):
         # send formatted json to code4cash api
         response_per_post = requests.post(
             url=CODEFORCASH_BASE_URL+'/api/metum/create',
-            data=clean_data_to_post)
+            data=data_to_send_in_request_body)
         # save code4cash response
         print(response_per_post)
         with open('./saved_files/saved_C4C_response','ab+') as f:
@@ -244,20 +208,14 @@ def send_job_listings_to_codeforcash(listings):
 
         # save prePostListings before post to c4c
         with open('./saved_files/saved_post_data.txt','a+') as f:
-            f.write(json.dumps(clean_data_to_post))
+            f.write(json.dumps(data_to_send_in_request_body))
 
-    # print(clean_data_to_post)
-    print('XXXX', count, 'Clean Listings Posted XXXX')
+    print('XXXX', count, 'Listings Posted XXXX')
     save_print_log(count)
     save_print_log("*********************************************")
 
 if __name__ == '__main__':
     # send_job_listings_to_codeforcash(get_job_listings_from_google())
-
-    for client in clients:
-        print('**** ROOT:', client, '****')
-        send_job_listings_to_codeforcash(get_job_listings_from_google("'software engineer' site:jobs.lever.co/" + client, 150))
-
-        # get_job_listings_from_google("'software engineer' site:jobs.lever.co/" + client, 40)
-        # save_gse_call_results(send_job_listings_to_codeforcash(get_job_listings_from_google("'software engineer' remote site:jobs.lever.co/" + client, 10)))
-
+    for skill in skills:
+        print('**** ROOT:', skill, '****')
+        send_job_listings_to_codeforcash(get_job_listings_from_google("site:jobs.lever.co/ " + skill, 101))

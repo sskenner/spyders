@@ -1,0 +1,622 @@
+(venv) arias-Air:c4c nimda$ python3 2c4cQueryNoBadWordsCheck.py
+**** ROOT: reviewtrackers ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+14 Listings + Empty Index
+@@@@ 14 Listings Saved @@@@
+ReviewTrackers - Software Engineer
+>>>> https://jobs.lever.co/reviewtrackers/54c15304-6e39-41d9-a2ab-a0dc95a37ff4
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers - Senior Backend Engineer
+>>>> https://jobs.lever.co/reviewtrackers/61697aaf-2e6d-4fc6-b0d0-a9bb308b9955
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers - Test Engineer (Mid, Sr, Lead)
+>>>> https://jobs.lever.co/reviewtrackers/bf389c82-2948-474c-a331-38206f6fc2fe
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers - Senior Software Engineer
+>>>> https://jobs.lever.co/reviewtrackers/f8c78835-32a7-41b8-ab52-1acf756d24c5
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+ReviewTrackers - Software Engineer
+>>>> https://jobs.lever.co/reviewtrackers/54c15304-6e39-41d9-a2ab-a0dc95a37ff4/apply
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+ReviewTrackers - Software Engineer
+>>>> https://jobs.lever.co/reviewtrackers/54c15304-6e39-41d9-a2ab-a0dc95a37ff4/apply?lever-source=BuiltInChicago
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers - Senior Frontend Engineer
+>>>> https://jobs.lever.co/reviewtrackers/f8c78835-32a7-41b8-ab52-1acf756d24c5/apply
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers - Senior Backend Engineer
+>>>> https://jobs.lever.co/reviewtrackers/61697aaf-2e6d-4fc6-b0d0-a9bb308b9955/apply
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers - Test Engineer (Mid, Sr, Lead)
+>>>> https://jobs.lever.co/reviewtrackers/bf389c82-2948-474c-a331-38206f6fc2fe/apply
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers
+>>>> https://jobs.lever.co/reviewtrackers
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+ReviewTrackers
+>>>> https://jobs.lever.co/reviewtrackers/?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+XXXX 11 Listings Posted XXXX
+**** ROOT: revzilla ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+RevZilla - Cloud Operations Engineer
+>>>> https://jobs.lever.co/revzilla/30152014-c6f5-4d64-8936-62f30b3e571e
+TC: Full-time ET: Full-time
+Philadelphia
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+RevZilla - Lead Test Engineer
+>>>> https://jobs.lever.co/revzilla/dab7757c-6c06-440a-9acd-f9836f47269b
+TC: Full-time ET: Full-time
+Philadelphia
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+RevZilla - Cloud Operations Engineer
+>>>> https://jobs.lever.co/revzilla/30152014-c6f5-4d64-8936-62f30b3e571e/apply
+TC: Full-time ET: Full-time
+Philadelphia
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+RevZilla - Full Stack Developer
+>>>> https://jobs.lever.co/revzilla/346442ef-0c55-4b66-b92c-a2510302da69
+TC: Full-time ET: Full-time
+Philadelphia
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+RevZilla
+>>>> https://jobs.lever.co/revzilla
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+RevZilla
+>>>> https://jobs.lever.co/revzilla?by=location&team=Technology
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+RevZilla - Lever
+>>>> https://jobs.lever.co/revzilla?by=location&location=Philadelphia
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: rexcomputing ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+REX Computing - Compiler Engineer
+>>>> https://jobs.lever.co/rexcomputing/c41b5401-d751-4378-848b-f7864c308c8e
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+REX Computing - RTL Design Engineer
+>>>> https://jobs.lever.co/rexcomputing/d5dd6571-7d44-415f-9e24-6174c9c68313
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+REX Computing - Compiler Engineer
+>>>> https://jobs.lever.co/rexcomputing/c41b5401-d751-4378-848b-f7864c308c8e/apply
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+REX Computing - RTL Design Engineer
+>>>> https://jobs.lever.co/rexcomputing/d5dd6571-7d44-415f-9e24-6174c9c68313/apply
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+REX Computing
+>>>> https://jobs.lever.co/rexcomputing
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+REX Computing - Lever
+>>>> https://jobs.lever.co/rexcomputing?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+REX Computing
+>>>> https://jobs.lever.co/rexcomputing?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: rideonewheel ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+6 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+6 Listings + Empty Index
+@@@@ 6 Listings Saved @@@@
+Future Motion - Sr Firmware Engineer
+>>>> https://jobs.lever.co/rideonewheel/b3057bf4-20d3-4cf1-981c-db416ef1749e
+TC: Full-time ET: Full-time
+Santa Cruz, California
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Future Motion - EE Manufacturing Engineer
+>>>> https://jobs.lever.co/rideonewheel/7bcced83-f701-41d0-89d0-3a1c1e61a029
+TC: Full-time ET: Full-time
+Santa Cruz, California
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Future Motion - Electrical Test Engineer
+>>>> https://jobs.lever.co/rideonewheel/0fec3652-e5da-4cf5-a877-f2ef767ad455
+TC: Full-time ET: Full-time
+Santa Cruz, California
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Future Motion - EE Manufacturing Engineer
+>>>> https://jobs.lever.co/rideonewheel/7bcced83-f701-41d0-89d0-3a1c1e61a029/apply
+TC: Full-time ET: Full-time
+Santa Cruz, California
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Future Motion - Supply Chain Specialist
+>>>> https://jobs.lever.co/rideonewheel/1b6ba006-6017-454d-b93e-c3d333c6a0fd
+TC: Full-time ET: Full-time
+Santa Cruz, California
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+XXXX 5 Listings Posted XXXX
+**** ROOT: riptlabs ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Ript Labs - Sr. Embedded Engineer
+>>>> https://jobs.lever.co/riptlabs/82dc10f4-59b4-4a80-b896-6ffb3a049946
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Ript Labs - Backend Software Engineer
+>>>> https://jobs.lever.co/riptlabs/4d8cbf7c-b344-4b75-be45-5b4c04d72ce1
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Ript Labs - Backend Software Engineer
+>>>> https://jobs.lever.co/riptlabs/4d8cbf7c-b344-4b75-be45-5b4c04d72ce1/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Ript Labs - Sr. Embedded Engineer - Lever
+>>>> https://jobs.lever.co/riptlabs/82dc10f4-59b4-4a80-b896-6ffb3a049946/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Ript Labs
+>>>> https://jobs.lever.co/riptlabs/?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Ript Labs
+>>>> https://jobs.lever.co/riptlabs/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Ript Labs - Lever
+>>>> https://jobs.lever.co/riptlabs/?team=Product
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Ript Labs - Sr. Android Developer
+>>>> https://jobs.lever.co/riptlabs/8605662c-a415-4ab1-9525-24ce1fae5e8d
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 8 Listings Posted XXXX
+**** ROOT: roam ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Roam - NLP Engineer
+>>>> https://jobs.lever.co/roam/ad8914f2-0d4d-40b7-8063-c8b8096937f0
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - ML Engineer
+>>>> https://jobs.lever.co/roam/2563bef3-7b70-4e46-827a-829307714719
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - UI Engineer
+>>>> https://jobs.lever.co/roam/17181435-b7c7-437a-96ff-f6ae0e5ac3ba
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - ML Platform Engineer
+>>>> https://jobs.lever.co/roam/ca9b536d-592b-4755-b03a-14df06274743
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - Senior Backend / API Engineer
+>>>> https://jobs.lever.co/roam/5b6480c4-1c8e-46ce-b00b-f6ca2c53e640
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - ML Engineer
+>>>> https://jobs.lever.co/roam/2563bef3-7b70-4e46-827a-829307714719/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - Application Infrastructure Engineer
+>>>> https://jobs.lever.co/roam/5b6480c4-1c8e-46ce-b00b-f6ca2c53e640/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - UI Engineer
+>>>> https://jobs.lever.co/roam/17181435-b7c7-437a-96ff-f6ae0e5ac3ba/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - Senior Product Manager
+>>>> https://jobs.lever.co/roam/5ac7482e-557c-4f40-8129-74858d389b45
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+Roam - Clinical Data Scientist
+>>>> https://jobs.lever.co/roam/87e5d082-d3e0-441d-b648-a36056fe16a1
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+XXXX 10 Listings Posted XXXX
+**** ROOT: robbytechnologies ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Robby Technologies - Robotics Engineer
+>>>> https://jobs.lever.co/robbytechnologies/8fccd1fb-0033-4dc2-b62f-1bdbff3170a9
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Robby Technologies - Computer Vision Engineer
+>>>> https://jobs.lever.co/robbytechnologies/3c119aaf-ab59-4bde-aa7f-20874c4998b7
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Robby Technologies - System Integration Engineer
+>>>> https://jobs.lever.co/robbytechnologies/65e2809c-40e1-4164-b589-05eb170c8d4b
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Robby Technologies - Machine Learning Engineer
+>>>> https://jobs.lever.co/robbytechnologies/608400a0-9e23-4298-9450-5e13a75a44f4
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Robby Technologies - Computer Vision Engineer
+>>>> https://jobs.lever.co/robbytechnologies/3c119aaf-ab59-4bde-aa7f-20874c4998b7/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Robby Technologies - Robotics Engineer
+>>>> https://jobs.lever.co/robbytechnologies/8fccd1fb-0033-4dc2-b62f-1bdbff3170a9/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Robby Technologies
+>>>> https://jobs.lever.co/robbytechnologies
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: rockcontent ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: rockymountainprep ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: rollinglobe ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: roosterteeth ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Rooster Teeth - Audio Engineer
+>>>> https://jobs.lever.co/roosterteeth/3903b247-6df1-4aa9-a1b4-cc44574e11c4
+TC: Full-time ET: Full-time
+Austin, TX
+country: United States coords 30.267153 -97.7430608
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Rooster Teeth
+>>>> https://jobs.lever.co/roosterteeth
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.267153 -97.7430608
+*********************************************
+<Response [200]>
+XXXX 2 Listings Posted XXXX
+**** ROOT: rossintelligence ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+ROSS Intelligence - Fullstack Engineer
+>>>> https://jobs.lever.co/rossintelligence/96dbd4cb-da1e-40ce-81f9-eb5beec575bb
+TC: Fulltime ET: Fulltime
+Toronto
+country: Canada coords 43.653226 -79.3831843
+*********************************************
+<Response [200]>
+ROSS Intelligence - Senior Software Engineer (NLP)
+>>>> https://jobs.lever.co/rossintelligence/f5d1fb49-dfa2-4292-967c-5af6d209bea5/apply
+TC: Fulltime ET: Fulltime
+Toronto
+country: Canada coords 43.653226 -79.3831843
+*********************************************
+<Response [200]>
+ROSS Intelligence - Senior Product Designer
+>>>> https://jobs.lever.co/rossintelligence/1a182eb0-deea-4bb3-8df2-e2b273097fe8
+TC: Fulltime ET: Fulltime
+Toronto
+country: Canada coords 43.653226 -79.3831843
+*********************************************
+<Response [200]>
+XXXX 3 Listings Posted XXXX
+**** ROOT: rubiconglobal ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+HTTP Error 404: Not Found
+Rubicon Global - Solution Architect
+>>>> https://jobs.lever.co/rubiconglobal/c1975422-ed8e-455a-87d9-1a53ef9ec6b8
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Rubicon Global - Lever
+>>>> https://jobs.lever.co/rubiconglobal?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 2 Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

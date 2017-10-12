@@ -1,0 +1,1648 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: casetext ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+11 Listings + Empty Index
+@@@@ 11 Listings Saved @@@@
+Casetext - Machine Learning Engineer (Recommendation/Text ...
+>>>> https://jobs.lever.co/casetext/03887297-9a88-431b-84fd-79723e3ca213
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Casetext - Backend Engineer (Data Science Team)
+>>>> https://jobs.lever.co/casetext/360c7530-049a-4a71-8bbc-e85f4c09a039
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Casetext - Full Stack Engineer (Web App Team)
+>>>> https://jobs.lever.co/casetext/ab5933f9-143f-474b-959e-1cc8931a29d4
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: equity
+*********************************************
+Casetext - DevOps/Cloud Engineer
+>>>> https://jobs.lever.co/casetext/7c410f7d-4f8a-410c-8679-2fb94a7821e7
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Casetext
+>>>> https://jobs.lever.co/casetext
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Casetext - Full Stack Engineer (Web App Team)
+>>>> https://jobs.lever.co/casetext/ab5933f9-143f-474b-959e-1cc8931a29d4/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Casetext - Machine Learning Engineer (Recommendation/Text ...
+>>>> https://jobs.lever.co/casetext/03887297-9a88-431b-84fd-79723e3ca213/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Casetext
+>>>> https://jobs.lever.co/casetext?team=Data
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Casetext - Product Designer
+>>>> https://jobs.lever.co/casetext/2b724e38-61e4-41e9-8e0b-2620673647f0
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Casetext
+>>>> https://jobs.lever.co/casetext?team=Marketing
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: cask ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Cask - Distributed Application Engineer
+>>>> https://jobs.lever.co/cask/42eacf47-f647-4998-adef-6ca2a92d3279
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Cask - Software Engineer
+>>>> https://jobs.lever.co/cask/03ad27af-19bb-46ba-8f52-e248a58ed15a
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Cask - Software Engineer
+>>>> https://jobs.lever.co/cask/03ad27af-19bb-46ba-8f52-e248a58ed15a/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+** bad word: ____________________________________________________________
+*********************************************
+Cask
+>>>> https://jobs.lever.co/cask
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+** bad word: Filter by:
+*********************************************
+Cask
+>>>> https://jobs.lever.co/cask?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+** bad word: Filter by:
+*********************************************
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: castleglobal ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+39 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+39 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+27 Listings + Empty Index
+@@@@ 27 Listings Saved @@@@
+Castle Global, Inc. - Frontend Engineer
+>>>> https://jobs.lever.co/castleglobal/83e9b7c7-99f6-41ea-8047-c760207e99e0
+TC: Full-time ET: Full-time
+Delhi
+country: India coords 28.7040592 77.10249019999999
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Software Engineer - Android
+>>>> https://jobs.lever.co/castleglobal/a688eaba-ae2e-42cb-a2bb-a1ea1f692774
+TC: Full-time ET: Full-time
+Delhi
+country: India coords 28.7040592 77.10249019999999
+*********************************************
+<Response [200]>
+Castle Global, Inc. - QA Engineer (Manual)
+>>>> https://jobs.lever.co/castleglobal/213d723a-d935-4795-8001-63dc0c7717ba
+TC: Full-time ET: Full-time
+New Delhi
+country: India coords 28.6139391 77.2090212
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Software Engineer - Backend
+>>>> https://jobs.lever.co/castleglobal/0962156b-5d31-4ec2-8765-24f247d1e9cd
+TC: Full-time ET: Full-time
+Delhi
+country: India coords 28.7040592 77.10249019999999
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Software Development Engineer in Test
+>>>> https://jobs.lever.co/castleglobal/c019c468-a434-4298-aeae-0b75019c2ab6
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Software Engineer - iOS
+>>>> https://jobs.lever.co/castleglobal/1ebd6291-4887-468e-9ac0-46856039762e
+TC: Full-time ET: Full-time
+Delhi
+country: India coords 28.7040592 77.10249019999999
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Systems Engineer / DevOps
+>>>> https://jobs.lever.co/castleglobal/6fce6e38-262a-4396-aa21-536d83ebca9c
+TC: Full-time ET: Full-time
+Delhi
+country: India coords 28.7040592 77.10249019999999
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Castle Global, Inc. - Frontend Engineer
+>>>> https://jobs.lever.co/castleglobal/83e9b7c7-99f6-41ea-8047-c760207e99e0/apply
+TC: Full-time ET: Full-time
+Delhi
+country: India coords 28.7040592 77.10249019999999
+** bad word: ____________________________________________________________
+*********************************************
+Castle Global, Inc. - Systems Engineer / DevOps
+>>>> https://jobs.lever.co/castleglobal/6fce6e38-262a-4396-aa21-536d83ebca9c/apply
+TC: Full-time ET: Full-time
+Delhi
+country: India coords 28.7040592 77.10249019999999
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Castle Global, Inc.
+>>>> https://jobs.lever.co/castleglobal
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 28.7040592 77.10249019999999
+** bad word: Filter by:
+*********************************************
+Castle Global, Inc.
+>>>> https://jobs.lever.co/castleglobal?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 28.7040592 77.10249019999999
+** bad word: Filter by:
+*********************************************
+Castle Global, Inc. - Head of Engineering Talent
+>>>> https://jobs.lever.co/castleglobal/270d2aad-832c-4cfa-8e81-65d943771aac
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Head of Engineering Talent
+>>>> https://jobs.lever.co/castleglobal/270d2aad-832c-4cfa-8e81-65d943771aac/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Castle Global, Inc. - Lead Designer
+>>>> https://jobs.lever.co/castleglobal/9324c0ac-57f4-43c6-a09d-cb1af817335f
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Castle Global, Inc. - Marketing Manager, Hive AI
+>>>> https://jobs.lever.co/castleglobal/424840b7-ddce-4beb-957d-17d1d0a63d6f
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+*********************************************
+Castle Global, Inc. - UI / UX Designer
+>>>> https://jobs.lever.co/castleglobal/fdcc099e-cdb6-44d6-9603-23d06e3a6027
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Castle Global, Inc. - Strategy and Operations Associate, New Ventures
+>>>> https://jobs.lever.co/castleglobal/e0652123-5001-452c-ba07-7c9efdb93d9f
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+** bad word: partner
+*********************************************
+Castle Global, Inc. - Product Manager
+>>>> https://jobs.lever.co/castleglobal/a9ae6d44-8451-41c8-a04b-4997ed8b9db0
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Recruiter
+>>>> https://jobs.lever.co/castleglobal/9409b59a-6fba-4a88-83ee-d496bf7a9324
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Castle Global, Inc. - Business Operations Associate
+>>>> https://jobs.lever.co/castleglobal/72cb9deb-c178-42ee-85fb-bc8cd6156eec
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Castle Global, Inc. - Business Development Associate - Hive AI
+>>>> https://jobs.lever.co/castleglobal/c536e78c-2d36-40d3-b60f-653e4c4d829b
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: customer service
+*********************************************
+Castle Global, Inc. - Executive Assistant, Executive and People ...
+>>>> https://jobs.lever.co/castleglobal/41b3f808-6835-4e93-9ca6-ba15684131de
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: executive assistant
+** bad word: administrative
+** bad word: partner
+*********************************************
+Castle Global, Inc. - Chief of Staff
+>>>> https://jobs.lever.co/castleglobal/103f430f-4087-490b-a9fa-5ac55fdb362b
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+** bad word: weekly
+*********************************************
+XXXX 11 Clean Listings Posted XXXX
+**** ROOT: chai ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Chai - Manufacturing Engineer
+>>>> https://jobs.lever.co/chai/22d63817-117d-4adc-a082-2e4cf005d19d
+TC: Full-time ET: Full-time
+Santa Clara
+country: United States coords 37.3541079 -121.9552356
+** bad word: equity
+*********************************************
+Chai - Lead Software Engineer
+>>>> https://jobs.lever.co/chai/87527c93-6e32-4044-ae6f-516fb32d918f
+TC: Full-time ET: Full-time
+Santa Clara
+country: United States coords 37.3541079 -121.9552356
+** bad word: marketing
+** bad word: equity
+*********************************************
+Chai - Lead Software Engineer - Lever
+>>>> https://jobs.lever.co/chai/87527c93-6e32-4044-ae6f-516fb32d918f/apply
+TC: Full-time ET: Full-time
+Santa Clara
+country: United States coords 37.3541079 -121.9552356
+** bad word: ____________________________________________________________
+*********************************************
+Chai - Manufacturing Engineer
+>>>> https://jobs.lever.co/chai/22d63817-117d-4adc-a082-2e4cf005d19d/apply
+TC: Full-time ET: Full-time
+Santa Clara
+country: United States coords 37.3541079 -121.9552356
+** bad word: ____________________________________________________________
+*********************************************
+Chai
+>>>> https://jobs.lever.co/chai
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3541079 -121.9552356
+** bad word: Filter by:
+*********************************************
+Chai
+>>>> https://jobs.lever.co/chai?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3541079 -121.9552356
+** bad word: Filter by:
+*********************************************
+Chai - Lever
+>>>> https://jobs.lever.co/chai?by=location&location=Santa%20Clara
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3541079 -121.9552356
+** bad word: Filter by:
+*********************************************
+Chai - Lever
+>>>> https://jobs.lever.co/chai?by=location&team=Operations
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3541079 -121.9552356
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: change ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Change.org - Senior Software Engineer, Full Stack - Lever
+>>>> https://jobs.lever.co/change/0d771d21-c5ea-440a-bc91-edb63f368350/apply?lever-source=careers-show-view
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Change.org - VP of Engineering
+>>>> https://jobs.lever.co/change/d1320de9-59f4-4bae-9b60-98296115a8f8
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Change.org
+>>>> https://jobs.lever.co/change
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Change.org - Product Designer, Growth
+>>>> https://jobs.lever.co/change/56f21866-817f-431e-94ba-a4836c17c956
+TC: Full- time ET: Full- time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+** bad word: partner
+*********************************************
+Change.org - Culture & Operations Manager
+>>>> https://jobs.lever.co/change/4104805e-d56b-4f14-8121-7e3ccc1bdc1f
+TC: Full- time ET: Full- time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Change.org - Lever
+>>>> https://jobs.lever.co/change?location=San%20Francisco
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Change.org - Lever
+>>>> https://jobs.lever.co/change?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: chatbooks.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Chatbooks - QA Engineer (Automation)
+>>>> https://jobs.lever.co/chatbooks.com/b378d285-7248-4c83-bab7-c349f5424ce7
+TC: Full-time ET: Full-time
+Provo, UT
+country: United States coords 40.2338438 -111.6585337
+** bad word: equity
+** bad word: co-founder
+*********************************************
+Chatbooks - .NET Engineer
+>>>> https://jobs.lever.co/chatbooks.com/23149de5-4fad-4bdf-ba06-5f9c290b1c3b
+TC: Full-time ET: Full-time
+Provo, UT
+country: United States coords 40.2338438 -111.6585337
+** bad word: equity
+** bad word: co-founder
+*********************************************
+Chatbooks - QA Engineer (Automation)
+>>>> https://jobs.lever.co/chatbooks.com/b378d285-7248-4c83-bab7-c349f5424ce7/apply
+TC: Full-time ET: Full-time
+Provo, UT
+country: United States coords 40.2338438 -111.6585337
+** bad word: ____________________________________________________________
+*********************************************
+Chatbooks
+>>>> https://jobs.lever.co/chatbooks.com
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.2338438 -111.6585337
+** bad word: Filter by:
+*********************************************
+Chatbooks - Lever
+>>>> https://jobs.lever.co/chatbooks.com?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.2338438 -111.6585337
+** bad word: Filter by:
+*********************************************
+Chatbooks - Lever
+>>>> https://jobs.lever.co/chatbooks.com?team=Development
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.2338438 -111.6585337
+** bad word: Filter by:
+*********************************************
+Chatbooks - Business Intelligence Analyst
+>>>> https://jobs.lever.co/chatbooks.com/dfdd262a-4fb3-4a23-9e0d-b9a310b524d3
+TC: Full-time ET: Full-time
+Provo, UT
+country: United States coords 40.2338438 -111.6585337
+** bad word: survey
+** bad word: equity
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: chefd ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Chef'd - Data Scientist
+>>>> https://jobs.lever.co/chefd/c688ef30-2840-4e6c-b56a-d5f1942c62ea
+TC: Full-time ET: Full-time
+El Segundo, CA
+country: United States coords 33.9191799 -118.4164652
+** bad word: marketing
+*********************************************
+Chef'd - Lever
+>>>> https://jobs.lever.co/chefd?location=El%20Segundo%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.9191799 -118.4164652
+** bad word: Filter by:
+*********************************************
+Chef'd - Intern- Data Science
+>>>> https://jobs.lever.co/chefd/0ac6f4c9-8423-4de7-9375-f39d47882f7b
+TC: Intern ET: Intern
+El Segundo, CA
+country: United States coords 33.9191799 -118.4164652
+*********************************************
+<Response [200]>
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: chexology ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+Chexology - iOS Developer
+>>>> https://jobs.lever.co/chexology/22fdf757-35ec-4595-94e8-3022ee065f02
+TC: Full-time ET: Full-time
+New York
+country: United States coords 40.7127753 -74.0059728
+** bad word: weekly
+*********************************************
+Chexology - Brand Ambassador - NYC
+>>>> https://jobs.lever.co/chexology/137ed406-fa15-4b17-89f0-26b152de460e/apply
+TC: Full-time/part-time ET: Full-time/part-time
+New York
+country: United States coords 40.7127753 -74.0059728
+** bad word: customer service
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: chironhealth ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Chiron Health - Senior Front End Engineer
+>>>> https://jobs.lever.co/chironhealth/174baeb6-4702-41c5-9d56-ebe3c53a161a
+TC: Full-time ET: Full-time
+Austin, Texas
+country: United States coords 30.267153 -97.7430608
+** bad word: administrative
+*********************************************
+HTTP Error 404: Not Found
+Chiron Health - Senior Front End Engineer
+>>>> https://jobs.lever.co/chironhealth/174baeb6-4702-41c5-9d56-ebe3c53a161a/apply
+TC: Full-time ET: Full-time
+Austin, Texas
+country: United States coords 30.267153 -97.7430608
+** bad word: ____________________________________________________________
+*********************************************
+Chiron Health - Lever
+>>>> https://jobs.lever.co/chironhealth?location=Austin%2C%20Texas
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.267153 -97.7430608
+** bad word: Filter by:
+*********************************************
+Chiron Health - Lever
+>>>> https://jobs.lever.co/chironhealth/?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.267153 -97.7430608
+** bad word: Filter by:
+*********************************************
+Chiron Health - Lever
+>>>> https://jobs.lever.co/chironhealth?by=commitment&team=Product%20Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.267153 -97.7430608
+** bad word: Filter by:
+*********************************************
+Chiron Health
+>>>> https://jobs.lever.co/chironhealth?by=commitment&team=Sales
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.267153 -97.7430608
+** bad word: Filter by:
+*********************************************
+Chiron Health - Lever
+>>>> https://jobs.lever.co/chironhealth/?team=Sales
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.267153 -97.7430608
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: chownow ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+ChowNow - Front End Engineer
+>>>> https://jobs.lever.co/chownow/909fd10f-ff59-434d-8cf6-efb271ed276c
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+ChowNow - Test Automation Engineer
+>>>> https://jobs.lever.co/chownow/1b2fffc8-74d9-466f-8c5c-aba07560b92f
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+ChowNow - Test Automation Engineer
+>>>> https://jobs.lever.co/chownow/1b2fffc8-74d9-466f-8c5c-aba07560b92f/apply
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+** bad word: ____________________________________________________________
+*********************************************
+ChowNow
+>>>> https://jobs.lever.co/chownow
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0522342 -118.2436849
+** bad word: Filter by:
+*********************************************
+ChowNow
+>>>> https://jobs.lever.co/chownow?by=team&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0522342 -118.2436849
+** bad word: Filter by:
+*********************************************
+ChowNow
+>>>> https://jobs.lever.co/chownow?location=Los%20Angeles%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0522342 -118.2436849
+** bad word: Filter by:
+*********************************************
+ChowNow
+>>>> https://jobs.lever.co/chownow?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0522342 -118.2436849
+** bad word: Filter by:
+*********************************************
+ChowNow - Director of Infrastructure (DevOps)
+>>>> https://jobs.lever.co/chownow/011e8727-882a-4305-b270-cfefd912ce89
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+** bad word: weekly
+*********************************************
+ChowNow - Vice President, Product
+>>>> https://jobs.lever.co/chownow/b3d8ef3a-32ff-43a4-80a6-9b3cc4f535e4
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+** bad word: marketing
+** bad word: weekly
+*********************************************
+ChowNow - Talent Sourcer
+>>>> https://jobs.lever.co/chownow/0d3c0879-2dad-4949-bd1d-696771fa3b65
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+** bad word: partner
+*********************************************
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: cic ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: circleci ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+CircleCI - Solutions Engineer
+>>>> https://jobs.lever.co/circleci/983eaac8-e421-4014-8105-711109a0f4a5
+TC:  ET: doesnt_say
+North America
+country: None coords 54.5259614 -105.2551187
+*********************************************
+<Response [200]>
+CircleCI - Staff Back End Software Engineer
+>>>> https://jobs.lever.co/circleci/3a11c8fb-91c8-44fb-85d9-748b78083208
+TC: Full-time ET: Full-time
+North America
+country: None coords 54.5259614 -105.2551187
+*********************************************
+<Response [200]>
+CircleCI - Solutions Engineer
+>>>> https://jobs.lever.co/circleci/983eaac8-e421-4014-8105-711109a0f4a5/apply
+TC:  ET: doesnt_say
+North America
+country: None coords 54.5259614 -105.2551187
+** bad word: ____________________________________________________________
+*********************************************
+CircleCI
+>>>> https://jobs.lever.co/circleci?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: None coords 54.5259614 -105.2551187
+** bad word: Filter by:
+*********************************************
+CircleCI - Product Manager
+>>>> https://jobs.lever.co/circleci/6ee8e138-a9fc-430a-b550-fa7498d887cc
+TC: Full-time ET: Full-time
+San Francisco, California
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+CircleCI
+>>>> https://jobs.lever.co/circleci/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+CircleCI
+>>>> https://jobs.lever.co/circleci?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+CircleCI
+>>>> https://jobs.lever.co/circleci?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+CircleCI
+>>>> https://jobs.lever.co/circleci?location=San%20Francisco%2C%20California
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+CircleCI - Account Executive
+>>>> https://jobs.lever.co/circleci/fb62544f-e409-4e02-8ce3-5462ffe5476c
+TC:  ET: doesnt_say
+San Francisco, California
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: circlemedical ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Circle Medical - Backend Engineer (Ruby/Rails)
+>>>> https://jobs.lever.co/circlemedical/d3095636-3ac9-45a8-b922-bd2b55efa488
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Circle Medical - Backend Engineer (Ruby/Rails)
+>>>> https://jobs.lever.co/circlemedical/d3095636-3ac9-45a8-b922-bd2b55efa488/apply
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Circle Medical - Mobile Engineer (iOS/Swift)
+>>>> https://jobs.lever.co/circlemedical/554bbd94-0d8e-4dd8-a039-da15c6859352/apply
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+** bad word: ____________________________________________________________
+*********************************************
+Circle Medical
+>>>> https://jobs.lever.co/circlemedical
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+Circle Medical - Lever
+>>>> https://jobs.lever.co/circlemedical?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+Circle Medical - Lever
+>>>> https://jobs.lever.co/circlemedical?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+Circle Medical - Primary Care Physician
+>>>> https://jobs.lever.co/circlemedical/1d70e823-df86-4723-bd0d-36fd41aa7dd9
+TC: Full or Part-time ET: Full or Part-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+** bad word: customer service
+** bad word: equity
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: circleup ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+CircleUp - Data Engineer
+>>>> https://jobs.lever.co/circleup/865a1064-39fe-41a2-aef9-2015d597dcc5
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+CircleUp - Data Engineer - Lever
+>>>> https://jobs.lever.co/circleup/865a1064-39fe-41a2-aef9-2015d597dcc5/apply
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+CircleUp
+>>>> https://jobs.lever.co/circleup
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+CircleUp
+>>>> https://jobs.lever.co/circleup?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+CircleUp - Lever
+>>>> https://jobs.lever.co/circleup?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: circonus ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+Circonus
+>>>> https://jobs.lever.co/circonus
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Circonus - Lever
+>>>> https://jobs.lever.co/circonus?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: civisanalytics ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: clarity ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+38 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+19 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+19 Listings + Empty Index
+@@@@ 19 Listings Saved @@@@
+Clarity Insights - Data Engineer - Senior Consultant - San Francisco ...
+>>>> https://jobs.lever.co/clarity/5c79ca27-fbfc-4524-9fdf-be5ca0e7085f
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Clarity Insights - Data Engineer - Senior Consultant (Vertica Platform ...
+>>>> https://jobs.lever.co/clarity/c89d05c3-e694-4f62-96c9-189534dedc60
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Clarity Insights - Data Engineer - Senior Consultant (Software ...
+>>>> https://jobs.lever.co/clarity/e40c5f3a-f88d-453f-ac02-a9ce109cd454
+TC: Full-time ET: Full-time
+Austin, TX
+country: United States coords 30.267153 -97.7430608
+** bad word: weekly
+*********************************************
+Clarity Insights - Data Engineer - Senior Consultant (Vertica Data ...
+>>>> https://jobs.lever.co/clarity/9f9359e7-bf65-4a26-ab29-883c47cf6f03
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Clarity Insights - Data Engineer - Principal (Big Data Architect ...
+>>>> https://jobs.lever.co/clarity/db071982-5d21-41f9-9609-ef2b9b2f4cf9
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+** bad word: weekly
+*********************************************
+Clarity Insights - Azure Cloud Engineer - Consultant
+>>>> https://jobs.lever.co/clarity/c4b065fb-2ff8-49b8-9398-b653524f3924
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+*********************************************
+<Response [200]>
+Clarity Insights - Data Engineer - Consultant
+>>>> https://jobs.lever.co/clarity/16374841-39f7-4f2a-bb18-e9bd8f6c1aba
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+** bad word: weekly
+*********************************************
+Clarity Insights - Data Engineer - Senior Consultant (Software ...
+>>>> https://jobs.lever.co/clarity/674355f4-1ece-4d53-88e0-24ccff34011f/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: weekly
+** bad word: ____________________________________________________________
+*********************************************
+Clarity Insights - Process Engineer (Prior Military Experience)
+>>>> https://jobs.lever.co/clarity/5dd63578-f96e-4a5b-b383-52929ff64273
+TC: Contractor ET: Contractor
+San Antonio, TX
+country: United States coords 29.4241219 -98.49362819999999
+*********************************************
+<Response [200]>
+Clarity Insights - Cloud Architect - Principal
+>>>> https://jobs.lever.co/clarity/79d74315-4329-4b7e-9c8f-3c128c18a7d9
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+*********************************************
+<Response [200]>
+Clarity Insights
+>>>> https://jobs.lever.co/clarity
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.09024 -95.712891
+** bad word: Filter by:
+*********************************************
+Clarity Insights - Big Data Solution Architect - Healthcare - Senior ...
+>>>> https://jobs.lever.co/clarity/9a6446b3-c63b-4ea8-bc8b-5eda74c5b781
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+** bad word: weekly
+*********************************************
+Clarity Insights - Data Scientist - Healthcare - Senior Principal
+>>>> https://jobs.lever.co/clarity/f08811a4-f698-4af5-9c52-6628cd7cc223
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+** bad word: weekly
+*********************************************
+Clarity Insights - Senior Associate Consultant - Chicago, IL
+>>>> https://jobs.lever.co/clarity/6c2eb25d-08bf-40fc-9297-9ceb7d24a6da
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+Clarity Insights - Data Scientist - Principal
+>>>> https://jobs.lever.co/clarity/21ea2f83-c58d-4e07-bdf5-281e7223fca1
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+** bad word: weekly
+*********************************************
+Clarity Insights - Engagement Manager - High Tech - Senior Principal
+>>>> https://jobs.lever.co/clarity/2cc59238-19a8-4768-88c1-4444977cf68d
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Clarity Insights - Engagement Manager - Financial Services ...
+>>>> https://jobs.lever.co/clarity/94fe529c-47ff-40fd-ae02-cd6a802b2afa
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+** bad word: weekly
+*********************************************
+Clarity Insights - Solution Architect, AWS or Azure – Big Data and ...
+>>>> https://jobs.lever.co/clarity/7cd36dbb-7db9-4f36-9b79-041ec6db487d
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+** bad word: tutor
+*********************************************
+Clarity Insights - Solution Architect - Senior Principal - CME
+>>>> https://jobs.lever.co/clarity/9560df58-fc5c-47d8-9661-9a2f72e05bab
+TC: Full-time ET: Full-time
+United States
+country: United States coords 37.09024 -95.712891
+** bad word: tutor
+*********************************************
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: classdojo ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+ClassDojo
+>>>> https://jobs.lever.co/classdojo
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+ClassDojo - Lever
+>>>> https://jobs.lever.co/classdojo?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+ClassDojo - Lever
+>>>> https://jobs.lever.co/classdojo?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: clearcapital ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+21 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+12 Listings + Empty Index
+@@@@ 12 Listings Saved @@@@
+Clear Capital - Sr. Network Engineer (Cisco)
+>>>> https://jobs.lever.co/clearcapital/b34e0c4e-1539-46d6-96c5-628c3894b37a
+TC: Full Time ET: Full Time
+Reno, NV
+country: United States coords 39.5296329 -119.8138027
+** bad word: partner
+*********************************************
+Clear Capital - Technical Support Engineer II (Systems Admin)
+>>>> https://jobs.lever.co/clearcapital/ab5648d7-f244-4560-b2bf-e74fbdf9e2d0
+TC: Full Time ET: Full Time
+Reno, NV
+country: United States coords 39.5296329 -119.8138027
+** bad word: customer service
+*********************************************
+Clear Capital - Back End Engineer - Java (Relocation to Roseville ...
+>>>> https://jobs.lever.co/clearcapital/b30deda2-f017-4890-bfbe-8b0330af080c/apply
+TC: Full Time ET: Full Time
+San Francisco County, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Clear Capital - Technical Support Engineer II (Systems Admin)
+>>>> https://jobs.lever.co/clearcapital/ab5648d7-f244-4560-b2bf-e74fbdf9e2d0/apply
+TC: Full Time ET: Full Time
+Reno, NV
+country: United States coords 39.5296329 -119.8138027
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Clear Capital
+>>>> https://jobs.lever.co/clearcapital?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.5296329 -119.8138027
+** bad word: Filter by:
+*********************************************
+Clear Capital
+>>>> https://jobs.lever.co/clearcapital
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.5296329 -119.8138027
+** bad word: Filter by:
+*********************************************
+Clear Capital
+>>>> https://jobs.lever.co/clearcapital?commitment=Full%20Time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.5296329 -119.8138027
+** bad word: Filter by:
+*********************************************
+Clear Capital - Product Manager
+>>>> https://jobs.lever.co/clearcapital/ba151fe1-ee62-4f2c-815a-60a3ae1e11eb
+TC: Full Time ET: Full Time
+Roseville, CA
+country: United States coords 38.7521235 -121.2880059
+** bad word: marketing
+*********************************************
+Clear Capital
+>>>> https://jobs.lever.co/clearcapital?team=General
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.7521235 -121.2880059
+** bad word: Filter by:
+*********************************************
+Clear Capital
+>>>> https://jobs.lever.co/clearcapital?location=Deschutes%20County%2C%20Oregon
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.7521235 -121.2880059
+** bad word: Filter by:
+*********************************************
+Clear Capital
+>>>> https://jobs.lever.co/clearcapital?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.7521235 -121.2880059
+** bad word: Filter by:
+*********************************************
+Clear Capital
+>>>> https://jobs.lever.co/clearcapital?location=Pennslyvania&team=Operations%20-%20BPO&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.7521235 -121.2880059
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: clearpoolgroup ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: clerky ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+1 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+1 Listings + Empty Index
+@@@@ 1 Listings Saved @@@@
+Clerky - Junior Software Engineer
+>>>> https://jobs.lever.co/clerky/59623abf-f7d6-425a-bacb-53ddeaf5035e
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: cloudmineinc ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+24 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+12 Listings + Empty Index
+@@@@ 12 Listings Saved @@@@
+CloudMine - Platform Engineer II (Philadelphia)
+>>>> https://jobs.lever.co/cloudmineinc/b1224e09-f827-499f-aeb2-009b4c5c5ded?jvs=kununu,jsr,u,u
+TC: Full-time ET: Full-time
+Philadelphia, PA
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+CloudMine - Senior Solutions Engineer
+>>>> https://jobs.lever.co/cloudmineinc/be63471a-b8e8-46a6-892c-eb257436dd90
+TC: Full-time ET: Full-time
+Philadelphia, PA
+country: United States coords 39.9525839 -75.1652215
+** bad word: amazing opportunity
+** bad word: marketing
+** bad word: tutor
+*********************************************
+CloudMine - Full Stack Engineer
+>>>> https://jobs.lever.co/cloudmineinc/66037b1b-86fe-483f-b921-7644f1cb8a42
+TC: Full-time ET: Full-time
+Philadelphia, PA
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+CloudMine - Platform Engineer II
+>>>> https://jobs.lever.co/cloudmineinc/e0f3b094-959b-4759-9a10-5110abb30dd2/apply
+TC: Full-time ET: Full-time
+Chicago, Illinois
+country: United States coords 41.8781136 -87.6297982
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+CloudMine
+>>>> https://jobs.lever.co/cloudmineinc?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+** bad word: Filter by:
+*********************************************
+CloudMine
+>>>> https://jobs.lever.co/cloudmineinc?team=Product%20Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+** bad word: Filter by:
+*********************************************
+CloudMine
+>>>> https://jobs.lever.co/cloudmineinc
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+** bad word: Filter by:
+*********************************************
+CloudMine
+>>>> https://jobs.lever.co/cloudmineinc?location=Chicago%2C%20Illinois
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+** bad word: Filter by:
+*********************************************
+CloudMine - Product Owner (Philadelphia)
+>>>> https://jobs.lever.co/cloudmineinc/08d72d9c-9605-4e75-99e3-e7a102be2510
+TC: Full-time ET: Full-time
+Philadelphia, PA
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+CloudMine - Product Owner (Philadelphia)
+>>>> https://jobs.lever.co/cloudmineinc/08d72d9c-9605-4e75-99e3-e7a102be2510/apply
+TC: Full-time ET: Full-time
+Philadelphia, PA
+country: United States coords 39.9525839 -75.1652215
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: cnfa.org ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+Cultivating New Frontiers in Agriculture (CNFA) - Tractor ... - Lever
+>>>> https://jobs.lever.co/cnfa.org/1e285501-2786-4fc1-8ce4-68bb0b973494
+TC: Volunteer ET: Volunteer
+Angola
+country: Angola coords -11.202692 17.873887
+** bad word: local
+** bad word: volunteer
+*********************************************
+HTTP Error 404: Not Found
+Cultivating New Frontiers in Agriculture (CNFA) - International E ...
+>>>> https://jobs.lever.co/cnfa.org/7409a464-723b-4f95-9fd6-9c0712dac8de
+TC: Consultant ET: Consultant
+Pakistan
+country: Pakistan coords 30.375321 69.34511599999999
+** bad word: marketing
+** bad word: survey
+** bad word: local
+** bad word: partner
+** bad word: equity
+*********************************************
+Cultivating New Frontiers in Agriculture (CNFA) - STTA: LADA ...
+>>>> https://jobs.lever.co/cnfa.org/221c16e7-86eb-4d33-8449-0782795cd365
+TC: Consultant ET: Consultant
+Monrovia, Liberia
+country: Liberia coords 6.2907432 -10.7605239
+** bad word: local
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: cocollective ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+co: collective - Engineering Lead (Full-Stack)
+>>>> https://jobs.lever.co/cocollective/b661e4ea-c996-4bc6-9a20-2f192e8d26db
+TC: Full-time ET: Full-time
+New York
+country: United States coords 40.7127753 -74.0059728
+** bad word: partner
+*********************************************
+co: collective - Engineering Lead (Full-Stack)
+>>>> https://jobs.lever.co/cocollective/b661e4ea-c996-4bc6-9a20-2f192e8d26db/apply
+TC: Full-time ET: Full-time
+New York
+country: United States coords 40.7127753 -74.0059728
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+co: collective
+>>>> https://jobs.lever.co/cocollective
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+co: collective
+>>>> https://jobs.lever.co/cocollective?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+co: collective - Lever
+>>>> https://jobs.lever.co/cocollective?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+co: collective
+>>>> https://jobs.lever.co/cocollective?by=location&team=Doable
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+co: collective
+>>>> https://jobs.lever.co/cocollective?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+co: collective
+>>>> https://jobs.lever.co/cocollective?by=location&location=New%20York
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+co: collective - Lever
+>>>> https://jobs.lever.co/cocollective?team=Doable
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

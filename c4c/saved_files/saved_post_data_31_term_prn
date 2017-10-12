@@ -1,0 +1,790 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: invitae ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+17 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+13 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+13 Listings + Empty Index
+@@@@ 13 Listings Saved @@@@
+Invitae - Network Engineer
+>>>> https://jobs.lever.co/invitae/77aa2353-c4a5-428a-a218-d10aae2b2aaa
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - Site Reliability Engineer, Lead
+>>>> https://jobs.lever.co/invitae/b4970cb7-6bcc-4d7b-be6d-4581b147f3aa
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - DevOps Engineer
+>>>> https://jobs.lever.co/invitae/50a3c933-d550-4bf2-b9da-5f674d0e4a59
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - Senior Software Engineer
+>>>> https://jobs.lever.co/invitae/41595ae1-1c95-480b-ab40-7cdb51db7f73
+TC: Full-time ET: Full-time
+Dallas
+country: United States coords 32.7766642 -96.79698789999999
+*********************************************
+<Response [200]>
+Invitae - Senior Software Engineer
+>>>> https://jobs.lever.co/invitae/41595ae1-1c95-480b-ab40-7cdb51db7f73/apply
+TC: Full-time ET: Full-time
+Dallas
+country: United States coords 32.7766642 -96.79698789999999
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Invitae - Sr. Full Stack Software Engineer - San Francisco
+>>>> https://jobs.lever.co/invitae/312b9c8c-651a-4bf3-90de-22601e2f332e
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - Bioinformatics Analysis Engineer
+>>>> https://jobs.lever.co/invitae/e1b15fdb-0651-4f8c-9262-643c6aeeb39b
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - Bioinformatics Pipeline Development and Support Engineer
+>>>> https://jobs.lever.co/invitae/787e3ff7-0737-4bcc-ac45-5df7ee5b313a
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae
+>>>> https://jobs.lever.co/invitae?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+Invitae - Software Quality Assurance Lead - Genetics
+>>>> https://jobs.lever.co/invitae/30fc9d42-df0f-4127-907b-b914d92bd6b5
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - Client Services Specialist
+>>>> https://jobs.lever.co/invitae/370831c1-6c45-41c8-bbc1-53604d7e7dfa
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - Lab Automation Technician
+>>>> https://jobs.lever.co/invitae/53c31499-283c-44c5-b6a6-ba4b100f83a3
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+Invitae - Software Quality Assurance Lead
+>>>> https://jobs.lever.co/invitae/2ec9e9c2-1f03-44ec-91a0-3a1613681a75
+TC: Full-time ET: Full-time
+San Francisco Bay Area
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+XXXX 11 Clean Listings Posted XXXX
+**** ROOT: ion ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+HTTP Error 404: Not Found
+ION - Junior Software Developer, Agency Trading and Processing ...
+>>>> https://jobs.lever.co/ion/4e68297f-0980-47bb-974d-b1721e12de52?lever-origin=agency&lever-source%5B%5D=ChicagoFinancialSearch
+TC: Full-time ET: Full-time
+Chicago
+country: United States coords 41.8781136 -87.6297982
+** bad word: commission
+*********************************************
+ION - Leadership Development Program, Group, Dublin
+>>>> https://jobs.lever.co/ion/7f77a7d5-5d47-4fa8-a7e4-b506015d0630
+TC: Full-time ET: Full-time
+Dublin
+country: Ireland coords 53.3498053 -6.2603097
+*********************************************
+<Response [200]>
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: ironox ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Iron Ox - Lead Mechanical Engineer
+>>>> https://jobs.lever.co/ironox/1d0b917b-dea8-494d-b7d4-2ee222d0f172
+TC: Full-time ET: Full-time
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+Iron Ox - Senior Software Engineer
+>>>> https://jobs.lever.co/ironox/41a969d8-637b-44bc-bf55-aa58c983e77b/apply
+TC: Full-time ET: Full-time
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+** bad word: ____________________________________________________________
+*********************************************
+Iron Ox
+>>>> https://jobs.lever.co/ironox
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5071591 -122.2605222
+** bad word: Filter by:
+*********************************************
+Iron Ox
+>>>> https://jobs.lever.co/ironox?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5071591 -122.2605222
+** bad word: Filter by:
+*********************************************
+Iron Ox - Senior Roboticist
+>>>> https://jobs.lever.co/ironox/9fe91468-9660-4a8c-8e0e-d7baa5210449
+TC: Full-time ET: Full-time
+San Carlos, CA
+country: United States coords 37.5071591 -122.2605222
+*********************************************
+<Response [200]>
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: isapp ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+InSite Applications - Senior Backend Engineer
+>>>> https://jobs.lever.co/isapp/2522e675-4400-431d-881b-049ce1081539
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+InSite Applications - Senior Android Engineer
+>>>> https://jobs.lever.co/isapp/8fefe16a-30ec-4d59-b8f5-87f0e3a1eed4/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+InSite Applications
+>>>> https://jobs.lever.co/isapp
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+InSite Applications - Product Designer
+>>>> https://jobs.lever.co/isapp/2d4cb7d1-bb06-47c7-8067-0ba44611b496
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: issuu ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+issuu - Full-stack Software Developer - CPH
+>>>> https://jobs.lever.co/issuu/04caa981-05c7-45ff-8120-4beb11eeefb8
+TC: Full-time ET: Full-time
+Copenhagen, Denmark
+country: Denmark coords 55.6760968 12.5683372
+*********************************************
+<Response [200]>
+issuu - Developer for Back-end Systems
+>>>> https://jobs.lever.co/issuu/66011faf-8046-4470-b425-9bde4da01613
+TC: Full-time ET: Full-time
+Copenhagen, Denmark
+country: Denmark coords 55.6760968 12.5683372
+*********************************************
+<Response [200]>
+issuu - Lever
+>>>> https://jobs.lever.co/issuu/?location=Copenhagen%2C%20Denmark
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Denmark coords 55.6760968 12.5683372
+** bad word: Filter by:
+*********************************************
+issuu - Lever
+>>>> https://jobs.lever.co/issuu/?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Denmark coords 55.6760968 12.5683372
+** bad word: Filter by:
+*********************************************
+issuu
+>>>> https://jobs.lever.co/issuu/?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Denmark coords 55.6760968 12.5683372
+** bad word: Filter by:
+*********************************************
+issuu
+>>>> https://jobs.lever.co/issuu/?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Denmark coords 55.6760968 12.5683372
+** bad word: Filter by:
+*********************************************
+issuu - Lever
+>>>> https://jobs.lever.co/issuu/?by=commitment&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Denmark coords 55.6760968 12.5683372
+** bad word: Filter by:
+*********************************************
+issuu - Full-stack Software Developer - CPH
+>>>> https://jobs.lever.co/issuu/04caa981-05c7-45ff-8120-4beb11eeefb8/apply
+TC: Full-time ET: Full-time
+Copenhagen, Denmark
+country: Denmark coords 55.6760968 12.5683372
+** bad word: ____________________________________________________________
+*********************************************
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: jamcity ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+30 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+30 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+26 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+26 Listings + Empty Index
+@@@@ 26 Listings Saved @@@@
+HTTP Error 404: Not Found
+Jam City - C++ Engineer
+>>>> https://jobs.lever.co/jamcity/708517c2-8925-4059-9dc6-00c789a0f0bf
+TC: Full Time ET: Full Time
+San Francisco, CA (TinyCo)
+country: United States coords 37.7907626 -122.4013365
+*********************************************
+<Response [200]>
+Jam City - Senior Gameplay Engineer
+>>>> https://jobs.lever.co/jamcity/dc03485a-85f3-49ae-94a8-84fa3d829c57
+TC: Full Time ET: Full Time
+Carlsbad, CA
+country: United States coords 33.1580933 -117.3505939
+** bad word: co-founder
+*********************************************
+Jam City - Principal Software Engineer
+>>>> https://jobs.lever.co/jamcity/74146519-f267-44eb-9990-189d76ac706b/apply
+TC: Full Time ET: Full Time
+Carlsbad, CA
+country: United States coords 33.1580933 -117.3505939
+** bad word: ____________________________________________________________
+*********************************************
+Jam City - HTML5 Engineer
+>>>> https://jobs.lever.co/jamcity/00f14dda-a30a-4ff0-b04a-1362ab66c457/apply
+TC: Full Time ET: Full Time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+** bad word: ____________________________________________________________
+*********************************************
+Jam City
+>>>> https://jobs.lever.co/jamcity
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0211224 -118.3964665
+** bad word: Filter by:
+*********************************************
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Jam City - Technical Artist
+>>>> https://jobs.lever.co/jamcity/2123a243-d624-42a2-9da5-29519b861c78
+TC: Full Time ET: Full Time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+** bad word: co-founder
+*********************************************
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Jam City - Flash Animator (TEMP)
+>>>> https://jobs.lever.co/jamcity/b733e81e-63bd-486d-9783-b374372fce09
+TC: Contract ET: Contract
+San Francisco, CA (TinyCo)
+country: United States coords 37.7907626 -122.4013365
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Jam City - Senior / Lead 3D Artist
+>>>> https://jobs.lever.co/jamcity/0f9fe69e-9b1d-4dd0-bdb8-a02418a4403a
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: co-founder
+*********************************************
+Jam City - Associate Product Manager
+>>>> https://jobs.lever.co/jamcity/c27e88c8-9807-47c8-95a6-18f84bcf85b7
+TC: Full Time ET: Full Time
+Carlsbad, CA
+country: United States coords 33.1580933 -117.3505939
+** bad word: co-founder
+*********************************************
+Jam City - Senior Product Manager
+>>>> https://jobs.lever.co/jamcity/f5fd3e3d-55e0-464f-8f05-51014b3ba0d7
+TC: Full Time ET: Full Time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+** bad word: co-founder
+*********************************************
+Jam City - CRM Analyst
+>>>> https://jobs.lever.co/jamcity/ee87f857-00ab-4a03-ae95-db1e0e0244b7
+TC: Full Time ET: Full Time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+** bad word: marketing
+** bad word: co-founder
+*********************************************
+HTTP Error 404: Not Found
+Jam City - Associate Producer
+>>>> https://jobs.lever.co/jamcity/e49fe474-30e4-4ef6-92e9-a8b5026aec84
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+** bad word: co-founder
+*********************************************
+Jam City - Lead UI Artist
+>>>> https://jobs.lever.co/jamcity/6ebe49da-d65f-4b8d-a1b8-fc5f6ac7afc0
+TC: Full Time ET: Full Time
+Carlsbad, CA
+country: United States coords 33.1580933 -117.3505939
+** bad word: co-founder
+*********************************************
+Jam City - Marketing Coordinator
+>>>> https://jobs.lever.co/jamcity/c21ed679-cc43-46ed-8202-96df9cbc14b6
+TC: Full Time ET: Full Time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+** bad word: marketing
+** bad word: co-founder
+*********************************************
+Jam City - UI/UX Designer
+>>>> https://jobs.lever.co/jamcity/e14f7b58-b3b4-4089-a01c-fa1fcbef0c4c
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: co-founder
+*********************************************
+Jam City - Game Designer
+>>>> https://jobs.lever.co/jamcity/283e2b57-6db9-4065-8370-8b86ef7b6fbd
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: co-founder
+*********************************************
+Jam City - CRM Operations Manager
+>>>> https://jobs.lever.co/jamcity/594358b8-ddb8-4a67-a3e3-6f7ba945ab1a
+TC: Full Time ET: Full Time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+** bad word: marketing
+** bad word: local
+** bad word: co-founder
+*********************************************
+Jam City - Senior 3D Animator
+>>>> https://jobs.lever.co/jamcity/5ab034b0-f854-41e7-bd22-b9ef2d4b16a5
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: co-founder
+*********************************************
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: jawbone ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: jetty ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Jetty - Senior Front-End Engineer
+>>>> https://jobs.lever.co/jetty/fb99db32-0cfb-4226-8534-e836a22741ff/apply
+TC: Full-time ET: Full-time
+New York
+## slept ##
+country: United States coords 40.7127753 -74.0059728
+** bad word: ____________________________________________________________
+*********************************************
+Jetty - Lever
+>>>> https://jobs.lever.co/jetty/?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Jetty - Lever
+>>>> https://jobs.lever.co/jetty/?by=commitment&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Jetty - Lever
+>>>> https://jobs.lever.co/jetty/?by=location&team=Technology
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Jetty - Lever
+>>>> https://jobs.lever.co/jetty/?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Jetty - Lever
+>>>> https://jobs.lever.co/jetty/?by=team&team=Technology
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Jetty - Lever
+>>>> https://jobs.lever.co/jetty/?location=New%20York
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: jobambition ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+22 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+22 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+21 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+21 Listings + Empty Index
+@@@@ 21 Listings Saved @@@@
+Job Ambition GmbH - JavaScript Software Engineer (f/m)
+>>>> https://jobs.lever.co/jobambition/343b4dd8-9206-48a4-8083-2d265f7cd996
+TC: Full-time ET: Full-time
+München
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Job Ambition GmbH - Senior IT System Engineer (m/w) Microsoft
+>>>> https://jobs.lever.co/jobambition/a96e8c54-3179-4480-a49b-7e8e104305fe
+TC: Full-time ET: Full-time
+Hamburg or Berlin
+country: Germany coords 53.55431 9.92726
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Resident Engineer (f/m) – at the Ingolstadt Site ...
+>>>> https://jobs.lever.co/jobambition/a3dce665-b117-46d9-b74a-ac7accdd35cb
+TC: Full-time ET: Full-time
+Ingolstadt
+country: Germany coords 48.7665351 11.4257541
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Network Engineer (m/w)
+>>>> https://jobs.lever.co/jobambition/2b209809-8723-4111-a74a-d6881ca16261
+TC: Full-time ET: Full-time
+Gütersloh
+country: Germany coords 51.9032375 8.385753500000002
+*********************************************
+<Response [200]>
+Job Ambition GmbH - System Engineer (m/w) Hosting & Cloud
+>>>> https://jobs.lever.co/jobambition/a304d983-7bd0-4b6f-99dc-ea594e203462
+TC: Full-time ET: Full-time
+Offenbach a. M.
+country: Germany coords 50.09563620000001 8.776084299999999
+*********************************************
+<Response [200]>
+Job Ambition GmbH - IT Automation & Agile Engineer (m/w)
+>>>> https://jobs.lever.co/jobambition/cd948257-5146-4f6c-b189-d150a1c78474
+TC: Full-time ET: Full-time
+Essen
+country: Germany coords 51.4556432 7.0115552
+*********************************************
+<Response [200]>
+Job Ambition GmbH - JavaScript Software Engineer (m/w)
+>>>> https://jobs.lever.co/jobambition/d56db6bd-2d53-4b85-b5db-6f8adeb2e6e7
+TC: Full-time ET: Full-time
+München
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Software Engineer (m/w) für modellbasierte ...
+>>>> https://jobs.lever.co/jobambition/ce96904b-d071-47dc-ae08-b1496c693fca
+TC: Full-time ET: Full-time
+Deutschland/International
+country: Germany coords 52.51069 13.43271
+** bad word: partner
+*********************************************
+Job Ambition GmbH - IT System Engineer (w/m) mit dem ...
+>>>> https://jobs.lever.co/jobambition/d7434c44-7196-482b-aada-28dde0b7fc72
+TC: Full-time ET: Full-time
+Hamburg, Berlin or Graz
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Hamburg%2C+Berlin+or+Graz&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 52.51069 13.43271
+*********************************************
+<Response [200]>
+Job Ambition GmbH - DevOps Engineer (m/w)
+>>>> https://jobs.lever.co/jobambition/f4273395-8a9b-4a44-b750-11e087c317bf
+TC: Full-time ET: Full-time
+Gütersloh
+country: Germany coords 51.9032375 8.385753500000002
+*********************************************
+<Response [200]>
+Job Ambition GmbH - DevOps Engineer (m/w)
+>>>> https://jobs.lever.co/jobambition/f4273395-8a9b-4a44-b750-11e087c317bf/apply
+TC: Full-time ET: Full-time
+Gütersloh
+country: Germany coords 51.9032375 8.385753500000002
+** bad word: ____________________________________________________________
+*********************************************
+Job Ambition GmbH
+>>>> https://jobs.lever.co/jobambition
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 51.9032375 8.385753500000002
+** bad word: Filter by:
+*********************************************
+Job Ambition GmbH - Technical Lead (m/f) Software Development ...
+>>>> https://jobs.lever.co/jobambition/b05b4806-af1b-484c-add2-c7ee0b295e37
+TC: Full-time ET: Full-time
+Fulda or Dortmund
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Fulda+or+Dortmund&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 51.9032375 8.385753500000002
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Automotive Hardware Architekt (m/w ...
+>>>> https://jobs.lever.co/jobambition/45f3af7d-c618-4b81-b9c1-9fc1e635b2c2
+TC: Full-time ET: Full-time
+Fulda oder Dortmund
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Fulda+oder+Dortmund&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 51.9032375 8.385753500000002
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Senior Projektleiter Elektrik/Elektronik (m/w)
+>>>> https://jobs.lever.co/jobambition/292f1ca7-0399-4e80-a272-bf25754aaa23
+TC: Full-time ET: Full-time
+Fulda oder Dortmund
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Fulda+oder+Dortmund&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 51.9032375 8.385753500000002
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Embedded Softwareentwickler (m/w ...
+>>>> https://jobs.lever.co/jobambition/8a9596c5-8945-436c-9f83-9075ddfe66bc
+TC: Full-time ET: Full-time
+Stuttgart oder wahlweise Ulm
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Stuttgart+oder+wahlweise+Ulm&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 51.9032375 8.385753500000002
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Technical Lead (m/w) Softwareentwicklung ...
+>>>> https://jobs.lever.co/jobambition/43ff1a1f-591b-47cf-8c06-f95b3bcec2a3
+TC: Full-time ET: Full-time
+Fulda oder Dortmund
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Fulda+oder+Dortmund&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 51.9032375 8.385753500000002
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Expert (m/w) Development Services - Focus ...
+>>>> https://jobs.lever.co/jobambition/f342916e-87ac-4fb7-b7ff-b0cfd390889b
+TC: Full-time ET: Full-time
+Munich
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+<Response [200]>
+Job Ambition GmbH - Systemtester (m/w) Ladesysteme für Elektro ...
+>>>> https://jobs.lever.co/jobambition/05a75b34-00e1-4a17-a0cb-26be498c0ede/apply
+TC: Full-time ET: Full-time
+Ingolstadt
+country: Germany coords 48.7665351 11.4257541
+** bad word: ____________________________________________________________
+*********************************************
+XXXX 15 Clean Listings Posted XXXX
+**** ROOT: joingroups ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: joinhonor.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+13 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+13 Listings + Empty Index
+@@@@ 13 Listings Saved @@@@
+Honor - Growth Engineer
+>>>> https://jobs.lever.co/joinhonor.com/3f4d513a-2ec7-47cd-92b3-51aed1e24b50
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Honor - Frontend Engineer
+>>>> https://jobs.lever.co/joinhonor.com/83abc426-a874-4ed1-a5e0-08428ced9ed6
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Honor - Backend Engineer
+>>>> https://jobs.lever.co/joinhonor.com/bed7af35-f2b4-4d8c-b68e-5b97f0401e92/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Honor - Growth Engineer
+>>>> https://jobs.lever.co/joinhonor.com/a4bda721-e1db-4f4a-81cf-c791a3ad59ad/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+^Z
+[1]+  Stopped                 python3 1c4cQueryByRootGSEPost.py
+(venv) arias-Air:c4c nimda$

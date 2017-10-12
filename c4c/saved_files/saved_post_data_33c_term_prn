@@ -1,0 +1,969 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: lyft ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+51 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+61 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+71 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+81 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+91 CSE Start Index
+180 CSE Query Results
+100 Listings + Empty Index
+@@@@ 100 Listings Saved @@@@
+Lyft - Intern: Software Engineer 2018 (San Francisco and Seattle ...
+>>>> https://jobs.lever.co/lyft/0a792acb-8db8-47a9-a29a-6017e76a4ed2/apply
+TC: Intern ET: Intern
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Security Detection & Response
+>>>> https://jobs.lever.co/lyft/cee72f79-90ee-4c1b-9ce6-4da4818d30ad
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Unity
+>>>> https://jobs.lever.co/lyft/0be3d11e-eea9-46ef-a761-2c50934478fe
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/c40724f0-dd8b-46fc-b802-62429e193dc8
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+*********************************************
+Lyft - Business Intelligence Engineer
+>>>> https://jobs.lever.co/lyft/76a46467-011c-4a16-9d67-77b516dbaf0c
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+*********************************************
+Lyft - Datastore Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/35fc6772-e2bd-4104-bb8a-6e868524daf0
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Payments
+>>>> https://jobs.lever.co/lyft/40426121-3f36-43aa-ab37-64a7637f7df6
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Lyft - Data Engineer
+>>>> https://jobs.lever.co/lyft/e98ae531-ef40-4036-aa77-43c4d704eec1
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Financial Infrastructure
+>>>> https://jobs.lever.co/lyft/4ca5323b-58fa-4f68-9d0a-756e41b314b7
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Senior Front End Engineer
+>>>> https://jobs.lever.co/lyft/a18c1d37-4179-4b47-81f8-1ab1464ef940
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Mapping
+>>>> https://jobs.lever.co/lyft/30e71704-50ac-4122-8738-067c73f38c6e
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Lyft - Android Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/5fb6560c-0fb1-4614-b001-285197ca9c39/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior Front End Engineer
+>>>> https://jobs.lever.co/lyft/a18c1d37-4179-4b47-81f8-1ab1464ef940/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/da433c09-4e57-43fb-87f8-6cc2bf1576b3
+TC: Full-time ET: Full-time
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+** bad word: customer service
+** bad word: local
+*********************************************
+Lyft - Partner Engineer
+>>>> https://jobs.lever.co/lyft/49ac23ec-2e0a-4262-aed3-e0b9bc21197e
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: amazing opportunity
+** bad word: partner
+*********************************************
+Lyft - Software Engineer, Application Security
+>>>> https://jobs.lever.co/lyft/d76436f1-3894-4b71-8cda-1a94f62b3982
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer: Global Engineering
+>>>> https://jobs.lever.co/lyft/35fd862f-c94a-4f56-9450-e1adfb4a0dcc
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: customer service
+** bad word: local
+*********************************************
+Lyft - Software Engineer
+>>>> https://jobs.lever.co/lyft/ba0491dc-18ac-4c43-a04d-d449474a6cb4/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Intern: Software Engineer 2018 - Winter (Jan-March)
+>>>> https://jobs.lever.co/lyft/6780d91d-944a-435e-b7ec-3fa3e3903493
+TC: Intern ET: Intern
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Machine Learning (All Levels)
+>>>> https://jobs.lever.co/lyft/e2c7f166-9a8e-412b-bc35-0cc49d348b05
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Lyft for Business
+>>>> https://jobs.lever.co/lyft/6c02431a-b2a1-48ec-ac0f-ff858fca1b93
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Motion Planning Software Engineer
+>>>> https://jobs.lever.co/lyft/0d9b84e6-a0da-4688-b8d6-e0dccd70b764
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Perception
+>>>> https://jobs.lever.co/lyft/51ecafd7-3cf5-44aa-aab4-745a63e17f10
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Lyft - Senior Android Engineer
+>>>> https://jobs.lever.co/lyft/b0e8da08-2212-49d6-b78a-f0586c97b85f
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Lyft - Intern: Software Engineer 2018 - Winter (Jan-March)
+>>>> https://jobs.lever.co/lyft/6780d91d-944a-435e-b7ec-3fa3e3903493/apply
+TC: Intern ET: Intern
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Android Engineer
+>>>> https://jobs.lever.co/lyft/3ad3a919-b128-4ece-ae7f-69e7dd4cc5c0
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Lyft - Software Engineer: Global Engineering
+>>>> https://jobs.lever.co/lyft/35fd862f-c94a-4f56-9450-e1adfb4a0dcc/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Data Tools and Visualization
+>>>> https://jobs.lever.co/lyft/d398f460-75b0-409f-96ae-b979e36a29fc
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Data Engineer
+>>>> https://jobs.lever.co/lyft/e98ae531-ef40-4036-aa77-43c4d704eec1/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Data Infrastructure (Seattle)
+>>>> https://jobs.lever.co/lyft/2e8c9846-60a6-4391-a1d8-8345b3bcf4ff
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/c40724f0-dd8b-46fc-b802-62429e193dc8/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Android Engineer
+>>>> https://jobs.lever.co/lyft/3ad3a919-b128-4ece-ae7f-69e7dd4cc5c0/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/da433c09-4e57-43fb-87f8-6cc2bf1576b3/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Payments
+>>>> https://jobs.lever.co/lyft/40426121-3f36-43aa-ab37-64a7637f7df6/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Routing
+>>>> https://jobs.lever.co/lyft/1d64b227-541b-4639-b778-8e77ee57e018/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer: Data Privacy
+>>>> https://jobs.lever.co/lyft/fbedb31d-c8e8-4511-86b6-eafd66dc69ba
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Senior iOS Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/631a7e82-65e3-44c3-8568-f3ad20c164cf
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Lyft - Senior iOS Engineer
+>>>> https://jobs.lever.co/lyft/e80cabbc-2076-4c93-a843-fe7e88af340e
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Payments (Seattle)
+>>>> https://jobs.lever.co/lyft/7db23cfb-29de-404d-97b0-557ea67ee167/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Application Security
+>>>> https://jobs.lever.co/lyft/d76436f1-3894-4b71-8cda-1a94f62b3982/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Data Infrastructure
+>>>> https://jobs.lever.co/lyft/cbcf8e49-d8d2-407e-b853-40fee1ebfcb1/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer (NYC)
+>>>> https://jobs.lever.co/lyft/f93f5809-5c3e-4049-861a-3cbf2432f49d/apply
+TC: Full-time ET: Full-time
+New York, NY
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York%2C+NY&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Front End Engineer
+>>>> https://jobs.lever.co/lyft/193b0760-3c87-4bb8-95e1-05a07814f56c/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Mapping
+>>>> https://jobs.lever.co/lyft/30e71704-50ac-4122-8738-067c73f38c6e/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Datastore Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/35fc6772-e2bd-4104-bb8a-6e868524daf0/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Infrastructure Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/c06c84c9-86be-4cf3-abcf-cec986620304/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior Android Engineer
+>>>> https://jobs.lever.co/lyft/b0e8da08-2212-49d6-b78a-f0586c97b85f/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer: Data Privacy
+>>>> https://jobs.lever.co/lyft/fbedb31d-c8e8-4511-86b6-eafd66dc69ba/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior iOS Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/631a7e82-65e3-44c3-8568-f3ad20c164cf/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Financial Infrastructure
+>>>> https://jobs.lever.co/lyft/4ca5323b-58fa-4f68-9d0a-756e41b314b7/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Business Intelligence Engineer
+>>>> https://jobs.lever.co/lyft/76a46467-011c-4a16-9d67-77b516dbaf0c/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior Android Engineer (NYC)
+>>>> https://jobs.lever.co/lyft/f17f9a70-f041-4866-8210-4618e03b8408/apply
+TC: Full-time ET: Full-time
+New York, NY
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York%2C+NY&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior Android Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/40eae621-0e49-420d-a322-6cd4b9aee167/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Data Infrastructure (Seattle)
+>>>> https://jobs.lever.co/lyft/2e8c9846-60a6-4391-a1d8-8345b3bcf4ff/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Security Detection & Response
+>>>> https://jobs.lever.co/lyft/cee72f79-90ee-4c1b-9ce6-4da4818d30ad/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Machine Learning (All Levels)
+>>>> https://jobs.lever.co/lyft/e2c7f166-9a8e-412b-bc35-0cc49d348b05/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Partner Engineer
+>>>> https://jobs.lever.co/lyft/49ac23ec-2e0a-4262-aed3-e0b9bc21197e/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Controls Engineer Lead
+>>>> https://jobs.lever.co/lyft/f5378b3e-49a0-4ed0-bc3a-750cbbfc8a55
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer - Robotics
+>>>> https://jobs.lever.co/lyft/b67de93a-d3e3-466c-bbf3-e7d1064cef1f/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior iOS Engineer (NYC)
+>>>> https://jobs.lever.co/lyft/e58434d4-ac25-4b61-8652-83db07f27227/apply
+TC: Full-time ET: Full-time
+New York, NY
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York%2C+NY&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Strategy
+>>>> https://jobs.lever.co/lyft/359dfbce-ce9f-4658-8b0d-2606c821412d/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Perception (All levels)
+>>>> https://jobs.lever.co/lyft/51ecafd7-3cf5-44aa-aab4-745a63e17f10/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Unity
+>>>> https://jobs.lever.co/lyft/0be3d11e-eea9-46ef-a761-2c50934478fe/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Data Tools and Visualization (Seattle)
+>>>> https://jobs.lever.co/lyft/7e3334a6-e5b1-41b8-942a-7051e0df4941/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Enterprise
+>>>> https://jobs.lever.co/lyft/6c02431a-b2a1-48ec-ac0f-ff858fca1b93/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Motion Planning Software Engineer (All levels)
+>>>> https://jobs.lever.co/lyft/0d9b84e6-a0da-4688-b8d6-e0dccd70b764/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Controls Engineer Lead
+>>>> https://jobs.lever.co/lyft/f5378b3e-49a0-4ed0-bc3a-750cbbfc8a55/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineering Manager (Seattle)
+>>>> https://jobs.lever.co/lyft/e7ba617a-b496-452f-ab10-daa05fcd7f9f
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineering Manager, Infrastructure
+>>>> https://jobs.lever.co/lyft/86c2170a-d5ed-4505-93c5-66db63cbb5df
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft
+>>>> https://jobs.lever.co/lyft?lever-via=4xKCN32ADz
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Lyft - Autonomy Software Engineering Manager
+>>>> https://jobs.lever.co/lyft/42cbd961-24cb-49c8-8c77-afe7a9a7e82a
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft
+>>>> https://jobs.lever.co/lyft?lever-via=ahTDzFn9j7
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Lyft - Software Engineering Manager (Seattle)
+>>>> https://jobs.lever.co/lyft/e7ba617a-b496-452f-ab10-daa05fcd7f9f/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Seattle%2C+WA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Lyft - Software Engineering Manager (NYC)
+>>>> https://jobs.lever.co/lyft/8f74102b-c1ef-4328-b3da-bbb14e4a9786/apply
+TC: Full-time ET: Full-time
+New York, NY
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=New+York%2C+NY&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Infrastructure and Tools Software Engineering Manager
+>>>> https://jobs.lever.co/lyft/26cc8262-19ad-4cb8-8a2c-9db16840508b
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineering Manager
+>>>> https://jobs.lever.co/lyft/7624f492-2c87-4fdf-bf10-9b1df53a5fed/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Autonomy Software Engineering Manager
+>>>> https://jobs.lever.co/lyft/42cbd961-24cb-49c8-8c77-afe7a9a7e82a/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Infrastructure and Tools Software Engineering Manager
+>>>> https://jobs.lever.co/lyft/26cc8262-19ad-4cb8-8a2c-9db16840508b/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineering Manager, Data Platform
+>>>> https://jobs.lever.co/lyft/0650ad25-d420-43ff-a262-33bef0a50f4b/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Technical Program Manager: Infrastructure
+>>>> https://jobs.lever.co/lyft/b4d38a68-59b3-4d9c-b0cc-349f3caaaca6
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+HTTP Error 404: Not Found
+Lyft - Software Engineering Manager, Infrastructure
+>>>> https://jobs.lever.co/lyft/86c2170a-d5ed-4505-93c5-66db63cbb5df/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Technical Program Manager, Growth
+>>>> https://jobs.lever.co/lyft/9ce2ed2a-ac74-4f66-a800-f1c10cbe1062
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Technical Program Manager: Data
+>>>> https://jobs.lever.co/lyft/f980204c-65fb-40cf-a10d-c24ff11043d0
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Technical Program Manager, Marketplace
+>>>> https://jobs.lever.co/lyft/037556b8-94b4-4d6a-b3b8-6de215740b15
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Technical Program Manager: Security & Privacy
+>>>> https://jobs.lever.co/lyft/456b93c6-d6a5-41a3-a18e-0e6dcbb3fd6e
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Technical Program Manager, Passenger Experience
+>>>> https://jobs.lever.co/lyft/3b89a867-d8ee-49fa-8e25-5c5d684aae32
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+** bad word: partner
+*********************************************
+Lyft - Technical Program Manager, Financial Analysis + Reporting
+>>>> https://jobs.lever.co/lyft/75230a65-8ff3-4d92-855f-6779b047572e
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Technical Program Manager, Reliability
+>>>> https://jobs.lever.co/lyft/aec12aa9-9c7d-4e5b-9bfd-a570401bb4ca
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+** bad word: weekly
+*********************************************
+Lyft - Director, Business Development - Automotive
+>>>> https://jobs.lever.co/lyft/3d42c387-fc6d-467e-bb22-84a18f94541d
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Technical Program Manager: Internal Productivity
+>>>> https://jobs.lever.co/lyft/19bf36f1-f75f-4e77-9509-464b87141074
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: partner
+*********************************************
+Lyft - Senior Payment Solutions Manager
+>>>> https://jobs.lever.co/lyft/3abcb474-ccc0-4d16-87bb-d221a8cc86b8
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Embedded Software Lead
+>>>> https://jobs.lever.co/lyft/c4f6f6a1-2246-432e-9183-5ed3d181a5b3
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+*********************************************
+Lyft - Strategic Sourcing / Commodity Manager, Autonomous Tech
+>>>> https://jobs.lever.co/lyft/89b1248c-01e4-480c-94a5-ce3c323f3426
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Program Development Manager, Driver Experience
+>>>> https://jobs.lever.co/lyft/cea05cbd-926b-47b6-bf17-ebfda027cabb
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+** bad word: partner
+*********************************************
+HTTP Error 404: Not Found
+Lyft - UX Research Lead
+>>>> https://jobs.lever.co/lyft/b423c9eb-ec83-4c82-93bb-3f37003e437f
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+*********************************************
+Lyft - Intern: Product Manager (2018)
+>>>> https://jobs.lever.co/lyft/3c4c8bd7-a723-4c12-abf5-3cf742e8232a
+TC: Intern ET: Intern
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Localization Software Lead
+>>>> https://jobs.lever.co/lyft/94f0a444-e2ba-4c6c-98ff-1e7ec10e3042
+TC: Full-time ET: Full-time
+Palo Alto, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+*********************************************
+XXXX 24 Clean Listings Posted XXXX
+**** ROOT: lyrahealth ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Lyra Health - Senior Software Engineer
+>>>> https://jobs.lever.co/lyrahealth/0445d661-43e5-4d30-a953-3f7e79ddea0d
+TC: Full-time ET: Full-time
+Burlingame, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Burlingame%2C+CA&sensor=false&bounds=&region=&language=&components=
+** bad word: local
+*********************************************
+Lyra Health - Front-End Engineer
+>>>> https://jobs.lever.co/lyrahealth/c56cc0bc-c35e-4bc8-88a6-2139635568bb
+TC: Full-time ET: Full-time
+Burlingame, CA
+## slept ##
+zzzzError OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Burlingame%2C+CA&sensor=false&bounds=&region=&language=&components=
+** bad word: local
+*********************************************
+Lyra Health - Senior Software Engineer
+>>>> https://jobs.lever.co/lyrahealth/0445d661-43e5-4d30-a953-3f7e79ddea0d/apply
+TC: Full-time ET: Full-time
+Burlingame, CA
+## slept ##
+^Z
+[7]+  Stopped                 python3 1c4cQueryByRootGSEPost.py
+(venv) arias-Air:c4c nimda$

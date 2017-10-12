@@ -1,0 +1,1810 @@
+(venv) arias-Air:c4c nimda$ python3 2c4cQueryNoBadWordsCheck.py
+**** ROOT: rumble-boxing ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: rw ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Rocket Wagon - Sr. Backend Engineer (Java/Kotlin)
+>>>> https://jobs.lever.co/rw/8ea0927b-6fdb-4ceb-be19-9cfe09223bd7
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+Rocket Wagon - IoT QA Engineer
+>>>> https://jobs.lever.co/rw/9b0996b5-1eb0-4fc8-9e9b-f2c5e0ba3fc8
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+Rocket Wagon - Sr. Java Engineer
+>>>> https://jobs.lever.co/rw/8ea0927b-6fdb-4ceb-be19-9cfe09223bd7/apply
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+Rocket Wagon
+>>>> https://jobs.lever.co/rw
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+Rocket Wagon - Data Scientist
+>>>> https://jobs.lever.co/rw/bb772860-5c9c-42d3-a3d0-0ef3889a6ec9
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+Rocket Wagon
+>>>> https://jobs.lever.co/rw?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+Rocket Wagon - Product Manager
+>>>> https://jobs.lever.co/rw/c602ae57-e7d0-47fe-84d0-55ee9db830a7
+TC: Full-time ET: Full-time
+Chicago, IL
+country: United States coords 41.8781136 -87.6297982
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: safetrekapp ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+SafeTrek - Mobile Engineer
+>>>> https://jobs.lever.co/safetrekapp/4bcebeae-2066-4294-bbf7-ebed31d35a2a
+TC: Full-time ET: Full-time
+St. Louis
+country: United States coords 38.6270025 -90.19940419999999
+*********************************************
+<Response [200]>
+SafeTrek - Full-Stack Software Engineer
+>>>> https://jobs.lever.co/safetrekapp/c040e39a-ac79-4c4b-906a-69136babb115/apply
+TC: Full-time ET: Full-time
+St. Louis
+country: United States coords 38.6270025 -90.19940419999999
+*********************************************
+<Response [200]>
+SafeTrek
+>>>> https://jobs.lever.co/safetrekapp
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.6270025 -90.19940419999999
+*********************************************
+<Response [200]>
+SafeTrek - Art Director / Senior Visual Designer
+>>>> https://jobs.lever.co/safetrekapp/7d97f659-fdc1-4123-957a-bc35d0d4dd17
+TC: Full-time ET: Full-time
+St. Louis
+country: United States coords 38.6270025 -90.19940419999999
+*********************************************
+<Response [200]>
+XXXX 4 Listings Posted XXXX
+**** ROOT: saildrone ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+11 Listings + Empty Index
+@@@@ 11 Listings Saved @@@@
+Saildrone - Senior Mechanical Engineer
+>>>> https://jobs.lever.co/saildrone/28d4ab9e-91ac-4725-8a15-5230b3b5ae49
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Infrastructure Engineer
+>>>> https://jobs.lever.co/saildrone/c784fd3c-2c55-4e46-b2db-c4ce02ec9f95
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Front-End Engineer
+>>>> https://jobs.lever.co/saildrone/6a5b5d25-1fb2-4218-9f55-2ac60b791379
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Platform Engineer
+>>>> https://jobs.lever.co/saildrone/9642ad1c-f161-487b-b8e6-c4f95806b6e5
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Platform Engineer - Lever
+>>>> https://jobs.lever.co/saildrone/9642ad1c-f161-487b-b8e6-c4f95806b6e5/apply
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Saildrone
+>>>> https://jobs.lever.co/saildrone
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Business Development Manager
+>>>> https://jobs.lever.co/saildrone/9e6e6cda-5c66-4671-b9cf-d26e9674fd32
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Technical Recruiter
+>>>> https://jobs.lever.co/saildrone/fcbb69c1-6a3b-4ce1-b7de-ffb8d1bc643e
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Marketing & Communications Manager
+>>>> https://jobs.lever.co/saildrone/e24257ef-06ad-4023-ae29-1e5611eebeb6
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+Saildrone - Ocean Sensor Technician
+>>>> https://jobs.lever.co/saildrone/d3cbd4be-1ad1-4c22-b2b3-eafbb4a0386c
+TC: Full-time ET: Full-time
+Alameda, CA
+country: United States coords 37.7652065 -122.2416355
+*********************************************
+<Response [200]>
+XXXX 10 Listings Posted XXXX
+**** ROOT: salesfusion.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+11 Listings + Empty Index
+@@@@ 11 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Salesfusion - Associate Product Manager
+>>>> https://jobs.lever.co/salesfusion.com/d63ca56d-cc90-4be1-9bab-9a1cc3aa18ea
+TC: Full-time ET: Full-time
+Atlanta, GA
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion - Business Analyst
+>>>> https://jobs.lever.co/salesfusion.com/edd6d6a2-61c9-4b67-8176-020dfb600260
+TC: Full-time ET: Full-time
+Atlanta, GA
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion
+>>>> https://jobs.lever.co/salesfusion.com?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion
+>>>> https://jobs.lever.co/salesfusion.com?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion
+>>>> https://jobs.lever.co/salesfusion.com
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion - Lever
+>>>> https://jobs.lever.co/salesfusion.com?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion - Lever
+>>>> https://jobs.lever.co/salesfusion.com?location=Atlanta%2C%20GA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion - Marketing Automation Consultant
+>>>> https://jobs.lever.co/salesfusion.com/ff262c63-e94e-4d86-8ef4-2bdb4b5c0685
+TC: Full-time ET: Full-time
+Atlanta, GA
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+Salesfusion - Lever
+>>>> https://jobs.lever.co/salesfusion.com?by=team&team=Sales
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 33.7489954 -84.3879824
+*********************************************
+<Response [200]>
+XXXX 9 Listings Posted XXXX
+**** ROOT: sapcorda ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Sapcorda Services GmbH - GNSS System Engineer
+>>>> https://jobs.lever.co/sapcorda/c7ccf6f9-1fc9-46f5-9901-f5c133096cd6
+TC: Full-time ET: Full-time
+Berlin / Hannover, Germany
+country: Germany coords 52.5021468 13.3211066
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH - Senior Systems Design Engineer
+>>>> https://jobs.lever.co/sapcorda/f3bb51a8-7920-4f3c-af4e-11cca82de987
+TC: Full-time ET: Full-time
+Scottsdale, United States
+country: United States coords 33.4941704 -111.9260519
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH - System Test Engineer (GNSS)
+>>>> https://jobs.lever.co/sapcorda/c85aa2d0-0f5d-4352-aaa9-c1b99c8f71fe
+TC: Full-time ET: Full-time
+Berlin / Hannover, Germany
+country: Germany coords 52.5021468 13.3211066
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH - System Software Engineer
+>>>> https://jobs.lever.co/sapcorda/5b813b38-bd08-4d96-83e5-73baf4415014/apply
+TC: Full-time ET: Full-time
+Scottsdale, United States
+country: United States coords 33.4941704 -111.9260519
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH - GNSS System Engineer
+>>>> https://jobs.lever.co/sapcorda/c7ccf6f9-1fc9-46f5-9901-f5c133096cd6/apply
+TC: Full-time ET: Full-time
+Berlin / Hannover, Germany
+country: Germany coords 52.5021468 13.3211066
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH - System Test Engineer (GNSS)
+>>>> https://jobs.lever.co/sapcorda/c85aa2d0-0f5d-4352-aaa9-c1b99c8f71fe/apply
+TC: Full-time ET: Full-time
+Berlin / Hannover, Germany
+country: Germany coords 52.5021468 13.3211066
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH
+>>>> https://jobs.lever.co/sapcorda
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 52.5021468 13.3211066
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH - IT Manager
+>>>> https://jobs.lever.co/sapcorda/21156da2-45c8-4b08-bf6a-994c8d9681f8
+TC: Full-time ET: Full-time
+Berlin, Germany
+country: Germany coords 52.52000659999999 13.404954
+*********************************************
+<Response [200]>
+Sapcorda Services GmbH - International Business Development (m/f)
+>>>> https://jobs.lever.co/sapcorda/f77a33ec-fb26-4c57-97f0-c7400b6577c1
+TC: Full-time ET: Full-time
+Berlin, Germany
+country: Germany coords 52.52000659999999 13.404954
+*********************************************
+<Response [200]>
+XXXX 9 Listings Posted XXXX
+**** ROOT: satoricapital ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: saucey ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: savioke.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+19 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+12 Listings + Empty Index
+@@@@ 12 Listings Saved @@@@
+Savioke - Firmware Engineer
+>>>> https://jobs.lever.co/savioke.com/bc272258-a601-4e92-9ffe-289f27200246
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Dev Ops Engineer
+>>>> https://jobs.lever.co/savioke.com/a8ebc2f6-ad45-49a7-82d4-ca176de7b30a
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Electrical Engineer
+>>>> https://jobs.lever.co/savioke.com/948810d9-2843-4df4-837e-df9915a97aad
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Elevator Integration Engineer
+>>>> https://jobs.lever.co/savioke.com/b441b02a-448a-4338-ab32-0218ac2652ad
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Installation Engineer
+>>>> https://jobs.lever.co/savioke.com/1d7039d0-63d4-4d62-98f8-a0d7a422721d
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Firmware Engineer
+>>>> https://jobs.lever.co/savioke.com/bc272258-a601-4e92-9ffe-289f27200246/apply
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Senior Software Engineer
+>>>> https://jobs.lever.co/savioke.com/af856012-7bf7-4d37-861c-468f9639d49d
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke
+>>>> https://jobs.lever.co/savioke.com
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Spring or Summer 2018 Internship
+>>>> https://jobs.lever.co/savioke.com/f99fb3b3-d9b0-4995-976e-5dcdc7452f2f
+TC: Internship ET: Internship
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke
+>>>> https://jobs.lever.co/savioke.com?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Manufacturing Technician
+>>>> https://jobs.lever.co/savioke.com/e4dd79d8-34a2-4f29-b8d3-0bc66167fd29
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+Savioke - Business Development Manager
+>>>> https://jobs.lever.co/savioke.com/ab8867f6-98b1-4646-9420-0e8071e72cde
+TC: Full-time ET: Full-time
+San Jose, CA
+country: United States coords 37.3382082 -121.8863286
+*********************************************
+<Response [200]>
+XXXX 12 Listings Posted XXXX
+**** ROOT: scaledinference ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+Scaled Inference - Inference Operations Engineer
+>>>> https://jobs.lever.co/scaledinference/9f1967e6-3c64-4664-8e3a-c82d19a06d38/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA, USA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Scaled Inference - Inference Systems Engineer
+>>>> https://jobs.lever.co/scaledinference/70f5f7ff-c313-42f5-a58f-c50145d6212c
+TC: Full-time ET: Full-time
+Palo Alto, CA, USA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Scaled Inference - Inference Engineer
+>>>> https://jobs.lever.co/scaledinference/9e2fbcda-327c-4d19-8d6e-8ed276b171f4
+TC: Full-time ET: Full-time
+Palo Alto, CA, USA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Scaled Inference - Inference Mobile Engineer
+>>>> https://jobs.lever.co/scaledinference/8138414b-4151-466b-bba3-c26eba446b76
+TC: Full-time ET: Full-time
+Palo Alto, CA, USA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+XXXX 4 Listings Posted XXXX
+**** ROOT: schibsted?by=location ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+51 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+61 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+71 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+81 CSE Start Index
+140 CSE Query Results
+<<<< CSE Query Loop >>>>
+91 CSE Start Index
+140 CSE Query Results
+100 Listings + Empty Index
+@@@@ 100 Listings Saved @@@@
+Schibsted - Software Engineer - Image
+>>>> https://jobs.lever.co/schibsted/3a836168-654d-470c-9f00-730de00338f9
+TC: Full-time ET: Full-time
+Oslo, Stockholm
+country: Sweden coords 59.335857 18.0643147
+*********************************************
+<Response [200]>
+Schibsted - Front End Software Engineer - Identity
+>>>> https://jobs.lever.co/schibsted/4f5a195e-bc44-48e4-b91b-686a731b69c4
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - Staff Front End Software Engineer
+>>>> https://jobs.lever.co/schibsted/11ae9059-d42f-4798-abf7-35376f45e27d
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Data Engineer
+>>>> https://jobs.lever.co/schibsted/d5176d65-6c3e-46aa-8ed4-d39e3ba5871a
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Senior Backend Software Engineer - Performance ...
+>>>> https://jobs.lever.co/schibsted/c2fafda7-4496-49aa-8d34-939fd6ce9681
+TC: Full-time ET: Full-time
+Paris
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted - Software Engineer (Engineering Productivity)
+>>>> https://jobs.lever.co/schibsted/534c0696-e361-4a13-a11a-8bea462c6cb2
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Data Engineer - Performance Dashboard
+>>>> https://jobs.lever.co/schibsted/f0bfaf95-04a5-409b-99ad-f7b4f8f83616
+TC: Full-time ET: Full-time
+Paris
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted - Data Engineer
+>>>> https://jobs.lever.co/schibsted/af94f78d-8117-43cb-a228-28af99753d15
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Lead Test Engineer
+>>>> https://jobs.lever.co/schibsted/92efa243-2c67-4bfb-bf41-49c8e8485faf
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Software Engineer - NLP
+>>>> https://jobs.lever.co/schibsted/4909a7ab-f3e4-4852-b6bb-1d24f82dea97
+TC: Full-time ET: Full-time
+Oslo, Stockholm
+country: Sweden coords 59.335857 18.0643147
+*********************************************
+<Response [200]>
+Schibsted - Senior Back-End Software Engineer
+>>>> https://jobs.lever.co/schibsted/cd79cf5c-20d6-4177-8393-6f0176896d09
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Front End Software Engineer
+>>>> https://jobs.lever.co/schibsted/c1d84f1a-b595-462e-b846-2271cdf6b1d5
+TC: Full-time ET: Full-time
+Barcelona
+## slept ##
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Android Engineer
+>>>> https://jobs.lever.co/schibsted/8e79c7c2-18c4-4a1a-b8d8-ea300938e7c6
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Software Engineer - Data Platform
+>>>> https://jobs.lever.co/schibsted/4a513dab-23d5-4f63-ab99-bbf9b3a801db
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - Release Engineer
+>>>> https://jobs.lever.co/schibsted/71ad2682-0b04-4e51-8414-ba102e1ed424
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Senior Back End Software Engineer
+>>>> https://jobs.lever.co/schibsted/837ce212-b5ac-4956-8e00-2613a2959b59
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Front End Software Engineer - Performance Dashboard
+>>>> https://jobs.lever.co/schibsted/2567391a-5226-4373-b386-6c95224c0af1
+TC: Full-time ET: Full-time
+Paris
+## slept ##
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted - Back-End Software Engineer - Search & Discovery
+>>>> https://jobs.lever.co/schibsted/958d58ee-d5b1-404d-9292-0b1b79e9a29b
+TC: Full-time ET: Full-time
+Stockholm
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+Schibsted - Senior Software Engineer, iOS - Engineering Productivity
+>>>> https://jobs.lever.co/schibsted/baf0a721-e9c0-452f-ad06-f77e6e543213
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Front End Software Engineer
+>>>> https://jobs.lever.co/schibsted/c25b90eb-d3c1-4619-be85-bfd4be8d99f7
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Android Software Engineer
+>>>> https://jobs.lever.co/schibsted/2877ecc2-f984-4fbe-86cc-072b7bfa9108
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - Senior DevOps Engineer
+>>>> https://jobs.lever.co/schibsted/c2f8e114-e78f-4fc1-b740-0d35a7504feb
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Senior Software Engineer, iOS - Engineering Productivity
+>>>> https://jobs.lever.co/schibsted/baf0a721-e9c0-452f-ad06-f77e6e543213/apply
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - iOS Software Engineer
+>>>> https://jobs.lever.co/schibsted/2a560fbe-feb3-440c-8809-629eef92528d
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Schibsted - Back End Software Engineer
+>>>> https://jobs.lever.co/schibsted/986fc1cc-634c-4a96-9ea1-693a177a8df4
+TC: Full-time ET: Full-time
+Kraków
+country: Poland coords 50.06465009999999 19.9449799
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Schibsted - Front-End Software Engineer
+>>>> https://jobs.lever.co/schibsted/c3d573dd-a8ec-4dfd-8986-b82ce32e1bf7
+TC: Full-time ET: Full-time
+Paris
+## slept ##
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted - Software Engineer (Engineering Productivity)
+>>>> https://jobs.lever.co/schibsted/534c0696-e361-4a13-a11a-8bea462c6cb2/apply
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Front End Software Engineer
+>>>> https://jobs.lever.co/schibsted/c1d84f1a-b595-462e-b846-2271cdf6b1d5/apply
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Schibsted - Lead Test Engineer
+>>>> https://jobs.lever.co/schibsted/92efa243-2c67-4bfb-bf41-49c8e8485faf/apply
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Data Engineer
+>>>> https://jobs.lever.co/schibsted/af94f78d-8117-43cb-a228-28af99753d15/apply
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Android Engineer
+>>>> https://jobs.lever.co/schibsted/8e79c7c2-18c4-4a1a-b8d8-ea300938e7c6/apply
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Data Engineer
+>>>> https://jobs.lever.co/schibsted/d5176d65-6c3e-46aa-8ed4-d39e3ba5871a/apply
+TC: Full-time ET: Full-time
+London
+## slept ##
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Back End Software Engineer
+>>>> https://jobs.lever.co/schibsted/986fc1cc-634c-4a96-9ea1-693a177a8df4/apply
+TC: Full-time ET: Full-time
+Kraków
+country: Poland coords 50.06465009999999 19.9449799
+*********************************************
+<Response [200]>
+Schibsted - Software Engineer - NLP
+>>>> https://jobs.lever.co/schibsted/4909a7ab-f3e4-4852-b6bb-1d24f82dea97/apply
+TC: Full-time ET: Full-time
+Oslo, Stockholm
+country: Sweden coords 59.335857 18.0643147
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Software Engineer - Data Platform
+>>>> https://jobs.lever.co/schibsted/4a513dab-23d5-4f63-ab99-bbf9b3a801db/apply
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - iOS Engineer - Tori.fi
+>>>> https://jobs.lever.co/schibsted/95d6dd1c-8ac8-4b04-8561-faf8cd8bb0b4/apply
+TC: Full-time ET: Full-time
+Helsinki
+country: Finland coords 60.16985569999999 24.9383791
+*********************************************
+<Response [200]>
+Schibsted - iOS Software Engineer
+>>>> https://jobs.lever.co/schibsted/2a560fbe-feb3-440c-8809-629eef92528d/apply
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - Software Engineer - Infrastructure
+>>>> https://jobs.lever.co/schibsted/8cabfe50-ab44-47d3-89b0-720de10a5f59/apply
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - Senior Backend Software Engineer - Performance ...
+>>>> https://jobs.lever.co/schibsted/c2fafda7-4496-49aa-8d34-939fd6ce9681/apply
+TC: Full-time ET: Full-time
+Paris
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted - Back End Software Engineer - Madrid
+>>>> https://jobs.lever.co/schibsted/29c913c4-f922-4bc2-b28d-ca3ef6db062f/apply
+TC: Full-time ET: Full-time
+Madrid
+country: Spain coords 40.4167754 -3.7037902
+*********************************************
+<Response [200]>
+Schibsted - Front-end Software Engineer
+>>>> https://jobs.lever.co/schibsted/c25b90eb-d3c1-4619-be85-bfd4be8d99f7/apply
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Staff Front End Software Engineer
+>>>> https://jobs.lever.co/schibsted/11ae9059-d42f-4798-abf7-35376f45e27d/apply
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Front End Software Engineer - Performance Dashboard
+>>>> https://jobs.lever.co/schibsted/2567391a-5226-4373-b386-6c95224c0af1/apply
+TC: Full-time ET: Full-time
+Paris
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted - Android Software Engineer
+>>>> https://jobs.lever.co/schibsted/2877ecc2-f984-4fbe-86cc-072b7bfa9108/apply
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - DevOps Engineer
+>>>> https://jobs.lever.co/schibsted/a2999864-bf2e-48d7-9ce4-a177121f5167/apply
+TC: Full-time ET: Full-time
+Stockholm
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+Schibsted - Senior DevOps Engineer
+>>>> https://jobs.lever.co/schibsted/c2f8e114-e78f-4fc1-b740-0d35a7504feb/apply
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Back-end Software Engineer
+>>>> https://jobs.lever.co/schibsted/9fa02fa9-a478-4286-88c9-1d702ed31fb0/apply
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Front End Software Engineer
+>>>> https://jobs.lever.co/schibsted/124701c0-b1b3-40b5-9fcc-5348ac2d81fe/apply
+TC: Full-time ET: Full-time
+Kraków
+country: Poland coords 50.06465009999999 19.9449799
+*********************************************
+<Response [200]>
+Schibsted - Node.js Software Engineer
+>>>> https://jobs.lever.co/schibsted/c32ac485-d7d0-40c7-aadd-20a745cf56fb/apply
+TC: Full-time ET: Full-time
+Kraków
+country: Poland coords 50.06465009999999 19.9449799
+*********************************************
+<Response [200]>
+Schibsted - Node.js Software Engineer
+>>>> https://jobs.lever.co/schibsted/c32ac485-d7d0-40c7-aadd-20a745cf56fb
+TC: Full-time ET: Full-time
+Kraków
+country: Poland coords 50.06465009999999 19.9449799
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Full Stack Software Engineer
+>>>> https://jobs.lever.co/schibsted/408c8161-0fa5-4edc-8bb8-894483f24882/apply
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Software Engineering Manager
+>>>> https://jobs.lever.co/schibsted/95a87a53-e6e8-4775-968c-d18f65f2673b
+TC: Full-time ET: Full-time
+Paris
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted - Back-End Software Engineer - Search & Discovery
+>>>> https://jobs.lever.co/schibsted/958d58ee-d5b1-404d-9292-0b1b79e9a29b/apply
+TC: Full-time ET: Full-time
+Stockholm
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Schibsted
+>>>> https://jobs.lever.co/schibsted
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted/?by=team&location=London
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted/?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+Schibsted - Engineering Manager - Security
+>>>> https://jobs.lever.co/schibsted/18df9781-c100-4ee4-80c7-55b7027c9f56
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Engineering Manager
+>>>> https://jobs.lever.co/schibsted/24816d0b-41a2-4cde-bd1a-cc57268e8ee7
+TC: Full-time ET: Full-time
+Kraków
+country: Poland coords 50.06465009999999 19.9449799
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Engineering Manager
+>>>> https://jobs.lever.co/schibsted/24816d0b-41a2-4cde-bd1a-cc57268e8ee7/apply
+TC: Full-time ET: Full-time
+Kraków
+country: Poland coords 50.06465009999999 19.9449799
+*********************************************
+<Response [200]>
+Schibsted - Engineering Manager - CRE
+>>>> https://jobs.lever.co/schibsted/70d87c42-527c-4324-919e-80253c44ffa5/apply
+TC: Full-time ET: Full-time
+Barcelona
+country: Spain coords 41.3850639 2.1734035
+*********************************************
+<Response [200]>
+Schibsted - Software Engineering Manager
+>>>> https://jobs.lever.co/schibsted/95a87a53-e6e8-4775-968c-d18f65f2673b/apply
+TC: Full-time ET: Full-time
+Paris
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Schibsted
+>>>> https://jobs.lever.co/schibsted?location=Barcelona
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted?location=Oslo
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: France coords 48.856614 2.3522219
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Recruitment Lead - Product and Tech
+>>>> https://jobs.lever.co/schibsted/6e974b9d-2e67-42d5-8082-e6322b819861
+TC: Contractor ET: Contractor
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - UX Researcher
+>>>> https://jobs.lever.co/schibsted/bc8d1fde-b750-48e3-a51f-4bda3909e2d2
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - Product Manager
+>>>> https://jobs.lever.co/schibsted/cef82427-3cd3-4346-b69e-bf8ef43c3912
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted?location=Oslo%2C%20Stockholm
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted/?by=team&location=Stockholm
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted
+>>>> https://jobs.lever.co/schibsted/?by=team&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Schibsted - UX Designer - Aftenposten News
+>>>> https://jobs.lever.co/schibsted/e2d7a353-c1e7-4916-831d-33384cc76bfa
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Schibsted - Lead Interaction Designer
+>>>> https://jobs.lever.co/schibsted/8b49a3bb-98dc-472e-b41b-6f0bbe825d07
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - Interaction Designer
+>>>> https://jobs.lever.co/schibsted/1054e99d-ffb1-4ac5-a0a0-c5ab4d460f16
+TC: Full-time ET: Full-time
+Oslo
+country: Norway coords 59.9138688 10.7522454
+*********************************************
+<Response [200]>
+Schibsted - Infrastructure Manager
+>>>> https://jobs.lever.co/schibsted/5db1099e-19d4-418c-b7f4-9609a178652e
+TC: Full-time ET: Full-time
+Stockholm
+country: Sweden coords 59.32932349999999 18.0685808
+*********************************************
+<Response [200]>
+XXXX 75 Listings Posted XXXX
+**** ROOT: schoolzilla ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+HTTP Error 404: Not Found
+Schoolzilla
+>>>> https://jobs.lever.co/schoolzilla
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+XXXX 1 Listings Posted XXXX
+**** ROOT: scienceexchange ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Science Exchange - Full Stack Software Engineer
+>>>> https://jobs.lever.co/scienceexchange/e277508e-1bda-4ed2-b3f3-ed78d3345402
+TC: Full-time ET: Full-time
+Palo Alto, CA, San Francisco, CA or Wellington, New Zealand
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA%2C+San+Francisco%2C+CA+or+Wellington%2C+New+Zealand&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Science Exchange - Full Stack Software Engineer
+>>>> https://jobs.lever.co/scienceexchange/e277508e-1bda-4ed2-b3f3-ed78d3345402/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA, San Francisco, CA or Wellington, New Zealand
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Palo+Alto%2C+CA%2C+San+Francisco%2C+CA+or+Wellington%2C+New+Zealand&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Science Exchange - Lever
+>>>> https://jobs.lever.co/scienceexchange?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Science Exchange
+>>>> https://jobs.lever.co/scienceexchange
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Science Exchange
+>>>> https://jobs.lever.co/scienceexchange?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Science Exchange
+>>>> https://jobs.lever.co/scienceexchange?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Science Exchange
+>>>> https://jobs.lever.co/scienceexchange?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Science Exchange - UX Designer
+>>>> https://jobs.lever.co/scienceexchange/3f11b9d0-5980-489f-8268-55cc737e8470
+TC: Full-time ET: Full-time
+Palo Alto or San Francisco, CA
+country: United States coords 37.7567492 -122.450345
+*********************************************
+<Response [200]>
+XXXX 8 Listings Posted XXXX
+**** ROOT: scopely ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+HTTP Error 404: Not Found
+Scopely
+>>>> https://jobs.lever.co/scopely?by=commitment&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Scopely - Product Manager, Ad Tech
+>>>> https://jobs.lever.co/scopely/419ae37a-2b41-4acc-8875-ca43d7c954ae
+TC: Full-time ET: Full-time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Scopely - UI Artist
+>>>> https://jobs.lever.co/scopely/2a732b92-2e64-49b0-8341-ec125185a268
+TC: Full-time ET: Full-time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+*********************************************
+<Response [200]>
+Scopely
+>>>> https://jobs.lever.co/scopely?by=commitment&location=Barcelona%2C%20Spain&team=IT&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0211224 -118.3964665
+*********************************************
+<Response [200]>
+Scopely - User Acquisition Analyst
+>>>> https://jobs.lever.co/scopely/4485a7d4-5afb-4d27-bae5-18f75a590005
+TC: Full-time ET: Full-time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+*********************************************
+<Response [200]>
+Scopely - Senior User Acquisition Manager
+>>>> https://jobs.lever.co/scopely/3fd7daea-4bad-4e05-add1-bc575d979ab9
+TC: Full-time ET: Full-time
+Culver City, CA
+country: United States coords 34.0211224 -118.3964665
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 6 Listings Posted XXXX
+**** ROOT: scrapinghub ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Scrapinghub - Software QA/Test Engineer
+>>>> https://jobs.lever.co/scrapinghub/3e3d2b39-d907-4465-84e0-2721957f64c9
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Scrapinghub - Support Engineer
+>>>> https://jobs.lever.co/scrapinghub/7da81748-e760-4068-8051-2c6b866ed94b
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Scrapinghub - Software QA/Test Engineer
+>>>> https://jobs.lever.co/scrapinghub/3e3d2b39-d907-4465-84e0-2721957f64c9/apply
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Scrapinghub - Support Engineer
+>>>> https://jobs.lever.co/scrapinghub/7da81748-e760-4068-8051-2c6b866ed94b/apply
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Scrapinghub - Python Developer - Web Crawling
+>>>> https://jobs.lever.co/scrapinghub/bac63c28-873f-4fe5-9cd0-cfe7fc18fa70
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Scrapinghub
+>>>> https://jobs.lever.co/scrapinghub
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Scrapinghub
+>>>> https://jobs.lever.co/scrapinghub?location=Remote
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Scrapinghub
+>>>> https://jobs.lever.co/scrapinghub?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Scrapinghub - Product Designer (UX)
+>>>> https://jobs.lever.co/scrapinghub/6fd30273-86a0-4997-92ed-ea8c44024b21
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+XXXX 9 Listings Posted XXXX
+**** ROOT: secondspectrum ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+32 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+17 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+17 Listings + Empty Index
+@@@@ 17 Listings Saved @@@@
+Second Spectrum - Software Engineer - Content Technology
+>>>> https://jobs.lever.co/secondspectrum/28f538a6-41fc-48db-a0dd-d6dd1fafe5d3
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - DevOps Engineer
+>>>> https://jobs.lever.co/secondspectrum/82bd056c-1240-4437-b089-ffb612e64e66
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - Computer Vision Engineer
+>>>> https://jobs.lever.co/secondspectrum/f8ef55f0-b792-4166-8be5-004505c545a7
+TC: Full-time ET: Full-time
+Lausanne, Switzerland
+country: Switzerland coords 46.5196535 6.6322734
+*********************************************
+<Response [200]>
+Second Spectrum - QA Engineer
+>>>> https://jobs.lever.co/secondspectrum/e29921a0-0cfb-46db-9a41-e4dd04b448fb
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - Full-Stack Engineer
+>>>> https://jobs.lever.co/secondspectrum/0f284c6e-490e-4920-9e2b-3e38c2fc5142
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - Systems Engineer
+>>>> https://jobs.lever.co/secondspectrum/8f519342-cb16-4e74-964a-f59284a150f6
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - Senior Full-Stack Engineer
+>>>> https://jobs.lever.co/secondspectrum/c12b6e8a-ee5c-40f3-a2be-11cf0e8a6a03
+TC: Full-time ET: Full-time
+Los Angeles, CA
+## slept ##
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - Mobile Engineer
+>>>> https://jobs.lever.co/secondspectrum/be72a009-5ed6-4745-bee2-df04d6b199e8
+TC: Full-time ET: Full-time
+Los Angeles, CA
+## slept ##
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - UX Engineer
+>>>> https://jobs.lever.co/secondspectrum/7cb43048-ddfd-43de-8e22-3bc4311b5e5a
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum
+>>>> https://jobs.lever.co/secondspectrum
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - Software Engineer - Content Technology
+>>>> https://jobs.lever.co/secondspectrum/28f538a6-41fc-48db-a0dd-d6dd1fafe5d3/apply
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum - DevOps Engineer
+>>>> https://jobs.lever.co/secondspectrum/514c4735-caea-42c3-adb1-2d7223caebc8/apply
+TC: Full-time ET: Full-time
+Shanghai, PRC
+country: China coords 31.2303904 121.4737021
+*********************************************
+<Response [200]>
+Second Spectrum
+>>>> https://jobs.lever.co/secondspectrum?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: China coords 31.2303904 121.4737021
+*********************************************
+<Response [200]>
+Second Spectrum - Software Engineering Intern
+>>>> https://jobs.lever.co/secondspectrum/63558c2b-fb6b-4b01-afde-e69d7cbe4ac9
+TC: Intern ET: Intern
+Shanghai, PRC
+country: China coords 31.2303904 121.4737021
+*********************************************
+<Response [200]>
+Second Spectrum - Technical Recruiter
+>>>> https://jobs.lever.co/secondspectrum/b6b7916d-3784-4ba1-8c11-51f31de98990
+TC: Full-time ET: Full-time
+Los Angeles, CA
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum
+>>>> https://jobs.lever.co/secondspectrum?by=location&location=Lausanne%2C%20Switzerland
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+Second Spectrum
+>>>> https://jobs.lever.co/secondspectrum?by=location&team=Tracking%20Operations
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.0522342 -118.2436849
+*********************************************
+<Response [200]>
+XXXX 17 Listings Posted XXXX
+**** ROOT: secureset ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+1 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+1 Listings + Empty Index
+@@@@ 1 Listings Saved @@@@
+SecureSet Academy - Lab System Administrator
+>>>> https://jobs.lever.co/secureset/66bd85b9-be24-41dd-9da1-47d3df412530
+TC: Full-time ET: Full-time
+Denver
+country: United States coords 39.7392358 -104.990251
+*********************************************
+<Response [200]>
+XXXX 1 Listings Posted XXXX
+**** ROOT: seerinteractive ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+Seer Interactive - Analytics Manager
+>>>> https://jobs.lever.co/seerinteractive/54c0ce7a-0012-4c6e-9d2e-efd768058645
+TC: Full-time ET: Full-time
+Philadelphia
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+Seer Interactive - Technical SEO Manager
+>>>> https://jobs.lever.co/seerinteractive/fd26bb5d-9190-4b96-a925-97185bf82292
+TC: Full-time ET: Full-time
+Philadelphia
+## slept ##
+country: United States coords 39.9525839 -75.1652215
+*********************************************
+<Response [200]>
+XXXX 2 Listings Posted XXXX
+**** ROOT: seesaw ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+22 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+12 Listings + Empty Index
+@@@@ 12 Listings Saved @@@@
+Seesaw - Generalist Software Engineer
+>>>> https://jobs.lever.co/seesaw/10817cdb-646c-4241-989e-65ed4a133c7a
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - Senior Android Engineer
+>>>> https://jobs.lever.co/seesaw/4f4c0d7d-d449-4b38-a2ef-f2c3ecbc961a
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - Backend Infrastructure Engineer
+>>>> https://jobs.lever.co/seesaw/dec88c6b-81ba-447f-b710-78ecf2c0b988
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - Full-Stack Software Engineer
+>>>> https://jobs.lever.co/seesaw/051b2189-6d9a-4114-ab00-0933590375f9
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - Backend Infrastructure Engineer
+>>>> https://jobs.lever.co/seesaw/dec88c6b-81ba-447f-b710-78ecf2c0b988/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - VP Engineering
+>>>> https://jobs.lever.co/seesaw/c7c2c7b3-49b1-44df-9a3b-170fbbfe3f3d
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw
+>>>> https://jobs.lever.co/seesaw
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw
+>>>> https://jobs.lever.co/seesaw?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - Seesaw for Schools Marketing Manager
+>>>> https://jobs.lever.co/seesaw/bf04f140-5169-48dc-8e07-d24462fa1e9d
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - Something else? AKA I'm interested but no job fits me right ...
+>>>> https://jobs.lever.co/seesaw/8ef34178-2f18-4350-9b5b-a275335a24a0
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - School Partnerships (Account Executive)
+>>>> https://jobs.lever.co/seesaw/fa2e7a56-e91d-4ae0-8b3f-29b3a9e0c4ec
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Seesaw - Head of Marketing
+>>>> https://jobs.lever.co/seesaw/940f026b-9edd-4bfe-8119-2a33475501f1
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 12 Listings Posted XXXX
+**** ROOT: selfmade ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+19 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+16 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+16 Listings + Empty Index
+@@@@ 16 Listings Saved @@@@
+SelfMade - Software Engineer
+>>>> https://jobs.lever.co/selfmade/583e4c3c-4b91-47bf-97e0-5f9da0578567
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - iOS Engineer
+>>>> https://jobs.lever.co/selfmade/4cf53f41-f532-4660-a68f-2185c3fa61d0
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - Software Engineer Intern
+>>>> https://jobs.lever.co/selfmade/bca70f35-f732-4ecb-981e-b847fc9b5809
+TC: Intern ET: Intern
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - Machine Learning Engineer
+>>>> https://jobs.lever.co/selfmade/eb1a1b42-9dbc-4d3c-a85d-17c79fe83591
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - iOS Engineer
+>>>> https://jobs.lever.co/selfmade/4cf53f41-f532-4660-a68f-2185c3fa61d0/apply
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade
+>>>> https://jobs.lever.co/selfmade
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+SelfMade - Social Media Intern
+>>>> https://jobs.lever.co/selfmade/8d053d1c-d2c1-4c80-911f-7edcb26ff222
+TC: Intern ET: Intern
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - VIP Account Manager
+>>>> https://jobs.lever.co/selfmade/47eb8651-7e6b-4457-a5ab-35093e0a0693
+TC: Contractor ET: Contractor
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - Sales Associate
+>>>> https://jobs.lever.co/selfmade/12a9bc20-7c09-404f-a87a-8b48f845fd1d
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+SelfMade - Social Strategist
+>>>> https://jobs.lever.co/selfmade/c2343a05-c980-4304-8b2a-b4ed96367d6e
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+SelfMade - Marketing and Business Development Strategist
+>>>> https://jobs.lever.co/selfmade/89e52912-4819-453c-8217-bb9fc1fd8026
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - Product Manager
+>>>> https://jobs.lever.co/selfmade/12d9fac2-09a1-4a57-9554-0e19d2d58084
+TC: Full Time ET: Full Time
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+SelfMade - Marketing & Communications Intern
+>>>> https://jobs.lever.co/selfmade/a57d86bd-e690-4a76-ab8a-893da0a7b6fa
+TC: Intern ET: Intern
+New York HQ
+country: United States coords 40.7257532 -74.0043606
+*********************************************
+<Response [200]>
+XXXX 13 Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

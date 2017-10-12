@@ -1,0 +1,2275 @@
+(venv) arias-Air:c4c nimda$ python3 2c4cQueryNoBadWordsCheck.py
+**** ROOT: magenta ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+24 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+19 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+19 Listings + Empty Index
+@@@@ 19 Listings Saved @@@@
+Magenta Labs Inc. - Process Engineering
+>>>> https://jobs.lever.co/magenta/e1a5c8e6-0ddb-4abe-9d86-a17db3a80ede
+TC: Full-time ET: Full-time
+China
+## slept ##
+country: China coords 35.86166 104.195397
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Product Design Engineer
+>>>> https://jobs.lever.co/magenta/557274f4-ffe0-4604-9ff6-f5045e7afddf
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 104.195397
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Electrical Engineer
+>>>> https://jobs.lever.co/magenta/39973481-2c1e-40b2-93f9-1ed62655313e
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Manufacturing Test Engineer
+>>>> https://jobs.lever.co/magenta/cd2bb22a-13d2-46da-9208-4fa09d3a0a0d
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - iOS Engineer
+>>>> https://jobs.lever.co/magenta/bfc87147-7bb3-4aae-9d9e-da3e9ace6a22
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Full Stack Engineer
+>>>> https://jobs.lever.co/magenta/ceff0ff9-7f7e-4297-ad3a-4145539d214f
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Firmware Engineer
+>>>> https://jobs.lever.co/magenta/edde9af8-4714-4308-8caf-38207c9eb7ed
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Quality & Test Engineer
+>>>> https://jobs.lever.co/magenta/7bd2b66a-bed1-4926-a35d-9bf4d2dfb6f5
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Sr. Camera Image Quality Engineer
+>>>> https://jobs.lever.co/magenta/2f488cb4-d163-44db-82ba-b0047a32d46d
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Android Engineer
+>>>> https://jobs.lever.co/magenta/ffad3236-3daa-411a-92df-52d50ab38698
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Firmware Engineer
+>>>> https://jobs.lever.co/magenta/edde9af8-4714-4308-8caf-38207c9eb7ed/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Server Engineer
+>>>> https://jobs.lever.co/magenta/ceff0ff9-7f7e-4297-ad3a-4145539d214f/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc.
+>>>> https://jobs.lever.co/magenta
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Engineering Program Manager
+>>>> https://jobs.lever.co/magenta/60db9f56-9ffa-48f3-a620-0541b1feec1e
+TC: Full-time ET: Full-time
+Taiwan
+## slept ##
+country: Taiwan coords 23.69781 120.960515
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Engineering Program Manager
+>>>> https://jobs.lever.co/magenta/60db9f56-9ffa-48f3-a620-0541b1feec1e/apply
+TC: Full-time ET: Full-time
+Taiwan
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Taiwan&sensor=false&bounds=&region=&language=&components=
+country: Taiwan coords 23.69781 120.960515
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Technical Program Manager
+>>>> https://jobs.lever.co/magenta/168a064f-e7e0-4fbf-875e-2a537689fa72
+TC: Full-time ET: Full-time
+China
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=China&sensor=false&bounds=&region=&language=&components=
+country: China coords 23.69781 120.960515
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Acquisition Marketing Manager
+>>>> https://jobs.lever.co/magenta/ec98735a-6177-42ef-b4fa-756e634b15fa
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Talent Lead
+>>>> https://jobs.lever.co/magenta/a85e954c-f542-4f92-b4a9-c961d402142e
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Magenta Labs Inc. - Technical Program Manager
+>>>> https://jobs.lever.co/magenta/168a064f-e7e0-4fbf-875e-2a537689fa72/apply
+TC: Full-time ET: Full-time
+China
+## slept ##
+country: China coords 35.86166 104.195397
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mancrates ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Man Crates - Senior Full-Stack Engineer/Architect
+>>>> https://jobs.lever.co/mancrates/84881ee1-ff61-43fc-ba22-80033796334c
+TC: Full-time ET: Full-time
+San Mateo, CA USA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates - Senior Front-End Engineer
+>>>> https://jobs.lever.co/mancrates/143f6f61-cf7b-4bc6-8c57-d583769f9f7f
+TC: Full-time ET: Full-time
+San Mateo, CA USA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates - Senior Front-End Engineer
+>>>> https://jobs.lever.co/mancrates/143f6f61-cf7b-4bc6-8c57-d583769f9f7f/apply
+TC: Full-time ET: Full-time
+San Mateo, CA USA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates - Senior Full-Stack Engineer/Architect
+>>>> https://jobs.lever.co/mancrates/84881ee1-ff61-43fc-ba22-80033796334c/apply
+TC: Full-time ET: Full-time
+San Mateo, CA USA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates
+>>>> https://jobs.lever.co/mancrates
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates
+>>>> https://jobs.lever.co/mancrates?by=team&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates - Web & Email Developer
+>>>> https://jobs.lever.co/mancrates/58aef27e-536f-49e4-84ed-e5c8be771379
+TC: Full-time ET: Full-time
+San Mateo, CA USA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Mateo%2C+CA+USA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates - Technical Recruiter
+>>>> https://jobs.lever.co/mancrates/4aea9be4-9ac2-4dfd-a2f0-1476ea999e2f
+TC: Full-time ET: Full-time
+San Mateo, CA USA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Man Crates - Director, Growth Marketing
+>>>> https://jobs.lever.co/mancrates/f95af960-fb87-4307-bf27-342967baee82
+TC: Full-time ET: Full-time
+San Mateo, CA USA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: manifestmedex ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+6 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+6 Listings + Empty Index
+@@@@ 6 Listings Saved @@@@
+Manifest MedEx - Interface Engineer
+>>>> https://jobs.lever.co/manifestmedex/63d1dbcf-005d-42f6-abf9-53c41ce931a4
+TC: Full-time ET: Full-time
+Emeryville or Riverside
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Emeryville+or+Riverside&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Manifest MedEx - Interface Engineer
+>>>> https://jobs.lever.co/manifestmedex/63d1dbcf-005d-42f6-abf9-53c41ce931a4/apply
+TC: Full-time ET: Full-time
+Emeryville or Riverside
+## slept ##
+country: Canada coords 42.2974997 -82.7610152
+*********************************************
+*********************************************
+<Response [200]>
+Manifest MedEx - Solutions Architect
+>>>> https://jobs.lever.co/manifestmedex/4ca4f9d8-c1a8-48f7-b752-66c1f6706070
+TC: Full-time ET: Full-time
+Emeryville or Riverside
+## slept ##
+country: Canada coords 42.2974997 -82.7610152
+*********************************************
+*********************************************
+<Response [200]>
+Manifest MedEx - Product Manager
+>>>> https://jobs.lever.co/manifestmedex/96c7526d-b9ce-46f1-a18f-5f862036c782
+TC: Full-time ET: Full-time
+Emeryville
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Emeryville&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.2974997 -82.7610152
+*********************************************
+*********************************************
+<Response [200]>
+Manifest MedEx
+>>>> https://jobs.lever.co/manifestmedex
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.2974997 -82.7610152
+*********************************************
+*********************************************
+<Response [200]>
+Manifest MedEx - Business Analyst
+>>>> https://jobs.lever.co/manifestmedex/a4116d71-f182-48e1-ad27-576cfd9cd783
+TC: Full-time ET: Full-time
+Emeryville or Riverside
+## slept ##
+country: Canada coords 42.2974997 -82.7610152
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: marble ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: marcusgrahamproject ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: marcusmillichap ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: matmatch ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Matmatch - Senior Frontend Engineer (m/f)
+>>>> https://jobs.lever.co/matmatch/78da9f78-e60e-4192-b6ce-5c9f4cc2ce75
+TC: Full-Time ET: Full-Time
+Munich Area, Germany
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Munich+Area%2C+Germany&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Matmatch - Senior Backend Engineer (m/f)
+>>>> https://jobs.lever.co/matmatch/5a768bdc-7216-4681-8683-79ef1ca818eb
+TC: Full-Time ET: Full-Time
+Munich Area, Germany
+## slept ##
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+*********************************************
+<Response [200]>
+Matmatch - Senior Frontend Engineer (m/f)
+>>>> https://jobs.lever.co/matmatch/78da9f78-e60e-4192-b6ce-5c9f4cc2ce75/apply
+TC: Full-Time ET: Full-Time
+Munich Area, Germany
+## slept ##
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Matmatch
+>>>> https://jobs.lever.co/matmatch
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+*********************************************
+<Response [200]>
+Matmatch - Senior Designer (m/f)
+>>>> https://jobs.lever.co/matmatch/88ca649e-da8d-4604-bfb6-1a7eb3af9570
+TC: Full-Time ET: Full-Time
+Munich Area, Germany
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Matmatch - Account Manager (m/f)
+>>>> https://jobs.lever.co/matmatch/bb79abc5-a61f-49be-927f-34eadecdf01a
+TC: Full-Time ET: Full-Time
+Munich Area, Germany
+## slept ##
+country: Germany coords 48.1351253 11.5819805
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mattermark ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Mattermark - Lever
+>>>> https://jobs.lever.co/mattermark?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Mattermark
+>>>> https://jobs.lever.co/mattermark
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Mattermark - Technical Sales Executive
+>>>> https://jobs.lever.co/mattermark/9195862f-5215-4976-9b96-aa99b855b365
+TC: Full-Time ET: Full-Time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mattermost ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+20 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+20 Listings + Empty Index
+@@@@ 20 Listings Saved @@@@
+Mattermost - Mobile Engineer
+>>>> https://jobs.lever.co/mattermost/b9005b94-f30d-41e9-af30-72db17eb1605
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Performance Engineer
+>>>> https://jobs.lever.co/mattermost/54b24de0-3c44-4b62-bd21-e7b01870b8d0
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Web App Engineer
+>>>> https://jobs.lever.co/mattermost/9520b2d2-7d23-4623-bab5-eb7573b3b09c
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Sales Engineer
+>>>> https://jobs.lever.co/mattermost/3a904a4d-4249-4911-a606-c8efe2b7d4b1
+TC: Full-time ET: Full-time
+Remote
+## slept ##
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - DevOps Engineer
+>>>> https://jobs.lever.co/mattermost/b158f54b-60d3-4e9c-9e76-9c60bce795f1
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Back End Engineer
+>>>> https://jobs.lever.co/mattermost/3e654b94-3455-4990-ba05-aac0219ae760
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - US Enterprise Support Engineer
+>>>> https://jobs.lever.co/mattermost/1314b649-b213-40d6-bc21-f122a578ea17
+TC: Full-time ET: Full-time
+Distributed
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - DevOps Engineer
+>>>> https://jobs.lever.co/mattermost/b158f54b-60d3-4e9c-9e76-9c60bce795f1/apply
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - US Enterprise Support Engineer
+>>>> https://jobs.lever.co/mattermost/1314b649-b213-40d6-bc21-f122a578ea17/apply
+TC: Full-time ET: Full-time
+Distributed
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost
+>>>> https://jobs.lever.co/mattermost?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost
+>>>> https://jobs.lever.co/mattermost/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost
+>>>> https://jobs.lever.co/mattermost/?by=commitment&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Full Stack Developer
+>>>> https://jobs.lever.co/mattermost/cad8fd03-2ea0-4fe0-b82e-20f58d8106f4
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - UX/UI Designer
+>>>> https://jobs.lever.co/mattermost/584f5e60-6ae5-42b3-9d16-ba45d6aaf27c
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Release Manager
+>>>> https://jobs.lever.co/mattermost/327bd1ba-8e83-41ba-bb81-93f6c7c6beb2
+TC: Full-time ET: Full-time
+Waterloo, Canada or Distributed
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Waterloo%2C+Canada+or+Distributed&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Lead Technical Account Manager
+>>>> https://jobs.lever.co/mattermost/686f1940-1306-4a17-8629-4af4f06e3e08
+TC: Full-time ET: Full-time
+Remote
+## slept ##
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - UX/UI Design Agency Partner
+>>>> https://jobs.lever.co/mattermost/b65f9f94-59f6-4832-a763-56840d80b3bb
+TC: Contractor ET: Contractor
+Distributed
+## slept ##
+country: United States coords 38.935466 -77.37437849999999
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost
+>>>> https://jobs.lever.co/mattermost/?by=location&team=Sales
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.935466 -77.37437849999999
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Account Executive - San Francisco
+>>>> https://jobs.lever.co/mattermost/7f7cd816-26de-44c2-95c2-a649a6526116
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -77.37437849999999
+*********************************************
+*********************************************
+<Response [200]>
+Mattermost - Strategic Account Executive - Federal
+>>>> https://jobs.lever.co/mattermost/cdb35454-2f46-4bbc-b5ff-1a434a0cecc4
+TC: Full-time ET: Full-time
+Remote
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Remote&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -77.37437849999999
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: matternet ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Matternet - Senior Electronics Engineer
+>>>> https://jobs.lever.co/matternet/33b10ab6-cd1a-41c2-8b61-685f197b56f7
+TC: Full-time ET: Full-time
+Menlo Park, California, USA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+Matternet - Full Stack Software Engineer
+>>>> https://jobs.lever.co/matternet/15675b9c-ca72-420a-9b8a-29003203b319
+TC: Full-time ET: Full-time
+Menlo Park, California, USA
+## slept ##
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+Matternet - Senior Electronics Engineer
+>>>> https://jobs.lever.co/matternet/33b10ab6-cd1a-41c2-8b61-685f197b56f7/apply
+TC: Full-time ET: Full-time
+Menlo Park, California, USA
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+Matternet - Full Stack Software Engineer
+>>>> https://jobs.lever.co/matternet/15675b9c-ca72-420a-9b8a-29003203b319/apply
+TC: Full-time ET: Full-time
+Menlo Park, California, USA
+## slept ##
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Matternet
+>>>> https://jobs.lever.co/matternet
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+Matternet
+>>>> https://jobs.lever.co/matternet?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+Matternet
+>>>> https://jobs.lever.co/matternet?by=location&team=Hardware
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+Matternet
+>>>> https://jobs.lever.co/matternet?team=Software
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4529598 -122.1817252
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mavin ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+M A V I N - Front End Developer
+>>>> https://jobs.lever.co/mavin/54140977-5720-46b9-ae0a-89652b37563b
+TC: Full-time ET: Full-time
+London
+## slept ##
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+*********************************************
+<Response [200]>
+M A V I N - Senior UX Designer
+>>>> https://jobs.lever.co/mavin/80e81e60-6061-48ea-af7f-e220d9be794f
+TC: Full-time ET: Full-time
+Berlin
+country: Germany coords 52.52000659999999 13.404954
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: max2 ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+16 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+12 Listings + Empty Index
+@@@@ 12 Listings Saved @@@@
+Max2 Inc. - Backend Engineer
+>>>> https://jobs.lever.co/max2/d1cfa78b-cda3-48aa-84de-8f18351c6d4b
+TC: Full-time ET: Full-time
+NYC
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=NYC&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - iOS Software Engineer
+>>>> https://jobs.lever.co/max2/4856c619-dbcc-48ea-a393-a0d2695ca5ae
+TC: Full-time ET: Full-time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Android Software Engineer
+>>>> https://jobs.lever.co/max2/de605660-400d-47b6-ab31-ac7741144264
+TC: Full-time ET: Full-time
+NYC
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=NYC&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Senior Android Software Engineer
+>>>> https://jobs.lever.co/max2/97c7a8bd-29cf-4403-b1bf-951fb1274654
+TC: Full-time ET: Full-time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Backend Engineer - Lever
+>>>> https://jobs.lever.co/max2/d1cfa78b-cda3-48aa-84de-8f18351c6d4b/apply
+TC: Full-time ET: Full-time
+NYC
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=NYC&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - iOS Software Engineer
+>>>> https://jobs.lever.co/max2/4856c619-dbcc-48ea-a393-a0d2695ca5ae/apply
+TC: Full-time ET: Full-time
+NYC
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=NYC&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc.
+>>>> https://jobs.lever.co/max2
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Senior iOS Developer
+>>>> https://jobs.lever.co/max2/1d08c447-4c5f-4fd9-a7fd-dfc26c813141
+TC: Full-time ET: Full-time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Lever
+>>>> https://jobs.lever.co/max2?team=Android%20Development
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Lever
+>>>> https://jobs.lever.co/max2?team=iOS%20Development
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Senior Backend Developer
+>>>> https://jobs.lever.co/max2/4f7631df-473b-45db-91c9-c912c0b9c611
+TC: Full-time ET: Full-time
+NYC
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=NYC&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+Max2 Inc. - Lever
+>>>> https://jobs.lever.co/max2?team=Backend%20Development
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: maxmind ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+MaxMind - Software Engineer in Test - Telecommute Opportunity ...
+>>>> https://jobs.lever.co/maxmind/116d89c5-d4fd-48b9-95d4-f3d89c996814
+TC: Full-time ET: Full-time
+Remote
+## slept ##
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+MaxMind - Software Engineer in Test - Telecommute Opportunity ...
+>>>> https://jobs.lever.co/maxmind/116d89c5-d4fd-48b9-95d4-f3d89c996814/apply
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+MaxMind
+>>>> https://jobs.lever.co/maxmind
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mayvenn ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Mayvenn - Full Stack Engineer
+>>>> https://jobs.lever.co/mayvenn/935363a5-df56-41ad-8302-6d4ef7f53b98
+TC: Full-time ET: Full-time
+Oakland
+country: United States coords 37.8043637 -122.2711137
+*********************************************
+*********************************************
+<Response [200]>
+Mayvenn - Full Stack Engineer
+>>>> https://jobs.lever.co/mayvenn/935363a5-df56-41ad-8302-6d4ef7f53b98/apply
+TC: Full-time ET: Full-time
+Oakland
+country: United States coords 37.8043637 -122.2711137
+*********************************************
+*********************************************
+<Response [200]>
+Mayvenn
+>>>> https://jobs.lever.co/mayvenn
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8043637 -122.2711137
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mbta ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+11 Listings + Empty Index
+@@@@ 11 Listings Saved @@@@
+MBTA - Software Engineer
+>>>> https://jobs.lever.co/mbta/48312749-13cf-4185-b1e8-a6402868c74f
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Software Engineer
+>>>> https://jobs.lever.co/mbta/48312749-13cf-4185-b1e8-a6402868c74f/apply
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Product Manager
+>>>> https://jobs.lever.co/mbta/4159d88b-db62-4a60-a51a-b7373c41d263
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+MBTA
+>>>> https://jobs.lever.co/mbta
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - UI/UX designer
+>>>> https://jobs.lever.co/mbta/44ce8c4c-ba13-4abb-ab36-17877ade9cd9
+TC: Full time ET: Full time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Interaction Designer
+>>>> https://jobs.lever.co/mbta/6ddd5eb6-506e-4827-b11c-c18573a7073f
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Design Researcher
+>>>> https://jobs.lever.co/mbta/7399beee-2ba9-46c6-9bea-8a4fa993b4c3
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Visual & Communications Designer
+>>>> https://jobs.lever.co/mbta/f0d4c01d-3930-4167-b512-5080758081d7
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Project Manager
+>>>> https://jobs.lever.co/mbta/9b0534b4-d178-4fc6-b3dc-5a20073c5ee1
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Senior Design Researcher
+>>>> https://jobs.lever.co/mbta/0ddab7e5-6f33-4722-80c0-89d0ba47177a
+TC: Full time ET: Full time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+MBTA - Project Manager
+>>>> https://jobs.lever.co/mbta/9b0534b4-d178-4fc6-b3dc-5a20073c5ee1/apply
+TC: Full time ET: Full time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mcbeard ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: medici-living ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: megaport ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Megaport - DevOps Engineer
+>>>> https://jobs.lever.co/megaport/c19fcfcc-6dfb-4cf9-9888-e8bc8f7d10d7
+TC: Full-time ET: Full-time
+Brisbane
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Brisbane&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Megaport - Software Engineer (Frontend )
+>>>> https://jobs.lever.co/megaport/097d3512-f5c5-4923-baec-1aa033dbfb62
+TC: Full-time ET: Full-time
+Brisbane
+country: Australia coords -27.4697707 153.0251235
+*********************************************
+*********************************************
+<Response [200]>
+Megaport - Software Engineer
+>>>> https://jobs.lever.co/megaport/bd34c960-7837-4b32-8f33-f5980e7577ec
+TC: Full-time ET: Full-time
+Brisbane
+country: Australia coords -27.4697707 153.0251235
+*********************************************
+*********************************************
+<Response [200]>
+Megaport - DevOps Engineer
+>>>> https://jobs.lever.co/megaport/c19fcfcc-6dfb-4cf9-9888-e8bc8f7d10d7/apply
+TC: Full-time ET: Full-time
+Brisbane
+country: Australia coords -27.4697707 153.0251235
+*********************************************
+*********************************************
+<Response [200]>
+Megaport - Frontend Software Engineer
+>>>> https://jobs.lever.co/megaport/097d3512-f5c5-4923-baec-1aa033dbfb62/apply
+TC: Full-time ET: Full-time
+Brisbane
+country: Australia coords -27.4697707 153.0251235
+*********************************************
+*********************************************
+<Response [200]>
+Megaport - Solutions Architect
+>>>> https://jobs.lever.co/megaport/96b13b45-87a8-4a43-a2a5-2ccca9a2f9ce
+TC: Full-time ET: Full-time
+Singapore or Hong Kong
+country: Singapore coords 1.3207333 103.8439134
+*********************************************
+*********************************************
+<Response [200]>
+Megaport - Solutions Architect - NAM
+>>>> https://jobs.lever.co/megaport/937fb2f3-c4e1-43ec-ba98-a91b23ee26d3
+TC: Full-time ET: Full-time
+North America
+## slept ##
+country: None coords 54.5259614 -105.2551187
+*********************************************
+*********************************************
+<Response [200]>
+Megaport - Network Services Specialist
+>>>> https://jobs.lever.co/megaport/ebc04e9e-9279-4f7d-ae1f-9ab48f8b0e2c
+TC: Full-time ET: Full-time
+Amsterdam
+country: Netherlands coords 52.3702157 4.895167900000001
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Megaport - Enterprise Sales Manager - APAC
+>>>> https://jobs.lever.co/megaport/992588d4-0f1d-4e03-823b-c545f403f611
+TC: Full-time ET: Full-time
+Australia
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Australia&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -25.274398 4.895167900000001
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mendix ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+41 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+18 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+18 Listings + Empty Index
+@@@@ 18 Listings Saved @@@@
+Mendix - Sr. Pre Sales Engineer
+>>>> https://jobs.lever.co/mendix/136b8352-7092-415c-9c2a-34dc02b123d4
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Boston%2C+MA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Cloud Engineer
+>>>> https://jobs.lever.co/mendix/70ea45a2-c740-4dfc-903b-03ff1d2243fa
+TC: Full-time ET: Full-time
+Rotterdam
+## slept ##
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Mendix - Front-End Engineer
+>>>> https://jobs.lever.co/mendix/3266a142-d469-4adf-a624-8d03debfd342
+TC: Full-time ET: Full-time
+Rotterdam
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Rotterdam&sensor=false&bounds=&region=&language=&components=
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Test Engineer - AppCloud
+>>>> https://jobs.lever.co/mendix/79230704-0323-4da8-a0ad-a1a8f1cdce5a
+TC: Full-time ET: Full-time
+Rotterdam
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Mendix - Test Engineer – Desktop Modeler
+>>>> https://jobs.lever.co/mendix/e6c62c83-3489-4bf9-a62b-50d69d64e476
+TC: Full-time ET: Full-time
+Rotterdam
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Mendix - Solutions Engineer
+>>>> https://jobs.lever.co/mendix/aa018d9f-a673-4407-8fd8-69cb45dcfb48/apply
+TC: Full-time ET: Full-time
+Rotterdam
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Test Engineer - Web
+>>>> https://jobs.lever.co/mendix/ec77068d-4676-4cf1-95b0-3fc511482df9
+TC: Full-time ET: Full-time
+Rotterdam
+## slept ##
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Test Engineer - Integration
+>>>> https://jobs.lever.co/mendix/c617888d-b0b3-48ff-960e-c8090b5b958e?lever-source=stackshare.io/match
+TC: Full-time ET: Full-time
+Rotterdam
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Test Engineer - AppCloud
+>>>> https://jobs.lever.co/mendix/79230704-0323-4da8-a0ad-a1a8f1cdce5a/apply
+TC: Full-time ET: Full-time
+Rotterdam
+## slept ##
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Test Engineer – Desktop Modeler
+>>>> https://jobs.lever.co/mendix/e6c62c83-3489-4bf9-a62b-50d69d64e476/apply
+TC: Full-time ET: Full-time
+Rotterdam
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Rotterdam&sensor=false&bounds=&region=&language=&components=
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix
+>>>> https://jobs.lever.co/mendix
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Solution Architect
+>>>> https://jobs.lever.co/mendix/da20a19c-660b-493e-82ed-e546dcb60a3c
+TC: Full-time ET: Full-time
+Rotterdam
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - C# Developer
+>>>> https://jobs.lever.co/mendix/ce3d37fb-7a08-4d1e-9c8e-770a48602694
+TC: Full-time ET: Full-time
+Rotterdam
+country: Netherlands coords 51.9244201 4.4777326
+*********************************************
+*********************************************
+<Response [200]>
+Mendix - Senior Lead Consultant
+>>>> https://jobs.lever.co/mendix/ded81427-7e7b-4b18-965c-cc789c95452e
+TC: Full-time ET: Full-time
+Boston, MA
+## slept ##
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: mercari ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+21 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+21 Listings + Empty Index
+@@@@ 21 Listings Saved @@@@
+Mercari - Server Side Engineer
+>>>> https://jobs.lever.co/mercari/8be6f392-4557-4281-b72d-ad410c0e07e5
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Frontend Engineer
+>>>> https://jobs.lever.co/mercari/ccfba809-4cd6-4a87-bf47-c916f17d5931
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - iOS Engineer
+>>>> https://jobs.lever.co/mercari/ac4b7bbf-4e24-4bf5-aa0f-e11645ff4193
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Machine Learning Engineer
+>>>> https://jobs.lever.co/mercari/b6273939-79d6-44db-a897-42aabe89838d
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Site Reliability Engineer
+>>>> https://jobs.lever.co/mercari/06709ac8-7f7f-48be-9281-800c9a573834
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Frontend Engineer
+>>>> https://jobs.lever.co/mercari/ccfba809-4cd6-4a87-bf47-c916f17d5931/apply
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - iOS Engineer
+>>>> https://jobs.lever.co/mercari/ac4b7bbf-4e24-4bf5-aa0f-e11645ff4193/apply
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Software Engineer - Android
+>>>> https://jobs.lever.co/mercari/9f9863a9-d957-45a4-8d73-c35bc1ace0f4/apply
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Machine Learning Engineer
+>>>> https://jobs.lever.co/mercari/b6273939-79d6-44db-a897-42aabe89838d/apply
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Site Reliability Engineer
+>>>> https://jobs.lever.co/mercari/06709ac8-7f7f-48be-9281-800c9a573834/apply
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari
+>>>> https://jobs.lever.co/mercari?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari
+>>>> https://jobs.lever.co/mercari?by=team&location=San%20Francisco
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari
+>>>> https://jobs.lever.co/mercari
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Information Security Officer
+>>>> https://jobs.lever.co/mercari/ac0bf8ce-e714-485a-b69a-66ca8e9f2a50
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Mercari - Compliance Systems and Information (CSI)
+>>>> https://jobs.lever.co/mercari/5956c8fa-b014-48eb-8ed7-af1744f78518
+TC: Full-time ET: Full-time
+Portland or San Francisco
+country: United States coords 37.7875223 -122.3900573
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Product Designer
+>>>> https://jobs.lever.co/mercari/6b61e7df-4b72-4ed6-98e7-49b4b2bff5a9
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Compliance Data & System Analyst
+>>>> https://jobs.lever.co/mercari/3a57673d-cdb1-4e82-a757-9be53e42c33f
+TC: Full-time ET: Full-time
+Portland or San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Portland+or+San+Francisco&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7875223 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Interaction Designer
+>>>> https://jobs.lever.co/mercari/041da411-ea9d-4c6e-907c-0cede646e2ed
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari - Data Scientist
+>>>> https://jobs.lever.co/mercari/eb1b6f41-537d-4266-9de5-31df700bb6d9
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Mercari
+>>>> https://jobs.lever.co/mercari?location=Portland%20or%20San%20Francisco
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: merlinglobal ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Merlin Global - MQ-1B Predator Site Lead / Pilot Deployment ...
+>>>> https://jobs.lever.co/merlinglobal/98331de1-5d06-4ea7-a1ad-1ccb390ee14a
+TC: Full-time ET: Full-time
+Deployed
+country: United States coords 30.3897587 -97.74875779999999
+*********************************************
+*********************************************
+<Response [200]>
+Merlin Global - Predator C Avenger Pilot
+>>>> https://jobs.lever.co/merlinglobal/13f64ea4-ddb0-4a0e-8680-3cb8c8c049fe
+TC: Full-time ET: Full-time
+China Lake, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=China+Lake%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.3897587 -97.74875779999999
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Merlin Global - Air Vehicle Operator (Deployed)
+>>>> https://jobs.lever.co/merlinglobal/52ce8385-d9ae-4922-98b8-b48f4c727482
+TC: Full-time ET: Full-time
+Deployed
+country: United States coords 30.3897587 -97.74875779999999
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: metamako ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+12 Listings + Empty Index
+@@@@ 12 Listings Saved @@@@
+Metamako - FPGA Engineer
+>>>> https://jobs.lever.co/metamako/c8fc6eec-51bb-46b3-a8d2-2096265f21fb
+TC: Full-time ET: Full-time
+Sydney
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Sydney&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - FPGA Engineer
+>>>> https://jobs.lever.co/metamako/c8fc6eec-51bb-46b3-a8d2-2096265f21fb/apply
+TC: Full-time ET: Full-time
+Sydney
+## slept ##
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - Full Stack Developer
+>>>> https://jobs.lever.co/metamako/8afcb81d-554e-46a3-8a53-72d74987920f
+TC: Full-time ET: Full-time
+Sydney
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Sydney&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako
+>>>> https://jobs.lever.co/metamako?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako
+>>>> https://jobs.lever.co/metamako
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - Business Development Manager, Europe
+>>>> https://jobs.lever.co/metamako/d1810901-1fff-467e-a59b-36b28b3f4e24
+TC: Full-time ET: Full-time
+London
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=London&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako
+>>>> https://jobs.lever.co/metamako?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - Senior Sys Admin
+>>>> https://jobs.lever.co/metamako/2946e839-1d85-40e2-9b7a-91e4aad2473f
+TC: Full-time ET: Full-time
+Sydney
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Sydney&sensor=false&bounds=&region=&language=&components=
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - Support Manager
+>>>> https://jobs.lever.co/metamako/bb33d203-4d58-4905-9017-badc799d898f
+TC: Full-time ET: Full-time
+Sydney
+## slept ##
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - CSE Careers Expo Expressions of Interest
+>>>> https://jobs.lever.co/metamako/3939890f-d6f0-45d8-aebc-f0f7536172e4
+TC:  ET: doesnt_say
+Sydney
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - Full Stack Developer
+>>>> https://jobs.lever.co/metamako/8afcb81d-554e-46a3-8a53-72d74987920f/apply
+TC: Full-time ET: Full-time
+Sydney
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+Metamako - Senior Sys Admin
+>>>> https://jobs.lever.co/metamako/2946e839-1d85-40e2-9b7a-91e4aad2473f/apply
+TC: Full-time ET: Full-time
+Sydney
+## slept ##
+country: Australia coords -33.8688197 151.2092955
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: metamarkets ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Metamarkets - Full-Stack Software Engineer
+>>>> https://jobs.lever.co/metamarkets/1d3c0858-df80-48bf-ad02-606780a332cd
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamarkets - Full-Stack Software Engineer - Lever
+>>>> https://jobs.lever.co/metamarkets/1d3c0858-df80-48bf-ad02-606780a332cd/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamarkets
+>>>> https://jobs.lever.co/metamarkets
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamarkets - Lever
+>>>> https://jobs.lever.co/metamarkets?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamarkets - Lever
+>>>> https://jobs.lever.co/metamarkets?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamarkets
+>>>> https://jobs.lever.co/metamarkets?by=team&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamarkets
+>>>> https://jobs.lever.co/metamarkets?location=San%20Francisco%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Metamarkets - Lever
+>>>> https://jobs.lever.co/metamarkets?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: metavision ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+50 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+50 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+28 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+28 Listings + Empty Index
+@@@@ 28 Listings Saved @@@@
+Meta - Content Engineer
+>>>> https://jobs.lever.co/metavision/b42fb454-a3df-45e6-a96e-7566588b54e6
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Senior Camera Engineer
+>>>> https://jobs.lever.co/metavision/4524d2f9-ad53-4544-999e-18c3f56f3f12
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Sr. Software Engineer - SDK
+>>>> https://jobs.lever.co/metavision/27717490-1fd6-46b4-a156-b843e857f14a
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Meta - Customer Success Engineer
+>>>> https://jobs.lever.co/metavision/1cf06219-5674-43f5-9b3c-5bce8ea7a3f5
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Mateo%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Meta - Senior Firmware Engineer
+>>>> https://jobs.lever.co/metavision/9687a2de-1bfb-47b6-a587-c3739047db39
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Meta - Senior Electrical Engineer
+>>>> https://jobs.lever.co/metavision/cf8f2082-a3e5-4454-8286-61bdd4852884
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Mateo%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - SLAM Team Leader / (Sr.) Engineer
+>>>> https://jobs.lever.co/metavision/9bdf8f78-7c5d-476b-8fc1-aafcb21ded5d
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Hand Tracking Team Leader / (Sr.) Engineer
+>>>> https://jobs.lever.co/metavision/7c4a8171-63a2-4fd6-a524-7ce583f50c53
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Meta - Senior Mechanical Engineer
+>>>> https://jobs.lever.co/metavision/0c1e2620-4b3c-4974-a7fb-9f6b9d65a677/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Senior Firmware Engineer
+>>>> https://jobs.lever.co/metavision/086ef0cf-73f1-4533-a044-cc8393bbf882/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Senior Systems Software Engineer
+>>>> https://jobs.lever.co/metavision/f4afcb4d-a5ed-40d4-93ea-058df134f01b/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Mateo%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta
+>>>> https://jobs.lever.co/metavision/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta
+>>>> https://jobs.lever.co/metavision/?by=location&location=San%20Mateo%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta
+>>>> https://jobs.lever.co/metavision/?by=location&team=Hardware
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Meta
+>>>> https://jobs.lever.co/metavision/?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Meta - Software Developer - Workspace
+>>>> https://jobs.lever.co/metavision/283f3640-f481-4908-a47c-2393fa08be82
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Software Product Manager
+>>>> https://jobs.lever.co/metavision/cc8a27ae-9727-4cec-9f1e-b2c9af014461
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Product Manager, Hardware
+>>>> https://jobs.lever.co/metavision/b24de0c7-1f42-4683-92b0-084f457979c4
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Mateo%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Strategic Account Executive
+>>>> https://jobs.lever.co/metavision/2f7032d8-358b-4615-bac7-6f84f4f606bc
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Mateo%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Calibration Team Lead (Cameras, Sensors, Display)
+>>>> https://jobs.lever.co/metavision/71994ae8-cfa7-4d1b-ba28-08fbd8f06d00
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Developer Success Program Mgr IV
+>>>> https://jobs.lever.co/metavision/c4420b1b-36fc-4b93-9b8a-72e62484ed4f
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+Meta - Legal Counsel
+>>>> https://jobs.lever.co/metavision/a0681b86-f358-4679-9512-b2e655d5be18
+TC: Full-time ET: Full-time
+San Mateo, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Mateo%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: meteor ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+13 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+13 Listings + Empty Index
+@@@@ 13 Listings Saved @@@@
+Meteor Development Group - Open Source Engineer
+>>>> https://jobs.lever.co/meteor/5e11e6cf-5303-4c12-a3e7-11e5f8da4be1
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Front-end Application Engineer
+>>>> https://jobs.lever.co/meteor/959865c0-73b9-4938-91ec-ed69fabeec24
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Back-end Services Engineer
+>>>> https://jobs.lever.co/meteor/b8ec842e-e79a-455e-a665-b312892d946e
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Cloud Systems Engineer
+>>>> https://jobs.lever.co/meteor/9de2d23b-fd3c-421e-92b1-26203c60f1b1
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Open Source Engineer
+>>>> https://jobs.lever.co/meteor/5e11e6cf-5303-4c12-a3e7-11e5f8da4be1/apply
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group
+>>>> https://jobs.lever.co/meteor
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group
+>>>> https://jobs.lever.co/meteor?location=
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Product Manager
+>>>> https://jobs.lever.co/meteor/df91b724-8dc7-4f15-9beb-0554261c8379
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco&sensor=false&bounds=&region=&language=&components=
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Visual Designer
+>>>> https://jobs.lever.co/meteor/26d37886-ebcd-4e31-8c2d-5dd58471e5a5
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - UX Designer
+>>>> https://jobs.lever.co/meteor/e545fc3a-8cd2-4faf-8653-bf83d2e35a8b
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group
+>>>> https://jobs.lever.co/meteor?commitment=Intern
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Director, Demand Generation
+>>>> https://jobs.lever.co/meteor/30f49a8b-0895-43da-a034-c40988837819
+TC: Full-time ET: Full-time
+San Francisco
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+Meteor Development Group - Internships at MDG
+>>>> https://jobs.lever.co/meteor/248108a5-c05b-42d8-ae65-07bc0ca69438
+TC: Intern ET: Intern
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+*********************************************
+<Response [200]>
+XXXX 0 Clean Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

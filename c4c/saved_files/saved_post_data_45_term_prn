@@ -1,0 +1,1572 @@
+(venv) arias-Air:c4c nimda$ python3 2c4cQueryNoBadWordsCheck.py
+**** ROOT: stelligent ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Stelligent Systems, LLC - Senior DevOps Automation Engineer
+>>>> https://jobs.lever.co/stelligent/398bdc31-f62a-44e5-90c1-0d7d6d293f8e
+TC: Full-time ET: Full-time
+Any
+country: United States coords 30.32118789999999 -97.7005404
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Stelligent Systems, LLC - Senior DevOps Automation Engineer
+>>>> https://jobs.lever.co/stelligent/398bdc31-f62a-44e5-90c1-0d7d6d293f8e/apply
+TC: Full-time ET: Full-time
+Any
+country: United States coords 30.32118789999999 -97.7005404
+*********************************************
+<Response [200]>
+Stelligent Systems, LLC
+>>>> https://jobs.lever.co/stelligent
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.32118789999999 -97.7005404
+*********************************************
+<Response [200]>
+Stelligent Systems, LLC - Lever
+>>>> https://jobs.lever.co/stelligent?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.32118789999999 -97.7005404
+*********************************************
+<Response [200]>
+XXXX 4 Listings Posted XXXX
+**** ROOT: stevenstransport ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: stockpile ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Stockpile - Frontend Engineer
+>>>> https://jobs.lever.co/stockpile/1639d480-34f7-4bac-bf5e-6d1a32b638f7
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile - Growth Hacker / Engineer
+>>>> https://jobs.lever.co/stockpile/717323d2-746e-4d85-8383-c99142a5a4ad
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile - Full stack Engineer
+>>>> https://jobs.lever.co/stockpile/1691d2a1-79c8-4b81-8b63-512b4f78d514
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile - Backend Engineer
+>>>> https://jobs.lever.co/stockpile/ac71aaf9-c1ed-4e07-8043-28f67d1b2fdc/apply
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile
+>>>> https://jobs.lever.co/stockpile
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile
+>>>> https://jobs.lever.co/stockpile?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile - Director of Risk Operations
+>>>> https://jobs.lever.co/stockpile/b0257d3d-ff27-421f-aac3-a79be21e6581
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile - Data Scientist
+>>>> https://jobs.lever.co/stockpile/78409405-aa75-4e79-a165-b21762e5e4bf
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Stockpile - Visual Designer
+>>>> https://jobs.lever.co/stockpile/e3bdba6f-2017-4c7c-aab3-1c01b1e3f598
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+XXXX 9 Listings Posted XXXX
+**** ROOT: streetcontxt ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Street Contxt
+>>>> https://jobs.lever.co/streetcontxt?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Street Contxt - Client Services Advisor
+>>>> https://jobs.lever.co/streetcontxt/1fb45426-a608-4e60-8ac3-21167bde55a6
+TC: Full-time ET: Full-time
+Toronto
+country: Canada coords 43.653226 -79.3831843
+*********************************************
+<Response [200]>
+Street Contxt - Sales Executive
+>>>> https://jobs.lever.co/streetcontxt/b115a56f-a230-4481-b094-dbf5efb5de56
+TC: Full-time ET: Full-time
+Toronto
+country: Canada coords 43.653226 -79.3831843
+*********************************************
+<Response [200]>
+XXXX 3 Listings Posted XXXX
+**** ROOT: studypoint ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: successacademy ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+95 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+95 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+95 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+32 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+32 Listings + Empty Index
+@@@@ 32 Listings Saved @@@@
+Success Academy Charter Schools - Senior Network Engineer
+>>>> https://jobs.lever.co/successacademy/c8713dd0-9913-40c6-a7a3-bb3b431419fb
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Data Engineer
+>>>> https://jobs.lever.co/successacademy/25e579bd-a93f-40a7-9092-1b716101cbe2
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Senior Network Engineer
+>>>> https://jobs.lever.co/successacademy/c8713dd0-9913-40c6-a7a3-bb3b431419fb/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools
+>>>> https://jobs.lever.co/successacademy?by=commitment&team=Central%20Network%20Office
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools
+>>>> https://jobs.lever.co/successacademy?_ga=1.149923638.1024563419.1474551690&team=Central%20Network%20Office
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools
+>>>> https://jobs.lever.co/successacademy?_ga=1.149923638.1024563419.1474551690
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Director of Data Management ...
+>>>> https://jobs.lever.co/successacademy/740936e8-71ba-44e4-b54a-484d6a5608b6
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - High School Science Teacher
+>>>> https://jobs.lever.co/successacademy/1ebde045-cb61-476d-948d-697611a2620c
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Success Academy Charter Schools - Queens Elementary School ...
+>>>> https://jobs.lever.co/successacademy/a1e7248a-beae-4b98-8e69-f6ea3b2c6331/apply?ga=undefined
+TC: Full-time ET: Full-time
+Queens, NY
+country: United States coords 40.7282239 -73.7948516
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Education Institute Business ...
+>>>> https://jobs.lever.co/successacademy/d60b348b-4fb1-458c-8675-db0b6c7703d3/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Director of College Access and ...
+>>>> https://jobs.lever.co/successacademy/e21e764f-5ad7-4540-a79a-9ca3138b6056/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Success Academy Charter Schools - Kindergarten Teacher
+>>>> https://jobs.lever.co/successacademy/37a1a12e-32fc-47dd-840e-52c41c1a21ab/apply?lever-source=themuse
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - School Management Associate
+>>>> https://jobs.lever.co/successacademy/b0449cc0-6720-49f1-8aa5-e78c4d48cde9/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Science Curriculum and ...
+>>>> https://jobs.lever.co/successacademy/94f7ebf5-3435-4656-b823-9bf2234a8ea9/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Success Academy Charter Schools - High School Education Manager
+>>>> https://jobs.lever.co/successacademy/4a9cc5e0-6770-45e5-97dc-b0e73b6e097c/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Sourcing & Logistics Food ...
+>>>> https://jobs.lever.co/successacademy/c152c520-4d60-4af1-90b1-02dfecd72541/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Elementary School ICT Special ...
+>>>> https://jobs.lever.co/successacademy/f911a4ea-9a5f-45ee-ac23-e88ab83ac152/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Brooklyn School Psychologist
+>>>> https://jobs.lever.co/successacademy/55f8977d-b24b-4e7b-9ba5-0439ea2c8916/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - High School Spanish Teacher
+>>>> https://jobs.lever.co/successacademy/6fbfcfc8-16c6-4072-8b25-cffe4e85402d/apply?ga=undefined
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Bronx School Psychologist
+>>>> https://jobs.lever.co/successacademy/f270d464-3da1-4f0d-bfbb-128ab548cee4/apply?ga=undefined
+TC: Full-time ET: Full-time
+Bronx, NY
+country: United States coords 40.8447819 -73.8648268
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - High​ ​School​ ​Dean​ ​of ...
+>>>> https://jobs.lever.co/successacademy/d2cc1f01-18a5-4feb-98b3-d281ebd579e8/apply
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Chess Teacher
+>>>> https://jobs.lever.co/successacademy/0693fb42-9b5e-4cf3-aee5-f282fb585ad1/apply?lever-source=themuse
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Success Academy Charter Schools - Queens Chess Teacher
+>>>> https://jobs.lever.co/successacademy/597a2860-985c-4c61-ad10-d1f3a9aa403b/apply?lever-source=themuse
+TC: Part-time ET: Part-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+XXXX 23 Listings Posted XXXX
+**** ROOT: suddencoffee ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+Sudden Coffee
+>>>> https://jobs.lever.co/suddencoffee
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Sudden Coffee - Lever
+>>>> https://jobs.lever.co/suddencoffee?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+XXXX 2 Listings Posted XXXX
+**** ROOT: sunbasket ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Sun Basket - Full Stack Engineer - Java
+>>>> https://jobs.lever.co/sunbasket/a17156eb-6ae3-4d58-83b9-820dc2586e1a
+TC: Full-time ET: Full-time
+San Francisco, California
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Sun Basket - Full Stack Engineer - Java
+>>>> https://jobs.lever.co/sunbasket/a17156eb-6ae3-4d58-83b9-820dc2586e1a/apply
+TC: Full-time ET: Full-time
+San Francisco, California
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Sun Basket - Head of Engineering
+>>>> https://jobs.lever.co/sunbasket/b76675c2-2959-410a-ad84-2f7a5b3de0f9
+TC: Full-time ET: Full-time
+San Francisco, California
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Sun Basket
+>>>> https://jobs.lever.co/sunbasket
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Sun Basket - Head of Personalization
+>>>> https://jobs.lever.co/sunbasket/cd587f03-56c9-43ea-8f73-8d0dafa0089c
+TC: Full-time ET: Full-time
+San Francisco, California
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 5 Listings Posted XXXX
+**** ROOT: superfuture ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Superfuture Labs - QA Engineer
+>>>> https://jobs.lever.co/superfuture/7c5ab003-9b31-45fc-892d-6ec058d31e2a
+TC: Full-time ET: Full-time
+Palo Alto, California
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Superfuture Labs - Android Engineer
+>>>> https://jobs.lever.co/superfuture/b371e6f2-b706-4c07-9fd1-264c95f6a4f7
+TC: Full-time ET: Full-time
+Palo Alto, California
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Superfuture Labs - iOS Engineer - Lever
+>>>> https://jobs.lever.co/superfuture/35a9b551-df38-42a7-8d83-eaee09ecff6a/apply
+TC: Full-time ET: Full-time
+Palo Alto, California
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Superfuture Labs
+>>>> https://jobs.lever.co/superfuture
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Superfuture Labs
+>>>> https://jobs.lever.co/superfuture?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Superfuture Labs - Product Designer
+>>>> https://jobs.lever.co/superfuture/51714f92-7eef-422a-a81e-f397b1669740
+TC: Full-time ET: Full-time
+Palo Alto, California
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Superfuture Labs - Project Manager
+>>>> https://jobs.lever.co/superfuture/7119e1bc-7eec-437e-9989-f4c0bbf35da2
+TC: Full-time ET: Full-time
+Palo Alto, California
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: swirl ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+1 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+1 Listings + Empty Index
+@@@@ 1 Listings Saved @@@@
+Swirl - Product Manager
+>>>> https://jobs.lever.co/swirl/0ba09754-b036-4ce9-88bd-ec712494227b
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 1 Listings Posted XXXX
+**** ROOT: system1 ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+28 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+28 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+26 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+26 Listings + Empty Index
+@@@@ 26 Listings Saved @@@@
+System1 - DevOps Engineer
+>>>> https://jobs.lever.co/system1/b985d63d-6e61-4b73-b08f-9c5c353aeb5a
+TC: Full-time ET: Full-time
+Bellevue, WA
+country: United States coords 47.6101497 -122.2015159
+*********************************************
+<Response [200]>
+System1 - Front End Engineer
+>>>> https://jobs.lever.co/system1/c358b94c-4c65-4651-9ac6-84254fe1de2e
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Senior Software Engineer
+>>>> https://jobs.lever.co/system1/d94c450b-da6f-465e-a6a7-796a03f9dc7b
+TC: Full-time ET: Full-time
+Bellevue, WA
+country: United States coords 47.6101497 -122.2015159
+*********************************************
+<Response [200]>
+System1 - Data Engineer
+>>>> https://jobs.lever.co/system1/874d0de7-b70d-4f3f-9fda-872430cf62db
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Software Engineer
+>>>> https://jobs.lever.co/system1/f9420ad3-f5e7-4b92-93d0-0a095fa38276
+TC: Full-time ET: Full-time
+Bellevue, WA
+country: United States coords 47.6101497 -122.2015159
+*********************************************
+<Response [200]>
+System1 - Data Engineer
+>>>> https://jobs.lever.co/system1/874d0de7-b70d-4f3f-9fda-872430cf62db/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - DevOps Engineer
+>>>> https://jobs.lever.co/system1/98f3de21-d010-4cdf-b4e2-a340996ad4d4
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Site Reliability Engineer
+>>>> https://jobs.lever.co/system1/c6e6b4a7-4ab8-4b45-8b9c-e9b0e716f206
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Front End Engineer (Extensions)
+>>>> https://jobs.lever.co/system1/60c3607e-d5e3-4acf-b335-b4eb9d736b3f
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Back End Engineer
+>>>> https://jobs.lever.co/system1/a2612066-fef4-458c-b216-19b276e81ba6/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - DevOps Engineer
+>>>> https://jobs.lever.co/system1/98f3de21-d010-4cdf-b4e2-a340996ad4d4/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - DevOps Engineer
+>>>> https://jobs.lever.co/system1/b985d63d-6e61-4b73-b08f-9c5c353aeb5a/apply
+TC: Full-time ET: Full-time
+Bellevue, WA
+country: United States coords 47.6101497 -122.2015159
+*********************************************
+<Response [200]>
+System1 - Senior Software Engineer (Python)
+>>>> https://jobs.lever.co/system1/bc066b54-3fbe-4353-ae1b-be37f43ced2c/apply
+TC: Full-time ET: Full-time
+Bellevue, WA
+country: United States coords 47.6101497 -122.2015159
+*********************************************
+<Response [200]>
+System1 - Senior Data Pipeline Engineer
+>>>> https://jobs.lever.co/system1/6c0f2955-9742-4302-a4c5-8c40cca75bf2
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Senior Software Engineer (Python)
+>>>> https://jobs.lever.co/system1/46b7b99f-18d1-47c5-bd3f-6c4009e073e6
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Front End Engineer
+>>>> https://jobs.lever.co/system1/c358b94c-4c65-4651-9ac6-84254fe1de2e/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Front End Engineer (Extensions)
+>>>> https://jobs.lever.co/system1/60c3607e-d5e3-4acf-b335-b4eb9d736b3f/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Senior Data Pipeline Engineer
+>>>> https://jobs.lever.co/system1/6c0f2955-9742-4302-a4c5-8c40cca75bf2/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Software Engineer
+>>>> https://jobs.lever.co/system1/f9420ad3-f5e7-4b92-93d0-0a095fa38276/apply
+TC: Full-time ET: Full-time
+Bellevue, WA
+country: United States coords 47.6101497 -122.2015159
+*********************************************
+<Response [200]>
+System1 - Senior Software Engineer (Python)
+>>>> https://jobs.lever.co/system1/46b7b99f-18d1-47c5-bd3f-6c4009e073e6/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Site Reliability Engineer
+>>>> https://jobs.lever.co/system1/c6e6b4a7-4ab8-4b45-8b9c-e9b0e716f206/apply
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Architect, Data Warehouse
+>>>> https://jobs.lever.co/system1/eae82bb0-1801-4ca2-ba4c-dd2cd66fc261
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Principal Data Scientist
+>>>> https://jobs.lever.co/system1/4061851b-474c-48bb-953e-d54f9a06fd16
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Director of Product, Consumer Applications
+>>>> https://jobs.lever.co/system1/00eea757-3ff9-40e7-a624-edb372d265c1
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+System1 - Recruiting Manager
+>>>> https://jobs.lever.co/system1/c61b7868-cc93-4d1c-bf9e-6ea568e7659a
+TC: Full-time ET: Full-time
+Venice, CA
+country: United States coords 33.9850469 -118.4694832
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 25 Listings Posted XXXX
+**** ROOT: systemsalliance ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Systems Alliance, Inc. - Technical Support Engineer
+>>>> https://jobs.lever.co/systemsalliance/8db6564c-017c-4f81-be74-b2b6375742e2
+TC: Full-time ET: Full-time
+Hunt Valley, MD
+country: United States coords 39.4900013 -76.65850739999999
+*********************************************
+<Response [200]>
+Systems Alliance, Inc. - Technical Support Engineer
+>>>> https://jobs.lever.co/systemsalliance/8db6564c-017c-4f81-be74-b2b6375742e2/apply
+TC: Full-time ET: Full-time
+Hunt Valley, MD
+country: United States coords 39.4900013 -76.65850739999999
+*********************************************
+<Response [200]>
+Systems Alliance, Inc.
+>>>> https://jobs.lever.co/systemsalliance
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.4900013 -76.65850739999999
+*********************************************
+<Response [200]>
+XXXX 3 Listings Posted XXXX
+**** ROOT: tallwave.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+Tallwave - Technical Project Manager
+>>>> https://jobs.lever.co/tallwave.com/1b50e29b-29ad-441c-bd18-afb1d04a5b04
+TC: Full-time ET: Full-time
+Scottsdale, AZ
+country: United States coords 33.4941704 -111.9260519
+*********************************************
+<Response [200]>
+Tallwave - Sr. Designer
+>>>> https://jobs.lever.co/tallwave.com/4261d1eb-d306-4606-b7ba-a1db6e90580e
+TC: Full-time ET: Full-time
+Scottsdale, AZ
+country: United States coords 33.4941704 -111.9260519
+*********************************************
+<Response [200]>
+XXXX 2 Listings Posted XXXX
+**** ROOT: tally ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+11 Listings + Empty Index
+@@@@ 11 Listings Saved @@@@
+Tally - Senior Platform Engineer
+>>>> https://jobs.lever.co/tally/4f6b044f-9110-4d2e-bbb5-ba7cea2700ac
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Sr. Operations Engineer
+>>>> https://jobs.lever.co/tally/aa548f94-9e51-4662-a7c2-864775577998
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Platform Engineer
+>>>> https://jobs.lever.co/tally/dce2f97c-7957-4cd2-b179-09bd3c813ede
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Lead Android Engineer
+>>>> https://jobs.lever.co/tally/599ebf1b-d316-4979-8e34-0e034a1f4a4f
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Lead iOS Engineer
+>>>> https://jobs.lever.co/tally/800a3605-1969-4a16-a28a-f5cccaac3b9c
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Sr. Data Engineer
+>>>> https://jobs.lever.co/tally/c928ed33-7094-4d64-aeec-90be467148ad
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Sr. Operations Engineer
+>>>> https://jobs.lever.co/tally/aa548f94-9e51-4662-a7c2-864775577998/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Sr. Data Engineer
+>>>> https://jobs.lever.co/tally/c928ed33-7094-4d64-aeec-90be467148ad/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally
+>>>> https://jobs.lever.co/tally?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally
+>>>> https://jobs.lever.co/tally?by=location&location=San%20Francisco%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tally - Customer Success Manager
+>>>> https://jobs.lever.co/tally/3610c45a-4094-410b-a694-10c2373afce7
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 11 Listings Posted XXXX
+**** ROOT: tamr ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Tamr - Senior Sales Engineer - Pre-sales
+>>>> https://jobs.lever.co/tamr/22248b8b-5ad9-455d-a465-f8ffb5bc5b19
+TC: Full-time ET: Full-time
+Boston, MA & San Francisco, CA
+country: United States coords 42.3656132 -71.0095602
+*********************************************
+<Response [200]>
+Tamr - Analytics Sales Engineer
+>>>> https://jobs.lever.co/tamr/ff60fd89-7680-4d96-bfe6-cb7849b75d3d
+TC: Full-time ET: Full-time
+Boston, MA & San Francisco, CA
+country: United States coords 42.3656132 -71.0095602
+*********************************************
+<Response [200]>
+Tamr - Analytics Sales Engineer
+>>>> https://jobs.lever.co/tamr/ff60fd89-7680-4d96-bfe6-cb7849b75d3d/apply
+TC: Full-time ET: Full-time
+Boston, MA & San Francisco, CA
+country: United States coords 42.3656132 -71.0095602
+*********************************************
+<Response [200]>
+Tamr
+>>>> https://jobs.lever.co/tamr
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3656132 -71.0095602
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 4 Listings Posted XXXX
+**** ROOT: tapfwd ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Tapfwd - Back-End Engineer
+>>>> https://jobs.lever.co/tapfwd/473a5eec-fcc9-4d4f-9dc3-4df89717c3c0
+TC: Full Time ET: Full Time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapfwd - Full-Stack Engineer
+>>>> https://jobs.lever.co/tapfwd/e752e7b1-4097-421a-b408-72c0fdcffcd1
+TC: Full Time ET: Full Time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapfwd - Back-End Engineer
+>>>> https://jobs.lever.co/tapfwd/473a5eec-fcc9-4d4f-9dc3-4df89717c3c0/apply?lever-source=Website
+TC: Full Time ET: Full Time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapfwd - Lever
+>>>> https://jobs.lever.co/tapfwd
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapfwd - Lever
+>>>> https://jobs.lever.co/tapfwd?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapfwd
+>>>> https://jobs.lever.co/tapfwd?by=location&commitment=Full%20Time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapfwd - Lever
+>>>> https://jobs.lever.co/tapfwd?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: tapingo ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+25 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+25 Listings + Empty Index
+@@@@ 25 Listings Saved @@@@
+HTTP Error 404: Not Found
+Tapingo - Backend Engineer
+>>>> https://jobs.lever.co/tapingo/5fa6671d-be3f-443c-80c6-8620d16d8b16
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo - Site Reliability Engineer
+>>>> https://jobs.lever.co/tapingo/ecdbc714-a04d-4188-aa36-b90a469d95f3
+TC: Full-time ET: Full-time
+San Francisco (flexible)
+country: United States coords 37.794883 -122.399813
+*********************************************
+<Response [200]>
+Tapingo - Full Stack Engineer
+>>>> https://jobs.lever.co/tapingo/c377f438-ea4e-4575-935e-fc66c3013a53
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapingo - Full Stack Engineer
+>>>> https://jobs.lever.co/tapingo/66f1184e-9650-48a6-bc8f-e0e737066013
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo - Data Science & Algorithms Engineer
+>>>> https://jobs.lever.co/tapingo/e981e840-1be9-4556-be53-70108131d9c3
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Tapingo - Full Stack Engineer
+>>>> https://jobs.lever.co/tapingo/c377f438-ea4e-4575-935e-fc66c3013a53/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapingo - Site Reliability Engineer
+>>>> https://jobs.lever.co/tapingo/ecdbc714-a04d-4188-aa36-b90a469d95f3/apply
+TC: Full-time ET: Full-time
+San Francisco (flexible)
+country: United States coords 37.794883 -122.399813
+*********************************************
+<Response [200]>
+Tapingo - Backend Engineer
+>>>> https://jobs.lever.co/tapingo/283e9f43-29e6-4fb4-9181-3d4a3fb143e0/apply
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo - Full Stack Engineer
+>>>> https://jobs.lever.co/tapingo/66f1184e-9650-48a6-bc8f-e0e737066013/apply
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Tapingo - Team Lead - Engineering Infrastructure
+>>>> https://jobs.lever.co/tapingo/003ed00c-754f-4324-9b04-fd607ff59c5c
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo
+>>>> https://jobs.lever.co/tapingo
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo - BI Developer
+>>>> https://jobs.lever.co/tapingo/ff81f80a-6526-44fb-b72a-6424219553af
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo - Team Lead - Engineering Infrastructure
+>>>> https://jobs.lever.co/tapingo/003ed00c-754f-4324-9b04-fd607ff59c5c/apply?lever-source=themuse
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo - Engineering Team Lead - Data Science & Algorithms
+>>>> https://jobs.lever.co/tapingo/e981e840-1be9-4556-be53-70108131d9c3/apply
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Engineering (San Francisco)
+>>>> https://jobs.lever.co/tapingo?by=team&location=National%20(flexible)&commitment=Full-time&team=Engineering%20(San%20Francisco)
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo - Product Manager
+>>>> https://jobs.lever.co/tapingo/fb3ae85a-964c-4333-b8be-183a7f2fe357
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapingo - Strategic Partner Manager (San Francisco)
+>>>> https://jobs.lever.co/tapingo/87cf3a4f-966e-424b-8322-866e2a809f8c
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapingo - Senior Manager, Retention Marketing
+>>>> https://jobs.lever.co/tapingo/dc72282b-ffa4-46fa-87db-ee9430838868
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Tapingo - BI Developer
+>>>> https://jobs.lever.co/tapingo/ff81f80a-6526-44fb-b72a-6424219553af/apply
+TC: Full-time ET: Full-time
+Tel Aviv
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo
+>>>> https://jobs.lever.co/tapingo?by=team&team=Product
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo
+>>>> https://jobs.lever.co/tapingo?team=Business%20Development
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+Tapingo
+>>>> https://jobs.lever.co/tapingo?team=Operations
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Israel coords 32.0852999 34.78176759999999
+*********************************************
+<Response [200]>
+XXXX 22 Listings Posted XXXX
+**** ROOT: tbwachiatday ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: tcs-e ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+TCS E-COM (Pvt.) Ltd - DevOPS Engineer
+>>>> https://jobs.lever.co/tcs-e/aac8deb7-976a-4f0f-9e0e-ce586f9c33ff
+TC: Full-time ET: Full-time
+Karachi
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - Software Engineer - Lever
+>>>> https://jobs.lever.co/tcs-e/cf060134-24f3-4cc0-9714-9928448a8c63
+TC: Full-time ET: Full-time
+Karachi
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - Senior Software Engineer
+>>>> https://jobs.lever.co/tcs-e/039ca910-db68-4579-b18a-f708deeef30e
+TC: Full-time ET: Full-time
+Karachi
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - DevOPS Engineer
+>>>> https://jobs.lever.co/tcs-e/aac8deb7-976a-4f0f-9e0e-ce586f9c33ff/apply
+TC: Full-time ET: Full-time
+Karachi
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - Senior Software Engineer - Lever
+>>>> https://jobs.lever.co/tcs-e/039ca910-db68-4579-b18a-f708deeef30e/apply
+TC: Full-time ET: Full-time
+Karachi
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - Software Engineer
+>>>> https://jobs.lever.co/tcs-e/cf060134-24f3-4cc0-9714-9928448a8c63/apply
+TC: Full-time ET: Full-time
+Karachi
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd
+>>>> https://jobs.lever.co/tcs-e
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - Lever
+>>>> https://jobs.lever.co/tcs-e?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - Lever
+>>>> https://jobs.lever.co/tcs-e?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+TCS E-COM (Pvt.) Ltd - Business Analyst
+>>>> https://jobs.lever.co/tcs-e/faaa865d-96b5-4aea-b6f2-be7ed5a6db96
+TC: Full-time ET: Full-time
+Karachi
+country: Pakistan coords 24.8614622 67.0099388
+*********************************************
+<Response [200]>
+XXXX 10 Listings Posted XXXX
+**** ROOT: tealdrones ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Teal - Android Engineer
+>>>> https://jobs.lever.co/tealdrones/2ba23357-ca06-4e05-a8cf-bba5d633c239
+TC: Full-time ET: Full-time
+Salt Lake City, UT
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal - QA Engineer
+>>>> https://jobs.lever.co/tealdrones/94ea5221-6373-4e2e-8cb3-40f2b0b4fdd5
+TC: Part-time ET: Part-time
+Salt Lake City, UT
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal - QA Engineer
+>>>> https://jobs.lever.co/tealdrones/94ea5221-6373-4e2e-8cb3-40f2b0b4fdd5/apply
+TC: Part-time ET: Part-time
+Salt Lake City, UT
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal
+>>>> https://jobs.lever.co/tealdrones
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal - CUDA Developer
+>>>> https://jobs.lever.co/tealdrones/6c19a50a-02d0-4312-8137-eb508e388879
+TC: Full-time ET: Full-time
+Salt Lake City, UT
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal - Lever
+>>>> https://jobs.lever.co/tealdrones?location=Salt%20Lake%20City%2C%20UT
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal - Lever
+>>>> https://jobs.lever.co/tealdrones?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal - Lever
+>>>> https://jobs.lever.co/tealdrones?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+Teal - Product Manager, Software Applications
+>>>> https://jobs.lever.co/tealdrones/01de94a6-2632-457a-9c7a-88739eb6a31e
+TC: Full-time ET: Full-time
+Salt Lake City, UT
+country: United States coords 40.7607793 -111.8910474
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 9 Listings Posted XXXX
+**** ROOT: teamable ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Teamable
+>>>> https://jobs.lever.co/teamable
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Teamable - Senior Python/Django developer
+>>>> https://jobs.lever.co/teamable/b85b9f72-ee4c-46fd-9cad-10affe67196c
+TC: Full-time ET: Full-time
+Yerevan, Armenia
+country: Armenia coords 40.1791857 44.4991029
+*********************************************
+<Response [200]>
+Teamable - Product Manager TEST TEST
+>>>> https://jobs.lever.co/teamable/8d5df1ee-4626-47f0-8305-4e08c6914b6f
+TC: Full-time ET: Full-time
+Yerevan, Armenia
+country: Armenia coords 40.1791857 44.4991029
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Teamable - Lever
+>>>> https://jobs.lever.co/teamable?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Armenia coords 40.1791857 44.4991029
+*********************************************
+<Response [200]>
+XXXX 4 Listings Posted XXXX
+**** ROOT: techteamlabs ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+17 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+15 Listings + Empty Index
+@@@@ 15 Listings Saved @@@@
+HTTP Error 404: Not Found
+KEYPR - Senior Test Engineer
+>>>> https://jobs.lever.co/techteamlabs/5474701d-fa9d-4c7f-bfd8-fd218acea0f0
+TC: Full-time ET: Full-time
+Kyiv
+country: Ukraine coords 50.4501 30.5234
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+KEYPR - Senior Web Application Engineer
+>>>> https://jobs.lever.co/techteamlabs/32e3fd22-b364-4ae4-a60b-1e68e8c108e5
+TC: Full-time ET: Full-time
+Kyiv
+country: Ukraine coords 50.4501 30.5234
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+KEYPR
+>>>> https://jobs.lever.co/techteamlabs?by=location&location=Kyiv
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Ukraine coords 50.4501 30.5234
+*********************************************
+<Response [200]>
+KEYPR
+>>>> https://jobs.lever.co/techteamlabs
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Ukraine coords 50.4501 30.5234
+*********************************************
+<Response [200]>
+KEYPR
+>>>> https://jobs.lever.co/techteamlabs?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Ukraine coords 50.4501 30.5234
+*********************************************
+<Response [200]>
+KEYPR
+>>>> https://jobs.lever.co/techteamlabs?by=location&team=Platform
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Ukraine coords 50.4501 30.5234
+*********************************************
+<Response [200]>
+XXXX 6 Listings Posted XXXX
+**** ROOT: telmate ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+13 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Telmate - DevOps Engineer
+>>>> https://jobs.lever.co/telmate/ee721f1b-c329-49cb-807a-72a3e1878c1e
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Telmate - Test Automation Engineer
+>>>> https://jobs.lever.co/telmate/d361e418-e573-4b45-84ad-f54bec96bc8b
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Telmate - Senior Mobile Engineer
+>>>> https://jobs.lever.co/telmate/7356ec04-84ca-4db8-810a-562ac67312da
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Telmate - DevOps Engineer
+>>>> https://jobs.lever.co/telmate/ee721f1b-c329-49cb-807a-72a3e1878c1e/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Telmate
+>>>> https://jobs.lever.co/telmate
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Telmate - Senior Product Manager
+>>>> https://jobs.lever.co/telmate/5fcbe124-93b1-4074-9ad6-4024f80094d3
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Telmate - UX Researcher & Designer
+>>>> https://jobs.lever.co/telmate/4fb54032-991d-474a-9a00-28a60fa90a84
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Telmate - Senior Ruby on Rails Developer
+>>>> https://jobs.lever.co/telmate/035f99e5-3980-42dc-9aa1-61267c0bce28
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 8 Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

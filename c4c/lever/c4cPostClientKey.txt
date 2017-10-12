@@ -1,0 +1,128 @@
+? > +software +engineer +developer +programmer 'by specialty'
+# what other ways to ? for software type
+['spacious']
+
+----
+
+???.['brightedge', 'blendlabs', 'voleon']
+
+xxx.['twitch','creditkarma']
+
+1.['chanzuckerberg','everlaw','button','drawbridge','duolingo','myemma','upserve','abacus']
+
+2.['luminartech','ginkgobioworks','opendoor','convoy','neuralink','forwardnetworks','indiegogo.com','moxehealth','rover','radius']
+
+3.['openai','skillshare','cloudhealthtech','eventbrite','klaviyo','zerostack','nava','amplitude','netflix','updox','palantir','udemy','datanyze','clara','sparkfund','affirm','skurt','straighterline','doubledutch','eatsa.com']
+
+4.['goat','aeratechnology','chain','yelp','rigetti','descarteslabs.com','bluecore','help.com','udacity','latticehq','buoyant','vevo','collabora','unu','moogsoft','paytm','theladders','boomtownroi.com','tachyus','opengov']
+
+############## split due to geocoder over limit issue ##################
+5.['meetgroup','flipagram','takescoop','light','node','quantcast','transfix','boomtownroi','yourmechanic','addepar','socialcops','signalfx','visby','wishabi','tangibleplay','appdirect','shapertools','tempoautomation','alation','tunein']
+
+5a.['meetgroup','flipagram','takescoop','light','node']
+5b.['quantcast']
+5c.['transfix','boomtownroi','yourmechanic','addepar','socialcops','signalfx','visby','wishabi','tangibleplay','appdirect','shapertools','tempoautomation','alation','tunein']
+############## split due to geocoder over limit issue ##################
+
+6.['chartio','bcg','looker','mailchannels','nylas','animoto','vts','machinezone','shift','tubularlabs','medallia','brandverity','sonatype','aurorasolar','jmawireless','retentionscience','carbon','altspace','laurelandwolf','flyzipline']
+
+7.['apartmentlist','clearslide','grandrounds','faradayfuture','socialtables','circle','sigopt','outpostgames','lucid','notablelabs','smarking','euclidanalytics','codecademy','instructure','hvmn','bloc','swift-nav','leapyear','area1security','rigup']
+
+8.['axoni','spreemo.com','thrivemarket','houzz','launchdarkly','skydio','keeptruckin','moo','docenthealth.com','kraken','light.house','codefights','zenreach.com','grove','knewton','reflektive.com','rocketlawyer','kasasa','matterport','turbonomic']
+
+############## split due to ??????? issue ##################
+9.['scoot','adaptly','patientping.com','lumosity','loggi','canva','r3.com','bluelabs','realscout','tradeshift','aftership','stratim','autopilothq','point','lytro','redowl','moneylion','blispay.com','zoox','carbonrobotics']
+
+9a.'scoot','adaptly','patientping.com','lumosity','loggi','canva','r3.com','bluelabs','realscout']
+9b.['tradeshift','aftership','stratim','autopilothq','point','lytro','redowl','moneylion','blispay.com','zoox','carbonrobotics']
+############## split due to geocoder over limit issue ##################
+
+10.['interana','ring','plaid','close.io','brigade','salsify','snowflake','cibotechnologies','usewheelhouse','symphonycommerce','do','fiscalnote','jawbonehealth','isl','max','databricks','lalamove','claralabs','pivotalcommware','betterdoctor']
+
+11.['medium','frame.io','ascend.io','kounta','varomoney','dessertlabs','coursera','simberobotics.com','broadly','formswift','audiblemagic','quora','split','wish','thinair','schibsted','nextcaller','scalablepress','hicharlie.co','zuora']
+
+12.['zignallabs','mobcrush','tivix','academia','genovatech','dremio','cloudlock','calm','axon','modcloth','progressly','neumob','perpetualabs.com','mythic-ai.com','easypost','counsyl','reifyhealth','ticktock','livongo','stridehealth']
+
+13.['markforged','homesuite','token','dopplerlabs','kensho','lever','gigster','plethora','r3cev.com','solvvy','otto','nextev','kittyhawk.aero']
+
+----- 1st POST 10.04.17 -----------------------------------------------------
+
+14.['1776', '21', '270strategies', '3dhubs', '3pillarglobal', '7geese', '90seconds', '98point6', '99taxis', '9gag', 'a16z', 'accion-systems', 'acquirent', 'activecampaign', 'addo', 'adello', 'aechelon', 'affectmentalhealth', 'affinity', 'agentiq']
+15.['ahalogy', 'aira', 'airtasker', 'algolia', 'alluxio', 'amaro', 'ambassador', 'anchore', 'anduintransact', 'annex88', 'anomali', 'anotherco', 'anovaculinary', 'ansatzcapital', 'appacademy', 'appuri', 'appway', 'aproplan', 'aptible', 'aquicore']
+16.['arcteryx.com', 'armory', 'aronsonllc', 'arrivelogistics', 'askfavor', 'askspoke', 'astranis', 'asus', 'atg', 'atomic', 'atomtickets.com', 'atrium', 'atscale', 'audible', 'augmedix', 'auth0', 'automatticdesign', 'ava', 'avant', 'avasis.com']
+17.['avecto', 'avia', 'awake-security', 'backerkit', 'backstage', 'badoo', 'bamcommunications', 'baoinc', 'barefootproximity', 'barkleyus', 'bastille', 'bazaarvoice', 'beaconhome', 'behalf', 'bellhops', 'bericotechnologies', 'bestmile', 'betable', 'bigfootbiomedical', 'bighealth']
+18.['bigscreenvr', 'billshark', 'biodigital', 'bitnami', 'bizzabo.com', 'blackstormlabs', 'blinkhealth', 'bloomthat', 'bluebottlecoffee', 'blueengine', 'blueowl', 'blueprint-income', 'bluevine', 'blur', 'boats', 'bodyport', 'bolt', 'bombfell', 'bondstreet', 'bonfirestudios', 'boom']
+19.['booodl', 'boostedboards', 'borrowedandblue', 'bpmcpa', 'brain-fm', 'branch.co', 'brand-knew', 'brandandcelebrities', 'bridg', 'bridgeathletic', 'brightbytes', 'brightcellars', 'brighthealthplan', 'brightlink', 'brightonjones', 'brighttalk', 'britecore.com', 'brooksrunning', 'buckmason', 'bugsnag']
+20.['buildbunker', 'buildzoom', 'bustle', 'bvaccel', 'bwconsult', 'cabin', 'cafexapp.com', 'calentipartners.com', 'call9', 'camberview', 'canvas.technology', 'capio', 'capitalfloat', 'capsulecares', 'captiveaire', 'carepayment.com', 'careskore', 'carrot', 'carrotsense', 'carusoaffiliated']
+21.['casetext', 'cask', 'castleglobal', 'chai', 'change', 'chatbooks.com', 'chefd', 'chexology', 'chironhealth', 'chownow', 'cic', 'circleci', 'circlemedical', 'circleup', 'circonus', 'civisanalytics', 'clarity', 'classdojo', 'clearcapital', 'clearpoolgroup', 'clerky', 'cloudmineinc', 'cnfa.org', 'cocollective']
+22.['codeandtheory', 'codecombat', 'codetothefuture', 'codyapp', 'coffeemeetsbagel', 'cohodata', 'common', 'common-networks', 'comtravo', 'confluent', 'conneryconsulting', 'contabilizei', 'contently', 'contrastsecurity', 'cos', 'coverhound', 'cratejoy', 'creativemarket', 'crewapp', 'crowdfireapp', 'crowdriff', 'crowworks']
+23.['cruise', 'crunchbase', 'ctr', 'cultureiq', 'cunyinternships', 'curiositymedia', 'curis', 'cytora', 'd', 'daqri.com', 'datacom.co.nz', 'datafox', 'datarepublic', 'dealerspike.com', 'dealpath', 'deepgenomics', 'defiant', 'degreed', 'demiurgestudios', 'demiurgetechnologies', 'desktopgenetics', 'diagram']
+
+24.['digitalrev', 'discordapp', 'dishcraft', 'distilnetworks', 'distribute', 'ditto', 'dividendsolar', 'dnc', 'docsend', 'doctolib', 'dollskill', 'doughbies', 'dragonflytx', 'drchrono', 'drihscs', 'drivy', 'drizly', 'drkfoundation', 'dronebase', 'dropbike', 'duedil', 'dwanova', 'dynamit', 'eaze', 'ebury', 'edgelab']
+
+25.['educationsuperhighway', 'efront', 'elearningmind', 'elementaltechnologies', 'elevenjames', 'eligible', 'elucd', 'ematicsolutions', 'embark', 'embarkwithus', 'emeraldtherapeutics', 'endless', 'engagio', 'enginiumgroup', 'envoy', 'epfl.ch', 'equitasacademy', 'equityzen', 'esharesinc', 'essential', 'estately']
+
+26.['estimote', 'etsy', 'eventmobi', 'everlane', 'exabeam', 'extensionengine', 'exygy', 'fabricgenomics', 'faceit', 'falcon', 'fapl', 'fathomhealth', 'featurex', 'fictiv', 'filestack', 'finomena', 'firstborn', 'fleetsmith', 'flipboard', 'flippable', 'flirtey', 'flowkana', 'flynixie', 'fond', 'forge', 'formidable']
+
+27.['forusall', 'forwardpartners', 'foursquare', 'framebridge', 'framerjs', 'franklyinc', 'freebalance.com', 'freeletics', 'freshly', 'frontapp', 'fuelx', 'fullscreen', 'fundera', 'futurelaboratori', 'galvanize', 'gametime', 'gatherhere', 'gawkbox', 'getaround', 'getonce', 'ggh', 'ghcorps', 'gigya', 'girlswhocode']
+
+28.['github', 'gitlab', 'glintinc.com', 'globality', 'glowforge', 'gofore', 'goforward', 'goguardian', 'golucid', 'gonimbly', 'goodgamestudios', 'gospotcheck', 'gotit', 'grab', 'grana', 'greenbits', 'greenchef', 'gtigrows', 'guildquality', 'hamptoncreek', 'hcvt', 'headspace', 'headspin', 'healthengine', 'healthiq']
+
+29.['heartlandconsulting', 'helionenergy', 'hello', 'hellosign', 'helpshift', 'heptio', 'herodigital', 'heyjobs', 'highfidelity', 'hightechhigh', 'hiresolutionsrecruiting', 'hirezstudios', 'hiring', 'homebell', 'honeypot', 'hopelab', 'horangi', 'hoteltonight', 'hottopic', 'houseparty', 'howden', 'humanapi', 'humanity']
+
+30.['hutch', 'hypebeast', 'hyperscience', 'iceprofessionals', 'ifood.com.br', 'ifttt', 'illuminationentertainment', 'illustria', 'imagen', 'immuta', 'imperfectproduce', 'improbable', 'incode', 'increments', 'indahash', 'indexventures', 'indico', 'indivisible', 'indyresearch', 'infor', 'ingeniatalent', 'ingenu', 'insightstrat.com', 'instaply', 'interbrand', 'interfolio', 'internetmarketinginc', 'intrepid', 'intricately']
+
+31.['invitae', 'ion', 'ironox', 'isapp', 'issuu', 'jamcity', 'jawbone', 'jetty', 'jobambition', 'joingroups']
+
+## lost optimum wifi ##############
+31a.['joinhonor.com', 'joinroot', 'joshstoysandgames', 'joybird', 'juhll', 'juicero', 'jumpcut', 'jurnal', 'k4connect', 'kaidee', 'kairosaerospace', 'kaizenplatform', 'kalo', 'kamcord', 'kano', 'karat', 'kariusdx']
+##############################
+
+32.['kcaapreschools', 'keepsafe', 'kfit', 'kickback', 'kickstarter', 'kiddom', 'kinduct', 'kinsa', 'kit', 'kkstream', 'kktv', 'koding', 'kogentix', 'kpmgnz', 'kreait', 'kryptoncloud', 'kurtosys', 'kvantuminc', 'lab79', 'lanetix.com', 'lastline', 'lazerlinesolutions', 'leadgenius', 'leanin.org', 'learncapital']
+
+33.['lelabofragrances', 'level2legal',]
+
+## over query limit ##############
+33a.[leverdemo']
+
+33b.[ 'lightstep', 'limebike', 'linuxfoundation.org', 'livelike', 'loadsmart', 'localize', 'localplantsource', 'locarta', 'locus.co', 'logistimo', 'lovepopcards', 'lovethe88', 'lsvp', 'lumapictures', 'lumiohealth.com', 'lybrate']
+
+33c.[ 'lyft']
+
+33d.['lyrahealth']
+##############################
+
+## START NO 'NO BAD WORDS CHECK' ##########
+34.['magenta', 'mancrates', 'manifestmedex', 'marble', 'marcusgrahamproject', 'marcusmillichap', 'matmatch', 'mattermark', 'mattermost', 'matternet', 'mavin', 'max2', 'maxmind', 'mayvenn', 'mbta', 'mcbeard', 'medici-living', 'megaport', 'mendix', 'mercari', 'merlinglobal', 'metamako', 'metamarkets', 'metavision', 'meteor']
+
+35.['method', 'meundies', 'midtrans', 'mimir', 'mindflash', 'mindwork', 'misk', 'missioncontinues', 'mix', 'mixrank', 'ml4t', 'mobify', 'mobilike', 'moderntimesbeer', 'momentfactory', 'momentummachines', 'motivateco', 'mrss', 'murandmarti', 'murphyresearch', 'mustwin', 'mylocalbroker', 'nainnorcal']
+
+36.['nakedlabs', 'nativeroots', 'ndustrial', 'neednova', 'neighborly', 'netpulse', 'networx', 'nextthing', 'ngdata.com', 'nianticlabs', 'nima', 'nimblerx', 'nio', 'nobodymedia', 'nortal', 'northbaysolutions', 'notarize', 'npmjs', 'numerify', 'nurix', 'nurx', 'nutraclick', 'nutrafol', 'nuts.com', 'nuwaves', 'nymedia', 'octane']
+
+37.['oddshot', 'offerpad', 'oiapac', 'okpanda', 'omni', 'omniti', 'oneconcern', 'onerent', 'openinvest', 'openmail', 'optimusride', 'orbitalinsight', 'otainsight.com', 'ownlocal', 'oyst', 'paragon28', 'parsable', 'parsleyhealth', 'participantmedia', 'particle', 'paxata', 'payable', 'paymark', 'peerspace']
+
+38.['penumbrainc', 'perfectprice', 'persistiq', 'petzl', 'pibenchmark', 'picwell', 'pillpack', 'pingboard', 'pivotusventures.com', 'placeshowroom.com', 'plangrid', 'plenty.ag', 'plexchat', 'plumlending', 'pmg', 'pmxagency', 'polleverywhere', 'pond5', 'powerhive', 'poynt', 'ppau', 'ppfa', 'pplm', 'ppnorcal']
+
+39.['ppslrswmo', 'prepnow', 'primary-2', 'privatewealthsystems', 'privitar', 'projectyx', 'propanestudio', 'prosperworks', 'protocol', 'protrials', 'publicprep', 'pulsedata', 'pulsra', 'qadium.com', 'quartet', 'quartethealth', 'qubole', 'quero...', 'quero.education', 'quickleft', 'quri', 'qventus', 'qxbranch']
+
+40.['r2dermatology', 'rainforest', 'ralali', 'rangle', 'ravel', 'readme', 'ready4', 'recess', 'reciprocity.com', 'redfrogevents', 'redletterdevelopment', 'redlink', 'redsox', 'relocately', 'renovo', 'reorgresearch', 'reputation', 'researchinnovations', 'respawn', 'resultadosdigitais', 'retailmenot', 'returnly']
+
+41.['reviewtrackers', 'revzilla', 'rexcomputing', 'rideonewheel', 'riptlabs', 'roam', 'robbytechnologies', 'rockcontent', 'rockymountainprep', 'rollinglobe', 'roosterteeth', 'rossintelligence', 'rubiconglobal']
+
+42.['rumble-boxing', 'rw', 'safetrekapp', 'saildrone', 'salesfusion.com', 'sapcorda', 'satoricapital', 'saucey', 'savioke.com', 'scaledinference', 'schibsted?by=location', 'schoolzilla', 'scienceexchange', 'scopely', 'scrapinghub', 'secondspectrum', 'secureset', 'seerinteractive', 'seesaw', 'selfmade']
+
+43.['semaphoresolutions', 'sentieo', 'servercentral', 'servishero', 'sevone', 'shapesecurity', 'sharethis', 'sharethrough', 'shogunenterprise', 'shopco', 'shopify', 'shopkick', 'showgrow', 'shyftanalytics.com', 'sighten', 'sightmachine', 'siliconvalleycf.org', 'siteminder', 'sketchfab', 'skilljar', 'skytex.com.mx']
+
+44.['smartcar', 'smartly.io', 'smittenicecream', 'snap-raise', 'snapdocs', 'snaps', 'socialchorus', 'sourceclear', 'soylent', 'spacious', 'spartascience', 'spire', 'spmb', 'sprig', 'springboard', 'squaretrade', 'stackadapt', 'starcity', 'starskyrobotics', 'startengine', 'startuptap', 'statuspageio', 'stayful']
+
+45.['stelligent', 'stevenstransport', 'stockpile', 'streetcontxt', 'studypoint', 'successacademy', 'suddencoffee', 'sunbasket', 'superfuture', 'swirl', 'system1', 'systemsalliance', 'tallwave.com', 'tally', 'tamr', 'tapfwd', 'tapingo', 'tbwachiatday', 'tcs-e', 'tealdrones', 'teamable', 'techteamlabs', 'telmate']
+
+46.['tempalert', 'tempsplus', 'tesorio', 'tetra', 'tfgco', 'theaudience', 'thebabyboxco', 'theblacktux', 'thebouqs.com', 'thecoveteur', 'theflexcompany', 'theglassjar', 'thehustle', 'theleague', 'thelevelup.com', 'themarsreel', 'theoremlp', 'theoutcastagency', 'thepillclub', 'thetrainline', 'thewfcgroup', 'thezebra']
+
+47.['thinkhr', 'thirdlove', 'thistle.co', 'thredup', 'ticketcity', 'tictail', 'tiff', 'tileapp', 'tilt', 'timehop', 'tinitell', 'tint', 'tophat', 'tophatter', 'toptal', 'traceme', 'tradesy', 'translifeline', 'traveloka', 'treasure-data', 'trendkite', 'trendyol', 'tri', 'triplebyte', 'trumaker', 'trussle', 'tuftandneedle']
+
+48.['tulip', 'tune', 'ultragenyx', 'unific', 'unreasonablegroup', 'upgrade', 'upguard', 'upside', 'useinsider', 'valimail', 'ventureapp', 'ventureforamerica', 'veobot', 'verbling', 'verdigris', 'vergegenomics', 'vettanna', 'vicarious', 'victorious', 'vida', 'videoamp.com', 'videostitch', 'vimpelcom', 'vineti']
+
+49.['virecruiters', 'visier', 'vitrahealth.com', 'vitta', 'vivareal', 'vividcortex', 'vivideconomics', 'voltacharging', 'voxer', 'vroom', 'vvt', 'walkerandcompany', 'watsi', 'wattpad', 'wdmybusiness', 'wealthfront', 'webpass', 'wellframe', 'windgapmedical', 'wolt', 'wombatsecurity', 'wonderbly']
+
+50.['wondershake', 'wustl.edu', 'ycr', 'yprime', 'zee.aero', 'zeitgold', 'zendrive', 'zenprospect', 'zenput', 'zentail', 'zeta', 'zeus', 'zinc', 'zipongo', 'zodiacmetrics', 'zugata', 'zumper']

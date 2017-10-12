@@ -1,0 +1,1576 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: avecto ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+24 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+14 Listings + Empty Index
+@@@@ 14 Listings Saved @@@@
+Avecto - QA Automation Engineer
+>>>> https://jobs.lever.co/avecto/b3a472bf-a880-43a1-937f-77913b522be8
+TC: Full Time ET: Full Time
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+*********************************************
+<Response [200]>
+Avecto - QA Engineer - Defendpoint
+>>>> https://jobs.lever.co/avecto/ccc22a1f-97f0-4c1c-b6b7-7806c2e517ff
+TC: Full Time ET: Full Time
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+*********************************************
+<Response [200]>
+Avecto - QA Engineer ic3
+>>>> https://jobs.lever.co/avecto/65c8ee83-29a8-474d-b844-df0383e9183c
+TC: Full Time ET: Full Time
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+*********************************************
+<Response [200]>
+Avecto - Software Engineer - C++
+>>>> https://jobs.lever.co/avecto/f161101f-acaa-4b3c-a175-fe090cb62d55
+TC: Full Time ET: Full Time
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Avecto - QA Engineer ic3
+>>>> https://jobs.lever.co/avecto/65c8ee83-29a8-474d-b844-df0383e9183c/apply
+TC: Full Time ET: Full Time
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+** bad word: ____________________________________________________________
+*********************************************
+Avecto - Senior Software Engineer (Mac)
+>>>> https://jobs.lever.co/avecto/b3947e0f-a947-44f5-847b-2d92e86554a3
+TC:  ET: doesnt_say
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+** bad word: survey
+*********************************************
+Avecto - IT Support Engineer
+>>>> https://jobs.lever.co/avecto/396d13bd-a78c-45bb-bdbb-ec28d2406e90
+TC: Full Time ET: Full Time
+North America, Boston
+country: United States coords 42.3600825 -71.0588801
+** bad word: customer service
+*********************************************
+HTTP Error 404: Not Found
+Avecto
+>>>> https://jobs.lever.co/avecto
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+** bad word: Filter by:
+*********************************************
+HTTP Error 404: Not Found
+Avecto - Technical Author
+>>>> https://jobs.lever.co/avecto/e657a4dd-d017-426b-a30b-7cb976995bec
+TC: Full Time ET: Full Time
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Avecto - Linux Software Architect
+>>>> https://jobs.lever.co/avecto/af43b702-96b2-46c8-8f24-34ede66fc3c0
+TC: Full Time ET: Full Time
+UK, Manchester
+country: United Kingdom coords 53.4807593 -2.2426305
+*********************************************
+<Response [200]>
+XXXX 6 Clean Listings Posted XXXX
+**** ROOT: avia ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: awake-security ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+12 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+12 Listings + Empty Index
+@@@@ 12 Listings Saved @@@@
+Awake Security - Senior User Interface Engineer
+>>>> https://jobs.lever.co/awake-security/3af8f6cd-3b82-49a6-baed-a8ad5a791dbb
+TC: Full-time ET: Full-time
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Awake Security - Senior Analytics Engineer
+>>>> https://jobs.lever.co/awake-security/a25936bf-91f5-46db-ab7d-0d9fed34b575
+TC: Full-time ET: Full-time
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Awake Security - Senior Analytics Engineer
+>>>> https://jobs.lever.co/awake-security/a25936bf-91f5-46db-ab7d-0d9fed34b575/apply
+TC: Full-time ET: Full-time
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+** bad word: ____________________________________________________________
+*********************************************
+Awake Security - Senior User Interface Engineer
+>>>> https://jobs.lever.co/awake-security/3af8f6cd-3b82-49a6-baed-a8ad5a791dbb/apply
+TC: Full-time ET: Full-time
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+** bad word: ____________________________________________________________
+*********************************************
+Awake Security - Intern - Software Engineer
+>>>> https://jobs.lever.co/awake-security/7a6a64c4-71e8-4de9-9fc3-832860890b49
+TC: Intern ET: Intern
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Awake Security - Fresh Graduate - Software Engineer
+>>>> https://jobs.lever.co/awake-security/ea527987-2339-4495-b24e-fcdcfb694904
+TC: Full-time ET: Full-time
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Awake Security - Intern - Software Engineer
+>>>> https://jobs.lever.co/awake-security/7a6a64c4-71e8-4de9-9fc3-832860890b49/apply
+TC: Intern ET: Intern
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+** bad word: ____________________________________________________________
+*********************************************
+Awake Security
+>>>> https://jobs.lever.co/awake-security
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3860517 -122.0838511
+** bad word: Filter by:
+*********************************************
+Awake Security - Senior Data Scientist
+>>>> https://jobs.lever.co/awake-security/4038b2c9-77d1-495b-8a7d-f0be03188599
+TC: Full-time ET: Full-time
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Awake Security - Intern - Threat Researcher
+>>>> https://jobs.lever.co/awake-security/c7ae22fc-cc18-4eb5-9472-b2d59ff137d7
+TC: Intern ET: Intern
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Awake Security - Fresh Graduate - Threat Researcher
+>>>> https://jobs.lever.co/awake-security/20e37bbf-10a7-439c-9c4d-4ed2e948d9ce
+TC: Full-time ET: Full-time
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Awake Security - Intern - Data Scientist
+>>>> https://jobs.lever.co/awake-security/32b58c9f-53b8-4c2f-950d-ee811f8b3722
+TC: Intern ET: Intern
+Mountain View
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+XXXX 8 Clean Listings Posted XXXX
+**** ROOT: backerkit ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+BackerKit - Content Creator
+>>>> https://jobs.lever.co/backerkit/9780005f-3086-415d-9826-66d6d34a007f
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+*********************************************
+BackerKit
+>>>> https://jobs.lever.co/backerkit
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+BackerKit - Senior Developer
+>>>> https://jobs.lever.co/backerkit/488b7d87-8ead-4ac4-91cb-59a3d1c0f168
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+BackerKit - Senior Developer
+>>>> https://jobs.lever.co/backerkit/488b7d87-8ead-4ac4-91cb-59a3d1c0f168/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: backstage ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Backstage - Data Warehouse Engineer
+>>>> https://jobs.lever.co/backstage/d5228dde-c2cd-4c43-b8cf-eba64dcf6d7e
+TC: Full-time ET: Full-time
+Brooklyn, NY
+country: United States coords 40.6781784 -73.9441579
+*********************************************
+<Response [200]>
+Backstage - Data Warehouse Engineer
+>>>> https://jobs.lever.co/backstage/d5228dde-c2cd-4c43-b8cf-eba64dcf6d7e/apply
+TC: Full-time ET: Full-time
+Brooklyn, NY
+country: United States coords 40.6781784 -73.9441579
+** bad word: ____________________________________________________________
+*********************************************
+Backstage
+>>>> https://jobs.lever.co/backstage
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.6781784 -73.9441579
+** bad word: Filter by:
+*********************************************
+Backstage - Full Stack Developer (Python / Django) - Backstage
+>>>> https://jobs.lever.co/backstage/307407fe-d7d9-4f9f-9850-c240fb668a55
+TC: Full-time ET: Full-time
+Brooklyn, NY
+country: United States coords 40.6781784 -73.9441579
+*********************************************
+<Response [200]>
+Backstage
+>>>> https://jobs.lever.co/backstage?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.6781784 -73.9441579
+** bad word: Filter by:
+*********************************************
+Backstage
+>>>> https://jobs.lever.co/backstage?location=Brooklyn%2C%20NY
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.6781784 -73.9441579
+** bad word: Filter by:
+*********************************************
+Backstage - Lever
+>>>> https://jobs.lever.co/backstage?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.6781784 -73.9441579
+** bad word: Filter by:
+*********************************************
+Backstage - Lever
+>>>> https://jobs.lever.co/backstage?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.6781784 -73.9441579
+** bad word: Filter by:
+*********************************************
+Backstage - Growth Marketing Associate - Backstage
+>>>> https://jobs.lever.co/backstage/f9f55b0e-a195-4be6-9d91-325bab18e5fc
+TC: Full-time ET: Full-time
+Brooklyn, NY
+country: United States coords 40.6781784 -73.9441579
+** bad word: marketing
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: badoo ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+23 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+18 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+18 Listings + Empty Index
+@@@@ 18 Listings Saved @@@@
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: bamcommunications ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: baoinc ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: barefootproximity ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: barkleyus ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+3 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+3 Listings + Empty Index
+@@@@ 3 Listings Saved @@@@
+Barkley - Lever
+>>>> https://jobs.lever.co/barkleyus?location=Kansas%20City%2C%20MO
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Barkley - Lever
+>>>> https://jobs.lever.co/barkleyus?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Barkley - Lever
+>>>> https://jobs.lever.co/barkleyus?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: bastille ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Bastille - Senior Sales Engineer
+>>>> https://jobs.lever.co/bastille/1d133a04-58c3-4005-90ba-92081e10888b
+TC: Full-time ET: Full-time
+New York
+country: United States coords 40.7134248 -74.00552449999999
+** bad word: local
+** bad word: partner
+*********************************************
+HTTP Error 404: Not Found
+Bastille - Senior Sales Engineer - Lever
+>>>> https://jobs.lever.co/bastille/1d133a04-58c3-4005-90ba-92081e10888b/apply
+TC: Full-time ET: Full-time
+New York
+country: United States coords 40.7134248 -74.00552449999999
+** bad word: ____________________________________________________________
+*********************************************
+Bastille
+>>>> https://jobs.lever.co/bastille?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7134248 -74.00552449999999
+** bad word: Filter by:
+*********************************************
+Bastille
+>>>> https://jobs.lever.co/bastille?
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7134248 -74.00552449999999
+** bad word: Filter by:
+*********************************************
+Bastille - Lever
+>>>> https://jobs.lever.co/bastille?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7134248 -74.00552449999999
+** bad word: Filter by:
+*********************************************
+Bastille - Lever
+>>>> https://jobs.lever.co/bastille?by=location&location=New%20York
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7134248 -74.00552449999999
+** bad word: Filter by:
+*********************************************
+Bastille - Lever
+>>>> https://jobs.lever.co/bastille?by=location&team=Sales
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7134248 -74.00552449999999
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: bazaarvoice ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+37 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+37 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+22 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+22 Listings + Empty Index
+@@@@ 22 Listings Saved @@@@
+HTTP Error 404: Not Found
+Bazaarvoice - Senior Software Engineer, Backend
+>>>> https://jobs.lever.co/bazaarvoice/694112c2-0bf2-49d9-8ccf-d453138b4949
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+Bazaarvoice - Senior DevOps Engineer
+>>>> https://jobs.lever.co/bazaarvoice/51f1df89-b6ef-408b-9089-27c8d337bbd3
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+Bazaarvoice - Senior Back End Software Engineer
+>>>> https://jobs.lever.co/bazaarvoice/490c5171-c529-450b-a07d-7bd817a61800
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+Bazaarvoice - Senior Software Engineer, Full-Stack
+>>>> https://jobs.lever.co/bazaarvoice/651105bd-a580-4dab-966e-f3cbb2382f24
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+Bazaarvoice - Senior Software Engineer, Full-Stack - Tools
+>>>> https://jobs.lever.co/bazaarvoice/2d2451a3-9c56-4ecd-b813-a6e91bfa9779
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+Bazaarvoice - Senior Quality Engineer
+>>>> https://jobs.lever.co/bazaarvoice/f6186c0f-8f14-40d7-8049-73b4006cc4be
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Bazaarvoice - Staff Front End Engineer
+>>>> https://jobs.lever.co/bazaarvoice/e211ba02-0e85-4243-a3dc-9647e4439e98
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+Bazaarvoice - Senior Quality Engineer
+>>>> https://jobs.lever.co/bazaarvoice/f6186c0f-8f14-40d7-8049-73b4006cc4be/apply
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Bazaarvoice
+>>>> https://jobs.lever.co/bazaarvoice
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: Filter by:
+*********************************************
+Bazaarvoice - Senior Manager, Software Engineering
+>>>> https://jobs.lever.co/bazaarvoice/9537950f-06c0-40ac-8d25-1fe8a115e964
+TC: Full-time ET: Full-time
+Austin
+country: United States coords 30.267153 -97.7430608
+** bad word: local
+** bad word: partner
+*********************************************
+Bazaarvoice - Reporting Analyst
+>>>> https://jobs.lever.co/bazaarvoice/5e65714e-d5fa-46cc-bcef-c1a7b764116e
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+Bazaarvoice - Senior Manager - Software Development
+>>>> https://jobs.lever.co/bazaarvoice/11e5b1be-3383-4a5a-b465-ee023a3f9732
+TC: Full-time ET: Full-time
+Belfast
+country: United Kingdom coords 54.59728500000001 -5.93012
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+Bazaarvoice - Manager, Platform Services
+>>>> https://jobs.lever.co/bazaarvoice/84e2110c-f55a-42f6-a42c-ad991ef71455
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+** bad word: local
+*********************************************
+Bazaarvoice - Senior Product Manager
+>>>> https://jobs.lever.co/bazaarvoice/f8b8feac-d293-4520-83a5-4e355d279b9f
+TC: Full-time ET: Full-time
+Austin
+country: United States coords 30.267153 -97.7430608
+** bad word: local
+*********************************************
+Bazaarvoice - Senior UX Designer
+>>>> https://jobs.lever.co/bazaarvoice/3e399efe-ee2c-45a1-92ce-9b1791648f4b
+TC: Full-time ET: Full-time
+Austin
+country: United States coords 30.267153 -97.7430608
+** bad word: local
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: beaconhome ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+23 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+23 Listings + Empty Index
+@@@@ 23 Listings Saved @@@@
+BeaconHome - Android Applications Engineer - Senior
+>>>> https://jobs.lever.co/beaconhome/b1339c79-2e7a-4261-8736-6e55e135c3f3
+TC: Full-Time ET: Full-Time
+SF Bay or Austin TX
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=SF+Bay+or+Austin+TX&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+BeaconHome - Test Engineer - Manufacturing
+>>>> https://jobs.lever.co/beaconhome/75b0afd6-8682-4db1-91df-82769392c29e
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+BeaconHome - QA Engineer - Senior
+>>>> https://jobs.lever.co/beaconhome/98506fbe-d286-445b-a2b4-8a77a294b5c3
+TC: Full-Time ET: Full-Time
+SF Bay or Austin TX
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=SF+Bay+or+Austin+TX&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+BeaconHome - Data Engineer - Intelligent Home Systems
+>>>> https://jobs.lever.co/beaconhome/7fc1125a-7443-4d2c-bb87-693160bc550d
+TC: Full-time ET: Full-time
+SF Bay or Austin TX
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=SF+Bay+or+Austin+TX&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+BeaconHome - Embedded Engineer - Wireless
+>>>> https://jobs.lever.co/beaconhome/8f8489bc-d959-4b0c-be41-0df98bab6288
+TC: Full-Time ET: Full-Time
+SF Bay
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+BeaconHome - HW Design Engineer - Senior
+>>>> https://jobs.lever.co/beaconhome/4c5bd9b3-423c-49a1-884d-a7603f9ee8ee
+TC: Full-Time ET: Full-Time
+SF Bay
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+BeaconHome - Embedded Software Engineer - Firmware
+>>>> https://jobs.lever.co/beaconhome/2704352f-7fdf-4043-8fb2-5ca6f086e20f
+TC: Full-Time ET: Full-Time
+SF Bay or Austin TX
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=SF+Bay+or+Austin+TX&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+BeaconHome - Embedded Software Engineer - Android / Linux
+>>>> https://jobs.lever.co/beaconhome/e6380f04-cacc-4b49-980e-7a164b75522a
+TC: Full-Time ET: Full-Time
+SF Bay or Austin TX
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=SF+Bay+or+Austin+TX&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+BeaconHome - Sensor Fusion + Machine Learning Lead Engineer ...
+>>>> https://jobs.lever.co/beaconhome/b958f396-bd53-47ab-83a1-c230e5cc1476
+TC: Full-Time ET: Full-Time
+SF Bay or Austin TX
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=SF+Bay+or+Austin+TX&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+BeaconHome - Test Engineer - Manufacturing
+>>>> https://jobs.lever.co/beaconhome/75b0afd6-8682-4db1-91df-82769392c29e/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+BeaconHome - Data Engineer - Intelligent Home Systems
+>>>> https://jobs.lever.co/beaconhome/7fc1125a-7443-4d2c-bb87-693160bc550d/apply
+TC: Full-time ET: Full-time
+SF Bay or Austin TX
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=SF+Bay+or+Austin+TX&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?location=SF%20Bay%20or%20Austin%20TX
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?by=location&team=Engineering%20-%20SW
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+BeaconHome - HW Engineering Lab Technician
+>>>> https://jobs.lever.co/beaconhome/29ce1aad-4077-492f-a639-0f6cee6c50e0
+TC: Part-time ET: Part-time
+SF Bay
+country: United States coords 37.8271784 -122.2913078
+*********************************************
+<Response [200]>
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?by=commitment&team=Engineering%20-%20SW
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?by=location&team=Engineering%20-%20Platform
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?team=Engineering%20-%20Platform
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+BeaconHome
+>>>> https://jobs.lever.co/beaconhome?by=location&team=Experience%20-%20Product
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.8271784 -122.2913078
+** bad word: Filter by:
+*********************************************
+XXXX 10 Clean Listings Posted XXXX
+**** ROOT: behalf ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+HTTP Error 404: Not Found
+Behalf - Lever
+>>>> https://jobs.lever.co/behalf?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Behalf - Lever
+>>>> https://jobs.lever.co/behalf?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Behalf
+>>>> https://jobs.lever.co/behalf
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Behalf - Quality & Automation Technical lead
+>>>> https://jobs.lever.co/behalf/6b6becd9-f8a9-4168-9a03-b53436d8e0f7
+TC: Full-time ET: Full-time
+Israel - Ra'anana
+country: Israel coords 32.184781 34.871326
+** bad word: dollars a week
+** bad word: partner
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: bellhops ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+25 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+15 Listings + Empty Index
+@@@@ 15 Listings Saved @@@@
+Bellhops - Full Stack Engineer
+>>>> https://jobs.lever.co/bellhops/a0e81e3e-161e-43a9-a3a7-d4c34d874b69
+TC: Full-time ET: Full-time
+Chattanooga, TN
+country: United States coords 35.0456297 -85.3096801
+** bad word: local
+*********************************************
+Bellhops - Mobile Engineer
+>>>> https://jobs.lever.co/bellhops/7865edfe-7004-4f24-87c9-87e380e62fca
+TC: Full-time ET: Full-time
+Chattanooga, TN
+country: United States coords 35.0456297 -85.3096801
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+Bellhops - Full Stack Engineer
+>>>> https://jobs.lever.co/bellhops/a0e81e3e-161e-43a9-a3a7-d4c34d874b69/apply
+TC: Full-time ET: Full-time
+Chattanooga, TN
+country: United States coords 35.0456297 -85.3096801
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Bellhops
+>>>> https://jobs.lever.co/bellhops
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+Bellhops
+>>>> https://jobs.lever.co/bellhops/?by=location&location=Chattanooga%2C%20TN
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+Bellhops
+>>>> https://jobs.lever.co/bellhops?by=commitment&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+Bellhops - Business Intelligence Analyst
+>>>> https://jobs.lever.co/bellhops/bbb70903-220f-4f77-925e-80045c3f1fbf
+TC: Full-time ET: Full-time
+Chattanooga, TN
+country: United States coords 35.0456297 -85.3096801
+*********************************************
+<Response [200]>
+Bellhops - VP of Marketing
+>>>> https://jobs.lever.co/bellhops/441abfe8-a651-4e5b-8e9c-6fd4066f741d
+TC: Full-time ET: Full-time
+Chattanooga, TN
+country: United States coords 35.0456297 -85.3096801
+** bad word: customer service
+** bad word: marketing
+** bad word: partner
+** bad word: unpaid
+*********************************************
+Bellhops - UX/Product Designer
+>>>> https://jobs.lever.co/bellhops/9f9f3519-0c8c-4a99-a9ca-2f10db11f219
+TC: Full-time ET: Full-time
+Chattanooga, TN
+country: United States coords 35.0456297 -85.3096801
+*********************************************
+<Response [200]>
+Bellhops
+>>>> https://jobs.lever.co/bellhops/?by=location&team=Product
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+Bellhops
+>>>> https://jobs.lever.co/bellhops/?by=location&location=San%20Antonio%2C%20TX
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+Bellhops
+>>>> https://jobs.lever.co/bellhops/?team=Finance
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+Bellhops
+>>>> https://jobs.lever.co/bellhops?team=Operations
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+Bellhops
+>>>> https://jobs.lever.co/bellhops/?commitment=Part-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 35.0456297 -85.3096801
+** bad word: Filter by:
+*********************************************
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: bericotechnologies ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+22 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+18 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+18 Listings + Empty Index
+@@@@ 18 Listings Saved @@@@
+Berico Technologies - Information Assurance Engineer - TS/SCI ...
+>>>> https://jobs.lever.co/bericotechnologies/c9006584-18f6-48ef-96cd-24ff63979bfd
+TC: Full-time ET: Full-time
+Multiple (Reston, VA & Bethesda, MD)
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Multiple+%28Reston%2C+VA+%26+Bethesda%2C+MD%29&sensor=false&bounds=&region=&language=&components=
+** bad word: technical support
+** bad word: customer service
+*********************************************
+HTTP Error 404: Not Found
+Berico Technologies - Full Stack Senior Software Engineer ...
+>>>> https://jobs.lever.co/bericotechnologies/0f35ff9d-02c4-410c-b114-78acd9abe2ec
+TC: Full-time ET: Full-time
+Multiple (Reston, VA & Bethesda, MD)
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Multiple+%28Reston%2C+VA+%26+Bethesda%2C+MD%29&sensor=false&bounds=&region=&language=&components=
+** bad word: weekly
+*********************************************
+HTTP Error 404: Not Found
+Berico Technologies - Senior Software Engineer (Microservices ...
+>>>> https://jobs.lever.co/bericotechnologies/0a59ea7c-d2e9-4ce7-8438-860deb8d22f4
+TC: Full-time ET: Full-time
+Multiple (Reston, VA & DC Metro Area)
+country: United States coords 38.9477027 -77.3399206
+*********************************************
+<Response [200]>
+Berico Technologies - Sr. Software Engineer
+>>>> https://jobs.lever.co/bericotechnologies/cd87f323-ab16-4222-88ee-d08adb84c57f
+TC: Full-time ET: Full-time
+Reston, VA
+country: United States coords 38.9586307 -77.35700279999999
+*********************************************
+<Response [200]>
+Berico Technologies - Senior Software Engineer (.NET) - TS/SCI ...
+>>>> https://jobs.lever.co/bericotechnologies/ddb8935f-7942-474a-9028-6a6cf2b9f7bf
+TC: Full-time ET: Full-time
+Multiple (Reston, VA & Bethesda, MD)
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Multiple+%28Reston%2C+VA+%26+Bethesda%2C+MD%29&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9586307 -77.35700279999999
+*********************************************
+<Response [200]>
+Berico Technologies - Senior Software Engineer/Open Source ...
+>>>> https://jobs.lever.co/bericotechnologies/5ee0086e-cacb-47de-b061-8fe847d1e8ce
+TC: Full-time ET: Full-time
+Springfield, VA
+country: United States coords 38.7892801 -77.18720359999999
+** bad word: local
+*********************************************
+Berico Technologies - Senior FMV Engineer and Project / Site Lead
+>>>> https://jobs.lever.co/bericotechnologies/ca0053c1-ae1c-495c-a6a6-949251c29a5e
+TC: Full-time ET: Full-time
+Dahlgren, VA
+country: United States coords 38.3312379 -77.0510857
+*********************************************
+<Response [200]>
+Berico Technologies - Sr. Software Engineer
+>>>> https://jobs.lever.co/bericotechnologies/cd87f323-ab16-4222-88ee-d08adb84c57f/apply
+TC: Full-time ET: Full-time
+Reston, VA
+country: United States coords 38.9586307 -77.35700279999999
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Berico Technologies - Program Manager - Reston, VA/Bolling AFB ...
+>>>> https://jobs.lever.co/bericotechnologies/c469ef33-e0f7-43f9-b562-03df875b68c1
+TC: Full-time ET: Full-time
+Multiple (Reston, VA & DC Metro Area)
+country: United States coords 38.9477027 -77.3399206
+*********************************************
+<Response [200]>
+Berico Technologies - Scrum Master - TS/SCI - Reston, VA
+>>>> https://jobs.lever.co/bericotechnologies/fd44e0a0-ece8-4529-9620-69d2296ea239
+TC: Full-time ET: Full-time
+Multiple (Reston, VA & Bethesda, MD)
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Multiple+%28Reston%2C+VA+%26+Bethesda%2C+MD%29&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9477027 -77.3399206
+*********************************************
+<Response [200]>
+Berico Technologies - Imagery Science Services
+>>>> https://jobs.lever.co/bericotechnologies/b0d0b049-e7c2-4e26-8ab7-af398adf059d
+TC: Full-time ET: Full-time
+Camp Pendleton and Quantico
+country: United States coords 34.2038578 -116.0494663
+*********************************************
+<Response [200]>
+Berico Technologies - Technical Writer (TS/SCI)
+>>>> https://jobs.lever.co/bericotechnologies/89f74439-567e-4879-9629-24ad00e2acee
+TC: Full-time ET: Full-time
+Multiple (Reston, VA & Bethesda, MD)
+## slept ##
+Error ZERO_RESULTS
+Query: https://maps.google.com/maps/api/geocode/json?address=Multiple+%28Reston%2C+VA+%26+Bethesda%2C+MD%29&sensor=false&bounds=&region=&language=&components=
+country: United States coords 34.2038578 -116.0494663
+** bad word: technical support
+*********************************************
+HTTP Error 404: Not Found
+Berico Technologies - SOJ5 Strategic Assessments Team Lead and ...
+>>>> https://jobs.lever.co/bericotechnologies/57bbeff9-aafe-41d5-9300-7d2d0ae7a9bc
+TC: Full-time ET: Full-time
+Hawaii, USA
+country: United States coords 21.3155434 -157.8615682
+** bad word: technical support
+** bad word: survey
+*********************************************
+HTTP Error 404: Not Found
+XXXX 7 Clean Listings Posted XXXX
+**** ROOT: bestmile ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+BestMile - Senior DevOps Engineer (AWS)
+>>>> https://jobs.lever.co/bestmile/e97fd836-10e6-4228-add1-19ebd26de149
+TC: Full-time ET: Full-time
+Lausanne, Switzerland
+country: Switzerland coords 46.5196535 6.6322734
+*********************************************
+<Response [200]>
+BestMile - iOS Engineer
+>>>> https://jobs.lever.co/bestmile/94812886-15ef-4c9c-8b20-a2047a8af622
+TC: Full-time ET: Full-time
+Lausanne, Switzerland
+country: Switzerland coords 46.5196535 6.6322734
+*********************************************
+<Response [200]>
+BestMile - Senior Software Web Engineer
+>>>> https://jobs.lever.co/bestmile/cbfa9fc9-ca9f-4891-8e75-603abdb853d2
+TC: Full-time ET: Full-time
+Lausanne, Switzerland
+country: Switzerland coords 46.5196535 6.6322734
+*********************************************
+<Response [200]>
+BestMile - iOS Engineer
+>>>> https://jobs.lever.co/bestmile/94812886-15ef-4c9c-8b20-a2047a8af622/apply
+TC: Full-time ET: Full-time
+Lausanne, Switzerland
+country: Switzerland coords 46.5196535 6.6322734
+** bad word: ____________________________________________________________
+*********************************************
+BestMile
+>>>> https://jobs.lever.co/bestmile
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Switzerland coords 46.5196535 6.6322734
+** bad word: Filter by:
+*********************************************
+BestMile
+>>>> https://jobs.lever.co/bestmile?by=commitment&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Switzerland coords 46.5196535 6.6322734
+** bad word: Filter by:
+*********************************************
+BestMile
+>>>> https://jobs.lever.co/bestmile?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Switzerland coords 46.5196535 6.6322734
+** bad word: Filter by:
+*********************************************
+BestMile
+>>>> https://jobs.lever.co/bestmile?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Switzerland coords 46.5196535 6.6322734
+** bad word: Filter by:
+*********************************************
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: betable ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Betable - Senior DevOps Engineer
+>>>> https://jobs.lever.co/betable/2205ba49-7630-4ecb-a65e-33c9d939f844
+TC: Full-time ET: Full-time
+Edmonton, Alberta, Canada
+country: Canada coords 53.544389 -113.4909267
+*********************************************
+<Response [200]>
+Betable - Senior DevOps Engineer
+>>>> https://jobs.lever.co/betable/2205ba49-7630-4ecb-a65e-33c9d939f844/apply
+TC: Full-time ET: Full-time
+Edmonton, Alberta, Canada
+country: Canada coords 53.544389 -113.4909267
+** bad word: ____________________________________________________________
+*********************************************
+HTTP Error 404: Not Found
+Betable - Lever
+>>>> https://jobs.lever.co/betable?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Canada coords 53.544389 -113.4909267
+** bad word: Filter by:
+*********************************************
+Betable
+>>>> https://jobs.lever.co/betable
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Canada coords 53.544389 -113.4909267
+** bad word: Filter by:
+*********************************************
+Betable
+>>>> https://jobs.lever.co/betable?location=Edmonton%2C%20Alberta%2C%20Canada
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Canada coords 53.544389 -113.4909267
+** bad word: Filter by:
+*********************************************
+Betable
+>>>> https://jobs.lever.co/betable?by=location&location=Edmonton%2C%20Alberta%2C%20Canada
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Canada coords 53.544389 -113.4909267
+** bad word: Filter by:
+*********************************************
+Betable
+>>>> https://jobs.lever.co/betable?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Canada coords 53.544389 -113.4909267
+** bad word: Filter by:
+*********************************************
+Betable - Lever
+>>>> https://jobs.lever.co/betable?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Canada coords 53.544389 -113.4909267
+** bad word: Filter by:
+*********************************************
+Betable - Lead Product Designer
+>>>> https://jobs.lever.co/betable/d94f2126-42d6-45ce-bdb4-6e06c1bf2e35
+TC: Full-time ET: Full-time
+Edmonton, Alberta, Canada
+country: Canada coords 53.544389 -113.4909267
+*********************************************
+<Response [200]>
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: bigfootbiomedical ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+30 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+30 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+22 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+22 Listings + Empty Index
+@@@@ 22 Listings Saved @@@@
+Bigfoot Biomedical - Senior Software Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/8c04bcf6-0d0f-437c-8233-f5d7a624d515
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Senior Quality Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/76d85bd8-3ebb-4705-bbd8-ba40d8e22083
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Software Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/b0989934-188f-42ca-8550-69f121c06c67
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+Bigfoot Biomedical - Senior Modeling Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/a7cd9b77-c348-4801-b059-bb61ff928d98
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Senior Software Engineer in Test
+>>>> https://jobs.lever.co/bigfootbiomedical/2060a0f8-691d-49dc-8b37-dddbd4d72807
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Lead Design Assurance Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/50d2a834-5367-475c-8a93-c44593b3fb07
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Systems Design Assurance Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/d3bafc78-ac95-4d1c-bf04-e7def845542a
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - DevOps Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/2c3d9dc8-b632-4028-b391-204ac8bb0c71
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: technical support
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Senior Modeling Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/a7cd9b77-c348-4801-b059-bb61ff928d98/apply
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Bigfoot Biomedical - Software Engineer
+>>>> https://jobs.lever.co/bigfootbiomedical/b0989934-188f-42ca-8550-69f121c06c67/apply
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+Bigfoot Biomedical
+>>>> https://jobs.lever.co/bigfootbiomedical
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.4323341 -121.8995741
+** bad word: Filter by:
+*********************************************
+Bigfoot Biomedical - Senior Human Factors Engineering
+>>>> https://jobs.lever.co/bigfootbiomedical/9dbbdd19-f1f1-45c8-ba90-b0a6d45f6037
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Data Scientist
+>>>> https://jobs.lever.co/bigfootbiomedical/bcaa4acd-2a1d-455d-9d19-398c981b92e9
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Lead Systems Designer
+>>>> https://jobs.lever.co/bigfootbiomedical/fed828e2-47c6-4342-8b87-372dbd01c7d7
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Lead Systems Integrator
+>>>> https://jobs.lever.co/bigfootbiomedical/917c108e-59eb-4d33-a08e-27749bafb768
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Senior UX Designer
+>>>> https://jobs.lever.co/bigfootbiomedical/09250868-b4d5-4481-9710-61aecc719701
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Senior Technical Writer
+>>>> https://jobs.lever.co/bigfootbiomedical/a6eaf599-bf96-4ae4-a48a-64b1c0ddcb34
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: local
+** bad word: partner
+*********************************************
+HTTP Error 404: Not Found
+Bigfoot Biomedical - Product Manager
+>>>> https://jobs.lever.co/bigfootbiomedical/b0e3e85c-4405-4fe6-aca4-9a71de7cdfa6
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: marketing
+** bad word: local
+*********************************************
+Bigfoot Biomedical - Senior Product Manager
+>>>> https://jobs.lever.co/bigfootbiomedical/14fbbc2d-0efd-481b-bfd4-9cda47bdeb3a
+TC: Regular Full Time ET: Regular Full Time
+Milpitas, CA
+country: United States coords 37.4323341 -121.8995741
+** bad word: marketing
+** bad word: local
+*********************************************
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: bighealth ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Big Health - Senior Engineer
+>>>> https://jobs.lever.co/bighealth/3446c521-02eb-477f-8502-4ee00c5512e9
+TC: Full-time ET: Full-time
+London, UK / Remote
+country: United Kingdom coords 51.5025102 -0.0270032
+** bad word: survey
+** bad word: equity
+*********************************************
+Big Health - Full Stack Engineer
+>>>> https://jobs.lever.co/bighealth/b5563931-da9a-45c7-a9de-7c04418e5683
+TC: Full time ET: Full time
+London, UK / Remote
+country: United Kingdom coords 51.5025102 -0.0270032
+** bad word: survey
+** bad word: equity
+*********************************************
+Big Health - Senior Engineer
+>>>> https://jobs.lever.co/bighealth/3446c521-02eb-477f-8502-4ee00c5512e9/apply
+TC: Full-time ET: Full-time
+London, UK / Remote
+country: United Kingdom coords 51.5025102 -0.0270032
+** bad word: ____________________________________________________________
+*********************************************
+Big Health - VP Engineering
+>>>> https://jobs.lever.co/bighealth/bc2c085e-9a3c-455b-bdbc-1a4af4ddf28b
+TC: Full time ET: Full time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: equity
+*********************************************
+Big Health
+>>>> https://jobs.lever.co/bighealth/
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+** bad word: Filter by:
+*********************************************
+Big Health - Talent Lead
+>>>> https://jobs.lever.co/bighealth/a317e0b4-27ed-4916-a624-2f5d1d53bc37
+TC: Full time ET: Full time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: equity
+*********************************************
+Big Health - Product Manager
+>>>> https://jobs.lever.co/bighealth/fba5b04e-2ffe-4207-a440-37b443d31b41
+TC: Full time ET: Full time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: equity
+*********************************************
+Big Health - Associate Product Manager
+>>>> https://jobs.lever.co/bighealth/d1490724-a079-44e5-8825-8dd00346b66a
+TC: Full time ET: Full time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: survey
+** bad word: equity
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

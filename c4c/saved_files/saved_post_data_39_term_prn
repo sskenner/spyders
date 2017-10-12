@@ -1,0 +1,1780 @@
+(venv) arias-Air:c4c nimda$ python3 2c4cQueryNoBadWordsCheck.py
+**** ROOT: ppslrswmo ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: prepnow ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: primary-2 ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+Primary - Infrastructure Engineer
+>>>> https://jobs.lever.co/primary-2/48255d87-be1e-4b87-a8d1-36bd15f9be42
+TC: Full Time ET: Full Time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Primary - Product Engineer
+>>>> https://jobs.lever.co/primary-2/be1a4a9b-488b-4d00-9c7e-d5e275e6a12e
+TC: Full Time ET: Full Time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Primary - Product Engineer
+>>>> https://jobs.lever.co/primary-2/be1a4a9b-488b-4d00-9c7e-d5e275e6a12e/apply
+TC: Full Time ET: Full Time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Primary
+>>>> https://jobs.lever.co/primary-2
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+XXXX 4 Listings Posted XXXX
+**** ROOT: privatewealthsystems ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Private Wealth Systems - Software Engineers
+>>>> https://jobs.lever.co/privatewealthsystems/13cf5a12-9f59-4297-a2c7-6c42556bbab3
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - Software Engineers - Lever
+>>>> https://jobs.lever.co/privatewealthsystems/13cf5a12-9f59-4297-a2c7-6c42556bbab3/apply
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - Lever
+>>>> https://jobs.lever.co/privatewealthsystems
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - Lever
+>>>> https://jobs.lever.co/privatewealthsystems?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - Lever
+>>>> https://jobs.lever.co/privatewealthsystems?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - SQL Developers
+>>>> https://jobs.lever.co/privatewealthsystems/43fccb0f-3dbc-48c8-a55e-3d60e847f5b0
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - Telerik Developers
+>>>> https://jobs.lever.co/privatewealthsystems/8809af43-043c-42e8-bdfc-966b0474af4c
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - Front End Developers
+>>>> https://jobs.lever.co/privatewealthsystems/13ca06f9-c7b6-4e6c-b45a-722451451b84
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Private Wealth Systems - Front End Developers - Lever
+>>>> https://jobs.lever.co/privatewealthsystems/13ca06f9-c7b6-4e6c-b45a-722451451b84/apply
+TC: Full-time ET: Full-time
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+XXXX 9 Listings Posted XXXX
+**** ROOT: privitar ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+16 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+15 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+15 Listings + Empty Index
+@@@@ 15 Listings Saved @@@@
+Privitar - Software Engineer - Back end / Full stack
+>>>> https://jobs.lever.co/privitar/42acceed-6653-4ffa-a6dc-bc868cf6557c
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Software Engineer - Front end
+>>>> https://jobs.lever.co/privitar/b7ba4be8-1afa-4d8b-8d08-d297e51cf8c5
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Software Engineer - Back end / Full stack
+>>>> https://jobs.lever.co/privitar/42acceed-6653-4ffa-a6dc-bc868cf6557c/apply
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Software Engineer - Front end
+>>>> https://jobs.lever.co/privitar/b7ba4be8-1afa-4d8b-8d08-d297e51cf8c5/apply
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar
+>>>> https://jobs.lever.co/privitar
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Data Scientist
+>>>> https://jobs.lever.co/privitar/82371984-d3ea-4f9b-9985-1da55c726194
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Research Scientist
+>>>> https://jobs.lever.co/privitar/412843a1-60af-4a2f-bfed-4296dcc98a2e
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Senior Product and UX Designer
+>>>> https://jobs.lever.co/privitar/f428ba8d-1d8b-4261-bbe8-8cf739b59c8b
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Privitar - Product Manager
+>>>> https://jobs.lever.co/privitar/42abda87-9851-40a6-a4e2-79a736016d46
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Partner and Customer Marketing Manager
+>>>> https://jobs.lever.co/privitar/9e968735-aa64-4e12-803c-509a42e123ae
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Content Marketing Manager
+>>>> https://jobs.lever.co/privitar/86b74130-360c-424e-83a6-1dddd9bf53d8
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Product Marketing Manager
+>>>> https://jobs.lever.co/privitar/422792b6-3f91-4a13-a3d9-900410165699
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Inside Sales Executive
+>>>> https://jobs.lever.co/privitar/10c71aac-80ce-4bee-88c1-e09c5c46cb6c
+TC: Full-time ET: Full-time
+London
+## slept ##
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+Privitar - Solutions Architect
+>>>> https://jobs.lever.co/privitar/8245cdc1-bc12-4e49-9cc2-8e94c7362b2c
+TC: Full-time ET: Full-time
+London
+country: United Kingdom coords 51.5073509 -0.1277583
+*********************************************
+<Response [200]>
+XXXX 14 Listings Posted XXXX
+**** ROOT: projectyx ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Project YX - Software Engineer, Full Stack
+>>>> https://jobs.lever.co/projectyx/5efbcc15-8a84-459e-8304-97d03233bea8
+TC: Full-time ET: Full-time
+Santa Cruz, CA
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Project YX - Software Engineer, Full Stack
+>>>> https://jobs.lever.co/projectyx/5efbcc15-8a84-459e-8304-97d03233bea8/apply
+TC: Full-time ET: Full-time
+Santa Cruz, CA
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Project YX
+>>>> https://jobs.lever.co/projectyx?by=location&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Project YX
+>>>> https://jobs.lever.co/projectyx?location=Santa%20Cruz%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Project YX
+>>>> https://jobs.lever.co/projectyx?by=commitment&team=Technology
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Project YX
+>>>> https://jobs.lever.co/projectyx?by=location&location=Santa%20Cruz%2C%20CA
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+Project YX
+>>>> https://jobs.lever.co/projectyx?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 36.9741171 -122.0307963
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: propanestudio ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+1 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+1 Listings + Empty Index
+@@@@ 1 Listings Saved @@@@
+Propane - Client Manager
+>>>> https://jobs.lever.co/propanestudio/c7e44977-d618-40a9-8d83-3fcab24b81d7
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 1 Listings Posted XXXX
+**** ROOT: prosperworks ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+14 Listings + Empty Index
+@@@@ 14 Listings Saved @@@@
+ProsperWorks - Front End Engineer
+>>>> https://jobs.lever.co/prosperworks/5e35cd6e-d0b5-4d47-b937-5c6011f2c76f
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Infrastructure Engineer
+>>>> https://jobs.lever.co/prosperworks/1f23fb9d-36eb-446a-9f18-3a9174781c63
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Server Engineer
+>>>> https://jobs.lever.co/prosperworks/7a3022cc-50c1-4a34-97ef-98721903f182
+TC: Full Time ET: Full Time
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Operations Engineer
+>>>> https://jobs.lever.co/prosperworks/16123aa6-87ce-4f4f-8df9-8767fd77e471
+TC: Full Time ET: Full Time
+San Francisco, CA
+## slept ##
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Operations Engineer
+>>>> https://jobs.lever.co/prosperworks/16123aa6-87ce-4f4f-8df9-8767fd77e471/apply
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Server Engineer
+>>>> https://jobs.lever.co/prosperworks/7a3022cc-50c1-4a34-97ef-98721903f182/apply
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Front End Engineer
+>>>> https://jobs.lever.co/prosperworks/5e35cd6e-d0b5-4d47-b937-5c6011f2c76f/apply
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Infrastructure Engineer
+>>>> https://jobs.lever.co/prosperworks/1f23fb9d-36eb-446a-9f18-3a9174781c63/apply
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks
+>>>> https://jobs.lever.co/prosperworks
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks
+>>>> https://jobs.lever.co/prosperworks?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Technical Recruiter
+>>>> https://jobs.lever.co/prosperworks/f8137ecb-d2fb-4d3a-9f6e-9138d8ffae56
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Product Manager
+>>>> https://jobs.lever.co/prosperworks/14853159-201d-4cdb-acb3-0086bfc83c8e
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Sr. Product Designer
+>>>> https://jobs.lever.co/prosperworks/953f5837-6c32-4f56-b17d-1e9111e799dc
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+ProsperWorks - Onboarding Project Manager
+>>>> https://jobs.lever.co/prosperworks/3d5f6835-c740-4e6f-b9ad-f16becfb4696
+TC: Full Time ET: Full Time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 14 Listings Posted XXXX
+**** ROOT: protocol ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+11 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+11 Listings + Empty Index
+@@@@ 11 Listings Saved @@@@
+Protocol Labs - Software Engineer, Distributed Systems
+>>>> https://jobs.lever.co/protocol/50de30a8-289f-49e5-93ad-9967e1941c12
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - Software Engineer, Frontend
+>>>> https://jobs.lever.co/protocol/362ae2fd-24a5-49cf-b19c-6d98aa43556a
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - System Operations Engineer
+>>>> https://jobs.lever.co/protocol/a8640ecf-4b1a-490a-bf94-b205059cfe38
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - Software Engineer, Frontend
+>>>> https://jobs.lever.co/protocol/362ae2fd-24a5-49cf-b19c-6d98aa43556a/apply
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - Software Engineer, Cryptographic Systems
+>>>> https://jobs.lever.co/protocol/9afbc1c9-8b3b-4c03-856d-6b0cb5518eaa
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - Software Engineer, Distributed Systems
+>>>> https://jobs.lever.co/protocol/50de30a8-289f-49e5-93ad-9967e1941c12/apply
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - System Operations Engineer
+>>>> https://jobs.lever.co/protocol/a8640ecf-4b1a-490a-bf94-b205059cfe38/apply
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs
+>>>> https://jobs.lever.co/protocol
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - Open Source Product Manager
+>>>> https://jobs.lever.co/protocol/93815a61-b606-428b-8f00-37f2374bcaf6
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - User Experience Designer
+>>>> https://jobs.lever.co/protocol/d8db6f8d-f8f8-44a9-bba1-56b1dc84d492
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+Protocol Labs - Open Source Project Manager
+>>>> https://jobs.lever.co/protocol/ade15930-e3b2-4556-b8a2-1d40bcfe178c
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+*********************************************
+<Response [200]>
+XXXX 11 Listings Posted XXXX
+**** ROOT: protrials ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: publicprep ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: pulsedata ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+pulseData - Full Stack Software Engineer
+>>>> https://jobs.lever.co/pulsedata/b23f46aa-86f2-45da-85d2-54bf86e56a9d
+TC: Full-time ET: Full-time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData - Full Stack Software Engineer
+>>>> https://jobs.lever.co/pulsedata/b23f46aa-86f2-45da-85d2-54bf86e56a9d/apply
+TC: Full-time ET: Full-time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData - Data Science Engineer
+>>>> https://jobs.lever.co/pulsedata/8119b992-e5e1-4d69-b453-6a6b04bebacb
+TC: Full-time ET: Full-time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData
+>>>> https://jobs.lever.co/pulsedata
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData
+>>>> https://jobs.lever.co/pulsedata?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData
+>>>> https://jobs.lever.co/pulsedata?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData
+>>>> https://jobs.lever.co/pulsedata?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData
+>>>> https://jobs.lever.co/pulsedata?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData
+>>>> https://jobs.lever.co/pulsedata?by=location&location=NYC
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+pulseData - Sales Director
+>>>> https://jobs.lever.co/pulsedata/da0ec480-76a1-4ff2-a804-5b703c60bde1
+TC: Full-time ET: Full-time
+NYC
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+XXXX 10 Listings Posted XXXX
+**** ROOT: pulsra ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+4 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+4 Listings + Empty Index
+@@@@ 4 Listings Saved @@@@
+Pulsra - Machine Intelligence Engineer
+>>>> https://jobs.lever.co/pulsra/b1b5944e-5434-48ee-8cd3-d63b5eb950fc
+TC: Full-time ET: Full-time
+Mountain View, CA
+## slept ##
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Pulsra - Machine Intelligence Engineer
+>>>> https://jobs.lever.co/pulsra/b1b5944e-5434-48ee-8cd3-d63b5eb950fc/apply
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Pulsra
+>>>> https://jobs.lever.co/pulsra
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+XXXX 3 Listings Posted XXXX
+**** ROOT: qadium.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Qadium - Test Automation Engineer
+>>>> https://jobs.lever.co/qadium.com/57119bf6-ba8c-4130-b40f-aa533334b2a4
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Qadium - Sales Engineer
+>>>> https://jobs.lever.co/qadium.com/3eb6c781-e56a-453c-8f43-aceb35e0af11
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Qadium - Full Stack Engineer
+>>>> https://jobs.lever.co/qadium.com/1a421322-16d1-417f-b021-898e739d47df
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Qadium
+>>>> https://jobs.lever.co/qadium.com
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Qadium - Test Automation Engineer
+>>>> https://jobs.lever.co/qadium.com/57119bf6-ba8c-4130-b40f-aa533334b2a4/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Qadium - Technical Product Manager
+>>>> https://jobs.lever.co/qadium.com/741aa73d-7d01-45c8-98ed-eb010f736685
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Qadium - USG Technical Deployment Manager - SF
+>>>> https://jobs.lever.co/qadium.com/164d415a-ff73-4c75-b216-7aafd010b391
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 7 Listings Posted XXXX
+**** ROOT: quartet ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+21 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+14 Listings + Empty Index
+@@@@ 14 Listings Saved @@@@
+Quartet - Senior Machine Learning Engineer, Intelligence Services
+>>>> https://jobs.lever.co/quartet/aa897c8f-9d14-43ff-8d07-797277df85e8
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Data Platform Engineer
+>>>> https://jobs.lever.co/quartet/7ceb88e4-f02b-4675-b29f-5e1d1f295d12
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Core Platform Engineer
+>>>> https://jobs.lever.co/quartet/f37e696f-96f8-4d8a-8b03-637a36341a7b
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Senior Machine Learning Engineer, Intelligence Services
+>>>> https://jobs.lever.co/quartet/aa897c8f-9d14-43ff-8d07-797277df85e8/apply
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet
+>>>> https://jobs.lever.co/quartet
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Senior Product Manager, Platform
+>>>> https://jobs.lever.co/quartet/96f887d3-6221-4b1b-9dc0-03f5951ebfdf
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Senior Product Manager, Primary Care Provider
+>>>> https://jobs.lever.co/quartet/db479919-7f2a-449e-b67f-83747eb6e69f
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Data Scientist, Data Integration Specialist
+>>>> https://jobs.lever.co/quartet/11d1c79a-2457-459e-9e8c-fe4dbecade0d
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Senior Technical Recruiting Manager
+>>>> https://jobs.lever.co/quartet/48b5725c-8d2f-417b-aee3-edfa911f53a7
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Quartet - Senior Product Manager, Electronic Medical Records
+>>>> https://jobs.lever.co/quartet/19c1c180-01fc-40d1-b12c-3cc5842c6900
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Community Specialist (Mandarin Speaking)
+>>>> https://jobs.lever.co/quartet/5aa33834-28bb-427a-a8fe-2bbadb315ab0
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+Quartet - Recruiting Operations Coordinator
+>>>> https://jobs.lever.co/quartet/404f3422-c881-44c6-a673-23cfa6ad4b39
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 12 Listings Posted XXXX
+**** ROOT: quartethealth ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+1 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+1 Listings + Empty Index
+@@@@ 1 Listings Saved @@@@
+HTTP Error 404: Not Found
+XXXX 0 Listings Posted XXXX
+**** ROOT: qubole ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+57 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+56 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+56 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+57 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+42 CSE Query Results
+<<<< CSE Query Loop >>>>
+51 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+42 Listings + Empty Index
+@@@@ 42 Listings Saved @@@@
+Qubole - Big Data Sustenance Engineer
+>>>> https://jobs.lever.co/qubole/f3c270e0-1391-4820-8a11-0457746a1760
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Site Operations Engineer
+>>>> https://jobs.lever.co/qubole/acbc2963-65cb-4ccd-b284-123ce0e43c31
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Sr. Technical Support Engineer
+>>>> https://jobs.lever.co/qubole/5341b08d-8a08-4c53-8721-16c62a685d6a
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Front End Engineer - Bangalore, India
+>>>> https://jobs.lever.co/qubole/7ed61220-25ff-467f-a9e5-4748b6b23a03
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Customer Success Engineer
+>>>> https://jobs.lever.co/qubole/d137e14a-321e-4a57-b88c-f4dc39ee9cc1
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Test Automation Engineer
+>>>> https://jobs.lever.co/qubole/1351a450-9d34-4d7b-a4be-55b9bac3af4b
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Distributed Systems and DB Internals Engineer
+>>>> https://jobs.lever.co/qubole/54564b56-a898-468d-9552-28893eeecfe7
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Distributed Systems Engineer - Cloud Platforms
+>>>> https://jobs.lever.co/qubole/451737ee-7e19-4fa2-b837-87c8cee0079c
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - DevOps Engineer
+>>>> https://jobs.lever.co/qubole/8fb0cdd6-7544-48e2-b719-eba10f25d61b
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Tools Engineer
+>>>> https://jobs.lever.co/qubole/dfb0c5dc-705a-4512-a042-50232e1139ad
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Test Engineer - Big Data and Distributed Systems
+>>>> https://jobs.lever.co/qubole/6f3fe407-c4ae-4232-9a1a-c20b419dd807
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Big Data Support Engineer - Bangalore, India
+>>>> https://jobs.lever.co/qubole/a33deaed-26cf-48e0-bdd0-9739ce959b7f
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Platform/Web Services Engineer
+>>>> https://jobs.lever.co/qubole/5ab097e2-45f8-4e7f-96d5-2c0a1bc0cf66
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Test Engineer -Zeppelin- Bangalore, India
+>>>> https://jobs.lever.co/qubole/f25e4e15-5e03-4202-9cb7-afe9ad2ac288
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Test Engineer - Frontend - Bangalore, India
+>>>> https://jobs.lever.co/qubole/fc2d0c10-f290-4539-b818-286de5562f82
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Cloud Security Engineer
+>>>> https://jobs.lever.co/qubole/d22b8733-92e5-4d4d-864b-181f4a63bb2b
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Senior Business Intelligence Engineer
+>>>> https://jobs.lever.co/qubole/a714ede6-f6aa-4b16-89d4-dc423a4b531f
+TC: Full-time ET: Full-time
+Santa Clara, CA
+## slept ##
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - DevOps Engineer
+>>>> https://jobs.lever.co/qubole/8fb0cdd6-7544-48e2-b719-eba10f25d61b/apply
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Big Data Sustenance Engineer
+>>>> https://jobs.lever.co/qubole/f3c270e0-1391-4820-8a11-0457746a1760/apply
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Tools Engineer
+>>>> https://jobs.lever.co/qubole/dfb0c5dc-705a-4512-a042-50232e1139ad/apply
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Cloud Security Engineer
+>>>> https://jobs.lever.co/qubole/d22b8733-92e5-4d4d-864b-181f4a63bb2b/apply
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Test Engineer - Frontend - Bangalore, India
+>>>> https://jobs.lever.co/qubole/fc2d0c10-f290-4539-b818-286de5562f82/apply
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Platform/Web Services Engineer
+>>>> https://jobs.lever.co/qubole/5ab097e2-45f8-4e7f-96d5-2c0a1bc0cf66/apply
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Customer Success Engineer
+>>>> https://jobs.lever.co/qubole/d137e14a-321e-4a57-b88c-f4dc39ee9cc1/apply
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Test Engineer - Big Data and Distributed Systems
+>>>> https://jobs.lever.co/qubole/6f3fe407-c4ae-4232-9a1a-c20b419dd807/apply
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Qubole - Qubole Engineering Intern
+>>>> https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c
+TC: Intern ET: Intern
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Security Project Manager
+>>>> https://jobs.lever.co/qubole/c5647c01-a363-40fb-ad17-ccf78bdcee3d
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+Qubole - Spark Developer
+>>>> https://jobs.lever.co/qubole/880f2bc9-ec47-4706-a9eb-a1bb25a82411
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Technical Writer - Bangalore, India
+>>>> https://jobs.lever.co/qubole/6d26863a-d9d7-4afd-9448-432c42ac61f4
+TC: Full-time ET: Full-time
+Bangalore
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Bangalore&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Technical Lead - SaaS Platforms
+>>>> https://jobs.lever.co/qubole/8e0806d7-4a83-494b-b375-65089e4dfc0e
+TC: Full-time ET: Full-time
+Bangalore
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Bangalore&sensor=false&bounds=&region=&language=&components=
+country: India coords 12.9715987 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Product UX Designer
+>>>> https://jobs.lever.co/qubole/36817e2c-5bd5-462a-aa98-e0789fcc91cd
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Security Compliance Specialist
+>>>> https://jobs.lever.co/qubole/050175a5-7147-44e6-9e91-97f56bd5e660
+TC: Full-time ET: Full-time
+Santa Clara, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Santa+Clara%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: United States coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Cloud Service Product Manager
+>>>> https://jobs.lever.co/qubole/37db38b3-6e9a-48fc-a9ae-19c5cfdaab56
+TC: Full-time ET: Full-time
+Santa Clara, CA
+## slept ##
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Solutions Architect
+>>>> https://jobs.lever.co/qubole/bf0fa725-d2c0-4543-8786-991f41dbf2b2
+TC: Full-time ET: Full-time
+Singapore
+## slept ##
+country: Singapore coords 1.352083 103.819836
+*********************************************
+<Response [200]>
+Qubole - Technical Sourcer (Contract)
+>>>> https://jobs.lever.co/qubole/b0bfae29-7853-4045-99b3-a5a4096caaf7
+TC: Full-time ET: Full-time
+Santa Clara, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=Santa+Clara%2C+CA&sensor=false&bounds=&region=&language=&components=
+country: Singapore coords 1.352083 103.819836
+*********************************************
+<Response [200]>
+Qubole - Customer Success Manager
+>>>> https://jobs.lever.co/qubole/a3194f81-f033-4c4e-b776-041ac9d2c022
+TC: Full-time ET: Full-time
+Santa Clara, CA
+country: United States coords 37.3541079 -121.9552356
+*********************************************
+<Response [200]>
+Qubole - Technical Lead - SaaS Platforms
+>>>> https://jobs.lever.co/qubole/8e0806d7-4a83-494b-b375-65089e4dfc0e/apply
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Qubole - Regional Sales Director
+>>>> https://jobs.lever.co/qubole/c9bb1f56-6183-4fd5-8f62-f3d8c41d0e90
+TC: Full-time ET: Full-time
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+*********************************************
+<Response [200]>
+Qubole - Director of Strategic Alliances
+>>>> https://jobs.lever.co/qubole/6d14f414-7784-4597-a0fb-c34e21bf38b6
+TC: Full-time ET: Full-time
+Seattle, WA
+## slept ##
+country: United States coords 47.6062095 -122.3320708
+*********************************************
+<Response [200]>
+Qubole - BD Account Manager
+>>>> https://jobs.lever.co/qubole/ab2bbc2b-cc8c-417a-8a18-48ac923a9b4b
+TC: Full-time ET: Full-time
+Bangalore
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+XXXX 40 Listings Posted XXXX
+**** ROOT: quero... ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Listings Posted XXXX
+**** ROOT: quero.education ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+7 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+7 Listings + Empty Index
+@@@@ 7 Listings Saved @@@@
+Quero Educação - Front-End Software Engineer
+>>>> https://jobs.lever.co/quero.education/ca713b72-38b1-46f2-85fa-908745e7ddac/apply
+TC: Full-time ET: Full-time
+São José dos Campos
+## slept ##
+country: Brazil coords -23.223701 -45.9009074
+*********************************************
+<Response [200]>
+Quero Educação - Front-End Software Engineer
+>>>> https://jobs.lever.co/quero.education/ca713b72-38b1-46f2-85fa-908745e7ddac
+TC: Full-time ET: Full-time
+São José dos Campos
+country: Brazil coords -23.223701 -45.9009074
+*********************************************
+<Response [200]>
+Quero Educação - Back-End Software Engineer
+>>>> https://jobs.lever.co/quero.education/115078d0-e493-4bf9-90c2-19c20363b9bc
+TC: Full-time ET: Full-time
+São José dos Campos
+country: Brazil coords -23.223701 -45.9009074
+*********************************************
+<Response [200]>
+Quero Educação - Software Engineering Intern
+>>>> https://jobs.lever.co/quero.education/34141a81-5b45-416c-bf69-e484e042c921
+TC: Intern ET: Intern
+São José dos Campos
+country: Brazil coords -23.223701 -45.9009074
+*********************************************
+<Response [200]>
+Quero Educação
+>>>> https://jobs.lever.co/quero.education
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Brazil coords -23.223701 -45.9009074
+*********************************************
+<Response [200]>
+Quero Educação - Lever
+>>>> https://jobs.lever.co/quero.education?team=Engenharia
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Brazil coords -23.223701 -45.9009074
+*********************************************
+<Response [200]>
+Quero Educação - Lever
+>>>> https://jobs.lever.co/quero.education?location=S%C3%A3o%20Jos%C3%A9%20dos%20Campos
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: Brazil coords -23.223701 -45.9009074
+*********************************************
+<Response [200]>
+XXXX 7 Listings Posted XXXX
+**** ROOT: quickleft ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Cognizant Quick Left - Director of Engineering
+>>>> https://jobs.lever.co/quickleft/3d30f31e-be3b-4949-8275-b70317ea483e
+TC: Full-time ET: Full-time
+Boulder/Denver
+country: United States coords 39.7601821 -105.009292
+*********************************************
+<Response [200]>
+Cognizant Quick Left - Director of Engineering
+>>>> https://jobs.lever.co/quickleft/3d30f31e-be3b-4949-8275-b70317ea483e/apply
+TC: Full-time ET: Full-time
+Boulder/Denver
+country: United States coords 39.7601821 -105.009292
+*********************************************
+<Response [200]>
+Cognizant Quick Left - Lever
+>>>> https://jobs.lever.co/quickleft
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.7601821 -105.009292
+*********************************************
+<Response [200]>
+Cognizant Quick Left - Senior Front End Web Developer
+>>>> https://jobs.lever.co/quickleft/f53bae85-19cf-46fc-9b58-678b000eedb5
+TC: Full-time ET: Full-time
+Boulder/Denver
+country: United States coords 39.7601821 -105.009292
+*********************************************
+<Response [200]>
+Cognizant Quick Left
+>>>> https://jobs.lever.co/quickleft?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 39.7601821 -105.009292
+*********************************************
+<Response [200]>
+XXXX 5 Listings Posted XXXX
+**** ROOT: quri ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+27 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+14 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+14 Listings + Empty Index
+@@@@ 14 Listings Saved @@@@
+Quri - Senior Back-End Engineer
+>>>> https://jobs.lever.co/quri/868cd237-6efb-4647-8b10-de30c99ccfe7
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri - Front End Engineer
+>>>> https://jobs.lever.co/quri/4a5207d2-edd2-4507-a96b-9fd21e7e5f69
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri - Senior Front End Engineer
+>>>> https://jobs.lever.co/quri/ddc9a148-779b-4240-a843-b8983dd32cfa
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri - Front End Engineer
+>>>> https://jobs.lever.co/quri/4a5207d2-edd2-4507-a96b-9fd21e7e5f69/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri - Senior Front End Engineer
+>>>> https://jobs.lever.co/quri/ddc9a148-779b-4240-a843-b8983dd32cfa/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri/?by=location&location=San%20Francisco
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri/?by=commitment&commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri/?by=location&team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri - Sr. Product Manager- Enterprise Saas
+>>>> https://jobs.lever.co/quri/d6fe185c-df64-42ef-86f0-b58d19c8a8c0
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri/?by=location&location=Dallas
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri/?by=commitment&team=Client%20Services
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri/?by=location&team=Product
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Quri
+>>>> https://jobs.lever.co/quri/?by=location&team=Sales
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+XXXX 14 Listings Posted XXXX
+**** ROOT: qventus ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+19 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+16 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+16 Listings + Empty Index
+@@@@ 16 Listings Saved @@@@
+Qventus - DevOps Engineer
+>>>> https://jobs.lever.co/qventus/94f69472-7595-4264-b45a-390dade93cc6
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Front End Engineer
+>>>> https://jobs.lever.co/qventus/ccfc7930-da8a-413a-b29b-b4d9f1f67ca3
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Mobile App Engineer
+>>>> https://jobs.lever.co/qventus/3797cf0c-e4a4-4211-b36f-c6c3fd62247a
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Backend Engineer
+>>>> https://jobs.lever.co/qventus/55e71858-99e8-4998-a4f1-acabe9bc7661
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Backend Engineer
+>>>> https://jobs.lever.co/qventus/55e71858-99e8-4998-a4f1-acabe9bc7661/apply
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Full Stack Engineer
+>>>> https://jobs.lever.co/qventus/93033b74-bad1-48de-abf0-40aa03904fe1/apply
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Front End Engineer
+>>>> https://jobs.lever.co/qventus/ccfc7930-da8a-413a-b29b-b4d9f1f67ca3/apply
+TC: Full-time ET: Full-time
+Mountain View, CA
+## slept ##
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus
+>>>> https://jobs.lever.co/qventus
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus
+>>>> https://jobs.lever.co/qventus?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Customer Success Manager
+>>>> https://jobs.lever.co/qventus/c2daa819-8783-4196-a336-1df03c0cd3d5
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Product Designer
+>>>> https://jobs.lever.co/qventus/1dd55305-c70e-4f22-8da3-94cc824f4986
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Product Manager, Machine Learning & Data Products
+>>>> https://jobs.lever.co/qventus/71c0dca6-652c-4e70-8e5b-859e4ebcdbaf
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Customer Success Analyst
+>>>> https://jobs.lever.co/qventus/92a975dc-e205-4287-b7ee-517ee4038a9a
+TC: Full-time ET: Full-time
+Mountain View, CA
+## slept ##
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Technical Recruiter
+>>>> https://jobs.lever.co/qventus/ba4fde67-62e6-4ff5-b237-13a68110c116
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Data Scientist
+>>>> https://jobs.lever.co/qventus/398420f8-e48e-4376-8170-1cc19aa57d85
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+Qventus - Data Scientist
+>>>> https://jobs.lever.co/qventus/398420f8-e48e-4376-8170-1cc19aa57d85/apply?lever-origin=applied&lever-source%5B%5D=AngelList
+TC: Full-time ET: Full-time
+Mountain View, CA
+country: United States coords 37.3860517 -122.0838511
+*********************************************
+<Response [200]>
+XXXX 16 Listings Posted XXXX
+**** ROOT: qxbranch ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+16 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+16 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+16 Listings + Empty Index
+@@@@ 16 Listings Saved @@@@
+QxBranch - Software Engineer
+>>>> https://jobs.lever.co/qxbranch/80931ad1-149b-4d22-abae-62b97a4612cb
+TC: Full-time ET: Full-time
+Washington, DC or Adelaide
+country: United States coords 38.9266024 -77.0148353
+*********************************************
+<Response [200]>
+QxBranch - Software Engineer - Lever
+>>>> https://jobs.lever.co/qxbranch/80931ad1-149b-4d22-abae-62b97a4612cb/apply
+TC: Full-time ET: Full-time
+Washington, DC or Adelaide
+country: United States coords 38.9266024 -77.0148353
+*********************************************
+<Response [200]>
+QxBranch - Senior Systems Engineer
+>>>> https://jobs.lever.co/qxbranch/4fafcb95-5a64-4637-aef8-b2455ca6ebfd/apply
+TC: Full-time ET: Full-time
+Washington, DC
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch - Cyber Security Engineer / Analyst - Lever
+>>>> https://jobs.lever.co/qxbranch/45b8fbf8-7475-479b-b62a-ad8776c9741d/apply
+TC: Full-time ET: Full-time
+DC, NYC, or London
+country: United States coords 40.7475123 -74.00323039999999
+*********************************************
+<Response [200]>
+QxBranch
+>>>> https://jobs.lever.co/qxbranch
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7475123 -74.00323039999999
+*********************************************
+<Response [200]>
+QxBranch - Lever
+>>>> https://jobs.lever.co/qxbranch?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7475123 -74.00323039999999
+*********************************************
+<Response [200]>
+QxBranch - Vice President, Analytic Sales
+>>>> https://jobs.lever.co/qxbranch/3f3d3da8-da13-47bc-a842-2363f0511db5
+TC: Full-time ET: Full-time
+Washington, DC
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch - Do we need you and not know it?
+>>>> https://jobs.lever.co/qxbranch/eda4c664-36a6-411f-993a-c0593b7374b4
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch - Lever
+>>>> https://jobs.lever.co/qxbranch?team=Software%20Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch - Lever
+>>>> https://jobs.lever.co/qxbranch?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch - Lever
+>>>> https://jobs.lever.co/qxbranch?location=Washington%2C%20DC
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+QxBranch - Lever
+>>>> https://jobs.lever.co/qxbranch?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch
+>>>> https://jobs.lever.co/qxbranch?team=Advanced%20Data%20Analytics
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch
+>>>> https://jobs.lever.co/qxbranch?commitment=Part-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+QxBranch
+>>>> https://jobs.lever.co/qxbranch?location=&commitment=Intern&team=Advanced%20Data%20Analytics
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 38.9071923 -77.0368707
+*********************************************
+<Response [200]>
+XXXX 15 Listings Posted XXXX
+(venv) arias-Air:c4c nimda$

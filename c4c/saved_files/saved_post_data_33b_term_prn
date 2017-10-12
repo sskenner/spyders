@@ -1,0 +1,1354 @@
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: lightstep ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: limebike ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+12 CSE Query Results
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+LimeBike - Software Engineer, Web Frontend
+>>>> https://jobs.lever.co/limebike/c56a18df-06bc-4e92-b715-bb1b3f3b188d
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+LimeBike - Software Engineer, iOS
+>>>> https://jobs.lever.co/limebike/a8ecec21-dbcd-4e8f-8065-d79e1f86ba74
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+LimeBike - Software Engineer, Android
+>>>> https://jobs.lever.co/limebike/2409ebe2-f600-4394-aa64-f99a1c508477
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+LimeBike - Software Engineer, Full-stack
+>>>> https://jobs.lever.co/limebike/5f4a88d2-b63f-4d8c-81cd-31dc82cccbb4
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+*********************************************
+<Response [200]>
+LimeBike - Software Engineer, Web Frontend
+>>>> https://jobs.lever.co/limebike/c56a18df-06bc-4e92-b715-bb1b3f3b188d/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+** bad word: ____________________________________________________________
+*********************************************
+LimeBike - Software Engineer, Full-stack
+>>>> https://jobs.lever.co/limebike/5f4a88d2-b63f-4d8c-81cd-31dc82cccbb4/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+** bad word: ____________________________________________________________
+*********************************************
+LimeBike - Software Engineer, iOS
+>>>> https://jobs.lever.co/limebike/a8ecec21-dbcd-4e8f-8065-d79e1f86ba74/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+** bad word: ____________________________________________________________
+*********************************************
+LimeBike - Software Engineer, Android
+>>>> https://jobs.lever.co/limebike/2409ebe2-f600-4394-aa64-f99a1c508477/apply
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+** bad word: ____________________________________________________________
+*********************************************
+LimeBike
+>>>> https://jobs.lever.co/limebike
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 37.5629917 -122.3255254
+** bad word: Filter by:
+*********************************************
+LimeBike - Product Marketing Manager
+>>>> https://jobs.lever.co/limebike/6595d8e5-1d4f-45e1-a0aa-063a9cb5b995
+TC: Full-time ET: Full-time
+San Mateo, CA
+country: United States coords 37.5629917 -122.3255254
+** bad word: marketing
+** bad word: local
+*********************************************
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: linuxfoundation.org ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+The Linux Foundation - Systems Engineer
+>>>> https://jobs.lever.co/linuxfoundation.org/51033c4f-3dff-43d4-a8f0-a8d171ffb829
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+** bad word: technical support
+*********************************************
+The Linux Foundation - Systems Engineer
+>>>> https://jobs.lever.co/linuxfoundation.org/51033c4f-3dff-43d4-a8f0-a8d171ffb829/apply
+TC: Full-time ET: Full-time
+Remote
+country: United States coords 43.0059455 -123.8925908
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+The Linux Foundation
+>>>> https://jobs.lever.co/linuxfoundation.org
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+** bad word: Filter by:
+*********************************************
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+The Linux Foundation - Lever
+>>>> https://jobs.lever.co/linuxfoundation.org?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 43.0059455 -123.8925908
+** bad word: Filter by:
+*********************************************
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: livelike ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+LiveLike - Lead Software Test Engineer (Virtual Reality)
+>>>> https://jobs.lever.co/livelike/1b0d7c29-b19b-44f5-aaa8-0dd5d83b92e9
+TC: Full-time ET: Full-time
+Gurgaon, India
+country: India coords 28.4594965 77.0266383
+** bad word: motivated individuals
+*********************************************
+LiveLike - Sr Software Engineer, Front End
+>>>> https://jobs.lever.co/livelike/09e1c275-0485-440b-8211-41d409baf8bb
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+LiveLike - Backend Engineer
+>>>> https://jobs.lever.co/livelike/0ca80542-b9d7-437d-8972-baf90a841b02
+TC: Full-time ET: Full-time
+Gurgaon, India
+country: India coords 28.4594965 77.0266383
+*********************************************
+<Response [200]>
+LiveLike - Backend Engineer
+>>>> https://jobs.lever.co/livelike/0ca80542-b9d7-437d-8972-baf90a841b02/apply
+TC: Full-time ET: Full-time
+Gurgaon, India
+country: India coords 28.4594965 77.0266383
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+LiveLike - Sr Software Engineer, Front End
+>>>> https://jobs.lever.co/livelike/09e1c275-0485-440b-8211-41d409baf8bb/apply
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+LiveLike - Lead Software Test Engineer (Virtual Reality)
+>>>> https://jobs.lever.co/livelike/1b0d7c29-b19b-44f5-aaa8-0dd5d83b92e9/apply
+TC: Full-time ET: Full-time
+Gurgaon, India
+country: India coords 28.4594965 77.0266383
+** bad word: survey
+** bad word: ____________________________________________________________
+*********************************************
+LiveLike
+>>>> https://jobs.lever.co/livelike
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 28.4594965 77.0266383
+** bad word: Filter by:
+*********************************************
+LiveLike - Technical Project Manager
+>>>> https://jobs.lever.co/livelike/c97eb1c2-97aa-42ef-ae92-a3e69f6f77ec
+TC: Full-time ET: Full-time
+Gurgaon, India
+country: India coords 28.4594965 77.0266383
+*********************************************
+<Response [200]>
+LiveLike - Jr. Product Manager (Virtual Reality)
+>>>> https://jobs.lever.co/livelike/3c027fde-f6c2-4dbb-adf0-eb5a058e3691
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+LiveLike - Recruiting & Office Coordinator
+>>>> https://jobs.lever.co/livelike/97db4585-7312-4fb2-9d93-299f522bf567
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+XXXX 5 Clean Listings Posted XXXX
+**** ROOT: loadsmart ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Loadsmart - Site Reliability Engineer
+>>>> https://jobs.lever.co/loadsmart/294d4e4c-e69e-4204-9082-254d621cfb51
+TC: Full-time ET: Full-time
+Florianopolis, Brazil
+country: Brazil coords -27.5948698 -48.54821949999999
+*********************************************
+<Response [200]>
+Loadsmart - Senior Python Engineer
+>>>> https://jobs.lever.co/loadsmart/ea7b05d6-419a-415e-90fd-00362619e882
+TC: Full-time ET: Full-time
+Florianopolis, Brazil
+country: Brazil coords -27.5948698 -48.54821949999999
+*********************************************
+<Response [200]>
+Loadsmart - Senior Python Engineer
+>>>> https://jobs.lever.co/loadsmart/9f93b455-fdae-4f0e-ad38-e00002142ed5/apply
+TC: Full-time ET: Full-time
+New York, NY
+country: United States coords 40.7127753 -74.0059728
+** bad word: ____________________________________________________________
+*********************************************
+Loadsmart
+>>>> https://jobs.lever.co/loadsmart
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Loadsmart - Lever
+>>>> https://jobs.lever.co/loadsmart?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Loadsmart
+>>>> https://jobs.lever.co/loadsmart?team=Engineering
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Loadsmart
+>>>> https://jobs.lever.co/loadsmart?commitment=Full-time
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Loadsmart - Lever
+>>>> https://jobs.lever.co/loadsmart?__hstc=32328097.a521cdbca362d7b4798a456db1c9d3b8.1488585600063.1488585600064.1488585600065.1&__hssc=32328097.1.1488585600066&__hsfp=528229161&location=New%20York%2C%20NY
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+Loadsmart - Lever
+>>>> https://jobs.lever.co/loadsmart?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 40.7127753 -74.0059728
+** bad word: Filter by:
+*********************************************
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: localize ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: localplantsource ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: locarta ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: locus.co ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: logistimo ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lovepopcards ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lovethe88 ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lsvp ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lumapictures ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lumiohealth.com ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lybrate ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lyft ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lyrahealth ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: magenta ****
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: localize ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+6 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+6 Listings + Empty Index
+@@@@ 6 Listings Saved @@@@
+Localize - Full-stack Engineer
+>>>> https://jobs.lever.co/localize/6f035980-9f9d-4c1b-9ee9-e3305cb325c2
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: equity
+*********************************************
+Localize - Frontend Engineer
+>>>> https://jobs.lever.co/localize/10a3fed7-b616-4cf4-ba59-61153a0e3b87/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Localize - Node.js Engineer
+>>>> https://jobs.lever.co/localize/904054d6-7a61-4ebc-99b9-8644b2424a27/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Localize - Full-stack Engineer
+>>>> https://jobs.lever.co/localize/6f035980-9f9d-4c1b-9ee9-e3305cb325c2/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Localize - Developer Evangelist
+>>>> https://jobs.lever.co/localize/5959ea7e-81a3-44b7-a5de-6707460dd818
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+** bad word: equity
+*********************************************
+Localize - Developer Evangelist
+>>>> https://jobs.lever.co/localize/5959ea7e-81a3-44b7-a5de-6707460dd818/apply
+TC: Full-time ET: Full-time
+San Francisco
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: localplantsource ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Local Plant Source, Inc.
+>>>> https://jobs.lever.co/localplantsource
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Local Plant Source, Inc. - Senior Developer
+>>>> https://jobs.lever.co/localplantsource/71d6ca67-ea35-4266-9c19-90e1779d204e
+TC: Full-time ET: Full-time
+Downtown Austin, TX
+country: United States coords 30.2729209 -97.74438630000002
+*********************************************
+<Response [200]>
+Local Plant Source, Inc. - Senior Developer - Lever
+>>>> https://jobs.lever.co/localplantsource/71d6ca67-ea35-4266-9c19-90e1779d204e/apply
+TC: Full-time ET: Full-time
+Downtown Austin, TX
+country: United States coords 30.2729209 -97.74438630000002
+** bad word: ____________________________________________________________
+*********************************************
+Local Plant Source, Inc.
+>>>> https://jobs.lever.co/localplantsource?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 30.2729209 -97.74438630000002
+** bad word: Filter by:
+*********************************************
+Local Plant Source, Inc. - Horticulturist
+>>>> https://jobs.lever.co/localplantsource/131bf881-e81f-41e0-93a4-ae3c835e367f
+TC: Full-time ET: Full-time
+Downtown Austin, TX
+country: United States coords 30.2729209 -97.74438630000002
+** bad word: volunteer
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: locarta ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+Locarta GmbH - DevOps Engineer (mid- to senior-level)
+>>>> https://jobs.lever.co/locarta/f4c2c5f7-6ad5-4dc8-9316-1c4a46097447/apply
+TC: Full-time ET: Full-time
+Berlin
+country: Germany coords 52.52000659999999 13.404954
+** bad word: ____________________________________________________________
+*********************************************
+Locarta GmbH - DevOps Engineer (mid- to senior-level)
+>>>> https://jobs.lever.co/locarta/f4c2c5f7-6ad5-4dc8-9316-1c4a46097447
+TC: Full-time ET: Full-time
+Berlin
+country: Germany coords 52.52000659999999 13.404954
+*********************************************
+<Response [200]>
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: locus.co ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+1 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+1 Listings + Empty Index
+@@@@ 1 Listings Saved @@@@
+Locus Analytics - Senior Labor Analyst
+>>>> https://jobs.lever.co/locus.co/c5c2505f-8607-4f7f-8942-1eef2e18eed1
+TC: Full-time ET: Full-time
+New York City
+country: United States coords 40.7127753 -74.0059728
+*********************************************
+<Response [200]>
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: logistimo ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+9 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+9 Listings + Empty Index
+@@@@ 9 Listings Saved @@@@
+Logistimo - Site Reliability Engineer
+>>>> https://jobs.lever.co/logistimo/95818d7c-3209-41cb-b9a9-4a3aedfc9e54
+TC: Full-time ET: Full-time
+Bengaluru, Karnataka
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Logistimo - Senior Software Engineer (Java)
+>>>> https://jobs.lever.co/logistimo/9148583c-8954-4d8e-8d3a-ed725f8e84fa
+TC: Full-time ET: Full-time
+Bengaluru, Karnataka
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Logistimo - Test Automation Engineer
+>>>> https://jobs.lever.co/logistimo/987baa3d-dd4e-4297-8bb9-a54c5f050267
+TC: Full-time ET: Full-time
+Bengaluru, Karnataka
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Logistimo - Senior Software Engineer (Java)
+>>>> https://jobs.lever.co/logistimo/9148583c-8954-4d8e-8d3a-ed725f8e84fa/apply
+TC: Full-time ET: Full-time
+Bengaluru, Karnataka
+country: India coords 12.9715987 77.5945627
+** bad word: ____________________________________________________________
+*********************************************
+Logistimo - Engineering Manager
+>>>> https://jobs.lever.co/logistimo/86b55222-fd82-4ff2-81db-b3340f722531
+TC: Full-time ET: Full-time
+Bengaluru, Karnataka
+country: India coords 12.9715987 77.5945627
+*********************************************
+<Response [200]>
+Logistimo
+>>>> https://jobs.lever.co/logistimo
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 12.9715987 77.5945627
+** bad word: Filter by:
+*********************************************
+Logistimo - Engineering Manager
+>>>> https://jobs.lever.co/logistimo/86b55222-fd82-4ff2-81db-b3340f722531/apply
+TC: Full-time ET: Full-time
+Bengaluru, Karnataka
+country: India coords 12.9715987 77.5945627
+** bad word: ____________________________________________________________
+*********************************************
+Logistimo - Lever
+>>>> https://jobs.lever.co/logistimo?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 12.9715987 77.5945627
+** bad word: Filter by:
+*********************************************
+Logistimo - Lever
+>>>> https://jobs.lever.co/logistimo?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 12.9715987 77.5945627
+** bad word: Filter by:
+*********************************************
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: lovepopcards ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Lovepop - Front End / Full-Stack Engineer
+>>>> https://jobs.lever.co/lovepopcards/d3966357-1acf-4c1d-9059-541c2b3fc8bf
+TC: Full-time ET: Full-time
+Boston
+country: United States coords 42.3600825 -71.0588801
+** bad word: marketing
+** bad word: looking for a job
+*********************************************
+HTTP Error 404: Not Found
+HTTP Error 404: Not Found
+Lovepop - Front End / Full-Stack Engineer
+>>>> https://jobs.lever.co/lovepopcards/d3966357-1acf-4c1d-9059-541c2b3fc8bf/apply?lever-source=BuiltInBoston
+TC: Full-time ET: Full-time
+Boston
+country: United States coords 42.3600825 -71.0588801
+** bad word: ____________________________________________________________
+*********************************************
+Lovepop
+>>>> https://jobs.lever.co/lovepopcards
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: United States coords 42.3600825 -71.0588801
+** bad word: Filter by:
+*********************************************
+Lovepop - Senior 3D Designer
+>>>> https://jobs.lever.co/lovepopcards/0810318f-5fdb-4c20-926a-888afae14625
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+** bad word: weekly
+*********************************************
+Lovepop - Senior User Experience & Interface Designer
+>>>> https://jobs.lever.co/lovepopcards/b8a4bc56-db11-4e74-b290-dbde9a4d5cf3
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Lovepop - Business Operations Manager
+>>>> https://jobs.lever.co/lovepopcards/7ee8a215-6499-4990-ab06-de5842931403
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+** bad word: marketing
+** bad word: partner
+*********************************************
+Lovepop - Executive Assistant
+>>>> https://jobs.lever.co/lovepopcards/7ad14cb1-3b1b-4b6b-b4a4-ad119c0ce25f
+TC: Full-time ET: Full-time
+Boston
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+HTTP Error 404: Not Found
+XXXX 2 Clean Listings Posted XXXX
+**** ROOT: lovethe88 ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+0 Listings + Empty Index
+@@@@ 0 Listings Saved @@@@
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lsvp ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+5 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+5 Listings + Empty Index
+@@@@ 5 Listings Saved @@@@
+Lightspeed Venture Partners - Engineer - Lever
+>>>> https://jobs.lever.co/lsvp/c4b06037-7145-4b5b-b222-7222907857a2
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+*********************************************
+<Response [200]>
+Lightspeed Venture Partners - Engineer - Lever
+>>>> https://jobs.lever.co/lsvp/c4b06037-7145-4b5b-b222-7222907857a2/apply
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Lightspeed Venture Partners - Lever
+>>>> https://jobs.lever.co/lsvp?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Lightspeed Venture Partners
+>>>> https://jobs.lever.co/lsvp
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+Lightspeed Venture Partners - Lever
+>>>> https://jobs.lever.co/lsvp?commitment=
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+XXXX 1 Clean Listings Posted XXXX
+**** ROOT: lumapictures ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+2 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+2 Listings + Empty Index
+@@@@ 2 Listings Saved @@@@
+HTTP Error 404: Not Found
+Luma Pictures - Lever
+>>>> https://jobs.lever.co/lumapictures?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+** bad word: Filter by:
+*********************************************
+XXXX 0 Clean Listings Posted XXXX
+**** ROOT: lumiohealth.com ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+8 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+8 Listings + Empty Index
+@@@@ 8 Listings Saved @@@@
+Confer Health - Junior Mechanical Engineer
+>>>> https://jobs.lever.co/lumiohealth.com/2d285f3d-34e6-4884-805e-3af534eb4f13
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Confer Health - Senior Mechanical Engineer - Lever
+>>>> https://jobs.lever.co/lumiohealth.com/daaa623c-02c3-47b7-923a-fd177fbe12f5?lever-source=VentureFizz
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Confer Health - Junior Mechanical Engineer
+>>>> https://jobs.lever.co/lumiohealth.com/2d285f3d-34e6-4884-805e-3af534eb4f13/apply
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+** bad word: ____________________________________________________________
+*********************************************
+Confer Health - Senior Mechanical Engineer - Lever
+>>>> https://jobs.lever.co/lumiohealth.com/daaa623c-02c3-47b7-923a-fd177fbe12f5/apply
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+** bad word: ____________________________________________________________
+*********************************************
+Confer Health - Clinical Research Coordinator
+>>>> https://jobs.lever.co/lumiohealth.com/05f0eed2-3ea8-477b-9524-e46b9083213f/apply
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+** bad word: ____________________________________________________________
+*********************************************
+Confer Health - Clinical Research Coordinator
+>>>> https://jobs.lever.co/lumiohealth.com/05f0eed2-3ea8-477b-9524-e46b9083213f
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+** bad word: local
+*********************************************
+Confer Health - Clinical Research Intern
+>>>> https://jobs.lever.co/lumiohealth.com/6d1e5423-4523-4f1a-a65b-80b59e8c7dc7
+TC: Intern ET: Intern
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+Confer Health - Senior Scientist
+>>>> https://jobs.lever.co/lumiohealth.com/aef83926-6ea2-42cd-a237-ae9ceeb8664d
+TC: Full-time ET: Full-time
+Boston, MA
+country: United States coords 42.3600825 -71.0588801
+*********************************************
+<Response [200]>
+XXXX 4 Clean Listings Posted XXXX
+**** ROOT: lybrate ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+10 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+0 CSE Query Results
+@@@@ NO CSE QUERY RESULTS @@@@
+10 Listings + Empty Index
+@@@@ 10 Listings Saved @@@@
+Lybrate - DevOps Engineer
+>>>> https://jobs.lever.co/lybrate/ebda7ef6-85c8-4a10-a9ed-0d72035bb34a
+TC: Full-time ET: Full-time
+Delhi/NCR (Delhi-Faridabad Border)
+country: India coords 28.4932148 77.303001
+*********************************************
+<Response [200]>
+Lybrate - Machine Learning Engineer
+>>>> https://jobs.lever.co/lybrate/3412bdcc-0809-404d-8f63-82b3be10f39e
+TC: Full Time ET: Full Time
+Delhi/NCR (Delhi-Faridabad Border)
+country: India coords 28.4932148 77.303001
+*********************************************
+<Response [200]>
+Lybrate - DevOps Engineer
+>>>> https://jobs.lever.co/lybrate/ebda7ef6-85c8-4a10-a9ed-0d72035bb34a/apply
+TC: Full-time ET: Full-time
+Delhi/NCR (Delhi-Faridabad Border)
+country: India coords 28.4932148 77.303001
+** bad word: ____________________________________________________________
+*********************************************
+Lybrate - Machine Learning Engineer
+>>>> https://jobs.lever.co/lybrate/3412bdcc-0809-404d-8f63-82b3be10f39e/apply
+TC: Full Time ET: Full Time
+Delhi/NCR (Delhi-Faridabad Border)
+country: India coords 28.4932148 77.303001
+** bad word: ____________________________________________________________
+*********************************************
+Lybrate - Software Engineer, Java - Lever
+>>>> https://jobs.lever.co/lybrate/1f7dac47-3152-4575-b696-7cf72cd252c4/apply
+TC: Full-time ET: Full-time
+Delhi/NCR (Delhi-Faridabad Border)
+country: India coords 28.4932148 77.303001
+** bad word: ____________________________________________________________
+*********************************************
+Lybrate - Lever
+>>>> https://jobs.lever.co/lybrate?by=team
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 28.4932148 77.303001
+** bad word: Filter by:
+*********************************************
+Lybrate - Lever
+>>>> https://jobs.lever.co/lybrate?by=commitment
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 28.4932148 77.303001
+** bad word: Filter by:
+*********************************************
+Lybrate - Lever
+>>>> https://jobs.lever.co/lybrate?by=location
+TC:  ET: doesnt_say
+
+## slept ##
+Error INVALID_REQUEST
+Query: https://maps.google.com/maps/api/geocode/json?address=&sensor=false&bounds=&region=&language=&components=
+country: India coords 28.4932148 77.303001
+** bad word: Filter by:
+*********************************************
+Lybrate - Product Manager
+>>>> https://jobs.lever.co/lybrate/950502a1-61da-403a-a96b-5d3a261f6376
+TC: Full-time ET: Full-time
+Delhi/NCR (Delhi-Faridabad Border)
+country: India coords 28.4932148 77.303001
+*********************************************
+<Response [200]>
+Lybrate - Recruitment Ninja
+>>>> https://jobs.lever.co/lybrate/257b6158-4935-4e90-86d9-8af993d21462
+TC: Full-time ET: Full-time
+Delhi/NCR (Delhi-Faridabad Border)
+country: India coords 28.4932148 77.303001
+** bad word: local
+*********************************************
+XXXX 3 Clean Listings Posted XXXX
+**** ROOT: lyft ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+51 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+61 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+71 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+81 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+91 CSE Start Index
+180 CSE Query Results
+100 Listings + Empty Index
+@@@@ 100 Listings Saved @@@@
+Lyft - Intern: Software Engineer 2018 (San Francisco and Seattle ...
+>>>> https://jobs.lever.co/lyft/0a792acb-8db8-47a9-a29a-6017e76a4ed2/apply
+TC: Intern ET: Intern
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Security Detection & Response
+>>>> https://jobs.lever.co/lyft/cee72f79-90ee-4c1b-9ce6-4da4818d30ad
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Unity
+>>>> https://jobs.lever.co/lyft/0be3d11e-eea9-46ef-a761-2c50934478fe
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/c40724f0-dd8b-46fc-b802-62429e193dc8
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+*********************************************
+Lyft - Business Intelligence Engineer
+>>>> https://jobs.lever.co/lyft/76a46467-011c-4a16-9d67-77b516dbaf0c
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+*********************************************
+Lyft - Datastore Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/35fc6772-e2bd-4104-bb8a-6e868524daf0
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Payments
+>>>> https://jobs.lever.co/lyft/40426121-3f36-43aa-ab37-64a7637f7df6
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Lyft - Data Engineer
+>>>> https://jobs.lever.co/lyft/e98ae531-ef40-4036-aa77-43c4d704eec1
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Financial Infrastructure
+>>>> https://jobs.lever.co/lyft/4ca5323b-58fa-4f68-9d0a-756e41b314b7
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Senior Front End Engineer
+>>>> https://jobs.lever.co/lyft/a18c1d37-4179-4b47-81f8-1ab1464ef940
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Mapping
+>>>> https://jobs.lever.co/lyft/30e71704-50ac-4122-8738-067c73f38c6e
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Lyft - Android Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/5fb6560c-0fb1-4614-b001-285197ca9c39/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior Front End Engineer
+>>>> https://jobs.lever.co/lyft/a18c1d37-4179-4b47-81f8-1ab1464ef940/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/da433c09-4e57-43fb-87f8-6cc2bf1576b3
+TC: Full-time ET: Full-time
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+** bad word: customer service
+** bad word: local
+*********************************************
+Lyft - Partner Engineer
+>>>> https://jobs.lever.co/lyft/49ac23ec-2e0a-4262-aed3-e0b9bc21197e
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: amazing opportunity
+** bad word: partner
+*********************************************
+Lyft - Software Engineer, Application Security
+>>>> https://jobs.lever.co/lyft/d76436f1-3894-4b71-8cda-1a94f62b3982
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+^Z
+[3]+  Stopped                 python3 1c4cQueryByRootGSEPost.py
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: lyft ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+51 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+61 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+71 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+81 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+91 CSE Start Index
+180 CSE Query Results
+100 Listings + Empty Index
+@@@@ 100 Listings Saved @@@@
+Lyft - Intern: Software Engineer 2018 (San Francisco and Seattle ...
+>>>> https://jobs.lever.co/lyft/0a792acb-8db8-47a9-a29a-6017e76a4ed2/apply
+TC: Intern ET: Intern
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Security Detection & Response
+>>>> https://jobs.lever.co/lyft/cee72f79-90ee-4c1b-9ce6-4da4818d30ad
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Unity
+>>>> https://jobs.lever.co/lyft/0be3d11e-eea9-46ef-a761-2c50934478fe
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/c40724f0-dd8b-46fc-b802-62429e193dc8
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+*********************************************
+Lyft - Business Intelligence Engineer
+>>>> https://jobs.lever.co/lyft/76a46467-011c-4a16-9d67-77b516dbaf0c
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+*********************************************
+Lyft - Datastore Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/35fc6772-e2bd-4104-bb8a-6e868524daf0
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Payments
+>>>> https://jobs.lever.co/lyft/40426121-3f36-43aa-ab37-64a7637f7df6
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: weekly
+*********************************************
+Lyft - Data Engineer
+>>>> https://jobs.lever.co/lyft/e98ae531-ef40-4036-aa77-43c4d704eec1
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Financial Infrastructure
+>>>> https://jobs.lever.co/lyft/4ca5323b-58fa-4f68-9d0a-756e41b314b7
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Senior Front End Engineer
+>>>> https://jobs.lever.co/lyft/a18c1d37-4179-4b47-81f8-1ab1464ef940
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Mapping
+>>>> https://jobs.lever.co/lyft/30e71704-50ac-4122-8738-067c73f38c6e
+TC: Full-time ET: Full-time
+Palo Alto, CA
+country: United States coords 37.4418834 -122.1430195
+*********************************************
+<Response [200]>
+Lyft - Android Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/5fb6560c-0fb1-4614-b001-285197ca9c39/apply
+TC: Full-time ET: Full-time
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Senior Front End Engineer
+>>>> https://jobs.lever.co/lyft/a18c1d37-4179-4b47-81f8-1ab1464ef940/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer (Seattle)
+>>>> https://jobs.lever.co/lyft/da433c09-4e57-43fb-87f8-6cc2bf1576b3
+TC: Full-time ET: Full-time
+Seattle, WA
+country: United States coords 47.6062095 -122.3320708
+** bad word: customer service
+** bad word: local
+*********************************************
+Lyft - Partner Engineer
+>>>> https://jobs.lever.co/lyft/49ac23ec-2e0a-4262-aed3-e0b9bc21197e
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: amazing opportunity
+** bad word: partner
+*********************************************
+Lyft - Software Engineer, Application Security
+>>>> https://jobs.lever.co/lyft/d76436f1-3894-4b71-8cda-1a94f62b3982
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer: Global Engineering
+>>>> https://jobs.lever.co/lyft/35fd862f-c94a-4f56-9450-e1adfb4a0dcc
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: customer service
+** bad word: local
+*********************************************
+Lyft - Software Engineer
+>>>> https://jobs.lever.co/lyft/ba0491dc-18ac-4c43-a04d-d449474a6cb4/apply
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Intern: Software Engineer 2018 - Winter (Jan-March)
+>>>> https://jobs.lever.co/lyft/6780d91d-944a-435e-b7ec-3fa3e3903493
+TC: Intern ET: Intern
+Seattle, WA
+
+^Z
+[4]+  Stopped                 python3 1c4cQueryByRootGSEPost.py
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: lyft ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+51 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+61 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+71 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+81 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+91 CSE Start Index
+180 CSE Query Results
+100 Listings + Empty Index
+@@@@ 100 Listings Saved @@@@
+Lyft - Intern: Software Engineer 2018 (San Francisco and Seattle ...
+>>>> https://jobs.lever.co/lyft/0a792acb-8db8-47a9-a29a-6017e76a4ed2/apply
+TC: Intern ET: Intern
+San Francisco, CA
+## slept ##
+Error OVER_QUERY_LIMIT
+Query: https://maps.google.com/maps/api/geocode/json?address=San+Francisco%2C+CA&sensor=false&bounds=&region=&language=&components=
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Security Detection & Response
+>>>> https://jobs.lever.co/lyft/cee72f79-90ee-4c1b-9ce6-4da4818d30ad
+TC: Full-time ET: Full-time
+San Francisco, CA
+## slept ##
+^Z
+[5]+  Stopped                 python3 1c4cQueryByRootGSEPost.py
+(venv) arias-Air:c4c nimda$ python3 1c4cQueryByRootGSEPost.py
+**** ROOT: lyft ****
+<<<< CSE Query Loop >>>>
+1 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+11 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+21 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+31 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+41 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+51 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+61 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+71 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+81 CSE Start Index
+180 CSE Query Results
+<<<< CSE Query Loop >>>>
+91 CSE Start Index
+180 CSE Query Results
+100 Listings + Empty Index
+@@@@ 100 Listings Saved @@@@
+Lyft - Intern: Software Engineer 2018 (San Francisco and Seattle ...
+>>>> https://jobs.lever.co/lyft/0a792acb-8db8-47a9-a29a-6017e76a4ed2/apply
+TC: Intern ET: Intern
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: ____________________________________________________________
+*********************************************
+Lyft - Software Engineer, Security Detection & Response
+>>>> https://jobs.lever.co/lyft/cee72f79-90ee-4c1b-9ce6-4da4818d30ad
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Software Engineer, Unity
+>>>> https://jobs.lever.co/lyft/0be3d11e-eea9-46ef-a761-2c50934478fe
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+*********************************************
+<Response [200]>
+Lyft - Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/c40724f0-dd8b-46fc-b802-62429e193dc8
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: local
+*********************************************
+Lyft - Business Intelligence Engineer
+>>>> https://jobs.lever.co/lyft/76a46467-011c-4a16-9d67-77b516dbaf0c
+TC: Full-time ET: Full-time
+San Francisco, CA
+country: United States coords 37.7749295 -122.4194155
+** bad word: marketing
+*********************************************
+Lyft - Datastore Infrastructure Engineer
+>>>> https://jobs.lever.co/lyft/35fc6772-e2bd-4104-bb8a-6e868524daf0
+TC: Full-time ET: Full-time
+San Francisco, CA
+^Z
+[6]+  Stopped                 python3 1c4cQueryByRootGSEPost.py
+(venv) arias-Air:c4c nimda$
